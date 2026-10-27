@@ -92,7 +92,10 @@ def extract(pdf):
                     cur["choices"].append(t)
                     if radio_filled(imgs[pi], b["x"] - 20.5, b["fy"]):
                         cur["selected"].append(idx)
-                else:
+                elif cur["stem"] and t.startswith(cur["stem"][-1]) and len(cur["stem"][-1]) > 20:
+                    cur["stem"][-1] = t  # a truncated first copy followed by the complete line
+                elif not cur["stem"] or not (t == cur["stem"][-1] or cur["stem"][-1].endswith(t)):
+                    # the printouts repeat the final line of some stems (accessibility text); keep one copy
                     cur["stem"].append(t)
     for q in qs:
         q["stem"] = " ".join(q["stem"]).strip()

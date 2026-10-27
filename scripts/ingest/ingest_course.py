@@ -66,7 +66,7 @@ def main(src, out):
                 "objective": qz["objective"],
                 "q": q["stem"], "choices": q["choices"],
                 "answer": ans[0] if len(ans) == 1 else ans,
-                "explanation": q["explanation"],
+                "explanation": re.sub(r"^(That's right|Correct)[!.]\s*", "", q["explanation"]),
                 "source": qz["file"].rsplit(".", 1)[0],
             })
     json.dump(questions, open(os.path.join(out, "questions.json"), "w"), indent=1, ensure_ascii=False)

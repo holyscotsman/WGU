@@ -5,6 +5,10 @@ const $logout = document.getElementById("logout");
 const esc = (s) => String(s).replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[c]);
 const DAY = 864e5;
 const BOX_DAYS = [0, 1, 3, 7, 14, 30];
+const pct = (n, d) => (d ? Math.round((n / d) * 100) : 0);
+const tone = (p) => (p >= 80 ? "ok" : p >= 60 ? "mid" : "low");
+const explain = (t) => t.replace(/^(That's right|Correct)[!.]\s*/i, "");
+const choiceHTML = (c, k, multi) => `<label class="choice" data-k="${k}"><input type="${multi ? "checkbox" : "radio"}" name="a" value="${k}"><span class="k">${"ABCDEFGH"[k]}</span><span>${esc(c)}</span></label>`;
 const asArr = (a) => (Array.isArray(a) ? a : [a]);
 const shuffle = (a) => { a = [...a]; for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; };
 
@@ -54,9 +58,15 @@ const loadCourse = (id) => (cache[id] ??= api(`/api/data?name=${encodeURICompone
 // ---------- views ----------
 async function home() {
   const courses = await api("/api/data?name=courses");
-  $app.innerHTML = `<h1>Courses</h1><div class="grid">${courses.map((c) => `
-    <a class="card" href="#/c/${c.id}" style="text-decoration:none;color:inherit"><strong>${esc(c.code ?? "")}</strong><br>${esc(c.title)}
-    <p class="muted">${c.counts.guides} guides · ${c.counts.questions} questions · ${c.counts.cards} cards</p></a>`).join("") || "<p>No courses yet.</p>"}</div>`;
+  const cardHTML = (c) => {
+    const seen = Object.keys(state.questions).filter((k) => k.startsWith(`${c.id}-`)).length;
+    const p = pct(seen, c.counts.questions);
+    return `<a class="card course" href="#/c/${c.id}"><div class="bar-top"></div><div class="body">
+      <span class="chip">${esc(c.code ?? c.id.toUpperCase())}</span><span class="t">${esc(c.title)}</span>
+      <div class="meta"><span>${c.counts.guides} guides</span><span>${c.counts.questions} questions</span>${c.counts.cards ? `<span>${c.counts.cards} cards</span>` : ""}</div>
+      <div><div class="bar ${tone(p)}"><i style="width:${p}%"></i></div><span class="muted">${p}% of questions attempted</span></div></div></a>`;
+  };
+  $app.innerHTML = `<h1>Your courses</h1><div class="grid">${courses.map(cardHTML).join("") || "<p>No courses yet.</p>"}</div>`;
 }
 
 function objStats(d) {
@@ -71,17 +81,38 @@ function objStats(d) {
 
 async function course(id) {
   const d = await loadCourse(id);
-  const due = d.cards.filter((c) => (state.cards[c.id]?.due ?? 0) <= Date.now()).length;
-  $app.innerHTML = `<p><a href="#/">← Courses</a></p><h1>${esc(d.course.title)}</h1>
-    <div class="row"><a class="btn" href="#/c/${id}/quiz">Practice quiz</a><a class="btn" href="#/c/${id}/quiz/missed">Missed questions</a>
-    ${d.cards.length ? `<a class="btn" href="#/c/${id}/cards">Flashcards (${due} due)</a>` : ""}<a class="btn secondary" href="#/c/${id}/exam">Mock exam</a><a class="btn secondary" href="#/c/${id}/game/speed">Speed round</a>${d.cards.length >= 4 ? `<a class="btn secondary" href="#/c/${id}/game/match">Term match</a>` : ""}<a class="btn secondary" href="#/c/${id}/progress">Progress</a></div>
-    <h2>Study guides</h2>${d.guides.map((g) => `<div class="card"><a href="#/c/${id}/guide/${g.id}">${esc(g.title)}</a> <span class="muted">${g.objectives.join(", ")}</span></div>`).join("") || "<p class='muted'>None yet.</p>"}`;
+  const now = Date.now();
+  const due = d.cards.filter((c) => (state.cards[c.id]?.due ?? 0) <= now).length;
+  const mine = d.questions.filter((q) => state.questions[q.id]);
+  const n = mine.reduce((a, q) => a + state.questions[q.id].n, 0), c = mine.reduce((a, q) => a + state.questions[q.id].c, 0);
+  const missed = mine.filter((q) => !state.questions[q.id].last).length;
+  const act = (href, title, sub, cls = "") => `<a class="act ${cls}" href="#/c/${id}/${href}"><b>${title}</b><small>${sub}</small></a>`;
+  const byObj = d.course.objectives.map((o) => ({ o, gs: d.guides.filter((g) => g.objectives.includes(o.id)) })).filter((x) => x.gs.length);
+  $app.innerHTML = `<a class="crumb" href="#/">← All courses</a>
+    <section class="hero"><span class="chip">${esc(d.course.code ?? "")}</span><h1>${esc(d.course.title)}</h1>
+      <div class="stats"><div><b>${n ? pct(c, n) + "%" : "n/a"}</b><span>accuracy</span></div><div><b>${mine.length}/${d.questions.length}</b><span>questions seen</span></div><div><b>${d.cards.length ? due : "n/a"}</b><span>cards due</span></div></div></section>
+    <h2>Study</h2><div class="actions">
+      ${act("quiz", "Practice quiz", "20 questions, unseen first")}
+      ${act("quiz/missed", "Missed questions", missed ? `${missed} to review` : "Nothing missed yet", missed ? "red" : "")}
+      ${d.cards.length ? act("cards", "Flashcards", `${due} due now`, "gold") : ""}
+      ${act("exam", "Mock exam", `${d.course.exam?.count ?? 50} questions, timed`, "green")}
+      ${act("progress", "Progress", "By objective")}
+    </div>
+    <h2>Games</h2><div class="actions">
+      ${act("game/speed", "Speed round", "60 seconds, build a streak", "gold")}
+      ${d.cards.length >= 4 ? act("game/match", "Term match", "Pair terms and definitions", "gold") : ""}
+    </div>
+    <h2>Study guides</h2>${byObj.map(({ o, gs }, k) => `<details class="sec"${byObj.length === 1 || k === 0 ? " open" : ""}><summary><span>${esc(o.title)}</span><span class="muted">${gs.length}</span></summary><div class="glist">${gs.map((g) => `<a href="#/c/${id}/guide/${g.id}">${esc(g.title)}</a>`).join("")}</div></details>`).join("") || "<p class='muted'>None yet.</p>"}`;
 }
 
 async function guide(id, gid) {
   const d = await loadCourse(id);
-  const g = d.guides.find((x) => x.id === gid);
-  $app.innerHTML = g ? `<p><a href="#/c/${id}">← ${esc(d.course.title)}</a></p><article class="guide">${g.html}</article>` : "<p>Guide not found.</p>";
+  const k = d.guides.findIndex((x) => x.id === gid), g = d.guides[k];
+  if (!g) { $app.innerHTML = "<p>Guide not found.</p>"; return; }
+  const prev = d.guides[k - 1], next = d.guides[k + 1];
+  $app.innerHTML = `<div class="guide-wrap"><a class="crumb" href="#/c/${id}">← ${esc(d.course.title)}</a><article class="guide">${g.html}</article>
+    <nav class="guide-nav">${prev ? `<a class="btn secondary" href="#/c/${id}/guide/${prev.id}">← Previous</a>` : "<span></span>"}${next ? `<a class="btn" href="#/c/${id}/guide/${next.id}">Next →</a>` : `<a class="btn" href="#/c/${id}/quiz">Practice quiz</a>`}</nav></div>`;
+  scrollTo(0, 0);
 }
 
 // Generic quiz runner used by practice + exam.
@@ -90,9 +121,10 @@ function runQuiz(questions, { exam = false, onDone, results = [] }) {
   const render = () => {
     if (i >= questions.length) return onDone(results);
     const q = questions[i], multi = asArr(q.answer).length > 1, sel = new Set();
-    $app.innerHTML = `<p class="muted">${exam ? "Exam" : "Practice"} · ${i + 1} / ${questions.length} · objective ${esc(q.objective)}</p>
-      <div class="card"><p><strong>${esc(q.q)}</strong></p>${multi ? '<p class="muted">Select all that apply.</p>' : ""}
-      ${q.choices.map((c, k) => `<label class="choice" data-k="${k}"><input type="${multi ? "checkbox" : "radio"}" name="a" value="${k}"><span>${esc(c)}</span></label>`).join("")}
+    $app.innerHTML = `<div class="qhead"><span>${exam ? "Exam" : "Practice"} · Question ${i + 1} of ${questions.length}</span><span>Objective ${esc(q.objective)}</span></div>
+      <div class="bar"><i style="width:${pct(i + 1, questions.length)}%"></i></div>
+      <div class="card qcard"><p class="stem">${esc(q.q)}</p>${multi ? '<p class="muted">Select all that apply.</p>' : ""}
+      ${q.choices.map((c, k) => choiceHTML(c, k, multi)).join("")}
       <div id="fb"></div><button id="go">${exam ? "Next" : "Check"}</button></div>`;
     const go = document.getElementById("go");
     $app.querySelectorAll("input").forEach((inp) => inp.addEventListener("change", () => { inp.checked ? sel.add(+inp.value) : sel.delete(+inp.value); }));
@@ -107,7 +139,7 @@ function runQuiz(questions, { exam = false, onDone, results = [] }) {
       if (exam) { i++; return render(); }
       checked = true; go.textContent = i + 1 < questions.length ? "Next" : "Finish";
       $app.querySelectorAll(".choice").forEach((el) => { const k = +el.dataset.k; el.querySelector("input").disabled = true; if (want.has(k)) el.classList.add("ok"); else if (sel.has(k)) el.classList.add("bad"); });
-      document.getElementById("fb").innerHTML = `<p><strong style="color:var(--${correct ? "ok" : "bad"})">${correct ? "Correct" : "Incorrect"}</strong> — ${esc(q.explanation)}</p>`;
+      document.getElementById("fb").innerHTML = `<div class="fb ${correct ? "ok" : "bad"}"><b>${correct ? "Correct" : "Not quite"}</b>${esc(explain(q.explanation))}</div>`;
     };
   };
   render();
@@ -143,7 +175,7 @@ async function exam(id) {
     state.exams.push({ course: id, t: Date.now(), score, total: qs.length, byObj }); push();
     $app.innerHTML = `<h1>${pct >= cfg.passPercent ? "Pass" : "Not yet"} — ${pct}%</h1><p>${score} / ${qs.length}. Pass mark ${cfg.passPercent}%.</p>
       <table><tr><th>Objective</th><th>Score</th></tr>${Object.entries(byObj).map(([o, v]) => `<tr><td>${esc(o)}</td><td>${v.c}/${v.n}</td></tr>`).join("")}</table>
-      <h2>Missed</h2>${results.filter((r) => !r.correct).map((r) => `<div class="card"><strong>${esc(r.q.q)}</strong><p class="muted">${esc(r.q.explanation)}</p></div>`).join("") || "<p>None.</p>"}
+      <h2>Missed</h2>${results.filter((r) => !r.correct).map((r) => `<div class="card"><strong>${esc(r.q.q)}</strong><p class="muted">${esc(explain(r.q.explanation))}</p></div>`).join("") || "<p>None.</p>"}
       <a class="btn" href="#/c/${id}">Back</a>`;
   };
   const results = [];
@@ -160,7 +192,8 @@ async function cards(id) {
   const render = () => {
     if (i >= queue.length) { $app.innerHTML = `<h1>${queue.length ? "Session complete" : "Nothing due"}</h1><a class="btn" href="#/c/${id}">Back</a>`; return; }
     const c = queue[i];
-    $app.innerHTML = `<p class="muted">${i + 1} / ${queue.length} · box ${state.cards[c.id]?.box ?? 0}</p><div class="card flash" id="f">${esc(flipped ? c.back : c.front)}</div>
+    const box = state.cards[c.id]?.box;
+    $app.innerHTML = `<div class="qhead"><span>Card ${i + 1} of ${queue.length}</span><span>${box ? `Box ${box} of 5` : "New card"}</span></div><div class="bar"><i style="width:${pct(i + 1, queue.length)}%"></i></div><div class="card flash${flipped ? " back" : ""}" id="f">${esc(flipped ? c.back : c.front)}</div><p class="muted" style="text-align:center">${flipped ? "How did you do?" : "Tap the card to flip"}</p>
       <div class="row">${flipped ? '<button id="bad" class="secondary">Missed it</button><button id="good">Got it</button>' : '<button id="flip">Flip</button>'}</div>`;
     document.getElementById("f").onclick = () => { flipped = !flipped; render(); };
     const on = (sel, fn) => { const el = document.querySelector(sel); if (el) el.onclick = fn; };
@@ -173,13 +206,17 @@ async function cards(id) {
 
 async function progress(id) {
   const d = await loadCourse(id);
-  const exams = state.exams.filter((e) => e.course === id);
-  $app.innerHTML = `<p><a href="#/c/${id}">← ${esc(d.course.title)}</a></p><h1>Progress</h1>
-    <table><tr><th>Objective</th><th>Seen</th><th>Accuracy</th><th></th></tr>${objStats(d).map((o) => `<tr><td>${esc(o.id)} ${esc(o.title)}</td><td>${o.seen}/${o.total}</td>
-    <td>${o.acc === null ? "—" : `<div class="bar"><i style="width:${Math.round(o.acc * 100)}%"></i></div>${Math.round(o.acc * 100)}%`}</td><td><a href="#/c/${id}/quiz?obj=${encodeURIComponent(o.id)}">Drill</a></td></tr>`).join("")}</table>
-    <h2>Mock exams</h2>${exams.map((e) => `<div class="card">${new Date(e.t).toLocaleString()} — ${e.score}/${e.total}</div>`).join("") || "<p class='muted'>None taken.</p>"}`;
+  const exams = state.exams.filter((e) => e.course === id).sort((a, b) => b.t - a.t);
+  const games = Object.entries(state.games ?? {}).filter(([k]) => k.startsWith(`${id}:`));
+  const rows = objStats(d).filter((o) => o.total).map((o) => { const p = o.acc === null ? null : Math.round(o.acc * 100);
+    return `<tr><td><b>${esc(o.title)}</b><div class="muted">${o.seen}/${o.total} seen</div></td>
+    <td style="min-width:8rem">${p === null ? '<span class="muted">not started</span>' : `<div class="bar ${tone(p)}"><i style="width:${p}%"></i></div><span class="muted">${p}%</span>`}</td>
+    <td><a href="#/c/${id}/quiz?obj=${encodeURIComponent(o.id)}">Drill</a></td></tr>`; }).join("");
+  $app.innerHTML = `<a class="crumb" href="#/c/${id}">← ${esc(d.course.title)}</a><h1>Progress</h1>
+    <div class="card"><table><tr><th>Objective</th><th>Accuracy</th><th></th></tr>${rows}</table></div>
+    <h2>Mock exams</h2>${exams.map((e) => `<div class="card row" style="justify-content:space-between"><span>${new Date(e.t).toLocaleDateString()}</span><b>${e.score}/${e.total} (${pct(e.score, e.total)}%)</b></div>`).join("") || "<p class='muted'>None taken.</p>"}
+    ${games.length ? `<h2>Game records</h2>${games.map(([k, v]) => `<div class="card row" style="justify-content:space-between"><span>${k.endsWith("speed") ? "Speed round" : "Term match"}</span><b>${k.endsWith("speed") ? v.best + " pts" : v.best + "s"}</b></div>`).join("")}` : ""}`;
 }
-
 
 // ---------- games ----------
 async function speed(id) {
@@ -198,8 +235,8 @@ async function speed(id) {
   const render = () => {
     const q = pool[i % pool.length], multi = asArr(q.answer).length > 1, sel = new Set();
     $app.innerHTML = `<div class="row"><span class="timer" id="t"></span><span class="muted">Score ${score} · Streak ${streak}</span></div>
-      <div class="card"><p><strong>${esc(q.q)}</strong></p>${multi ? '<p class="muted">Select all that apply.</p>' : ""}
-      ${q.choices.map((c, k) => `<label class="choice" data-k="${k}"><input type="${multi ? "checkbox" : "radio"}" name="a" value="${k}"><span>${esc(c)}</span></label>`).join("")}
+      <div class="card qcard"><p class="stem">${esc(q.q)}</p>${multi ? '<p class="muted">Select all that apply.</p>' : ""}
+      ${q.choices.map((c, k) => choiceHTML(c, k, multi)).join("")}
       <div id="fb"></div><button id="go">${multi ? "Lock in" : "Answer"}</button></div>`;
     const tick = () => { const left = Math.max(0, Math.ceil((end - Date.now()) / 1000)); const el = document.getElementById("t"); if (el) el.textContent = `${left}s`; if (left <= 0) finish(); };
     tick();
@@ -211,7 +248,7 @@ async function speed(id) {
       if (ok) { streak++; best = Math.max(best, streak); score += 1 + Math.floor(streak / 3); i++; return render(); }
       streak = 0; i++;
       $app.querySelectorAll(".choice").forEach((el) => { const k = +el.dataset.k; el.querySelector("input").disabled = true; if (want.has(k)) el.classList.add("ok"); else if (sel.has(k)) el.classList.add("bad"); });
-      document.getElementById("fb").innerHTML = `<p><strong style="color:var(--bad)">Missed</strong> ${esc(q.explanation)}</p>`;
+      document.getElementById("fb").innerHTML = `<div class="fb bad"><b>Missed</b>${esc(explain(q.explanation))}</div>`;
       const go = document.getElementById("go"); go.textContent = "Next"; go.onclick = render; locked = false; go.dataset.next = "1";
     };
     $app.querySelectorAll("input").forEach((inp) => inp.addEventListener("change", () => {
@@ -270,7 +307,7 @@ async function match(id) {
 // ---------- auth + router ----------
 function showLogin(msg = "") {
   $logout.hidden = true;
-  $app.innerHTML = `<form class="card" id="lf"><h1>Log in</h1><p class="muted">${esc(msg)}</p><input type="password" id="pw" placeholder="Password" autocomplete="current-password" autofocus> <button>Log in</button></form>`;
+  $app.innerHTML = `<form class="card login" id="lf"><h1>WGU Study</h1><p class="muted">${esc(msg) || "Enter your password to continue."}</p><p><input type="password" id="pw" placeholder="Password" autocomplete="current-password" autofocus></p><button style="width:100%">Log in</button></form>`;
   document.getElementById("lf").onsubmit = async (e) => {
     e.preventDefault();
     try { await api("/api/auth", { method: "POST", headers: { "content-type": "application/json" }, body: JSON.stringify({ password: document.getElementById("pw").value }) }); await start(); }
