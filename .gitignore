@@ -7,3 +7,4 @@ netlify/content
 content/courses/*/guides/
 content/courses/*/questions.json
 content/courses/*/flashcards.json
+__pycache__
