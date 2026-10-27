@@ -26,7 +26,7 @@ Not supported yet: pre-assessment exams and the module-quiz layout used by D075 
 
 ## Deploy (Netlify)
 
-1. Make this GitHub repository **private**, then delete the three "Courseware-derived content" lines in `.gitignore` and commit `content/courses/*`. Netlify builds from git, so the content must be in the repo.
+1. Keep this GitHub repository **private**: `content/courses/*` holds courseware-derived text and Netlify builds from git.
 2. Import the repo in Netlify (settings come from `netlify.toml`).
 3. Set `APP_PASSWORD` and `SESSION_SECRET` (32+ random chars, e.g. `openssl rand -base64 48`).
 
@@ -34,5 +34,5 @@ Local: `npm install && npx netlify dev`.
 
 ## Notes
 
-- Do not publish WGU courseware in a public repo. Until the repo is private the generated content stays untracked.
+- Do not make this repository public: it contains WGU courseware text.
 - Device conflicts resolve per question, card and game record by latest write.

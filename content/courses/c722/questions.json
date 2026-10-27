@@ -1,0 +1,332 @@
+[
+ {
+  "id": "c722-section-1-section-1-test-q1",
+  "objective": "s1",
+  "q": "In addition to the triple constraints, what other considerations may determine if a project is successful?",
+  "choices": [
+   "The project is of high interest to the CEO.",
+   "No government regulations affect the product of the project.",
+   "The requirements in the scope adequately define the project's objectives."
+  ],
+  "answer": 2,
+  "explanation": "The scope requirements should adequately define project objectives. Correct",
+  "source": "Section 1/Section 1- Test"
+ },
+ {
+  "id": "c722-section-1-section-1-test-q2",
+  "objective": "s1",
+  "q": "Which statement about projects, programs, and portfolios is correct?",
+  "choices": [
+   "A group of programs or projects that support the same business goal makes up a portfolio.",
+   "Any two projects can make up a program.",
+   "Calling an endeavor a program justifies assigning more resources.",
+   "Only programs can be a part of a portfolio."
+  ],
+  "answer": 0,
+  "explanation": "This is the definition of a program. Correct",
+  "source": "Section 1/Section 1- Test"
+ },
+ {
+  "id": "c722-section-1-section-1-test-q3",
+  "objective": "s1",
+  "q": "You work at an automotive manufacturer. This company has the goal of being able to supply a full range of passenger cars, from small compact to large luxury. A huge endeavor is being undertaken to design and develop an entirely new small passenger car. There are several groups of people working on different aspects of this endeavor: one group on the engine, one on the transmission, one on the navigation system, and so on. Each group has its scheduled start and end dates and a definition of the unique product it will create. Each of these groups is working on a ____.",
+  "choices": [
+   "program",
+   "portfolio",
+   "project",
+   "long-term business strategy"
+  ],
+  "answer": 2,
+  "explanation": "Each group is involved in an activity that meets the definition of a project. Answers are displayed within the problem",
+  "source": "Section 1/Section 1- Test"
+ },
+ {
+  "id": "c722-section-1-section-1-test-q4",
+  "objective": "s1",
+  "q": "You are talking to a friend who has renovation project management experience. You cannot decide whether you want to take on the daunting task of being your own project manager. Your friend tells you that if you decide to manage the project, your first assignment will be to create the project ____.",
+  "choices": [
+   "scheduling template",
+   "workflow diagram",
+   "platform",
+   "plan"
+  ],
+  "answer": 3,
+  "explanation": "The plan needs to begin immediately so that resources can be selected for its execution. Correct",
+  "source": "Section 1/Section 1- Test"
+ },
+ {
+  "id": "c722-section-1-section-1-test-q5",
+  "objective": "s1",
+  "q": "Which skills do you think are critical in a project management role? Choose all that apply.",
+  "choices": [
+   "Conflict resolution",
+   "Popularity",
+   "Organization",
+   "Written and verbal communication",
+   "Technical expertise"
+  ],
+  "answer": [
+   0,
+   2,
+   3
+  ],
+  "explanation": "Conflict resolution is a critical project management skill. Organization is a critical skill in project management. Communication is a critical skill in project management.",
+  "source": "Section 1/Section 1- Test"
+ },
+ {
+  "id": "c722-section-1-section-1-test-q6",
+  "objective": "s1",
+  "q": "What has the evolution of cloud computing done for project management?",
+  "choices": [
+   "Created a universal database for housing document templates and examples",
+   "Provided levels of security for the housing of documents and reports",
+   "Provided a way to collaborate virtually",
+   "Developed a structure for project manager certification tracking"
+  ],
+  "answer": 2,
+  "explanation": "The cloud has opened up new ways of collaborating in all kinds of environments and teams. Correct",
+  "source": "Section 1/Section 1- Test"
+ },
+ {
+  "id": "c722-section-1-section-1-test-q8",
+  "objective": "s1",
+  "q": "What determines an organization’s project management maturity level?",
+  "choices": [
+   "Adherence to standards or guidelines set by recognized professional organizations",
+   "The percentage of projects completed successfully",
+   "Whether project managers have degrees",
+   "The number of certified project managers on staff"
+  ],
+  "answer": 0,
+  "explanation": "Accepted standards and guidelines specify certain practices that must be adhered to in order to reach levels of project management maturity. Correct",
+  "source": "Section 1/Section 1- Test"
+ },
+ {
+  "id": "c722-section-1-section-1-test-q9",
+  "objective": "s1",
+  "q": "In which type of organizational structure do the project manager and the functional manager share authority?",
+  "choices": [
+   "Functional",
+   "Projectized",
+   "Matrix"
+  ],
+  "answer": 2,
+  "explanation": "In this type of organization, the project manager and the functional manager share authority. Correct",
+  "source": "Section 1/Section 1- Test"
+ },
+ {
+  "id": "c722-section-1-section-1-test-q10",
+  "objective": "s1",
+  "q": "What are some advantages of having a project management office (PMO)? Choose all that apply.",
+  "choices": [
+   "A PMO keeps a central database of \"lessons learned.\"",
+   "A PMO makes sure all projects implement best practices.",
+   "A PMO makes sure proprietary information remains within the company",
+   "A PMO provides a place to assign people between projects"
+  ],
+  "answer": [
+   0,
+   1
+  ],
+  "explanation": "A PMO keeps a central database of \"lessons learned.\" This is one of the responsibilities of a PMO. A PMO makes sure all projects implement best practices. This is one of the advantages of having a PMO.",
+  "source": "Section 1/Section 1- Test"
+ },
+ {
+  "id": "c722-section-1-section-1-test-q11",
+  "objective": "s1",
+  "q": "The basic types of organizational structures are functional, projectized, and ____.",
+  "choices": [
+   "informal",
+   "formal",
+   "matrix",
+   "ad hoc"
+  ],
+  "answer": 2,
+  "explanation": "This is the third type of organizational structure. Correct",
+  "source": "Section 1/Section 1- Test"
+ },
+ {
+  "id": "c722-section-1-lesson-1-quiz-q1",
+  "objective": "s1",
+  "q": "Projects have a(n) ____ start and end date.",
+  "choices": [
+   "definite",
+   "flexible",
+   "indefinite"
+  ],
+  "answer": 0,
+  "explanation": "All projects have a definite start and end date. Correct",
+  "source": "Section 1/Lesson 1- Quiz"
+ },
+ {
+  "id": "c722-section-1-lesson-1-quiz-q2",
+  "objective": "s1",
+  "q": "Which of the following are business scenarios? Choose all that apply.",
+  "choices": [
+   "The price of oil is at a five-year high.",
+   "The price of oil is at a five-year high and is expected to continue to rise.",
+   "New battery technology has been developed.",
+   "New technology can provide smaller batteries that can be recharged by movement of the mobile device, extending battery life."
+  ],
+  "answer": [
+   1,
+   3
+  ],
+  "explanation": "The price of oil is at a five-year high and is expected to continue to rise. Both of these statements contain information about past, present, and future outcomes. New technology can provide smaller batteries that can be recharged by movement of the mobile device, extending battery life. Both of these statements contain information about past, present, and future outcomes.",
+  "source": "Section 1/Lesson 1- Quiz"
+ },
+ {
+  "id": "c722-section-1-lesson-1-quiz-q3",
+  "objective": "s1",
+  "q": "Projects selected by an organization must be directly related to the organization’s ____.",
+  "choices": [
+   "strategy",
+   "operating procedures",
+   "level of maturity"
+  ],
+  "answer": 0,
+  "explanation": "Projects must relate to the organization’s strategy. Correct",
+  "source": "Section 1/Lesson 1- Quiz"
+ },
+ {
+  "id": "c722-section-1-lesson-1-quiz-q4",
+  "objective": "s1",
+  "q": "What are the objectives of project management?",
+  "choices": [
+   "Meeting scope, budget, and schedule",
+   "Making sure the guilty are blamed for a problem",
+   "Maximizing bonuses for successful project completion",
+   "Completing the project regardless of whether it aligns with company strategy"
+  ],
+  "answer": 0,
+  "explanation": "These are the triple constraints of project management. Correct",
+  "source": "Section 1/Lesson 1- Quiz"
+ },
+ {
+  "id": "c722-section-1-lesson-1-quiz-q5",
+  "objective": "s1",
+  "q": "Which criteria should a successful project meet?",
+  "choices": [
+   "Overall objectives of the project, regardless of time taken or budget needed",
+   "SMART (specific, measurable, achievable, relevant, and timed) goals",
+   "Maximizing company profits by taking needed risks",
+   "Completing the project regardless of whether it aligns with company strategy"
+  ],
+  "answer": 1,
+  "explanation": "A project must meet criteria that allow something specific and measurable to be achieved with the resources and technology currently available. SMART goals align with the organization’s strategic goals and are time-bound.",
+  "source": "Section 1/Lesson 1- Quiz"
+ },
+ {
+  "id": "c722-section-1-lesson-2-quiz-q1",
+  "objective": "s1",
+  "q": "True or false: Project managers (PMs) must not only manage people of all levels, but they must also manage costs, expectations, procurement, outside suppliers, and partners.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "A PM is all things to all people, and managing project schedule, scope, and deliverables along with stakeholder expectations are some of the critical aspects of the expectations. Correct",
+  "source": "Section 1/Lesson 2- Quiz"
+ },
+ {
+  "id": "c722-section-1-lesson-2-quiz-q2",
+  "objective": "s1",
+  "q": "It is important that project status meetings are ____.",
+  "choices": [
+   "regular and timely",
+   "weekly",
+   "monthly",
+   "at stakeholders’ request"
+  ],
+  "answer": 0,
+  "explanation": "The frequency of project status meetings is based on stakeholders’ interests and communication needs, but they must be regular and timely. Correct",
+  "source": "Section 1/Lesson 2- Quiz"
+ },
+ {
+  "id": "c722-section-1-lesson-2-quiz-q3",
+  "objective": "s1",
+  "q": "Which communication type is the best option when working in a widely dispersed virtual team?",
+  "choices": [
+   "Point-to-point instant messaging",
+   "Phone calls",
+   "Shared threaded discussion",
+   "Email"
+  ],
+  "answer": 2,
+  "explanation": "Shared threaded discussions allow the contents to be available for all the team members to access and contribute to, regardless of time zone, providing them with historical context. Correct",
+  "source": "Section 1/Lesson 2- Quiz"
+ },
+ {
+  "id": "c722-section-1-lesson-2-quiz-q4",
+  "objective": "s1",
+  "q": "Which organization includes standards for the Organizational Project Management Maturity Model (OPM3)?",
+  "choices": [
+   "PMI",
+   "APM",
+   "IPMA",
+   "AXELOS Ltd."
+  ],
+  "answer": 0,
+  "explanation": "The Project Management Institute publishes both foundational and practice standards, including standards and frameworks for OPM3. Correct",
+  "source": "Section 1/Lesson 2- Quiz"
+ },
+ {
+  "id": "c722-section-1-lesson-2-quiz-q5",
+  "objective": "s1",
+  "q": "Which organization provides the Project Management Professional (PMP) certification?",
+  "choices": [
+   "PMI",
+   "APM",
+   "IPMA",
+   "AXELOS Ltd."
+  ],
+  "answer": 0,
+  "explanation": "The Project Management Institute provides the PMP certification. The PMP certification has the largest number of practitioners registered globally.",
+  "source": "Section 1/Lesson 2- Quiz"
+ },
+ {
+  "id": "c722-section-1-lesson-3-quiz-q1",
+  "objective": "s1",
+  "q": "Which organizational structure is used by government entities?",
+  "choices": [
+   "Projectized",
+   "Functional",
+   "Matrix"
+  ],
+  "answer": 1,
+  "explanation": "A functional organization is straightforward, has clear lines of authority, and is well defined. This makes it perfectly suited to government entities. Correct",
+  "source": "Section 1/Lesson 3- Quiz"
+ },
+ {
+  "id": "c722-section-1-lesson-3-quiz-q2",
+  "objective": "s1",
+  "q": "Which statement is true about the project management office (PMO)? Choose all that apply.",
+  "choices": [
+   "The PMO tracks \"lessons learned\" to be carried to new projects.",
+   "The PMO consists of employees who cannot be dismissed from the organization.",
+   "The PMO helps provide resources to projects as needed.",
+   "The PMO creates a repository for all project knowledge in the organization."
+  ],
+  "answer": [
+   0,
+   2,
+   3
+  ],
+  "explanation": "The PMO tracks \"lessons learned\" to be carried to new projects. This is one of the responsibilities of a PMO. The PMO helps provide resources to projects as needed. These are all responsibilities of a PMO. The PMO creates a repository for all project knowledge in the organization. These are all responsibilities of a PMO.",
+  "source": "Section 1/Lesson 3- Quiz"
+ },
+ {
+  "id": "c722-section-1-lesson-3-quiz-q3",
+  "objective": "s1",
+  "q": "The project management offices (PMOs) can help align project investment to ____.",
+  "choices": [
+   "historical records",
+   "monitoring and control",
+   "corporate strategy",
+   "project policies"
+  ],
+  "answer": 2,
+  "explanation": "PMOs can help an organization to align project investment to corporate strategy. Correct",
+  "source": "Section 1/Lesson 3- Quiz"
+ }
+]

@@ -1,0 +1,284 @@
+[
+ {
+  "id": "c720-kt1",
+  "objective": "2.6",
+  "front": "ABC Analysis",
+  "back": "ABC Analysis has been developed to determine which inventory items should receive the highest level of control, focusing efforts where the payoff is highest. The inventory classifications are based on the annual dollar usage of each item."
+ },
+ {
+  "id": "c720-kt2",
+  "objective": "2.6",
+  "front": "Business Process",
+  "back": "Business Process is a set of work activities with a preferred order, an identifiable beginning and end, inputs, and clearly defined outputs that add value to the customer."
+ },
+ {
+  "id": "c720-kt3",
+  "objective": "2.6",
+  "front": "Competitive advantage",
+  "back": "Competitive advantage is a capability that customers value, such as short delivery lead time or high product quality, that gives an organization an edge against its competition."
+ },
+ {
+  "id": "c720-kt4",
+  "objective": "2.6",
+  "front": "Competitive capabilities",
+  "back": "Competitive capabilities are the outcomes of well-designed business processes, and, in turn, they enable a firm to satisfy its customer requirements."
+ },
+ {
+  "id": "c720-kt5",
+  "objective": "2.6",
+  "front": "Demand patterns",
+  "back": "Demand patterns are regular fluctuations in demand for a product or service, often caused by seasons, cycles, and trends."
+ },
+ {
+  "id": "c720-kt6",
+  "objective": "2.6",
+  "front": "Random demand",
+  "back": "Random demand is unpredictable patterns that do not follow a pattern."
+ },
+ {
+  "id": "c720-kt7",
+  "objective": "2.6",
+  "front": "Cyclical demand",
+  "back": "Cyclical demand is a demand that occurs over a number of years and is generally predictable when a bigger picture of the market is taken into account."
+ },
+ {
+  "id": "c720-kt8",
+  "objective": "2.6",
+  "front": "Seasonal Demand",
+  "back": "Seasonal Demand occurs as shoppers adjust their purchase velocity in line with holidays."
+ },
+ {
+  "id": "c720-kt9",
+  "objective": "2.6",
+  "front": "Trend demand",
+  "back": "Trend demand is a general regular uptick or downward flow trend over time."
+ },
+ {
+  "id": "c720-kt10",
+  "objective": "2.6",
+  "front": "Economic Order Quantity (EOQ) model",
+  "back": "Economic Order Quantity (EOQ) model is concerned primarily with the cost of ordering and the cost of holding inventory for purchased items and assumes inventory will arrive complete."
+ },
+ {
+  "id": "c720-kt11",
+  "objective": "2.6",
+  "front": "Economic Production Quantity (EPQ)",
+  "back": "Economic Production Quantity (EPQ) helps companies control the cost of ordering, receiving, and holding inventory, allows for incremental ordering and depletion, and is commonly used for production processes where inventory is arriving into storage and sent out into a production process."
+ },
+ {
+  "id": "c720-kt12",
+  "objective": "2.6",
+  "front": "Ethical behavior",
+  "back": "Ethical behavior is a corporate issue that affects the company's bottom line."
+ },
+ {
+  "id": "c720-kt13",
+  "objective": "2.6",
+  "front": "Ethics",
+  "back": "Ethics are a sense of what is right and wrong that guides behavior."
+ },
+ {
+  "id": "c720-kt14",
+  "objective": "2.6",
+  "front": "Goods",
+  "back": "Goods are defined as articles of trade, merchandise, or wares."
+ },
+ {
+  "id": "c720-kt15",
+  "objective": "2.6",
+  "front": "Carrying (Holding) Costs",
+  "back": "Carrying (Holding) Costs include costs paid for storage space, interest paid on borrowed money to finance the inventory, and any losses incurred due to damage or obsolescence."
+ },
+ {
+  "id": "c720-kt16",
+  "objective": "2.6",
+  "front": "Inputs",
+  "back": "Inputs include people, capital, materials, and energy applied in any stage of the chain of processes that lead to value creation."
+ },
+ {
+  "id": "c720-kt17",
+  "objective": "2.6",
+  "front": "Inventory",
+  "back": "Inventory is the term for the goods available for sale and raw materials used to produce goods available for sale. Inventory can help businesses meet demand and work more efficiently."
+ },
+ {
+  "id": "c720-kt18",
+  "objective": "2.6",
+  "front": "Lead time",
+  "back": "Lead time is when a company that orders materials from a supplier must account for (1) the time it takes that order to reach the supplier's offices, (2) the time to fill the order, and (3) the shipping time."
+ },
+ {
+  "id": "c720-kt19",
+  "objective": "2.6",
+  "front": "Market share",
+  "back": "Market share is its percentage of sales in a particular market, that is, its sales divided by total sales for all organizations competing in a particular market."
+ },
+ {
+  "id": "c720-kt20",
+  "objective": "2.6",
+  "front": "Operations",
+  "back": "Operations refers to the processes within organizations that acquire inputs and transform them into outputs that the public can consume."
+ },
+ {
+  "id": "c720-kt21",
+  "objective": "2.6",
+  "front": "Operations management",
+  "back": "Operations management is the multidisciplinary science that organizations use to acquire inputs (such as people, capital, material, or energy) and transform them into outputs (products or services) that ultimately provide value to the end customer."
+ },
+ {
+  "id": "c720-kt22",
+  "objective": "2.6",
+  "front": "Order fulfillment",
+  "back": "Order fulfillment involves all the steps required to satisfy a customer's order, from obtaining an order and entering it into the organization's information system to delivering the order."
+ },
+ {
+  "id": "c720-kt23",
+  "objective": "2.6",
+  "front": "Ordering Costs",
+  "back": "Ordering Costs are the costs associated with changing over equipment from producing one item to producing another and is referred to as setup cost."
+ },
+ {
+  "id": "c720-kt24",
+  "objective": "2.6",
+  "front": "Order point",
+  "back": "Order point is simply a level of inventory at which an order should be placed, accounting for lead time and safety stock so that the order will arrive before a stockout occurs."
+ },
+ {
+  "id": "c720-kt25",
+  "objective": "2.6",
+  "front": "Organizational structure",
+  "back": "Organizational structure is the infrastructure of formal relationships among different functions or subsystems, such as marketing, finance, and operations. Organizational structure defines the lines of communication."
+ },
+ {
+  "id": "c720-kt26",
+  "objective": "2.6",
+  "front": "Outputs",
+  "back": "Outputs are services or goods. Operations employs labor and management (people) and uses facilities and equipment (capital) to change materials (steel and plastics) into finished goods (diesel locomotives) or to provide services (healthcare)."
+ },
+ {
+  "id": "c720-kt27",
+  "objective": "2.6",
+  "front": "Periodic Review System",
+  "back": "Periodic Review System is designed to place an order only when on-hand inventory information is available and within the supplier's specific delivery intervals."
+ },
+ {
+  "id": "c720-kt28",
+  "objective": "2.6",
+  "front": "Perpetual Inventory System",
+  "back": "Perpetual Inventory System continuously monitors inventory levels and is also called a continuous review system."
+ },
+ {
+  "id": "c720-kt29",
+  "objective": "2.6",
+  "front": "Price",
+  "back": "Price is the amount paid for a service or good."
+ },
+ {
+  "id": "c720-kt30",
+  "objective": "2.6",
+  "front": "Process Design",
+  "back": "Process Design is how the product, either a good or service, is produced."
+ },
+ {
+  "id": "c720-kt31",
+  "objective": "2.6",
+  "front": "Product Design",
+  "back": "Product Design is the determination of the characteristics, features, and performance of the product."
+ },
+ {
+  "id": "c720-kt32",
+  "objective": "2.6",
+  "front": "Product development",
+  "back": "Product development is a teamwork-oriented process that begins with the organization's strategy and analysis of the markets as inputs."
+ },
+ {
+  "id": "c720-kt33",
+  "objective": "2.6",
+  "front": "Product quality",
+  "back": "Product quality is the extent to which the product successfully serves the purposes of the user during usage."
+ },
+ {
+  "id": "c720-kt34",
+  "objective": "2.6",
+  "front": "Productivity",
+  "back": "Productivity measures the ability to produce goods and services (outputs) compared to the inputs or resources used in the process. Productivity is a mathematical calculation; it is the ratio of the outputs achieved divided by the inputs consumed to achieve those outputs. PRODUCTIVITY= Productivity formula based on output and input. OU"
+ },
+ {
+  "id": "c720-kt35",
+  "objective": "2.6",
+  "front": "Profitability",
+  "back": "Profitability is the efficient use of resources, which means getting as much positive return from them as possible."
+ },
+ {
+  "id": "c720-kt36",
+  "objective": "2.6",
+  "front": "Quantity Discounts Model (QDM)",
+  "back": "Quantity Discounts Model (QDM) refers to when items usually cost less per unit when purchased in bulk. Therefore, the order quantity directly influences the purchase price of an item."
+ },
+ {
+  "id": "c720-kt37",
+  "objective": "2.6",
+  "front": "Review Interval",
+  "back": "Review Interval is the time between inventory reviews."
+ },
+ {
+  "id": "c720-kt38",
+  "objective": "2.6",
+  "front": "Safety Stock",
+  "back": "Safety Stock is inventory to protect against unexpected demand."
+ },
+ {
+  "id": "c720-kt39",
+  "objective": "2.6",
+  "front": "Service",
+  "back": "Service is broadly defined as companion activities, such as helping to arrange financing for a purchase or helping to install equipment. It also includes service after the sale—advice on operating a piece of equipment, providing repair parts, and processing warranty claims."
+ },
+ {
+  "id": "c720-kt40",
+  "objective": "2.6",
+  "front": "Service Level",
+  "back": "Service Level is selecting a level of stock-outs that the company is willing to accept."
+ },
+ {
+  "id": "c720-kt41",
+  "objective": "2.6",
+  "front": "Services",
+  "back": "Services are intangible products that produce the services of an organization and provide them directly to its customers."
+ },
+ {
+  "id": "c720-kt42",
+  "objective": "2.6",
+  "front": "Stockout",
+  "back": "Stockout occurs when inventory is depleted."
+ },
+ {
+  "id": "c720-kt43",
+  "objective": "2.6",
+  "front": "Stockout Costs",
+  "back": "Stockout Costs are when the demand during the lead time to replenish an inventory item is greater than planned, and a stockout can occur. Strategy consists of the organizational goals and the methods for implementing the goals, called key policies. Defines how the organization chooses to compete within the framework dictated by the external environment."
+ },
+ {
+  "id": "c720-kt44",
+  "objective": "2.6",
+  "front": "Sustainability",
+  "back": "Sustainability is the ethical issues an organization faces to balance financial performance while maintaining social responsibility standards and a responsible environmental profile. Sustainability can also relate to the so-called \"triple bottom line\" of profitability, employee wellness, and environmental viability."
+ },
+ {
+  "id": "c720-kt45",
+  "objective": "2.6",
+  "front": "SWOT analysis",
+  "back": "SWOT analysis is a simple but useful technique for analyzing an organization's strengths and weaknesses and the opportunities and threats that it faces. It helps a company focus on its strengths, minimize threats, and take the greatest possible advantage of opportunities available. 1. Strengths are the internal characteristics of a business or project that lend an advantage within the scope of the study. 2. Weaknesses are internal characteristics of a business or project that result in a disadvantage relative to others. 3. Opportunities are external elements that the project could exploit to its advantage. 4. Threats are external elements in the competitive environment that could create trouble for the business or project."
+ },
+ {
+  "id": "c720-kt46",
+  "objective": "2.6",
+  "front": "Target Level",
+  "back": "Target Level is the quantity ordered must increase inventory up to a level sufficient to cover anticipated demand before the next order is received."
+ },
+ {
+  "id": "c720-kt47",
+  "objective": "2.6",
+  "front": "Technology",
+  "back": "Technology is applying knowledge, usually in the form of recently developed tools, processes, and procedures, to solve problems. Triple constraint factors of time, cost, and scope, as well as the over-arching concern of quality in program and project management at the organizational level, are often used as determining factors whether to outsource or not to outsource. Types of Inventories 1. Raw materials: These parts and materials are obtained from suppliers and are used in the production process. 2. Work-in-process (WIP): These are partly finished parts, components, subassemblies, or modules. 3. Finished goods: Items are ready to ship to the customer. No more work is required. 4. Maintenance, Repair, and Operating (MRO) Supplies: Parts or materials are used to support the production process but are not usually a component of the product. These items, such as lubricant and cutting tools, are consumed in the production process. 5. Transit inventory (Transportation (pipeline)): The portion of inventory that is in the process of being shipped through the distribution system."
+ }
+]

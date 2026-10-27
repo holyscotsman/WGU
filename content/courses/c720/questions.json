@@ -1,0 +1,582 @@
+[
+ {
+  "id": "c720-section-1-lesson-1-assessment-q1",
+  "objective": "2.6",
+  "q": "How does teamwork in operations benefit or add value to customers?",
+  "choices": [
+   "Teamwork in operations benefits the customer when coordinated decisions within an organization produce high-quality products that customers value.",
+   "Teamwork in operations benefits the customer when production times are increased.",
+   "Teamwork in operations adds value to the customer by reducing customer service efforts."
+  ],
+  "answer": 0,
+  "explanation": "That's right! Coordinated decisions within an organization lead to high-quality products that meet customer needs and expectations, providing value to customers.",
+  "source": "Section 1 Lesson 1- Assessment"
+ },
+ {
+  "id": "c720-section-1-lesson-1-assessment-q2",
+  "objective": "2.6",
+  "q": "The management of inventory is important to producers of goods and producers of services, but ______________.",
+  "choices": [
+   "The physical attributes of both goods and services require engineering talent",
+   "Usually service businesses do not have physical inventories",
+   "A service is intangible and involves no finished products"
+  ],
+  "answer": 1,
+  "explanation": "That's right! Service businesses typically do not have physical inventories as they deal with intangible services, rather than tangible goods.",
+  "source": "Section 1 Lesson 1- Assessment"
+ },
+ {
+  "id": "c720-section-1-lesson-1-assessment-q3",
+  "objective": "2.6",
+  "q": "Why are team-oriented operations essential today?",
+  "choices": [
+   "Because management and labor are constantly at odds",
+   "Because cooperation is necessary for solving quality and productivity problems to remain competitive in an increasingly global marketplace",
+   "Because the labor force demands it"
+  ],
+  "answer": 1,
+  "explanation": "That's right! Cooperation within teams helps address quality and productivity issues, leading to better performance in a global market.",
+  "source": "Section 1 Lesson 1- Assessment"
+ },
+ {
+  "id": "c720-section-1-lesson-1-assessment-q4",
+  "objective": "2.6",
+  "q": "Which unique characteristic makes a business process key in any organization?",
+  "choices": [
+   "It is cross-functional.",
+   "It is unchangeable.",
+   "It is the lowest-cost plan.",
+   "It is a legal document."
+  ],
+  "answer": 0,
+  "explanation": "That's right! Cross-functional processes involve multiple departments and functions, making them essential for better integration and collaboration.",
+  "source": "Section 1 Lesson 1- Assessment"
+ },
+ {
+  "id": "c720-section-1-lesson-1-assessment-q5",
+  "objective": "2.6",
+  "q": "Which type of decision-making can result in more cross-functional teams?",
+  "choices": [
+   "Random",
+   "Decentralized",
+   "Centralized",
+   "Algorithmic"
+  ],
+  "answer": 1,
+  "explanation": "That's right! Decentralized decision-making empowers teams across functions, leading to more cross- functional teams.",
+  "source": "Section 1 Lesson 1- Assessment"
+ },
+ {
+  "id": "c720-section-1-lesson-1-assessment-q6",
+  "objective": "2.6",
+  "q": "Job markets have shifted between countries for manufacturing, technology, engineering, and management jobs over the past decades. What has been a driving force in the global job market?",
+  "choices": [
+   "Labor costs",
+   "Movement of production facilities",
+   "Market domination by multinational firms",
+   "Free trade agreements"
+  ],
+  "answer": 0,
+  "explanation": "That's right! Labor costs play a significant role in driving shifts in the global job market as companies seek competitive advantages.",
+  "source": "Section 1 Lesson 1- Assessment"
+ },
+ {
+  "id": "c720-section-1-lesson-1-assessment-q7",
+  "objective": "2.6",
+  "q": "Many automotive manufacturers have factories in multiple countries. Vehicle designs and safety specifications are different from country to country. In which country would you expect to see stronger safety regulations for automobiles?",
+  "choices": [
+   "United States",
+   "Vietnam",
+   "India",
+   "China"
+  ],
+  "answer": 0,
+  "explanation": "That's right! The United States is known for its strong safety regulations, particularly for automobiles.",
+  "source": "Section 1 Lesson 1- Assessment"
+ },
+ {
+  "id": "c720-section-1-lesson-1-assessment-q8",
+  "objective": "2.6",
+  "q": "A pharmaceutical sales company needs to replace its company cars. One car company quoted a price 15% lower than its competitor. The pharmaceutical company considered total expected costs of ownership, including purchase price, fuel efficiency, ergonomic comfort, end-of-life resale value, and warranty costs, and went with the higher-priced competitor to achieve _____.",
+  "choices": [
+   "A better look for the sake of the company's appearance",
+   "More comfort for the employees driving the company cars",
+   "Short-term benefits for insurance",
+   "Long-term benefits"
+  ],
+  "answer": 3,
+  "explanation": "That's right! The pharmaceutical company chose the higher-priced competitor to achieve long-term benefits, such as lower overall costs and better value over time.",
+  "source": "Section 1 Lesson 1- Assessment"
+ },
+ {
+  "id": "c720-section-1-lesson-2-assessment-q1",
+  "objective": "2.6",
+  "q": "What is the definition of market share?",
+  "choices": [
+   "Market share is defined as the number of products a company offers divided by all the products in an industry.",
+   "Market share is a company's sales divided by the sales of all companies in its industry.",
+   "The competitive advantage a company possesses is its market share.",
+   "The percentage of store locations a company operates in an entire market constitutes its market share."
+  ],
+  "answer": 1,
+  "explanation": "That's right! This is the correct definition of market share. It represents the proportion of total industry sales captured by a company, illustrating its relative success in the market.",
+  "source": "Section 1 Lesson 2- Assessment"
+ },
+ {
+  "id": "c720-section-1-lesson-2-assessment-q2",
+  "objective": "2.6",
+  "q": "Jane Smith is expecting her first child and is concerned about the child's safety as they travel. Jane is shopping for a car seat. Which customer requirements will Jane prioritize, given her stated concerns?",
+  "choices": [
+   "Product quality as revealed in consumer safety tests",
+   "Product price",
+   "Product availability",
+   "Service"
+  ],
+  "answer": 0,
+  "explanation": "That's right! Jane is primarily concerned about her child's safety, so she will prioritize a car seat that has high product quality and has performed well in consumer safety tests.",
+  "source": "Section 1 Lesson 2- Assessment"
+ },
+ {
+  "id": "c720-section-1-lesson-2-assessment-q3",
+  "objective": "2.6",
+  "q": "Which step is not part of the order fulfillment process?",
+  "choices": [
+   "Delivering the order to satisfy customers",
+   "Entering orders into the organization's information system",
+   "Marketing to the customer",
+   "Obtaining customer orders"
+  ],
+  "answer": 2,
+  "explanation": "That's right! Marketing to the customer is not a step in the order fulfillment process. It involves promoting products or services to potential customers and occurs before order fulfillment.",
+  "source": "Section 1 Lesson 2- Assessment"
+ },
+ {
+  "id": "c720-section-1-lesson-2-assessment-q4",
+  "objective": "2.6",
+  "q": "When conducting a SWOT analysis, which element considers the internal characteristics of a business or project that lend an advantage within the scope of the study?",
+  "choices": [
+   "Weaknesses",
+   "Threats",
+   "Opportunities",
+   "Strengths"
+  ],
+  "answer": 3,
+  "explanation": "That's right! Strengths refer to the internal characteristics of a business or project that provide an advantage within the scope of the study, such as efficient processes or strong brand recognition.",
+  "source": "Section 1 Lesson 2- Assessment"
+ },
+ {
+  "id": "c720-section-1-lesson-2-assessment-q5",
+  "objective": "2.6",
+  "q": "In general, when productivity increases, the cost to produce a product _______.",
+  "choices": [
+   "Stays the same",
+   "Sometimes increases and sometimes decreases",
+   "Decreases",
+   "Increases"
+  ],
+  "answer": 2,
+  "explanation": "That's right! When productivity increases, the cost to produce a product generally decreases. This is because more efficient processes allow for greater output with the same or fewer resources, leading to lower production costs.",
+  "source": "Section 1 Lesson 2- Assessment"
+ },
+ {
+  "id": "c720-section-1-lesson-3-assessment-q1",
+  "objective": "2.6",
+  "q": "When an online company offers Talia free shipping on orders of three or more items, this is an example of",
+  "choices": [
+   "Quantity discounts",
+   "Developing more safety stock",
+   "Cyclical demand pattern",
+   "Hedging"
+  ],
+  "answer": 0,
+  "explanation": "That's right! Quantity discounts refer to the practice of offering incentives (such as free shipping) for purchasing a certain quantity of items. This encourages customers to buy more and rewards them for larger orders.",
+  "source": "Section 1 Lesson 3- Assessment"
+ },
+ {
+  "id": "c720-section-1-lesson-3-assessment-q2",
+  "objective": "2.6",
+  "q": "Consider the typical activities and costs of owning an automobile. Which item, which many people have in the trunk of a vehicle, is the best example of replacement parts inventory?",
+  "choices": [
+   "A one gallon can of gasoline",
+   "A jack",
+   "A spare tire"
+  ],
+  "answer": 2,
+  "explanation": "That's right! A spare tire is a replacement part because it can be used to replace a damaged or flat tire, allowing the vehicle to continue its journey safely.",
+  "source": "Section 1 Lesson 3- Assessment"
+ },
+ {
+  "id": "c720-section-1-lesson-3-assessment-q3",
+  "objective": "2.6",
+  "q": "What is an advantage of the perpetual inventory system?",
+  "choices": [
+   "The perpetual inventory system more accurately measures the dollar value in inventory.",
+   "The perpetual inventory system maintains high levels of stock and keeps the company's capital safe.",
+   "The costs to implement the perpetual inventory system are minimal.",
+   "The perpetual inventory system recognizes that accounting department values need not match inventory amounts."
+  ],
+  "answer": 0,
+  "explanation": "That's right! The perpetual inventory system provides a real-time, up-to-date measure of inventory value, allowing for precise and immediate tracking.",
+  "source": "Section 1 Lesson 3- Assessment"
+ },
+ {
+  "id": "c720-section-1-lesson-3-assessment-q4",
+  "objective": "2.6",
+  "q": "Which statement describes an advantage of the periodic inventory system?",
+  "choices": [
+   "The cost to implement a periodic inventory system is relatively low.",
+   "The number of employees required to run a periodic inventory system is large.",
+   "The amount of inventory can be easily determined each day.",
+   "A periodic inventory system is best when the business has many items for sale that sell in large volumes."
+  ],
+  "answer": 0,
+  "explanation": "That's right! Periodic inventory systems are cost-effective because they do not require continuous monitoring and can be performed at intervals.",
+  "source": "Section 1 Lesson 3- Assessment"
+ },
+ {
+  "id": "c720-section-1-lesson-3-assessment-q5",
+  "objective": "2.6",
+  "q": "What is true regarding the ABC classification of inventory table?",
+  "choices": [
+   "The most important items have the highest cost.",
+   "The most important items have the highest demand.",
+   "The bottom 50% of items are classified as \"C\" items.",
+   "Items classified as \"C\" should have larger safety stocks than \"B\" or \"A\" items."
+  ],
+  "answer": 2,
+  "explanation": "That’s right! In the ABC classification, items are categorized based on their importance, with “C” items representing the lowest priority items and typically making up about 50% of the total inventory.",
+  "source": "Section 1 Lesson 3- Assessment"
+ },
+ {
+  "id": "c720-section-1-lesson-4-assessment-q1",
+  "objective": "2.6",
+  "q": "The EOQ is the point at which holding costs ____.",
+  "choices": [
+   "equal ordering costs",
+   "stop increasing",
+   "begin to affect fixed costs"
+  ],
+  "answer": 0,
+  "explanation": "That's right! Economic order quantity (EOQ) is the point at which holding costs (the cost of storing inventory) are equal to ordering costs (the cost of replenishing inventory). This is the ideal balance for inventory management.",
+  "source": "Section 1 Lesson 4- Assessment"
+ },
+ {
+  "id": "c720-section-1-lesson-4-assessment-q2",
+  "objective": "2.6",
+  "q": "What might have caused a smartphone manufacturer to incur a stockout or run out of inventory for a new phone when they first released it?",
+  "choices": [
+   "Demand and lead times were less than expected.",
+   "Demand and lead times did not match.",
+   "Demand and lead times were more than expected."
+  ],
+  "answer": 2,
+  "explanation": "That's right! A stockout can occur when demand for a product exceeds expectations, and lead times for restocking are longer than anticipated. This mismatch can result in running out of inventory.",
+  "source": "Section 1 Lesson 4- Assessment"
+ },
+ {
+  "id": "c720-section-1-lesson-4-assessment-q3",
+  "objective": "2.6",
+  "q": "What type of company would most likely use the EOQ model when calculating inventory needs?",
+  "choices": [
+   "An airplane manufacturer",
+   "A retail store",
+   "A candy producer"
+  ],
+  "answer": 2,
+  "explanation": "That's right! A candy producer typically handles a high volume of products with relatively stable demand, making the EOQ model an appropriate method for calculating inventory needs.",
+  "source": "Section 1 Lesson 4- Assessment"
+ },
+ {
+  "id": "c720-section-1-lesson-4-assessment-q4",
+  "objective": "2.6",
+  "q": "What type of company would most likely use the EPQ model when calculating inventory needs?",
+  "choices": [
+   "A car manufacturer",
+   "A hardware store",
+   "A clothing store"
+  ],
+  "answer": 0,
+  "explanation": "That's right! A car manufacturer often deals with production processes that require economic production quantity (EPQ) models to manage and optimize inventory levels for continuous production.",
+  "source": "Section 1 Lesson 4- Assessment"
+ },
+ {
+  "id": "c720-section-1-lesson-4-assessment-q5",
+  "objective": "2.6",
+  "q": "The process of saving money by ordering by the case versus ordering individual units is an exercise of which inventory model?",
+  "choices": [
+   "Economic order quantity (EOQ)",
+   "Quantity discounts method (QDM)",
+   "Safety stock",
+   "Economic production quantity (EPQ)"
+  ],
+  "answer": 1,
+  "explanation": "That's right! The quantity discounts method (QDM) provides cost savings by offering discounts on bulk purchases. This is the practice of saving money by ordering larger quantities at once.",
+  "source": "Section 1 Lesson 4- Assessment"
+ },
+ {
+  "id": "c720-section-1-test-q1",
+  "objective": "2.6",
+  "q": "A manufacturing company is reworking its operations with a greater emphasis on social sustainability. Which action should the manufacturing company take to address this form of sustainability?",
+  "choices": [
+   "Prioritize practices for long-term savings",
+   "Foster positive community relationships",
+   "Give support to select political groups",
+   "Enhance collaboration among departments"
+  ],
+  "answer": 1,
+  "explanation": "That's right! Social sustainability includes measures such as fostering positive community relationships, enhancing worker safety, and improving employee job security.",
+  "source": "Section 1- Test"
+ },
+ {
+  "id": "c720-section-1-test-q2",
+  "objective": "2.6",
+  "q": "A new operations manager has been hired by a company. What is an ethical concern for the operations manager?",
+  "choices": [
+   "How to optimally design a product",
+   "Fair practices for setting product prices",
+   "Worker safety during production",
+   "Creating shift schedules for laborers"
+  ],
+  "answer": 2,
+  "explanation": "That's right! Ethics are moral principles that guide behavior. Ethical concerns for an operations manager include product safety, worker safety, and environmental effects.",
+  "source": "Section 1- Test"
+ },
+ {
+  "id": "c720-section-1-test-q3",
+  "objective": "2.6",
+  "q": "An organization wants to update its policies and practices to place more of an emphasis on economic sustainability. What should the organization do to address this?",
+  "choices": [
+   "Deliver the maximum possible value to the customer",
+   "Set product prices at the level that maximizes sales",
+   "Prioritize long-term benefits over short-term savings",
+   "Design products with the highest-quality materials"
+  ],
+  "answer": 2,
+  "explanation": "That's right! Economic sustainability involves measures such as prioritizing long-term benefits over short-term savings, improving efficiency to reduce costs, and better utilizing production capacity.",
+  "source": "Section 1- Test"
+ },
+ {
+  "id": "c720-section-1-test-q4",
+  "objective": "2.6",
+  "q": "A company's new leadership team wants to update the company's practices and policies to reflect a greater level of social sustainability. What should the leadership team work on to address this issue?",
+  "choices": [
+   "Use standard accounting practices",
+   "Improve employee job security",
+   "Enhance collaboration among departments",
+   "Give support to select political groups"
+  ],
+  "answer": 1,
+  "explanation": "That's right! Social sustainability includes measures such as fostering positive community relationships, enhancing worker safety, and improving employee job security.",
+  "source": "Section 1- Test"
+ },
+ {
+  "id": "c720-section-1-test-q5",
+  "objective": "2.6",
+  "q": "An operations manager decides to change a production facility layout to better utilize space and improve productivity. What is the component of the triple bottom line that this decision addresses?",
+  "choices": [
+   "Product optimization",
+   "Economic profitability",
+   "Social responsibility",
+   "Environmental viability"
+  ],
+  "answer": 1,
+  "explanation": "That's right! Economic profitability represents one component of the triple bottom line. This means that the company must be financially profitable.",
+  "source": "Section 1- Test"
+ },
+ {
+  "id": "c720-section-1-test-q6",
+  "objective": "2.6",
+  "q": "An operations manager makes a decision to replace a production machine with a model that is more energy efficient. What is the component of the triple bottom line that this decision addresses?",
+  "choices": [
+   "Product optimization",
+   "Social responsibility",
+   "Economic profitability",
+   "Environmental viability"
+  ],
+  "answer": 3,
+  "explanation": "That's right! Environmental viability is one component of the triple bottom line. This component addresses energy consumption, pollutants, and the use of resources.",
+  "source": "Section 1- Test"
+ },
+ {
+  "id": "c720-section-1-test-q7",
+  "objective": "2.6",
+  "q": "Which benefit is associated with SWOT analysis?",
+  "choices": [
+   "It helps a company understand its internal strengths and weaknesses.",
+   "It identifies which level of inventory to maintain to minimize overall costs.",
+   "It integrates technology and information among supply and operations elements.",
+   "It helps define how an organization should compete within the market environment."
+  ],
+  "answer": 0,
+  "explanation": "That's right! SWOT analysis helps a company identify internal strengths and internal areas for improvements. It also helps a company minimize external threats and take advantage of opportunities.",
+  "source": "Section 1- Test"
+ },
+ {
+  "id": "c720-section-1-test-q8",
+  "objective": "2.6",
+  "q": "Which question is among those that a company should ask when determining strengths for SWOT analysis?",
+  "choices": [
+   "What is the status of supply chain integration?",
+   "Which information systems are central to operations?",
+   "What is the perceived reputation of the company?",
+   "What is the expected increase in market demand?"
+  ],
+  "answer": 2,
+  "explanation": "That's right! When determining strengths, a company should ask about internal advantages, core competencies, unique resources, and perceived strengths.",
+  "source": "Section 1- Test"
+ },
+ {
+  "id": "c720-section-1-test-q9",
+  "objective": "2.6",
+  "q": "Which question is important for identifying weaknesses in SWOT analysis?",
+  "choices": [
+   "What is the best inventory accounting method?",
+   "Which business factors result in lost sales?",
+   "Which consumer trends may decrease demand?",
+   "Which government actions are bad for profitability?"
+  ],
+  "answer": 1,
+  "explanation": "That's right! When determining weaknesses, a company should ask about internal elements that could be improved, perceived weaknesses, and factors that result in lost sales.",
+  "source": "Section 1- Test"
+ },
+ {
+  "id": "c720-section-1-test-q10",
+  "objective": "2.6",
+  "q": "What is one of the questions that a company should ask when determining threats for SWOT analysis? for SWOT analysis?",
+  "choices": [
+   "Which information systems are the most out-of-date?",
+   "Which customer service processes are the most problematic?",
+   "Which sensitive data is stored with the least protective measures?",
+   "What are the potential disadvantageous regulations of government?"
+  ],
+  "answer": 3,
+  "explanation": "That's right! When determining threats, a company should ask about external obstacles, competitor actions, potential negative government actions, changing quality standards, and technology changes.",
+  "source": "Section 1- Test"
+ },
+ {
+  "id": "c720-section-1-test-q11",
+  "objective": "2.6",
+  "q": "Which factor is one of the two internal elements of SWOT analysis?",
+  "choices": [
+   "Workplaces",
+   "Strengths",
+   "Opportunities",
+   "Technologies"
+  ],
+  "answer": 1,
+  "explanation": "That's right! The internal elements of SWOT analysis are strengths and weaknesses.",
+  "source": "Section 1- Test"
+ },
+ {
+  "id": "c720-section-1-test-q12",
+  "objective": "2.6",
+  "q": "What is a reason for conducting SWOT analysis?",
+  "choices": [
+   "Developing plans of action for ethics and sustainability challenges",
+   "Identifying opportunities and threats related to external factors",
+   "Identifying opportunities for enhanced employee well-being",
+   "Strengthening product designs to improve customer satisfaction"
+  ],
+  "answer": 1,
+  "explanation": "That's right! The purpose of SWOT analysis is to assess an organization's productivity by identifying strengths, weaknesses, opportunities, and threats.",
+  "source": "Section 1- Test"
+ },
+ {
+  "id": "c720-section-1-test-q13",
+  "objective": "2.6",
+  "q": "A clothing retailer uses a perpetual inventory system to track its inventory of all its clothing products. What is an advantage of this type of inventory system?",
+  "choices": [
+   "An up-to-date running inventory balance",
+   "Consistent inventory delivery schedules",
+   "Order placement for optimized inventory cost",
+   "Reduced reliance on computer-based systems"
+  ],
+  "answer": 0,
+  "explanation": "That's right! In a perpetual inventory system, inventory levels are continuously monitored. One benefit of a perpetual inventory system is an up-to-date running inventory balance.",
+  "source": "Section 1- Test"
+ },
+ {
+  "id": "c720-section-1-test-q14",
+  "objective": "2.6",
+  "q": "A department store upgraded its operations to include a perpetual inventory system. Which disadvantage does the store have by using this type of inventory system?",
+  "choices": [
+   "Demand must be forecasted with a high level of accuracy.",
+   "A consistent level of market demand is required.",
+   "There must be a low level of inventory product variety.",
+   "The supplier must be able to replenish inventory at any time."
+  ],
+  "answer": 3,
+  "explanation": "That's right! In a perpetual inventory system, inventory levels are continuously monitored. One disadvantage of this method is that the supplier must be able to replenish inventory at any time.",
+  "source": "Section 1- Test"
+ },
+ {
+  "id": "c720-section-1-test-q15",
+  "objective": "2.6",
+  "q": "A small business uses a periodic inventory system to manage its inventory of products. What is an advantage of this type of inventory system?",
+  "choices": [
+   "A lower level of inventory can be held.",
+   "There is a low risk of running out of stock.",
+   "There is no need for a computerized system.",
+   "It is responsive to demand changes."
+  ],
+  "answer": 2,
+  "explanation": "That's right! The periodic system bases inventory replenishment on specific time intervals. One advantage of this method is that there is no need for a computerized system.",
+  "source": "Section 1- Test"
+ },
+ {
+  "id": "c720-section-1-test-q16",
+  "objective": "2.6",
+  "q": "A sporting goods store relies on a periodic system to manage its inventory of sellable products. What is a disadvantage of this type of inventory system?",
+  "choices": [
+   "A significant initial investment of financial capital",
+   "An inability to react quickly to sudden demand changes",
+   "A costly plan of regular system maintenance and updates",
+   "A high level of coordination among supply chain components"
+  ],
+  "answer": 1,
+  "explanation": "That's right! The periodic system bases inventory replenishment on specific time intervals. One disadvantage of this system is an inability to react quickly to sudden demand changes.",
+  "source": "Section 1- Test"
+ },
+ {
+  "id": "c720-section-1-test-q17",
+  "objective": "2.6",
+  "q": "What is a characteristic of the economic order quantity model of inventory management?",
+  "choices": [
+   "It assumes that an organization's manufacturing capacity for a product exceeds the demand for that product.",
+   "It specifically allows for incremental inventory replenishment and incremental depletion.",
+   "It is based on the assumption that the size of inventory replenishment influences purchase prices.",
+   "It is the basic method primarily concerned with the cost of replenishment and the cost of carrying inventory."
+  ],
+  "answer": 3,
+  "explanation": "That's right! The economic order quantity model focuses on minimizing total costs by determining where ordering costs and carrying costs are equal.",
+  "source": "Section 1- Test"
+ },
+ {
+  "id": "c720-section-1-test-q18",
+  "objective": "2.6",
+  "q": "What is one of the assumptions of the economic order quantity model?",
+  "choices": [
+   "Orders can be placed incrementally.",
+   "Inventory is from internal and external sources.",
+   "Demand is reasonably stable and known.",
+   "Replenishment arrives in multiple shipments."
+  ],
+  "answer": 2,
+  "explanation": "That's right! The economic order quantity model assumes that 1) demand is constant and known, 2) purchase cost is independent of order quantity, 3) orders are delivered at once, and 4) ordering costs and carrying costs are independent and known.",
+  "source": "Section 1- Test"
+ },
+ {
+  "id": "c720-section-1-test-q19",
+  "objective": "2.6",
+  "q": "Which inventory costs include costs associated with lost sales?",
+  "choices": [
+   "Carrying",
+   "Stockout",
+   "Purchase",
+   "Ordering"
+  ],
+  "answer": 1,
+  "explanation": "That's right!. Stockout costs include costs resulting from backorders, lost sales, and lost customers.",
+  "source": "Section 1- Test"
+ }
+]

@@ -3,8 +3,4 @@ dist
 .netlify
 .env
 netlify/content
-# Courseware-derived content stays out of git until the repo is private (see README)
-content/courses/*/guides/
-content/courses/*/questions.json
-content/courses/*/flashcards.json
 __pycache__

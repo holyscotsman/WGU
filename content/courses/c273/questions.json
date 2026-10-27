@@ -1,0 +1,2032 @@
+[
+ {
+  "id": "c273-section-1-section-1-test-q1",
+  "objective": "s1",
+  "q": "Which situation demonstrates recognizing the general in the particular using a sociological perspective?",
+  "choices": [
+   "A home builder compares housing styles in different countries to understand clients' cultural preferences.",
+   "A renter explains being unable to afford housing by focusing on their personal spending choices.",
+   "A member of a community observes that many people in the community struggle to afford housing because their wages are too low.",
+   "A home buyer assumes that their difficulty finding an affordable home is a challenge that everyone experiences, regardless of circumstances."
+  ],
+  "answer": 2,
+  "explanation": "This response connects individual experiences to a broader pattern affecting many people, which reflects recognizing the general in the particular.",
+  "source": "Section 1/Section 1- Test"
+ },
+ {
+  "id": "c273-section-1-section-1-test-q2",
+  "objective": "s1",
+  "q": "Which research method involves testing cause-and-effect relationships under controlled conditions?",
+  "choices": [
+   "Ethnography",
+   "Surveys",
+   "Field research",
+   "Experiments"
+  ],
+  "answer": 3,
+  "explanation": "Experiments are designed to test cause-and-effect relationships under controlled conditions by manipulating variables and observing the outcomes.",
+  "source": "Section 1/Section 1- Test"
+ },
+ {
+  "id": "c273-section-1-section-1-test-q3",
+  "objective": "s1",
+  "q": "Which type of research relies on interviews and open-ended questions?",
+  "choices": [
+   "Statistical modeling",
+   "Qualitative research",
+   "Experimental research",
+   "Quantitative research"
+  ],
+  "answer": 1,
+  "explanation": "Qualitative research emphasizes detailed, descriptive data gathered through interviews and open- ended questions.",
+  "source": "Section 1/Section 1- Test"
+ },
+ {
+  "id": "c273-section-1-section-1-test-q4",
+  "objective": "s1",
+  "q": "Which statement reflects an understanding of society according to the functionalist perspective?",
+  "choices": [
+   "Social stability depends on interdependent parts of society fulfilling necessary roles.",
+   "Social life is shaped by how individuals interpret symbols during everyday interactions.",
+   "Social order is produced through competition between groups for limited resources.",
+   "Social outcomes are primarily the result of personal values and individual motivation."
+  ],
+  "answer": 0,
+  "explanation": "Functionalism views society as composed of interdependent parts that each perform functions necessary for stability and order.",
+  "source": "Section 1/Section 1- Test"
+ },
+ {
+  "id": "c273-section-1-section-1-test-q5",
+  "objective": "s1",
+  "q": "Which sociologist emphasized the study of social facts, or patterns of behavior that exist outside individuals and influence their actions?",
+  "choices": [
+   "George Herbert Mead",
+   "Auguste Comte",
+   "Émile Durkheim",
+   "Karl Marx"
+  ],
+  "answer": 2,
+  "explanation": "Durkheim argued that social facts exist outside individuals, influence behavior, and should be studied scientifically to understand how societies maintain order.",
+  "source": "Section 1/Section 1- Test"
+ },
+ {
+  "id": "c273-section-1-section-1-test-q6",
+  "objective": "s1",
+  "q": "Which statement reflects how feminist theory explains gender inequality in society?",
+  "choices": [
+   "Gender inequality is built into social institutions, and social change is required to reduce it.",
+   "Gender differences are created mostly through everyday interactions and shared meanings.",
+   "Gender inequality is mainly the result of individual attitudes and personal choices.",
+   "Gender inequality is built into social institutions, and society relies on that to remain stable over time."
+  ],
+  "answer": 0,
+  "explanation": "This identifies inequality as rooted in social structures and emphasizes the need for change to address unequal power relationships.",
+  "source": "Section 1/Section 1- Test"
+ },
+ {
+  "id": "c273-section-1-section-1-test-q7",
+  "objective": "s1",
+  "q": "Why do sociologists use different sociological perspectives when studying the same social issue?",
+  "choices": [
+   "Because different perspectives highlight different patterns, questions, and explanations within social life",
+   "Because each perspective focuses on either large institutions or small groups but not both",
+   "Because different perspectives allow sociologists to express personal opinions about society",
+   "Because sociologists compare perspectives to identify the explanation that shares their values or bias"
+  ],
+  "answer": 0,
+  "explanation": "Different perspectives focus attention on different aspects of social life, leading to varied questions and explanations.",
+  "source": "Section 1/Section 1- Test"
+ },
+ {
+  "id": "c273-section-1-section-1-test-q8",
+  "objective": "s1",
+  "q": "Which example represents applied sociology?",
+  "choices": [
+   "A sociologist uses research to suggest policies that support working students.",
+   "A sociologist develops a new theory about social inequality.",
+   "A sociologist studies workplace stress but offers no recommendations.",
+   "A sociologist analyzes symbols used in online communication."
+  ],
+  "answer": 0,
+  "explanation": "This reflects applied sociology because research findings are used to recommend practical changes that address real-life issues.",
+  "source": "Section 1/Section 1- Test"
+ },
+ {
+  "id": "c273-section-1-section-1-test-q9",
+  "objective": "s1",
+  "q": "Why is reporting results considered an essential step in the sociological research process?",
+  "choices": [
+   "It guarantees that the research findings will influence public policy.",
+   "It prevents ethical violations during data collection.",
+   "It ensures that findings can be evaluated, replicated, and built upon by others.",
+   "It allows researchers to revise their hypothesis after the study ends."
+  ],
+  "answer": 2,
+  "explanation": "Reporting results allows other researchers to evaluate, replicate, and extend the findings.",
+  "source": "Section 1/Section 1- Test"
+ },
+ {
+  "id": "c273-section-1-section-1-test-q10",
+  "objective": "s1",
+  "q": "Which research goal is an example of explanatory research?",
+  "choices": [
+   "Presenting a description, in their own words, of how people experience social life",
+   "Identifying relationships that help explain why a social pattern exists",
+   "Measuring how frequently a social behavior occurs",
+   "Collecting data through surveys rather than observation"
+  ],
+  "answer": 1,
+  "explanation": "Explanatory research focuses on identifying relationships and causes that clarify why patterns or outcomes occur.",
+  "source": "Section 1/Section 1- Test"
+ },
+ {
+  "id": "c273-section-1-section-1-test-q11",
+  "objective": "s1",
+  "q": "Which action demonstrates a sociologist maintaining research integrity?",
+  "choices": [
+   "Selecting only results that support the original hypothesis",
+   "Clearly citing prior research and reporting findings honestly",
+   "Conducting research outside their area of training to gain recognition",
+   "Adjusting conclusions to align with the expectations of a funding source"
+  ],
+  "answer": 1,
+  "explanation": "Citing sources and reporting findings transparently reflects professional and ethical research standards.",
+  "source": "Section 1/Section 1- Test"
+ },
+ {
+  "id": "c273-section-1-section-1-test-q12",
+  "objective": "s1",
+  "q": "Which situation exemplifies taking a qualitative approach to research?",
+  "choices": [
+   "Measuring whether participation in tutoring programs improves exam scores",
+   "Calculating the average number of hours students spend studying each week",
+   "Analyzing graduation rates across multiple universities",
+   "Examining how individuals interpret and make meaning of their experiences with poverty"
+  ],
+  "answer": 3,
+  "explanation": "This focuses on understanding lived experiences and meaning-making, which characterizes qualitative research.",
+  "source": "Section 1/Section 1- Test"
+ },
+ {
+  "id": "c273-section-1-lesson-1-quiz-q1",
+  "objective": "s1",
+  "q": "What does using a sociological perspective help people understand?",
+  "choices": [
+   "How people's lives are shaped by social forces, allowing us to see patterns in particular behaviors",
+   "How individual experiences are explained mainly by personal motivation",
+   "How personality traits develop over a person's lifespan",
+   "How biological traits determine people's behavior"
+  ],
+  "answer": 0,
+  "explanation": "The sociological perspective explains how personal troubles are influenced by social forces and reveal patterns about society. © 2020 Western Governors University – WGU. All rights reserved. ADA Accommodation Privacy Policy | Terms of Service | Honor Code",
+  "source": "Section 1/Lesson 1- Quiz"
+ },
+ {
+  "id": "c273-section-1-lesson-1-quiz-q2",
+  "objective": "s1",
+  "q": "How do sociologists recognize the general in the particular when using the sociological imagination?",
+  "choices": [
+   "By studying rare or unusual individual behavior",
+   "By focusing on differences between cultures",
+   "By explaining individual behavior using personal choices alone",
+   "By identifying patterns that characterize many individuals' experiences"
+  ],
+  "answer": 3,
+  "explanation": "Sociologists look for shared patterns across individuals to understand how social conditions shape experiences.",
+  "source": "Section 1/Lesson 1- Quiz"
+ },
+ {
+  "id": "c273-section-1-lesson-1-quiz-q3",
+  "objective": "s1",
+  "q": "Which factor caused 19th-century European thinkers to lay the foundation for Which factor caused 19th-century European thinkers to lay the foundation for sociology?",
+  "choices": [
+   "People moved from rural areas to cities due to industrialization.",
+   "Interest in individual personality and behavior increased.",
+   "Biological science has made great advances.",
+   "Cultural traditions were in decline."
+  ],
+  "answer": 0,
+  "explanation": "Industrialization caused major social changes, prompting scholars to study society systematically and leading to the development of sociology.",
+  "source": "Section 1/Lesson 1- Quiz"
+ },
+ {
+  "id": "c273-section-1-lesson-1-quiz-q4",
+  "objective": "s1",
+  "q": "Whose ideas helped shape the conflict approach, which examines inequality within society?",
+  "choices": [
+   "Auguste Comte",
+   "Max Weber",
+   "Karl Marx",
+   "Émile Durkheim"
+  ],
+  "answer": 2,
+  "explanation": "Marx's ideas about class conflict and unequal access to resources shaped the conflict perspective.",
+  "source": "Section 1/Lesson 1- Quiz"
+ },
+ {
+  "id": "c273-section-1-lesson-1-quiz-q5",
+  "objective": "s1",
+  "q": "What does the term double consciousness, introduced by W.E.B. Du Bois, describe?",
+  "choices": [
+   "Explaining one's own behavior through learned social roles",
+   "Seeing oneself through multiple social identities at the same time",
+   "Balancing individual goals with group responsibilities",
+   "Experiencing conflict between personal belief and social expectation"
+  ],
+  "answer": 1,
+  "explanation": "Du Bois used double consciousness to describe viewing oneself through personal identity and through society's perceptions simultaneously.",
+  "source": "Section 1/Lesson 1- Quiz"
+ },
+ {
+  "id": "c273-section-1-lesson-2-quiz-q1",
+  "objective": "s1",
+  "q": "What is an example of a macro-level sociological analysis?",
+  "choices": [
+   "Observing how two friends interpret tone in a text message",
+   "Examining how school funding differences affect graduation rates across communities",
+   "Studying how body language influences a face-to-face conversation",
+   "Analyzing how classroom rules shape student behavior within one school"
+  ],
+  "answer": 1,
+  "explanation": "This focuses on large-scale social patterns and institutional structures across multiple communities, which is characteristic of macro-level sociological analysis.",
+  "source": "Section 1/Lesson 2- Quiz"
+ },
+ {
+  "id": "c273-section-1-lesson-2-quiz-q2",
+  "objective": "s1",
+  "q": "According to the conflict perspective, what is the role of social institutions?",
+  "choices": [
+   "They primarily reflect shared values and norms that benefit all members of the institutions equally.",
+   "They may seem neutral and fair, but in reality they promote existing power differences that can never be changed.",
+   "They promote equal opportunities for all members of the institutions, provided those individuals work hard enough.",
+   "They often maintain unequal power and resource distributions, but they can also become sites of social change."
+  ],
+  "answer": 3,
+  "explanation": "Conflict theory argues that institutions often reinforce inequality and power differences while also providing arenas where marginalized groups may challenge these inequalities.",
+  "source": "Section 1/Lesson 2- Quiz"
+ },
+ {
+  "id": "c273-section-1-lesson-2-quiz-q3",
+  "objective": "s1",
+  "q": "What does symbolic interactionism explain about how people behave?",
+  "choices": [
+   "People's behavior is determined by society's rules, with very little influence from personal interpretation of those rules.",
+   "People's behavior is more strongly affected by biological instincts and inherited traits than by any other factors.",
+   "People's behavior is mostly determined by large social institutions and by class structure.",
+   "People's behavior is based on the meanings they give to words, gestures, and emojis during everyday encounters with others."
+  ],
+  "answer": 3,
+  "explanation": "Symbolic interactionism explains behavior through the meanings people assign to symbols during everyday social interactions.",
+  "source": "Section 1/Lesson 2- Quiz"
+ },
+ {
+  "id": "c273-section-1-lesson-2-quiz-q4",
+  "objective": "s1",
+  "q": "According to feminist theory, what role does patriarchy play in society?",
+  "choices": [
+   "Patriarchy maintains social stability by ensuring that men and women fulfill complementary roles in society.",
+   "Patriarchy reinforces gender inequality by embedding male power and authority into social institutions.",
+   "Patriarchy results from individual beliefs and choices and so shapes how people treat men and women differently.",
+   "Patriarchy reflects natural biological differences by making gender inequality an unavoidable outcome of human nature."
+  ],
+  "answer": 1,
+  "explanation": "Feminist theory examines how patriarchal structures within institutions sustain gender inequality and privilege male authority.",
+  "source": "Section 1/Lesson 2- Quiz"
+ },
+ {
+  "id": "c273-section-1-lesson-2-quiz-q5",
+  "objective": "s1",
+  "q": "Which statement accurately describes the role of clinical sociologists in communities?",
+  "choices": [
+   "They primarily develop new sociological theories about community life.",
+   "They study patterns of inequality across communities and use research to describe social problems.",
+   "They work with communities to understand social problems but focus mainly on explanation rather than intervention.",
+   "They work directly with community groups to design and carry out interventions that improve social conditions."
+  ],
+  "answer": 3,
+  "explanation": "Clinical sociologists apply sociological knowledge in practical settings by collaborating with communities to create and implement solutions.",
+  "source": "Section 1/Lesson 2- Quiz"
+ },
+ {
+  "id": "c273-section-1-lesson-3-quiz-q1",
+  "objective": "s1",
+  "q": "Which stage of the research process is taking place when a sociologist creates a plan for gathering data?",
+  "choices": [
+   "Researching existing sources",
+   "Forming a hypothesis",
+   "Reporting results",
+   "Design and conduct a study"
+  ],
+  "answer": 3,
+  "explanation": "This stage includes planning how data will be gathered, selecting methods, and carrying out the research.",
+  "source": "Section 1/Lesson 3- Quiz"
+ },
+ {
+  "id": "c273-section-1-lesson-3-quiz-q2",
+  "objective": "s1",
+  "q": "What is a purpose of descriptive research?",
+  "choices": [
+   "To determine which variable produces a change in another variable",
+   "To describe a social pattern or trend",
+   "To explore why a social pattern exists by identifying its underlying causes",
+   "To test whether one factor in an experiment directly causes another"
+  ],
+  "answer": 1,
+  "explanation": "Descriptive research documents and describes social patterns or trends, such as how common a behavior is.",
+  "source": "Section 1/Lesson 3- Quiz"
+ },
+ {
+  "id": "c273-section-1-lesson-3-quiz-q3",
+  "objective": "s1",
+  "q": "Which question is an example of qualitative research?",
+  "choices": [
+   "How often do university students check their social media accounts?",
+   "How many people in a community have access to healthcare?",
+   "How do families cope with stress during financial hardship?",
+   "To what extent does tutoring improve high school students' grades?"
+  ],
+  "answer": 2,
+  "explanation": "This question seeks to understand lived experiences and meaning, which reflects qualitative research.",
+  "source": "Section 1/Lesson 3- Quiz"
+ },
+ {
+  "id": "c273-section-1-lesson-3-quiz-q4",
+  "objective": "s1",
+  "q": "A sociologist studies social change by examining newspaper archives for articles covering historical protests. What is this an example of?",
+  "choices": [
+   "Survey administration",
+   "Participant observation",
+   "Content analysis",
+   "Experimentation"
+  ],
+  "answer": 2,
+  "explanation": "Content analysis examines written materials to identify patterns, themes, meanings, or representations.",
+  "source": "Section 1/Lesson 3- Quiz"
+ },
+ {
+  "id": "c273-section-1-lesson-3-quiz-q5",
+  "objective": "s1",
+  "q": "A sociologist receives funding from a company that could benefit if the study produces certain findings. Which potential ethical concern does the source of the funding represent?",
+  "choices": [
+   "Conflict of interest",
+   "Inaccurate reporting of results",
+   "Plagiarism",
+   "Misrepresentation of the sociologist's expertise"
+  ],
+  "answer": 0,
+  "explanation": "A conflict of interest occurs when financial or professional interests could influence research decisions or outcomes.",
+  "source": "Section 1/Lesson 3- Quiz"
+ },
+ {
+  "id": "c273-section-2-section-2-test-q1",
+  "objective": "s2",
+  "q": "Which statement accurately defines culture as sociologists study it?",
+  "choices": [
+   "Culture refers to the laws and government policies that regulate behavior in a society.",
+   "Culture includes shared beliefs, values, norms, language, and behaviors learned through social interaction.",
+   "Culture describes individual personality traits and personal preferences.",
+   "Culture refers to artistic expression such as music, food, and clothing."
+  ],
+  "answer": 1,
+  "explanation": "Culture consists of shared meanings and expectations that members of a society learn and use to guide everyday life.",
+  "source": "Section 2/Section 2- Test"
+ },
+ {
+  "id": "c273-section-2-section-2-test-q2",
+  "objective": "s2",
+  "q": "In a society, a behavior is so strongly forbidden that violating it can lead to severe social or legal consequences. Which type of norm does this describe?",
+  "choices": [
+   "Taboo",
+   "More",
+   "Personal preference",
+   "Folkway"
+  ],
+  "answer": 0,
+  "explanation": "Taboos are behaviors that are considered extremely unacceptable or forbidden within a culture and often result in severe social or legal consequences.",
+  "source": "Section 2/Section 2- Test"
+ },
+ {
+  "id": "c273-section-2-section-2-test-q3",
+  "objective": "s2",
+  "q": "An individual feels hungry at lunchtime and chooses to eat a specific type of food that is popular in their community. Which statement represents how a sociologist uses an understanding of nurture to explain this behavior?",
+  "choices": [
+   "The individual's food choice reflects social learning and cultural influences in the environment.",
+   "The individual's behavior is caused by instincts that guide eating patterns.",
+   "The individual's food choice reflects personal preference rather than social influence.",
+   "The individual eats that food because hunger automatically determines what the body needs."
+  ],
+  "answer": 0,
+  "explanation": "A sociological (nurture) explanation emphasizes how behavior develops through social learning, shared expectations, and environmental factors, such as cultural norms and availability.",
+  "source": "Section 2/Section 2- Test"
+ },
+ {
+  "id": "c273-section-2-section-2-test-q4",
+  "objective": "s2",
+  "q": "Which statement accurately describes the relationship between a subculture and a dominant culture?",
+  "choices": [
+   "A subculture forms in opposition to the dominant culture and rejects its cultural values.",
+   "A subculture and a dominant culture are unrelated groups that develop independently of one another.",
+   "A subculture exists within the dominant culture while maintaining distinctive values and behaviors.",
+   "A subculture breaks away from the dominant culture so that people with a particular hobby can explore their interests more fully."
+  ],
+  "answer": 2,
+  "explanation": "A subculture develops its own patterns of beliefs and behaviors but still operates within the dominant culture.",
+  "source": "Section 2/Section 2- Test"
+ },
+ {
+  "id": "c273-section-2-section-2-test-q5",
+  "objective": "s2",
+  "q": "A supervisor expects employees to speak up frequently during meetings because that is the common practice in the supervisor's cultural background. When a new employee remains quiet, the supervisor assumes the employee is unmotivated rather than considering that communication styles differ across cultures. Which concept accurately reflects the supervisor's perspective?",
+  "choices": [
+   "Ethnocentrism",
+   "Dominant culture",
+   "Cultural imperialism",
+   "Cultural relativism"
+  ],
+  "answer": 0,
+  "explanation": "Ethnocentrism involves judging another person's behavior using one's own cultural standards as the norm, as the supervisor does when evaluating the employee's behavior.",
+  "source": "Section 2/Section 2- Test"
+ },
+ {
+  "id": "c273-section-2-section-2-test-q6",
+  "objective": "s2",
+  "q": "How does a peer group act as an agent of socialization for a child?",
+  "choices": [
+   "By reinforcing what is considered acceptable or popular within a group",
+   "By teaching formal rules and roles",
+   "By serving as the first and primary source of learning about right and wrong",
+   "By spreading information to a large population through television and online platforms"
+  ],
+  "answer": 0,
+  "explanation": "Peer groups influence behavior by reinforcing shared expectations and teaching individuals how to fit in, form relationships, and develop independence from family.",
+  "source": "Section 2/Section 2- Test"
+ },
+ {
+  "id": "c273-section-2-section-2-test-q7",
+  "objective": "s2",
+  "q": "Why is interaction with others necessary for the development of the self, according to Mead?",
+  "choices": [
+   "Because biological instincts determine identity",
+   "Because individuals learn to see themselves from the perspective of others",
+   "Because individuals are born with a fully formed sense of self that simply needs opportunities to be expressed",
+   "Because formal rules must be taught before an individual's identity can form"
+  ],
+  "answer": 1,
+  "explanation": "Mead explains that the self develops as individuals take the role of others and imagine how they are perceived.",
+  "source": "Section 2/Section 2- Test"
+ },
+ {
+  "id": "c273-section-2-section-2-test-q8",
+  "objective": "s2",
+  "q": "What distinguishes the game stage from the play stage in Mead's theory of self- development?",
+  "choices": [
+   "Children first begin taking the role of a specific other person, such as a parent or teacher.",
+   "Children focus on one role at a time without understanding broader expectations.",
+   "Children understand how multiple roles work together within shared rules and expectations.",
+   "Children begin imitating adults' behaviors more accurately."
+  ],
+  "answer": 2,
+  "explanation": "In the game stage, children coordinate several roles at once and internalize shared rules, developing awareness of the generalized other.",
+  "source": "Section 2/Section 2- Test"
+ },
+ {
+  "id": "c273-section-2-section-2-test-q9",
+  "objective": "s2",
+  "q": "How is the self formed, according to Cooley?",
+  "choices": [
+   "A person's self is determined by biological instincts that determine personality.",
+   "A person's self develops only through formal institutions such as schools and workplaces.",
+   "A person's self is shaped by how they imagine others see and judge them, even if those judgments are not accurate.",
+   "A person's self develops only after receiving direct and accurate feedback from others."
+  ],
+  "answer": 2,
+  "explanation": "Cooley's process, known as the looking-glass self, shows that individuals form self-understanding by imagining how they appear to others.",
+  "source": "Section 2/Section 2- Test"
+ },
+ {
+  "id": "c273-section-2-section-2-test-q10",
+  "objective": "s2",
+  "q": "A middle school student is teased by classmates for joining the dance club because some peers tell him it is \"not for boys.\" Over time, the student begins to question whether the activity fits expectations for their gender. Which concept explains what is occurring in this situation?",
+  "choices": [
+   "The student is experiencing gender socialization.",
+   "The student is developing a gender identity.",
+   "The student is responding to a dominant cultural expectation.",
+   "The student is expressing a sexual orientation."
+  ],
+  "answer": 0,
+  "explanation": "Gender socialization is the process through which individuals learn behaviors and expectations associated with gender. In this case, peers are reinforcing gender norms through teasing.",
+  "source": "Section 2/Section 2- Test"
+ },
+ {
+  "id": "c273-section-2-section-2-test-q11",
+  "objective": "s2",
+  "q": "Employees at a company with no employee dress code consistently choose to wear formal workplace clothing because they believe it shows professionalism. Which aspect of culture does this belief represent?",
+  "choices": [
+   "Cultural change",
+   "Nonmaterial culture",
+   "Social norm",
+   "Material culture"
+  ],
+  "answer": 1,
+  "explanation": "Nonmaterial culture consists of the ideas, attitudes, and beliefs of a society. The belief that formal dress shows professionalism is an intangible aspect of culture.",
+  "source": "Section 2/Section 2- Test"
+ },
+ {
+  "id": "c273-section-2-lesson-1-quiz-q1",
+  "objective": "s2",
+  "q": "A community teaches children that helping others is one of the most important principles to live by. What does this illustrate?",
+  "choices": [
+   "A drive",
+   "A value",
+   "An instinct",
+   "A norm"
+  ],
+  "answer": 1,
+  "explanation": "Values are shared beliefs about what is important or desirable in a society.",
+  "source": "Section 2/Lesson 1- Quiz"
+ },
+ {
+  "id": "c273-section-2-lesson-1-quiz-q2",
+  "objective": "s2",
+  "q": "How do sociologists explain human behavior?",
+  "choices": [
+   "Behavior comes only from biology, with no significant role for culture.",
+   "Actions come from both biology and what we learn from society.",
+   "Social rules alone decide behavior.",
+   "Behavior is all about individuals' personal choices."
+  ],
+  "answer": 1,
+  "explanation": "This reflects the sociological view that behavior results from an interplay of biological factors and learned social influences.",
+  "source": "Section 2/Lesson 1- Quiz"
+ },
+ {
+  "id": "c273-section-2-lesson-1-quiz-q3",
+  "objective": "s2",
+  "q": "Which example shows how culture is both created and maintained over time?",
+  "choices": [
+   "Employees follow a holiday schedule set by the companies they work for.",
+   "Children memorize vocabulary words in a foreign language that they are learning in school.",
+   "People make up, use, and share slang words in their language that are different from the slang that their parents used.",
+   "Travelers attend events recommended by a tour guide to get to know a culture."
+  ],
+  "answer": 2,
+  "explanation": "Culture, including language, is continually made and remade through social interaction.",
+  "source": "Section 2/Lesson 1- Quiz"
+ },
+ {
+  "id": "c273-section-2-lesson-1-quiz-q4",
+  "objective": "s2",
+  "q": "Which situation reflects dominant culture?",
+  "choices": [
+   "A group rejecting mainstream technology and refusing to participate in online activities",
+   "A small group of gamers developing their own slang and inside jokes",
+   "A company creating a dress code for its employees",
+   "The majority of people in a society following the same widely accepted standards for workplace behavior"
+  ],
+  "answer": 3,
+  "explanation": "Dominant culture refers to the most widely shared values, beliefs, and behaviors considered normal within a society.",
+  "source": "Section 2/Lesson 1- Quiz"
+ },
+ {
+  "id": "c273-section-2-lesson-1-quiz-q5",
+  "objective": "s2",
+  "q": "What is a characteristic of a counterculture?",
+  "choices": [
+   "It develops unique interests without directly challenging the dominant culture.",
+   "It attracts more people than other forms of culture.",
+   "It promotes values and norms that oppose those of the dominant culture.",
+   "It reinforces and upholds the dominant values of society."
+  ],
+  "answer": 2,
+  "explanation": "A key feature of a counterculture is the development of values that differ from and challenge the dominant culture.",
+  "source": "Section 2/Lesson 1- Quiz"
+ },
+ {
+  "id": "c273-section-2-lesson-2-quiz-q1",
+  "objective": "s2",
+  "q": "Which set includes core components sociologists use to understand culture?",
+  "choices": [
+   "Norms, values, symbols, and language",
+   "Biology, genetics, environment, and climate",
+   "Instincts, emotions, traditions, and laws",
+   "Personality traits, habits, and preferences"
+  ],
+  "answer": 0,
+  "explanation": "These elements are foundational to understanding how culture shapes shared behavior and meaning.",
+  "source": "Section 2/Lesson 2- Quiz"
+ },
+ {
+  "id": "c273-section-2-lesson-2-quiz-q2",
+  "objective": "s2",
+  "q": "How do norms and values work together to guide behavior in a culture?",
+  "choices": [
+   "Norms guide behavior based on what a culture values.",
+   "Norms and values operate independently and do not influence one another.",
+   "Values set behavioral rules, while norms define moral beliefs.",
+   "Values enforce behavior through laws and formal penalties."
+  ],
+  "answer": 0,
+  "explanation": "Values identify what is important, and norms shape expected behavior that reflects those values.",
+  "source": "Section 2/Lesson 2- Quiz"
+ },
+ {
+  "id": "c273-section-2-lesson-2-quiz-q3",
+  "objective": "s2",
+  "q": "Which example best demonstrates communication through material culture?",
+  "choices": [
+   "Nodding one's head to show agreement",
+   "Wearing professional clothing to signal workplace expectations",
+   "Asking for the check instead of the bill at a restaurant",
+   "Using slang common to a specific age group"
+  ],
+  "answer": 1,
+  "explanation": "Clothing is a physical object that communicates shared cultural meaning and expectations.",
+  "source": "Section 2/Lesson 2- Quiz"
+ },
+ {
+  "id": "c273-section-2-lesson-2-quiz-q4",
+  "objective": "s2",
+  "q": "A manager encounters a workplace custom that feels unfamiliar but seeks to understand it within the employees' cultural background. Which perspective is the manager using?",
+  "choices": [
+   "Globalization",
+   "Cultural relativism",
+   "Ethnocentrism",
+   "Cultural imperialism"
+  ],
+  "answer": 1,
+  "explanation": "This perspective emphasizes understanding beliefs and practices within their cultural context.",
+  "source": "Section 2/Lesson 2- Quiz"
+ },
+ {
+  "id": "c273-section-2-lesson-2-quiz-q5",
+  "objective": "s2",
+  "q": "What is a likely outcome when ethnocentrism shapes how cultural differences are interpreted?",
+  "choices": [
+   "Misunderstanding and reinforcement of stereotypes",
+   "Increased understanding of cultural context",
+   "Reduced cultural difference within societies",
+   "Faster cultural change through innovation"
+  ],
+  "answer": 0,
+  "explanation": "Judging other cultures by one's own standards can lead to bias, stereotypes, and conflict.",
+  "source": "Section 2/Lesson 2- Quiz"
+ },
+ {
+  "id": "c273-section-2-lesson-3-quiz-q1",
+  "objective": "s2",
+  "q": "Which statement shows how the self develops through socialization?",
+  "choices": [
+   "A baby learns to crawl.",
+   "A person's height increases during adolescence.",
+   "A person inherits their eye color from their parents.",
+   "A child begins to see themselves as athletic after receiving praise from teammates."
+  ],
+  "answer": 3,
+  "explanation": "Identity develops through interaction and feedback from others, shaping the self.",
+  "source": "Section 2/Lesson 3- Quiz"
+ },
+ {
+  "id": "c273-section-2-lesson-3-quiz-q2",
+  "objective": "s2",
+  "q": "Which statement illustrates the principle of linked lives in life course theory?",
+  "choices": [
+   "A college student selects a major after discussing options with an academic advisor.",
+   "A recent graduate relocates to a new city to pursue better career opportunities.",
+   "A teenager chooses a summer job to gain independence from their family.",
+   "An older sibling postpones college to help support the family after a parent loses a job."
+  ],
+  "answer": 3,
+  "explanation": "Linked lives highlights how individuals' decisions are shaped by shared relationships and family circumstances.",
+  "source": "Section 2/Lesson 3- Quiz"
+ },
+ {
+  "id": "c273-section-2-lesson-3-quiz-q3",
+  "objective": "s2",
+  "q": "Why do sociologists describe gender as socially constructed?",
+  "choices": [
+   "Because biological traits determine gender roles",
+   "Because ideas about masculinity and femininity vary across cultures and historical periods",
+   "Because the meaning of gender is identical in all societies",
+   "Because gender norms never change over time"
+  ],
+  "answer": 1,
+  "explanation": "Variation across societies shows that gender expectations are created through culture.",
+  "source": "Section 2/Lesson 3- Quiz"
+ },
+ {
+  "id": "c273-section-2-lesson-3-quiz-q4",
+  "objective": "s2",
+  "q": "How do sociologists define \"doing gender\"?",
+  "choices": [
+   "Gender is something people are born with and cannot change.",
+   "Gender is reinforced through everyday behaviors and interactions.",
+   "Gender identity and biological sex are always the same.",
+   "Gender only matters during childhood."
+  ],
+  "answer": 1,
+  "explanation": "\"Doing gender\" refers to actively performing and reinforcing gender norms in daily life.",
+  "source": "Section 2/Lesson 3- Quiz"
+ },
+ {
+  "id": "c273-section-2-lesson-3-quiz-q5",
+  "objective": "s2",
+  "q": "Which example reflects a sociological understanding of sexual orientation?",
+  "choices": [
+   "Sexual orientation involves patterns of attraction and can exist along a spectrum.",
+   "Sexual orientation only refers to a person's behavior.",
+   "Sexual orientation must remain fixed once a person chooses a label.",
+   "Sexual orientation is determined strictly by biology."
+  ],
+  "answer": 0,
+  "explanation": "Attraction exists along a continuum and may vary across individuals and over time.",
+  "source": "Section 2/Lesson 3- Quiz"
+ },
+ {
+  "id": "c273-section-2-lesson-4-quiz-q1",
+  "objective": "s2",
+  "q": "Which statement accurately reflects Mead's theory of self-development?",
+  "choices": [
+   "The self develops only after individuals receive direct criticism from authority figures.",
+   "The self develops over time through social interaction and progresses through stages.",
+   "The self is fully formed at birth and shaped only by personality traits.",
+   "The self forms only after individuals learn formal rules in school."
+  ],
+  "answer": 1,
+  "explanation": "Mead states that the self emerges through interaction and develops across the preparatory, play, and game stages.",
+  "source": "Section 2/Lesson 4- Quiz"
+ },
+ {
+  "id": "c273-section-2-lesson-4-quiz-q2",
+  "objective": "s2",
+  "q": "Which statement is an example of the preparatory stage of self-development?",
+  "choices": [
+   "A child follows the rules of a board game and adjusts behavior based on teammates.",
+   "A toddler copies a caregiver's clapping without understanding why.",
+   "A child considers how classmates might judge their presentation.",
+   "A child pretends to be a firefighter and acts out rescuing people."
+  ],
+  "answer": 1,
+  "explanation": "In the preparatory stage, children imitate behaviors without understanding their meaning or intentions.",
+  "source": "Section 2/Lesson 4- Quiz"
+ },
+ {
+  "id": "c273-section-2-lesson-4-quiz-q3",
+  "objective": "s2",
+  "q": "A group of children is at play, with one child acting as the teacher while the others pretend to be students. The child acting as the teacher focuses only on the teacher role and does not consider how all the roles work together. Which stage of self-development does this illustrate?",
+  "choices": [
+   "Play stage",
+   "Game stage",
+   "Generalized other",
+   "Preparatory stage"
+  ],
+  "answer": 0,
+  "explanation": "The play stage involves taking on one role at a time without understanding how multiple roles fit together.",
+  "source": "Section 2/Lesson 4- Quiz"
+ },
+ {
+  "id": "c273-section-2-lesson-4-quiz-q4",
+  "objective": "s2",
+  "q": "How does the generalized other guide behavior in the game stage?",
+  "choices": [
+   "It encourages spontaneous and impulsive responses to social situations.",
+   "It represents internalized shared expectations that individuals use to guide their actions.",
+   "It refers to direct punishment from authority figures.",
+   "It eliminates the need for role-taking in social interaction."
+  ],
+  "answer": 1,
+  "explanation": "The generalized other refers to the internalized norms and expectations of the broader society that guide behavior.",
+  "source": "Section 2/Lesson 4- Quiz"
+ },
+ {
+  "id": "c273-section-2-lesson-4-quiz-q5",
+  "objective": "s2",
+  "q": "A student gives a class presentation. After noticing classmates whispering, the student thinks, \"They must think I'm not prepared,\" and feels embarrassed. Over time, repeated experiences like this shape how the student sees themselves. Which concept explains this situation?",
+  "choices": [
+   "The game stage",
+   "The preparatory stage",
+   "The looking-glass self",
+   "The \"I\""
+  ],
+  "answer": 2,
+  "explanation": "The looking-glass self explains how individuals imagine how others see and judge them, react emotionally, and develop self-understanding over time.",
+  "source": "Section 2/Lesson 4- Quiz"
+ },
+ {
+  "id": "c273-section-3-section-3-test-q1",
+  "objective": "s3",
+  "q": "How does a primary group influence individuals?",
+  "choices": [
+   "It establishes formal rules and written procedures.",
+   "It organizes people around productivity and efficiency.",
+   "It coordinates large-scale institutional tasks.",
+   "It shapes self-concept, values, and early socialization."
+  ],
+  "answer": 3,
+  "explanation": "Primary groups are characterized by close emotional ties and frequent interaction, which strongly influence self-concept, values, and early socialization.",
+  "source": "Section 3/Section 3- Test"
+ },
+ {
+  "id": "c273-section-3-section-3-test-q2",
+  "objective": "s3",
+  "q": "Which example shows how groups enforce social norms through informal sanctions?",
+  "choices": [
+   "A supervisor assigning tasks according to written job descriptions",
+   "Coworkers expressing disapproval after a team member repeatedly misses meetings",
+   "A court issuing a fine for violating a written law",
+   "An individual comparing behavior to a professional association"
+  ],
+  "answer": 1,
+  "explanation": "Informal sanctions are social reactions, such as disapproval or exclusion, used by group members to enforce norms.",
+  "source": "Section 3/Section 3- Test"
+ },
+ {
+  "id": "c273-section-3-section-3-test-q3",
+  "objective": "s3",
+  "q": "Which example represents a category rather than a group?",
+  "choices": [
+   "Close friends who regularly provide emotional support",
+   "A workplace team assigned to complete a project",
+   "Individuals who share the same occupation but never interact",
+   "A committee that meets weekly to make decisions"
+  ],
+  "answer": 2,
+  "explanation": "A category consists of people who share a common characteristic but do not necessarily interact or share a sense of identity.",
+  "source": "Section 3/Section 3- Test"
+ },
+ {
+  "id": "c273-section-3-section-3-test-q4",
+  "objective": "s3",
+  "q": "Which leadership type focuses on completing tasks and achieving group goals?",
+  "choices": [
+   "Instrumental leadership",
+   "Expressive leadership",
+   "Authoritarian leadership",
+   "Democratic leadership"
+  ],
+  "answer": 0,
+  "explanation": "Instrumental leaders prioritize efficiency, task completion, and achieving group goals.",
+  "source": "Section 3/Section 3- Test"
+ },
+ {
+  "id": "c273-section-3-section-3-test-q5",
+  "objective": "s3",
+  "q": "How do groups influence behavior and society?",
+  "choices": [
+   "By removing the need for roles and statuses",
+   "By preventing the development of social identity",
+   "By eliminating differences between individuals",
+   "By establishing norms and encouraging conformity"
+  ],
+  "answer": 3,
+  "explanation": "Groups influence behavior by creating shared norms and using social pressure, roles, and sanctions to encourage conformity and maintain social order.",
+  "source": "Section 3/Section 3- Test"
+ },
+ {
+  "id": "c273-section-3-section-3-test-q6",
+  "objective": "s3",
+  "q": "What did Max Weber believe about formal organizations in modern societies?",
+  "choices": [
+   "Formal organizations have reduced the need for specialized roles over time.",
+   "Formal organizations provide opportunities for workers to challenge economic inequality.",
+   "Formal organizations exist to increase emotional bonds among members.",
+   "Formal organizations have become increasingly rule-based over time."
+  ],
+  "answer": 3,
+  "explanation": "Weber explained that the growth of formal organizations resulted from increasing rationalization in modern societies, with a focus on efficiency.",
+  "source": "Section 3/Section 3- Test"
+ },
+ {
+  "id": "c273-section-3-section-3-test-q7",
+  "objective": "s3",
+  "q": "In which situation has an individual joined a voluntary organization?",
+  "choices": [
+   "An individual attends school to earn a credential needed to be considered for a promotion.",
+   "An individual works at a hospital for pay.",
+   "An individual is placed in a juvenile detention center.",
+   "An individual participates for no pay with others in their community to help the needy."
+  ],
+  "answer": 3,
+  "explanation": "A voluntary organization is joined freely because it matches shared interests or values, and membership is not required.",
+  "source": "Section 3/Section 3- Test"
+ },
+ {
+  "id": "c273-section-3-section-3-test-q8",
+  "objective": "s3",
+  "q": "During a meeting at which a plan is presented, several team members privately conclude that the plan will fail. However, no one raises concerns because they want to avoid challenging the team leader, and the plan moves forward without critical evaluation. Which group phenomenon does this situation best illustrate?",
+  "choices": [
+   "Conformity",
+   "Social dilemma",
+   "Democratic leadership",
+   "Groupthink"
+  ],
+  "answer": 3,
+  "explanation": "Groupthink occurs when the desire for agreement prevents group members from critically evaluating ideas or considering alternatives.",
+  "source": "Section 3/Section 3- Test"
+ },
+ {
+  "id": "c273-section-3-section-3-test-q9",
+  "objective": "s3",
+  "q": "How does deviance affect society from a functionalist perspective?",
+  "choices": [
+   "It allows marginalized groups to challenge dominant groups.",
+   "It can promote social change and reinforce norms.",
+   "It can eliminate the need for formal laws.",
+   "It increases social inequality."
+  ],
+  "answer": 1,
+  "explanation": "The functionalist perspective argues that deviance is a normal part of society that can reinforce norms and contribute to social change.",
+  "source": "Section 3/Section 3- Test"
+ },
+ {
+  "id": "c273-section-3-section-3-test-q10",
+  "objective": "s3",
+  "q": "When is deviance most likely to occur, according to strain theory?",
+  "choices": [
+   "When powerful groups have criminalized certain behaviors",
+   "When individuals completely reject society's goals",
+   "When individuals have internalized a deviant label",
+   "When there is a gap between societal goals and structural means to achieve them"
+  ],
+  "answer": 3,
+  "explanation": "Strain theory explains deviance as a response to the discrepancy between culturally approved goals and the socially accepted means of achieving those goals.",
+  "source": "Section 3/Section 3- Test"
+ },
+ {
+  "id": "c273-section-3-section-3-test-q11",
+  "objective": "s3",
+  "q": "Which example illustrates organized crime?",
+  "choices": [
+   "Teenagers drink alcohol at a private party.",
+   "A group of people spontaneously decides to vandalize a neighbor's property to prove a point during an argument.",
+   "An employee commits fraud to increase their personal income.",
+   "A group of people coordinates years-long illegal gambling operations to earn money."
+  ],
+  "answer": 3,
+  "explanation": "Organized crime involves coordinated criminal activity carried out by structured groups over time for profit.",
+  "source": "Section 3/Section 3- Test"
+ },
+ {
+  "id": "c273-section-3-section-3-test-q12",
+  "objective": "s3",
+  "q": "Which statement accurately reflects research on gender and crime?",
+  "choices": [
+   "Women commit violent crimes at rates similar to men.",
+   "Men commit more violent crimes, such as homicide and assault, than women do.",
+   "Women are more likely than men to commit violent crimes motivated by bias.",
+   "Men and women commit violent crimes at equal rates across societies."
+  ],
+  "answer": 1,
+  "explanation": "Sociological research indicates that men commit a higher number of violent crimes, especially homicide and assault, across time periods and societies.",
+  "source": "Section 3/Section 3- Test"
+ },
+ {
+  "id": "c273-section-3-lesson-1-quiz-q1",
+  "objective": "s3",
+  "q": "Which term describes a collection of people who share a common characteristic but may never interact with one another?",
+  "choices": [
+   "Aggregate",
+   "Category",
+   "In-group",
+   "Secondary group"
+  ],
+  "answer": 1,
+  "explanation": "Correct. A category includes people who share a characteristic but may never interact.",
+  "source": "Section 3/Lesson 1- Quiz"
+ },
+ {
+  "id": "c273-section-3-lesson-1-quiz-q2",
+  "objective": "s3",
+  "q": "A project team is formed to complete a six-week marketing campaign. Members meet weekly to divide tasks, monitor deadlines, and evaluate progress. Most members do not interact outside of these meetings. Which type of group does this scenario describe?",
+  "choices": [
+   "In-group",
+   "Primary group",
+   "Reference group",
+   "Secondary group"
+  ],
+  "answer": 3,
+  "explanation": "Secondary groups are organized around specific goals or tasks and are typically temporary and impersonal, which aligns with the project-based structure described.",
+  "source": "Section 3/Lesson 1- Quiz"
+ },
+ {
+  "id": "c273-section-3-lesson-1-quiz-q3",
+  "objective": "s3",
+  "q": "Which term refers to all the statuses an individual occupies at the same time? Which term refers to all the statuses an individual occupies at the same time?",
+  "choices": [
+   "Master status",
+   "Role expectations",
+   "Status set",
+   "Role strain"
+  ],
+  "answer": 2,
+  "explanation": "A status set includes all the statuses a person holds simultaneously.",
+  "source": "Section 3/Lesson 1- Quiz"
+ },
+ {
+  "id": "c273-section-3-lesson-1-quiz-q4",
+  "objective": "s3",
+  "q": "After observing the behaviors of a group, an individual decides to avoid that group. Which type of group has the individual observed?",
+  "choices": [
+   "Aggregate",
+   "Out-group",
+   "In-group",
+   "Primary group"
+  ],
+  "answer": 1,
+  "explanation": "The individual is observing an out-group to learn which behaviors not to follow.",
+  "source": "Section 3/Lesson 1- Quiz"
+ },
+ {
+  "id": "c273-section-3-lesson-1-quiz-q5",
+  "objective": "s3",
+  "q": "Which situation illustrates role conflict?",
+  "choices": [
+   "A nurse feeling overwhelmed by policy demands and patient care",
+   "An underqualified male employee being promoted to supervisor over a group of more qualified female employees",
+   "A parent missing their child's school event due to the parent's work responsibilities",
+   "A student moving to a different country to attend university and observing that student behaviors there are very different from those in their home country"
+  ],
+  "answer": 2,
+  "explanation": "Role conflict occurs when an individual holds two or more statuses, and expectations for them clash.",
+  "source": "Section 3/Lesson 1- Quiz"
+ },
+ {
+  "id": "c273-section-3-lesson-2-quiz-q1",
+  "objective": "s3",
+  "q": "Two students regularly meet to study together for an exam. After several weeks, they invite a third student to join their study sessions. What can the group expect to happen as a result of this change in size?",
+  "choices": [
+   "The group will become more stable.",
+   "Each member will start depending more on the others.",
+   "Each member will disagree less often with the others.",
+   "The group will require less organizational structure."
+  ],
+  "answer": 0,
+  "explanation": "The triad typically will be more stable than the dyad.",
+  "source": "Section 3/Lesson 2- Quiz"
+ },
+ {
+  "id": "c273-section-3-lesson-2-quiz-q2",
+  "objective": "s3",
+  "q": "Which statement accurately describes Irving Janis's term groupthink?",
+  "choices": [
+   "Group members hesitate to evaluate alternative ideas critically because they feel the need to agree.",
+   "Group members reduce their effort because they believe others will complete the work.",
+   "Individuals learn to adjust their behavior or beliefs to align with the group's norms.",
+   "Individuals within a group can be easily persuaded to choose personal benefit over what is best for the group."
+  ],
+  "answer": 0,
+  "explanation": "Janis used the term groupthink to describe the extreme pressure for agreement that can suppress critical thinking.",
+  "source": "Section 3/Lesson 2- Quiz"
+ },
+ {
+  "id": "c273-section-3-lesson-2-quiz-q3",
+  "objective": "s3",
+  "q": "Which statement accurately reflects Karl Marx's view of how work is organized? Which statement accurately reflects Karl Marx's view of how work is organized?",
+  "choices": [
+   "Work is organized to maintain social stability by ensuring different roles contribute to the functioning of society.",
+   "Work is organized in ways that support production and generate profit within a system controlled by those with economic power.",
+   "Work is organized according to a meritocratic system in which individuals advance based on ability and achievement.",
+   "Work is organized through clear rules, efficiency, and specialized roles designed to improve coordination."
+  ],
+  "answer": 1,
+  "explanation": "Marx argued that the organization of labor reflects the needs of the economic system and is structured to maximize production and profit.",
+  "source": "Section 3/Lesson 2- Quiz"
+ },
+ {
+  "id": "c273-section-3-lesson-2-quiz-q4",
+  "objective": "s3",
+  "q": "Which leadership style is characterized by allowing group members to make most decisions independently?",
+  "choices": [
+   "Laissez-faire leadership",
+   "Authoritarian leadership",
+   "Expressive leadership",
+   "Democratic leadership"
+  ],
+  "answer": 0,
+  "explanation": "Laissez-faire leaders take a hands-off approach and allow members to make most decisions themselves.",
+  "source": "Section 3/Lesson 2- Quiz"
+ },
+ {
+  "id": "c273-section-3-lesson-2-quiz-q5",
+  "objective": "s3",
+  "q": "A business owner needs a permit to replace a sign in front of their business. Even though the replacement sign is identical to the original, the city office requires multiple forms and approvals from several departments before granting the business owner the permit. Which concept does this situation illustrate?",
+  "choices": [
+   "Goal displacement",
+   "Red tape",
+   "Hierarchy of authority",
+   "Division of labor"
+  ],
+  "answer": 1,
+  "explanation": "Red tape refers to the type of bureaucratic dysfunction the business owner encountered; excessive formal rules and procedures affected the owner's plan to replace the sign.",
+  "source": "Section 3/Lesson 2- Quiz"
+ },
+ {
+  "id": "c273-section-3-lesson-3-quiz-q1",
+  "objective": "s3",
+  "q": "What is a reason that sociologists study crime?",
+  "choices": [
+   "To examine how laws reflect social values, power, and priorities",
+   "To explain how individual moral failures have resulted in crimes",
+   "To recommend how to eliminate all deviant behaviors from society",
+   "To determine which behaviors are morally wrong in all societies"
+  ],
+  "answer": 0,
+  "explanation": "Sociologists study crime to understand how laws are created and enforced within systems of power.",
+  "source": "Section 3/Lesson 3- Quiz"
+ },
+ {
+  "id": "c273-section-3-lesson-3-quiz-q2",
+  "objective": "s3",
+  "q": "A student consistently participates respectfully in class and submits assignments on time. At the end of the semester, the teacher publicly praises the student for their responsibility and effort. How does the teacher's praise reinforce classroom norms?",
+  "choices": [
+   "By using a positive sanction that rewards approved behavior",
+   "By using an informal sanction to punish a norm violation through social disapproval",
+   "By applying a negative sanction to discourage future rule-breaking",
+   "By creating a formal sanction that enforces written rules"
+  ],
+  "answer": 0,
+  "explanation": "Positive sanctions are rewards that reinforce acceptable behavior and encourage others to follow the same norms.",
+  "source": "Section 3/Lesson 3- Quiz"
+ },
+ {
+  "id": "c273-section-3-lesson-3-quiz-q3",
+  "objective": "s3",
+  "q": "Why does deviance occur according to the functionalist perspective?",
+  "choices": [
+   "Because individuals internalize deviant labels through social interaction",
+   "Because strain can develop when there is a gap between societal goals and the structural means to achieve them",
+   "Because powerful groups define certain behaviors as deviant to maintain control",
+   "Because people learn deviant behavior through interaction with others who support rule-breaking"
+  ],
+  "answer": 1,
+  "explanation": "From a functionalist perspective, deviance can occur when individuals experience strain between cultural goals and access to socially accepted means.",
+  "source": "Section 3/Lesson 3- Quiz"
+ },
+ {
+  "id": "c273-section-3-lesson-3-quiz-q4",
+  "objective": "s3",
+  "q": "What is labeling theory?",
+  "choices": [
+   "A theory that argues deviance occurs when bonds to society are weak or broken",
+   "A theory that explains deviance as a product of unequal access to resources and power",
+   "A theory that explains deviance as the result of a gap between societal goals and approved means, and how people respond to their perception of that gap",
+   "A theory that explains how deviance develops when an individual's view of themselves is shaped by social reactions to the individual's behavior"
+  ],
+  "answer": 3,
+  "explanation": "Labeling theory explains that deviance can become part of an individual's identity when social reactions influence self-concept and lead to continued deviance.",
+  "source": "Section 3/Lesson 3- Quiz"
+ },
+ {
+  "id": "c273-section-3-lesson-3-quiz-q5",
+  "objective": "s3",
+  "q": "In the past, people who drank heavily were often labeled as immoral or lacking self-control. Today, in some societies, heavy drinking is more often described as alcoholism and treated as a health condition. What does this example illustrate?",
+  "choices": [
+   "The medicalization of deviance",
+   "Social control",
+   "A reinforced norm",
+   "A rebellion"
+  ],
+  "answer": 0,
+  "explanation": "This occurs when a behavior once labeled immoral or deviant, such as heavy drinking, is redefined as a medical or health condition.",
+  "source": "Section 3/Lesson 3- Quiz"
+ },
+ {
+  "id": "c273-section-3-lesson-4-quiz-q1",
+  "objective": "s3",
+  "q": "Which type of crime is motivated by bias toward someone's perceived group identity?",
+  "choices": [
+   "Property crime",
+   "White-collar crime",
+   "Hate crime",
+   "Victimless crime"
+  ],
+  "answer": 2,
+  "explanation": "Hate crime is a criminal offense committed against a person or property that is motivated, in whole or in part, by bias against the victim's perceived race, religion, ethnicity, sexual orientation, or other group identity.",
+  "source": "Section 3/Lesson 4- Quiz"
+ },
+ {
+  "id": "c273-section-3-lesson-4-quiz-q2",
+  "objective": "s3",
+  "q": "Which crime category shows higher rates of victimization for women compared to men?",
+  "choices": [
+   "Overall violent victimization",
+   "Aggravated assault",
+   "Robbery",
+   "Rape and sexual assault"
+  ],
+  "answer": 3,
+  "explanation": "Females experience significantly higher rates of rape and sexual assault compared to males.",
+  "source": "Section 3/Lesson 4- Quiz"
+ },
+ {
+  "id": "c273-section-3-lesson-4-quiz-q3",
+  "objective": "s3",
+  "q": "How does the conflict perspective view the role of prisons in society?",
+  "choices": [
+   "Prisons maintain social inequality and disproportionately incarcerate lower-income and minority groups.",
+   "Prisons reinforce a criminal label that makes reintegration difficult by limiting social interactions and increasing stigma.",
+   "Prisons primarily reduce crime by providing negative sanctions that discourage future criminal behavior.",
+   "Prisons help maintain social stability by removing rule violators, deterring crime, and rehabilitating individuals so they can become productive members of society."
+  ],
+  "answer": 0,
+  "explanation": "The conflict perspective argues that prisons are part of a system shaped by social inequality, disproportionately affecting disadvantaged groups and framing structural issues like poverty as individual failings.",
+  "source": "Section 3/Lesson 4- Quiz"
+ },
+ {
+  "id": "c273-section-3-lesson-4-quiz-q4",
+  "objective": "s3",
+  "q": "Which statement accurately describes requirements of parole?",
+  "choices": [
+   "Parole requires individuals to serve their sentence in the community without supervision or restrictions.",
+   "Parole requires no approval from correctional officials and serves as an alternative to traditional means of incarceration.",
+   "Parole requires individuals to follow strict conditions, report to officials, and avoid further criminal activity after early release from prison.",
+   "Parole requires individuals to serve their full prison sentence before returning to the community without conditions."
+  ],
+  "answer": 2,
+  "explanation": "This accurately describes parole as supervised early release with specific requirements designed to support reintegration and reduce reoffending.",
+  "source": "Section 3/Lesson 4- Quiz"
+ },
+ {
+  "id": "c273-section-3-lesson-4-quiz-q5",
+  "objective": "s3",
+  "q": "How do patterns of crime differ by gender according to sociological research?",
+  "choices": [
+   "Women are more likely than men to engage in high-risk public behaviors that increase violent offending.",
+   "Women commit the same types of crimes as men but generally at lower overall rates.",
+   "Men and women commit the same types of crimes at similar rates, but men are arrested more often.",
+   "Men are more likely to commit violent crimes, while women who do commit violent crimes are less likely than men who do to identify as career criminals."
+  ],
+  "answer": 3,
+  "explanation": "This accurately reflects sociological findings about men and women who commit violent crimes.",
+  "source": "Section 3/Lesson 4- Quiz"
+ },
+ {
+  "id": "c273-section-4-section-4-test-q1",
+  "objective": "s4",
+  "q": "What does a class system allow that a caste system has not typically allowed?",
+  "choices": [
+   "Jobs to be assigned based on family background",
+   "Marriage only within one's group",
+   "The reinforcement of societal divisions by religion",
+   "Movement between social groups"
+  ],
+  "answer": 3,
+  "explanation": "A class system allows for social mobility, while historically, a caste system did not allow this kind of movement because social status was fixed at birth.",
+  "source": "Section 4/Section 4- Test"
+ },
+ {
+  "id": "c273-section-4-section-4-test-q2",
+  "objective": "s4",
+  "q": "How did Max Weber explain social stratification?",
+  "choices": [
+   "It results from social classes being divided strictly according to who owns the means of production in a society.",
+   "It is based on the importance of different jobs needed in a society and the need to motivate people to fill societal roles.",
+   "It is due to a mix of factors such as income, wealth, education, and employment.",
+   "It is created through everyday interactions, symbols, and social expectations that reinforce social differences."
+  ],
+  "answer": 2,
+  "explanation": "According to Weber's theory, individuals are typically stratified in society according to their access to economic resources, social prestige, and political influence.",
+  "source": "Section 4/Section 4- Test"
+ },
+ {
+  "id": "c273-section-4-section-4-test-q3",
+  "objective": "s4",
+  "q": "What does the world systems theory focus on in explaining the relationship between a core country and a peripheral country?",
+  "choices": [
+   "The peripheral country has an expanding marketplace that will buy the core country's goods.",
+   "The core country sets up fair and equal policies to acquire the peripheral country's resources.",
+   "The core country dominates the peripheral country.",
+   "The peripheral country was once the colonizer of the core country."
+  ],
+  "answer": 2,
+  "explanation": "The world systems approach focuses on structural economic control and exploitation; a core country is an exploiter of peripheral countries.",
+  "source": "Section 4/Section 4- Test"
+ },
+ {
+  "id": "c273-section-4-section-4-test-q4",
+  "objective": "s4",
+  "q": "Which statement accurately describes implicit bias?",
+  "choices": [
+   "It is always directed specifically toward racial groups.",
+   "It is a belief that is held unconsciously about a group of people.",
+   "It is an open expression of prejudice.",
+   "It is a type of belief that never influences an action or behavior."
+  ],
+  "answer": 1,
+  "explanation": "Implicit bias is a belief or attitude that is developed with no realization on the part of the individual that they have done so.",
+  "source": "Section 4/Section 4- Test"
+ },
+ {
+  "id": "c273-section-4-section-4-test-q5",
+  "objective": "s4",
+  "q": "Which idea characterizes the scapegoat theory of how prejudice develops?",
+  "choices": [
+   "People feel such a strong need for belonging to a group that they exclude people from less powerful groups to increase their own sense of worth.",
+   "People learn prejudiced beliefs about less powerful groups from the media.",
+   "People are naturally suspicious of strangers, so they are prejudiced against any less powerful group that is alien to them.",
+   "People redirect their frustration about a social condition they are experiencing and target a less powerful group."
+  ],
+  "answer": 3,
+  "explanation": "The scapegoat theory proposes that people who experience frustration or hardship redirect their anger toward a less powerful group, blaming that group for problems they did not cause.",
+  "source": "Section 4/Section 4- Test"
+ },
+ {
+  "id": "c273-section-4-section-4-test-q6",
+  "objective": "s4",
+  "q": "What is true about prejudice and the dominant group in a society, according to the conflict perspective?",
+  "choices": [
+   "It occurs when individuals in the dominant group strongly prefer the traditions and values of their own culture.",
+   "It develops mainly because members of the dominant group feel threatened by rapid social change.",
+   "It helps members of the dominant group keep and justify the advantages they already have in society.",
+   "It results from misunderstandings and lack of contact between different social groups."
+  ],
+  "answer": 2,
+  "explanation": "The conflict perspective explains that dominant groups use prejudice to maintain existing social advantages and inequalities within stratification systems.",
+  "source": "Section 4/Section 4- Test"
+ },
+ {
+  "id": "c273-section-4-section-4-test-q7",
+  "objective": "s4",
+  "q": "Women are more likely to be the sole providers for their children and to earn less than men do over a lifetime. Which term is associated specifically with this phenomenon?",
+  "choices": [
+   "The feminization of poverty",
+   "The glass ceiling",
+   "Sexual harassment",
+   "The glass elevator"
+  ],
+  "answer": 0,
+  "explanation": "This describes women's greater likelihood of living in poverty due to lower lifetime earnings, wage inequality, and responsibility for single-parent households.",
+  "source": "Section 4/Section 4- Test"
+ },
+ {
+  "id": "c273-section-4-section-4-test-q8",
+  "objective": "s4",
+  "q": "A bank regularly denies mortgage loans to applicants from a predominantly minority neighborhood, even when those applicants meet the same financial qualifications as applicants from other areas. The bank trustees explain that they are protecting the bank's interest. Which term describes what the loan applicants as a group are experiencing in this scenario?",
+  "choices": [
+   "Cultural bias",
+   "Individual discrimination",
+   "Redlining",
+   "Prejudice"
+  ],
+  "answer": 2,
+  "explanation": "The scenario shows a policy that systematically denies loans to applicants from a specific neighborhood even when they qualify, which reflects the discriminatory lending practice known as redlining.",
+  "source": "Section 4/Section 4- Test"
+ },
+ {
+  "id": "c273-section-4-section-4-test-q9",
+  "objective": "s4",
+  "q": "Which term accurately describes the attempt of one ethnic group to eliminate, in a systematic manner, all people of another ethnic group?",
+  "choices": [
+   "Prejudice",
+   "Discrimination",
+   "Segregation",
+   "Genocide"
+  ],
+  "answer": 3,
+  "explanation": "Genocide is defined as the intentional and systematic attempt to destroy, in whole or in part, a national, ethnic, racial, or religious group.",
+  "source": "Section 4/Section 4- Test"
+ },
+ {
+  "id": "c273-section-4-section-4-test-q10",
+  "objective": "s4",
+  "q": "Why do sociologists refer to household work done by women as the \"second shift\"?",
+  "choices": [
+   "Because women do this unpaid work after they have completed a full day's paid work",
+   "Because women are more likely to interrupt their careers for family responsibilities",
+   "Because women are concentrated in lower-paying occupations due to occupational segregation",
+   "Because women earn lower wages than men for similar work, creating a gender pay gap"
+  ],
+  "answer": 0,
+  "explanation": "The term second shift refers to the unpaid household labor, such as childcare, cooking, and cleaning, that many women perform after finishing their paid employment.",
+  "source": "Section 4/Section 4- Test"
+ },
+ {
+  "id": "c273-section-4-lesson-1-quiz-q1",
+  "objective": "s4",
+  "q": "What is a characteristic of an ascribed status?",
+  "choices": [
+   "It is often assigned at birth.",
+   "It depends mainly on a person's occupation.",
+   "It results from choices individuals make about their education.",
+   "It is earned through effort."
+  ],
+  "answer": 0,
+  "explanation": "Ascribed status refers to social positions assigned at birth or involuntarily later in life based on characteristics such as race, sex, or family background.",
+  "source": "Section 4/Lesson 1- Quiz"
+ },
+ {
+  "id": "c273-section-4-lesson-1-quiz-q2",
+  "objective": "s4",
+  "q": "What has historically been true about caste systems?",
+  "choices": [
+   "They have little or no influence on whether individuals have access to resources and opportunities.",
+   "They allow individuals to achieve higher social status through personal effort.",
+   "They are characterized by very limited social mobility.",
+   "They encourage upward social mobility within the system."
+  ],
+  "answer": 2,
+  "explanation": "In caste systems, individuals are generally born into fixed social groups and remain within those groups throughout life.",
+  "source": "Section 4/Lesson 1- Quiz"
+ },
+ {
+  "id": "c273-section-4-lesson-1-quiz-q3",
+  "objective": "s4",
+  "q": "Which statement describes individuals who are experiencing relative poverty?",
+  "choices": [
+   "They cannot afford housing.",
+   "Their household income consistently falls below the federal poverty line used to determine eligibility for assistance programs.",
+   "They can meet basic needs but have a lower standard of living than most people in their society.",
+   "They cannot supply enough food for their family's day-to-day survival."
+  ],
+  "answer": 2,
+  "explanation": "Relative poverty occurs when individuals have basic necessities but lack the typical standard of living in their society.",
+  "source": "Section 4/Lesson 1- Quiz"
+ },
+ {
+  "id": "c273-section-4-lesson-1-quiz-q4",
+  "objective": "s4",
+  "q": "What causes homelessness to persist according to the conflict perspective?",
+  "choices": [
+   "Homelessness persists because negative stereotypes and stigma lead people to avoid and marginalize unhoused individuals.",
+   "Homelessness persists when those with power and wealth benefit and others struggle with rising housing costs.",
+   "Homelessness persists because some individuals choose to withdraw from society and avoid social institutions.",
+   "Homelessness persists when social institutions such as mental health facilities fail to meet people's needs."
+  ],
+  "answer": 1,
+  "explanation": "The conflict perspective explains homelessness as a result of unequal distribution of resources and power in society.",
+  "source": "Section 4/Lesson 1- Quiz"
+ },
+ {
+  "id": "c273-section-4-lesson-1-quiz-q5",
+  "objective": "s4",
+  "q": "Which statement reflects the world-systems approach to categorizing countries?",
+  "choices": [
+   "Countries that exploit other countries and are themselves exploited by other countries are categorized as semi-peripheral countries.",
+   "Industrialized societies are categorized as peripheral countries.",
+   "Countries that fully control their own economic policies are categorized as semi-peripheral countries.",
+   "Countries that are providers of raw materials to other countries while not owning the means of producing goods are categorized as core countries."
+  ],
+  "answer": 0,
+  "explanation": "Semi-peripheral countries sometimes exploit peripheral countries and, at the same time, are exploited by core countries.",
+  "source": "Section 4/Lesson 1- Quiz"
+ },
+ {
+  "id": "c273-section-4-lesson-2-quiz-q1",
+  "objective": "s4",
+  "q": "Which term describes how racial categories change across time and place?",
+  "choices": [
+   "Fluidity of race",
+   "Social stratification",
+   "Ethnicity",
+   "Social construction of race"
+  ],
+  "answer": 0,
+  "explanation": "Fluidity of race refers to how racial categories shift across time and place.",
+  "source": "Section 4/Lesson 2- Quiz"
+ },
+ {
+  "id": "c273-section-4-lesson-2-quiz-q2",
+  "objective": "s4",
+  "q": "Which statement represents one of W. E. B. Du Bois's contributions to sociology?",
+  "choices": [
+   "Cultural traditions of racial groups naturally produce unequal outcomes in society.",
+   "Social institutions and historical conditions produce unequal outcomes for racial groups.",
+   "Racial inequality is primarily caused by inherited biological differences between racial groups.",
+   "Unequal outcomes for racial groups occur mainly because individuals within the groups make different personal choices about education or work."
+  ],
+  "answer": 1,
+  "explanation": "Du Bois argued that racial inequality is produced by social structures and institutions rather than biology or individual behavior.",
+  "source": "Section 4/Lesson 2- Quiz"
+ },
+ {
+  "id": "c273-section-4-lesson-2-quiz-q3",
+  "objective": "s4",
+  "q": "Why does prejudice develop, according to the conflict perspective?",
+  "choices": [
+   "Because people redirect frustration from social or economic problems onto less powerful groups",
+   "Because groups compete for limited resources, such as wealth, power, or status, and use negative attitudes to justify their advantage",
+   "Because individuals learn prejudiced beliefs from family members, the media, and cultural norms",
+   "Because overlapping identities such as race, gender, and class shape how people experience inequality"
+  ],
+  "answer": 1,
+  "explanation": "Conflict theory explains prejudice as emerging from competition between groups and being used to justify inequality.",
+  "source": "Section 4/Lesson 2- Quiz"
+ },
+ {
+  "id": "c273-section-4-lesson-2-quiz-q4",
+  "objective": "s4",
+  "q": "After a factory begins hiring immigrant workers, some community members conclude that all of the employers in the town have lowered the wages they will pay because the immigrant workers accepted lower wages. What does the scapegoat theory of prejudice explain about this situation?",
+  "choices": [
+   "Anger about problems in the town caused by other factors is being redirected toward the immigrant workers.",
+   "The immigrant workers are experiencing prejudice because they come from another culture.",
+   "The community members have learned negative attitudes about immigrants from their families and the media.",
+   "The immigrant workers are to blame because they have taken more than their share of the town's limited resources."
+  ],
+  "answer": 0,
+  "explanation": "Scapegoat theory explains prejudice as directing frustration toward a less powerful group instead of the real cause of the problem.",
+  "source": "Section 4/Lesson 2- Quiz"
+ },
+ {
+  "id": "c273-section-4-lesson-2-quiz-q5",
+  "objective": "s4",
+  "q": "A city encourages cultural festivals, multilingual education, and community organizations that allow different ethnic groups to maintain their traditions while participating equally in public life. Which pattern of group relations does this situation represent?",
+  "choices": [
+   "Segregation",
+   "Assimilation",
+   "Pluralism",
+   "Intersectionality"
+  ],
+  "answer": 2,
+  "explanation": "Pluralism occurs when multiple cultural groups coexist and maintain their traditions while sharing power and participating in the same society.",
+  "source": "Section 4/Lesson 2- Quiz"
+ },
+ {
+  "id": "c273-section-4-lesson-3-quiz-q1",
+  "objective": "s4",
+  "q": "What does research show about how women who have children are paid compared to other workers?",
+  "choices": [
+   "Women with children are usually paid more because employers assume they need higher income to support families.",
+   "Women with children typically earn the same wages as men once the women have returned to full-time work.",
+   "Women with children are often paid less than women without children who have similar education and experience.",
+   "Women who choose lower-paying occupations than any other workers do are paid less, but women overall earn more than other workers."
+  ],
+  "answer": 2,
+  "explanation": "The motherhood penalty refers to the lower pay women with children often receive compared to other workers with similar qualifications; this is true across occupations.",
+  "source": "Section 4/Lesson 3- Quiz"
+ },
+ {
+  "id": "c273-section-4-lesson-3-quiz-q2",
+  "objective": "s4",
+  "q": "What is likely to happen now when women become wage earners, according to the conflict perspective?",
+  "choices": [
+   "Women automatically gain equal status with men in all areas of society.",
+   "Women gain more power in family decision-making because they contribute income.",
+   "Women are less likely to leave the workforce to focus on family responsibilities than they were in the past.",
+   "Gender inequality disappears because men and women now earn the same wages."
+  ],
+  "answer": 1,
+  "explanation": "Conflict theorists argue that earning wages can increase women's power within the household.",
+  "source": "Section 4/Lesson 3- Quiz"
+ },
+ {
+  "id": "c273-section-4-lesson-3-quiz-q3",
+  "objective": "s4",
+  "q": "Which statement describes the idea that gender is a social construction?",
+  "choices": [
+   "Gender differences exist because biological traits naturally determine how men and women behave.",
+   "Gender differences exist only because of personal choices made by individuals.",
+   "Gender roles remain the same across all cultures because they reflect universal human behavior.",
+   "Gender expectations are created and reinforced through everyday interactions and the media."
+  ],
+  "answer": 3,
+  "explanation": "The social construction of gender explains that ideas about masculinity and femininity develop through social messages from family, media, and daily interactions.",
+  "source": "Section 4/Lesson 3- Quiz"
+ },
+ {
+  "id": "c273-section-4-lesson-3-quiz-q4",
+  "objective": "s4",
+  "q": "In some early societies, men often hunted while women cared for children because pregnancy and nursing limited mobility. These responsibilities eventually became established gender roles passed down through generations. How did these roles originally develop from a functionalist perspective? How did these roles originally develop from a functionalist perspective?",
+  "choices": [
+   "Gender roles developed primarily because men wanted to maintain power and control over women in society.",
+   "Gender roles developed as communities created shared expectations about appropriate behavior for men and women.",
+   "Gender roles developed because biological differences made men and women naturally suited to entirely separate social spheres.",
+   "Gender roles developed because dividing responsibilities between men and women helped families meet practical needs efficiently in early societies."
+  ],
+  "answer": 3,
+  "explanation": "Functionalists argue that gender roles emerged because they served practical purposes in maintaining the stability and functioning of the family system.",
+  "source": "Section 4/Lesson 3- Quiz"
+ },
+ {
+  "id": "c273-section-4-lesson-3-quiz-q5",
+  "objective": "s4",
+  "q": "Taylor, a high school student, recently came out as gay. After sharing this with peers and family members, Taylor begins experiencing exclusion from social groups. Over time, Taylor begins to feel increasingly isolated and struggles with feelings of sadness. Which outcome is Taylor at risk of experiencing based on research about the effects of social rejection on homosexual youth?",
+  "choices": [
+   "Fewer mental health challenges, because social rejection helps individuals build emotional resilience",
+   "Less stigma over time because society generally accepts diverse sexual orientations",
+   "A stronger and more positive self-concept, because adversity typically strengthens identity development",
+   "Significantly higher risks of depression and suicide attempts due to ongoing social rejection related to sexual orientation"
+  ],
+  "answer": 3,
+  "explanation": "Research indicates that homosexual youths who experience high levels of social rejection have substantially higher risks of depression and suicide attempts.",
+  "source": "Section 4/Lesson 3- Quiz"
+ },
+ {
+  "id": "c273-section-5-section-5-test-q1",
+  "objective": "s5",
+  "q": "Which term describes a residence pattern of adult children who, because of economic conditions in the 21st century, return to live with their parents?",
+  "choices": [
+   "Boomerang generation",
+   "Extended family",
+   "Nuclear family",
+   "Empty nesting"
+  ],
+  "answer": 0,
+  "explanation": "This term refers to adult children who move back into their parents' homes after a period of living independently, often due to economic pressures.",
+  "source": "Section 5/Section 5- Test"
+ },
+ {
+  "id": "c273-section-5-section-5-test-q2",
+  "objective": "s5",
+  "q": "Which statement accurately represents trends about marriage and family in the United States?",
+  "choices": [
+   "Individuals across all socioeconomic groups have a high chance of having their marriage end in divorce.",
+   "Individuals are choosing to have larger families and are prioritizing marriage before pursuing careers.",
+   "Individuals are postponing getting married and are more likely to cohabitate.",
+   "Individuals who marry nowadays are less likely to cohabitate before their marriage than in the past."
+  ],
+  "answer": 2,
+  "explanation": "This pattern reflects shifts in education, career timing, and social norms regarding relationships nowadays.",
+  "source": "Section 5/Section 5- Test"
+ },
+ {
+  "id": "c273-section-5-section-5-test-q3",
+  "objective": "s5",
+  "q": "A sociologist observes that many people in the United States tend to marry partners who have a similar level of education, income, and social background; for example, people from similar socioeconomic groups frequently become spouses. Which term describes this pattern?",
+  "choices": [
+   "Expressive marriage",
+   "Homogamy",
+   "Marriage equality",
+   "Marriage gap"
+  ],
+  "answer": 1,
+  "explanation": "Homogamy refers to the tendency for individuals to marry others who share similar social characteristics, such as education, income, religion, or social background. The scenario describes people choosing spouses with similar levels of socioeconomic status.",
+  "source": "Section 5/Section 5- Test"
+ },
+ {
+  "id": "c273-section-5-section-5-test-q4",
+  "objective": "s5",
+  "q": "In a household, one partner earns most of the family income and makes the major financial decisions. The other partner performs most caregiving and household tasks but has little influence over financial decisions. Which statement accurately reflects the conflict perspective's view of the partners' roles?",
+  "choices": [
+   "The partners' unequal roles help maintain household stability by allowing each family member to perform complementary functions.",
+   "The partners hold these roles because they are shaped by shared meanings that are created through daily interactions.",
+   "The partners' roles are determined primarily by biological differences between them.",
+   "The partner whose role involves controlling the household's economic resources will always have greater control over household decision- making."
+  ],
+  "answer": 3,
+  "explanation": "This explanation reflects the conflict perspective because it emphasizes how access to economic resources can translate into greater authority and power within the family.",
+  "source": "Section 5/Section 5- Test"
+ },
+ {
+  "id": "c273-section-5-section-5-test-q5",
+  "objective": "s5",
+  "q": "Which type of religious organization is often secretive and is sometimes led by a charismatic leader while remaining at odds with the dominant culture?",
+  "choices": [
+   "Church",
+   "Cult",
+   "Denomination",
+   "Sect"
+  ],
+  "answer": 1,
+  "explanation": "A cult is typically a small, relatively new religious organization that is often at odds with the dominant culture. It may be secretive, highly controlling of members, and sometimes centered around a charismatic leader.",
+  "source": "Section 5/Section 5- Test"
+ },
+ {
+  "id": "c273-section-5-section-5-test-q6",
+  "objective": "s5",
+  "q": "What is one effect of religion in society, according to the conflict perspective?",
+  "choices": [
+   "To offer individuals a sense of community",
+   "To justify existing social inequality",
+   "To provide moral guidance",
+   "To transmit cultural traditions"
+  ],
+  "answer": 1,
+  "explanation": "The conflict perspective argues that religion can legitimize and reinforce existing social hierarchies by promoting beliefs that justify unequal distributions of power. For example, religion may encourage acceptance of one's social position.",
+  "source": "Section 5/Section 5- Test"
+ },
+ {
+  "id": "c273-section-5-section-5-test-q7",
+  "objective": "s5",
+  "q": "According to the functionalist perspective, a manifest function is an intended purpose of education. Which example illustrates a manifest function of education from the functionalist perspective?",
+  "choices": [
+   "Schools reinforcing class inequalities between wealthy and poor children",
+   "Schools providing supervision for children while parents are at work",
+   "Schools teaching children skills such as reading and math that are needed for employment",
+   "Students developing athletic abilities by participating on school sports teams"
+  ],
+  "answer": 2,
+  "explanation": "Functionalists argue that schools intentionally teach knowledge and skills, such as literacy, numeracy, and technical abilities, that prepare individuals for participation in the workforce and adult roles in society.",
+  "source": "Section 5/Section 5- Test"
+ },
+ {
+  "id": "c273-section-5-section-5-test-q8",
+  "objective": "s5",
+  "q": "Autism spectrum disorder is diagnosed more frequently in boys than in girls. However, researchers believe that many girls with autism remain undiagnosed or are diagnosed later than boys. Why is this the case, according to sociological research on gender and medical diagnosis?",
+  "choices": [
+   "Girls are less likely than boys to develop autism.",
+   "Girls with autism rarely have social or communication difficulties.",
+   "Girls often show autism symptoms differently than boys, which can cause clinicians to miss or delay diagnoses.",
+   "Boys are more often referred for developmental evaluations during childhood."
+  ],
+  "answer": 2,
+  "explanation": "Research shows autism symptoms in girls may appear differently than the patterns used in many diagnostic guidelines. This can lead to missed or later diagnoses.",
+  "source": "Section 5/Section 5- Test"
+ },
+ {
+  "id": "c273-section-5-section-5-test-q9",
+  "objective": "s5",
+  "q": "Homosexuality was once classified as a mental disorder and treated by medical professionals. In 1973, the American Psychiatric Association removed homosexuality from the Diagnostic and Statistical Manual of Mental Disorders (DSM), meaning it was no longer considered a medical illness. How does the symbolic interactionist perspective explain this change?",
+  "choices": [
+   "Medical institutions began to exert less social control over behavior",
+   "Demedicalization occurred.",
+   "Homosexuality was stigmatized.",
+   "Homosexuality became better understood through labeling theory."
+  ],
+  "answer": 1,
+  "explanation": "Demedicalization occurs when a condition that was once defined as a medical illness is redefined as normal behavior and removed from medical authority. Removing homosexuality from the DSM is a classic example of demedicalization.",
+  "source": "Section 5/Section 5- Test"
+ },
+ {
+  "id": "c273-section-5-section-5-test-q10",
+  "objective": "s5",
+  "q": "How does socioeconomic status influence health in the United States?",
+  "choices": [
+   "Socioeconomic status has less influence than most other factors on health outcomes.",
+   "Individuals with lower socioeconomic status tend to have lower death rates.",
+   "Individuals with higher socioeconomic status tend to have better health outcomes.",
+   "Individuals with higher socioeconomic status tend to have greater exposure to health risks."
+  ],
+  "answer": 2,
+  "explanation": "People with higher socioeconomic status (SES) often have better access to healthcare and other advantages that contribute to better overall health outcomes and longer life expectancy.",
+  "source": "Section 5/Section 5- Test"
+ },
+ {
+  "id": "c273-section-5-section-5-test-q11",
+  "objective": "s5",
+  "q": "After a major snowstorm shuts down roads and stores, a large group of residents gathers outside a closed grocery store. Eventually, someone suggests organizing a line and limiting how much food each person takes. The crowd begins following these informal rules to distribute supplies. What explains the crowd's behavior in this situation?",
+  "choices": [
+   "It can be explained by emergent norm theory, where people in crowds create new shared rules to guide behavior in unfamiliar situations.",
+   "It can be explained by resource mobilization theory, where organized groups gather resources.",
+   "It is an example of a social movement.",
+   "It is an example of mass behavior, where individuals share a common interest without being physically close together."
+  ],
+  "answer": 0,
+  "explanation": "Emergent norm theory explains how individuals in crowds develop shared norms to organize behavior when facing new or uncertain circumstances, such as when stores are closed by a snowstorm.",
+  "source": "Section 5/Section 5- Test"
+ },
+ {
+  "id": "c273-section-5-lesson-1-quiz-q1",
+  "objective": "s5",
+  "q": "What does the term marriage gap refer to?",
+  "choices": [
+   "Rising divorce rates",
+   "The percentage of couples who prefer to cohabitate rather than marry nowadays",
+   "The growing divide between never-married men and never-married women in educational attainment",
+   "The variations within the United States in laws permitting same-sex couples to marry"
+  ],
+  "answer": 2,
+  "explanation": "The marriage gap refers to the growing difference in marriage rates between socioeconomic groups. Individuals with higher levels of education and income are more likely to marry and remain married than those with lower levels of education and income.",
+  "source": "Section 5/Lesson 1- Quiz"
+ },
+ {
+  "id": "c273-section-5-lesson-1-quiz-q2",
+  "objective": "s5",
+  "q": "Which trend characterizes marriage patterns in the United States?",
+  "choices": [
+   "Fewer people are getting married nowadays.",
+   "Marriage now occurs earlier in adulthood than in previous generations.",
+   "People are less likely to delay marriage today to pursue higher education than they were in the past.",
+   "People are now more likely to marry purely for economic reasons than before."
+  ],
+  "answer": 0,
+  "explanation": "Cohabitation is more common than before, and compared to earlier decades, fewer people are marrying.",
+  "source": "Section 5/Lesson 1- Quiz"
+ },
+ {
+  "id": "c273-section-5-lesson-1-quiz-q3",
+  "objective": "s5",
+  "q": "A married woman performs all caregiving duties for her children as well as the children's grandparents, while her husband does not. What purpose does this division of labor serve, according to the functionalist perspective?",
+  "choices": [
+   "It shows that family roles are determined only by biological relationships rather than social expectations.",
+   "It demonstrates that families primarily function to redistribute wealth between generations.",
+   "It helps maintain family stability, which in turn helps maintain social order.",
+   "It challenges traditional family structures by shifting the caregiving burden onto one partner in a marriage."
+  ],
+  "answer": 2,
+  "explanation": "This emphasis on division of labor within families helping maintain balance and stability within a family is consistent with the functionalist perspective.",
+  "source": "Section 5/Lesson 1- Quiz"
+ },
+ {
+  "id": "c273-section-5-lesson-1-quiz-q4",
+  "objective": "s5",
+  "q": "Who is most likely to abuse a child?",
+  "choices": [
+   "A family friend",
+   "A family member",
+   "A teacher",
+   "Neighbors or community members"
+  ],
+  "answer": 1,
+  "explanation": "Parents or guardians are frequently identified as perpetrators in reported cases of child abuse.",
+  "source": "Section 5/Lesson 1- Quiz"
+ },
+ {
+  "id": "c273-section-5-lesson-2-quiz-q1",
+  "objective": "s5",
+  "q": "When do religious sects typically emerge, according to sociologists?",
+  "choices": [
+   "When religious organizations expand greatly because they have attracted many new members",
+   "When a group breaks away from an established religion to seek a more authentic religious experience",
+   "When two or more large religious organizations merge to form a unified religious group",
+   "When governments reorganize religious institutions to better regulate them"
+  ],
+  "answer": 1,
+  "explanation": "Sects form when individuals leave a larger religious organization because they believe it no longer follows the original beliefs or practices closely enough.",
+  "source": "Section 5/Lesson 2- Quiz"
+ },
+ {
+  "id": "c273-section-5-lesson-2-quiz-q2",
+  "objective": "s5",
+  "q": "During a religious service, members of a community treat a small piece of bread and a cup of wine with deep reverence, explaining that these items represent important aspects of their faith. According to the symbolic interactionist perspective, why did these objects become meaningful symbols for the group?",
+  "choices": [
+   "Because governments recognize certain objects used in religious services as sacred through official laws",
+   "Because religious leaders assigned official meanings to them that members follow",
+   "Because individuals and groups have collectively treated the objects as sacred through shared beliefs and interactions",
+   "Because the objects are inherently sacred regardless of how people interpret them"
+  ],
+  "answer": 2,
+  "explanation": "Symbolic interactionists argue that symbols become meaningful because people collectively assign and reinforce their meanings through social interaction.",
+  "source": "Section 5/Lesson 2- Quiz"
+ },
+ {
+  "id": "c273-section-5-lesson-2-quiz-q3",
+  "objective": "s5",
+  "q": "How does religion promote social cohesion, according to Durkheim?",
+  "choices": [
+   "By separating individuals into competing religious groups with different beliefs",
+   "By focusing primarily on individual spiritual experiences rather than group participation",
+   "By uniting people through shared beliefs, rituals, and traditions that reinforce a collective moral understanding",
+   "By encouraging individuals to question social norms and challenge traditional authority"
+  ],
+  "answer": 2,
+  "explanation": "Durkheim explained that religion strengthens social cohesion by bringing people together around shared beliefs and practices, reinforcing the collective conscience of society.",
+  "source": "Section 5/Lesson 2- Quiz"
+ },
+ {
+  "id": "c273-section-5-lesson-2-quiz-q4",
+  "objective": "s5",
+  "q": "Which statement accurately describes the concept of credentialism in today's labor market?",
+  "choices": [
+   "Educational institutions help individuals develop skills that employers evaluate more than formal credentials.",
+   "Access to employment opportunities increasingly depends on educational degrees and certifications.",
+   "Most employers select workers based primarily on personal traits such as motivation and work ethic.",
+   "Jobs are distributed evenly among workers regardless of education or training."
+  ],
+  "answer": 1,
+  "explanation": "A credential society refers to a labor market where degrees and other educational credentials are increasingly required to demonstrate skills and qualify for jobs. The state of this problem has changed since you loaded this page. Please refresh your page.",
+  "source": "Section 5/Lesson 2- Quiz"
+ },
+ {
+  "id": "c273-section-5-lesson-2-quiz-q5",
+  "objective": "s5",
+  "q": "During a class, two students speak out without raising their hands. One student has been placed in the school's \"advanced learners\" program, while the other is in the standard track. The teacher smiles and praises the advanced student for being enthusiastic but tells the other student to follow classroom rules. What does this example illustrate, according to the symbolic interactionist perspective?",
+  "choices": [
+   "Academic achievement is determined mainly by students' natural abilities.",
+   "Educational institutions distribute opportunities based primarily on economic resources.",
+   "Labels assigned to students can shape how teachers interpret and respond to their behavior.",
+   "Schools help maintain social stability by assigning students to appropriate roles."
+  ],
+  "answer": 2,
+  "explanation": "Labeling theory argues that labels influence how others treat individuals and how individuals see themselves, affecting classroom interactions and expectations.",
+  "source": "Section 5/Lesson 2- Quiz"
+ },
+ {
+  "id": "c273-section-5-lesson-3-quiz-q1",
+  "objective": "s5",
+  "q": "A woman visits an emergency room reporting nausea, unusual fatigue, and pain in her upper back. The physician assumes the symptoms are related to stress or indigestion and does not test for heart disease. The woman later suffers a heart attack that could have been detected earlier. What sociological concern does this example illustrate?",
+  "choices": [
+   "Population trends that increase demand for healthcare services",
+   "Differences in access to healthcare between social classes",
+   "The underdiagnosis of women's heart disease because medical standards often rely on male symptom patterns",
+   "Cultural beliefs about gender roles that discourage women from seeking medical care"
+  ],
+  "answer": 2,
+  "explanation": "Medical research and diagnostic models have historically focused on male patients, which can cause women's different heart attack symptoms to be overlooked or misinterpreted. © 2020 Western Governors University – WGU. All rights reserved. ADA Accommodation Privacy Policy | Terms of Service | Honor Code",
+  "source": "Section 5/Lesson 3- Quiz"
+ },
+ {
+  "id": "c273-section-5-lesson-3-quiz-q2",
+  "objective": "s5",
+  "q": "Which explanation reflects the conflict perspective on why people living in poverty have higher rates of illness?",
+  "choices": [
+   "Healthcare has been commodified.",
+   "They are more likely to be labeled as irresponsible or unhealthy, which influences how others interpret their health conditions.",
+   "Their level of education is typically lower, which reduces awareness of healthy behaviors and prevention strategies.",
+   "They are more likely to make unhealthy lifestyle choices."
+  ],
+  "answer": 0,
+  "explanation": "The conflict perspective explains that when something not generally thought of as a commodity is changed into something that can be bought and sold, the poor will have less access to it and so experience more illness.",
+  "source": "Section 5/Lesson 3- Quiz"
+ },
+ {
+  "id": "c273-section-5-lesson-3-quiz-q3",
+  "objective": "s5",
+  "q": "Which situation represents demedicalization of deviance?",
+  "choices": [
+   "Doctors decide whether individuals are legitimately sick and require treatment.",
+   "A hospital introduces new diagnostic procedures to improve identification of mental health conditions.",
+   "Homosexuality is removed from the Diagnostic and Statistical Manual of Mental Disorders and is no longer classified as a mental illness.",
+   "People with mental illness experience stigma and negative stereotypes from others in society."
+  ],
+  "answer": 2,
+  "explanation": "Demedicalization occurs when a condition previously defined as a medical problem is no longer considered an illness or treated through medical intervention.",
+  "source": "Section 5/Lesson 3- Quiz"
+ },
+ {
+  "id": "c273-section-5-lesson-3-quiz-q4",
+  "objective": "s5",
+  "q": "In which healthcare system does the government fund healthcare services while private providers deliver medical care?",
+  "choices": [
+   "Bismarck model",
+   "National Health Insurance model",
+   "Beveridge model",
+   "Out-of-pocket system"
+  ],
+  "answer": 1,
+  "explanation": "In the National Health Insurance model, the government finances healthcare while services are provided by private healthcare providers.",
+  "source": "Section 5/Lesson 3- Quiz"
+ },
+ {
+  "id": "c273-section-5-lesson-3-quiz-q5",
+  "objective": "s5",
+  "q": "What does the symbolic interactionist perspective explain about environmental problems?",
+  "choices": [
+   "Environmental problems result from population growth putting too much pressure on natural resources.",
+   "Environmental problems are understood differently depending on people's social experiences, beliefs, and cultural backgrounds.",
+   "Environmental problems can be solved if corporations are forbidden from weakening the regulations that allow environmental harm.",
+   "Environmental problems occur because industrialization creates unintended negative consequences for society."
+  ],
+  "answer": 1,
+  "explanation": "The symbolic interactionist perspective focuses on how individuals interpret environmental problems based on their social background and shared meanings.",
+  "source": "Section 5/Lesson 3- Quiz"
+ },
+ {
+  "id": "c273-section-5-lesson-4-quiz-q1",
+  "objective": "s5",
+  "q": "During a championship parade, hundreds of fans of a sports team pack the downtown plaza. They stand shoulder-to-shoulder, cheering for the team as the players ride by on floats. Everyone in the area is focused on celebrating the team's victory together. Which term describes this group of people gathered in this situation?",
+  "choices": [
+   "Crowd",
+   "Flash mob",
+   "The public",
+   "Mass"
+  ],
+  "answer": 0,
+  "explanation": "A crowd is a fairly large number of people in close proximity who share a common focus or goal; in the scenario, hundreds of fans are standing shoulder-to-shoulder in the streets celebrating the team's victory, which fits the definition of a crowd.",
+  "source": "Section 5/Lesson 4- Quiz"
+ },
+ {
+  "id": "c273-section-5-lesson-4-quiz-q2",
+  "objective": "s5",
+  "q": "What is emergent norm theory?",
+  "choices": [
+   "A theory that explains how large groups organize to achieve social change through coordinated action",
+   "A theory that explains how crowds behave irrationally because individuals lose self-control in large groups",
+   "A theory that explains how people in crowds develop new shared norms to guide behavior in unfamiliar situations",
+   "A theory that explains how people in a mass share common interests even when they are not physically close together"
+  ],
+  "answer": 2,
+  "explanation": "Emergent norm theory explains that individuals in crowds create new shared rules or expectations when facing new or unusual circumstances, allowing the group to act in coordinated ways.",
+  "source": "Section 5/Lesson 4- Quiz"
+ },
+ {
+  "id": "c273-section-5-lesson-4-quiz-q3",
+  "objective": "s5",
+  "q": "What does an alternative social movement attempt to do?",
+  "choices": [
+   "Change the conditions of the broader society in which a religion exists",
+   "Reverse a change that has been made to the broader social structure",
+   "Change the behavior of individuals",
+   "Change the culture of a religious group from within"
+  ],
+  "answer": 2,
+  "explanation": "Alternative movements emphasize self-improvement and limited changes to individuals' behavior or beliefs.",
+  "source": "Section 5/Lesson 4- Quiz"
+ },
+ {
+  "id": "c273-section-5-lesson-4-quiz-q4",
+  "objective": "s5",
+  "q": "Japan has experienced a great increase in the number of retirees and a great decrease in the number of younger workers. As a result, the country has expanded healthcare services, adjusted pension systems, and increased demand for elder care workers. What does this example illustrate?",
+  "choices": [
+   "Environmental events can influence social change.",
+   "Technological innovations often drive social change.",
+   "Social change can be caused when population trends change.",
+   "Social institutions can collapse when social change occurs."
+  ],
+  "answer": 2,
+  "explanation": "Population trends, such as aging populations or declining birth rates, can reshape labor markets, healthcare systems, and social policies. The example describes demographic changes leading to institutional adjustments.",
+  "source": "Section 5/Lesson 4- Quiz"
+ },
+ {
+  "id": "c273-section-5-lesson-4-quiz-q5",
+  "objective": "s5",
+  "q": "Which of these movements is a reform movement?",
+  "choices": [
+   "A national campaign advocating for stricter workplace safety regulations for construction workers",
+   "A political organization attempting to replace the entire political system of a country with a new form of government",
+   "A group encouraging people to reduce their personal screen time and practice daily mindfulness",
+   "A movement organizing demonstrations to prevent the implementation of new immigration policies."
+  ],
+  "answer": 0,
+  "explanation": "Reform movements seek to change a specific part of the social system, such as labor laws or workplace regulations, rather than transforming the entire social structure.",
+  "source": "Section 5/Lesson 4- Quiz"
+ }
+]
