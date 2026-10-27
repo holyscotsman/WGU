@@ -1,0 +1,36 @@
+{
+ "id": "c720",
+ "code": "C720",
+ "title": "Operations and Supply Chain Management",
+ "exam": {
+  "count": 50,
+  "minutes": 90,
+  "passPercent": 70
+ },
+ "objectives": [
+  {
+   "id": "2.1",
+   "title": "Explains Quality Management (3016.2.1)"
+  },
+  {
+   "id": "2.2",
+   "title": "Analyzes Process Design, Capacity Planning, and Location Analysis (3016.2.2)"
+  },
+  {
+   "id": "2.3",
+   "title": "Analyzes Forecasting, Planning, and Scheduling Systems (3016.2.3)"
+  },
+  {
+   "id": "2.4",
+   "title": "Analyzes Operating Efficiency (3016.2.4)"
+  },
+  {
+   "id": "2.5",
+   "title": "Analyzes Supply Chain (3016.2.5)"
+  },
+  {
+   "id": "2.6",
+   "title": "Explains Operational Strategies (3016.2.6)"
+  }
+ ]
+}

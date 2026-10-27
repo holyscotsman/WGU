@@ -10,7 +10,7 @@ const shuffle = (a) => { a = [...a]; for (let i = a.length - 1; i > 0; i--) { co
 
 // ---------- progress state (localStorage cache + server sync) ----------
 const LS = "wgu-progress-v1";
-let state = (() => { try { return JSON.parse(localStorage.getItem(LS)) ?? { questions: {}, cards: {}, exams: [] }; } catch { return { questions: {}, cards: {}, exams: [] }; } })();
+let state = (() => { try { return JSON.parse(localStorage.getItem(LS)) ?? { questions: {}, cards: {}, exams: [], games: {} }; } catch { return { questions: {}, cards: {}, exams: [], games: {} }; } })();
 let pushTimer;
 const persist = () => { try { localStorage.setItem(LS, JSON.stringify(state)); } catch {} };
 
@@ -40,6 +40,7 @@ function push() {
   }, 800);
 }
 const recordQ = (id, correct) => { const p = state.questions[id] ?? { n: 0, c: 0 }; state.questions[id] = { n: p.n + 1, c: p.c + (correct ? 1 : 0), last: correct, t: Date.now() }; push(); };
+const recordGame = (key, score, better) => { const p = state.games?.[key]; if (!state.games) state.games = {}; if (!p || better(score, p.best)) { state.games[key] = { best: score, t: Date.now() }; push(); return true; } return false; };
 const recordCard = (id, good) => {
   const box = good ? Math.min((state.cards[id]?.box ?? 0) + 1, BOX_DAYS.length - 1) : 1;
   state.cards[id] = { box, due: Date.now() + BOX_DAYS[box] * DAY, t: Date.now() };
@@ -48,11 +49,11 @@ const recordCard = (id, good) => {
 
 // ---------- data ----------
 const cache = {};
-const loadCourse = (id) => (cache[id] ??= fetch(`/data/${id}.json`).then((r) => { if (!r.ok) throw new Error("course not found"); return r.json(); }));
+const loadCourse = (id) => (cache[id] ??= api(`/api/data?name=${encodeURIComponent(id)}`));
 
 // ---------- views ----------
 async function home() {
-  const courses = await fetch("/data/courses.json").then((r) => r.json());
+  const courses = await api("/api/data?name=courses");
   $app.innerHTML = `<h1>Courses</h1><div class="grid">${courses.map((c) => `
     <a class="card" href="#/c/${c.id}" style="text-decoration:none;color:inherit"><strong>${esc(c.code ?? "")}</strong><br>${esc(c.title)}
     <p class="muted">${c.counts.guides} guides · ${c.counts.questions} questions · ${c.counts.cards} cards</p></a>`).join("") || "<p>No courses yet.</p>"}</div>`;
@@ -73,7 +74,7 @@ async function course(id) {
   const due = d.cards.filter((c) => (state.cards[c.id]?.due ?? 0) <= Date.now()).length;
   $app.innerHTML = `<p><a href="#/">← Courses</a></p><h1>${esc(d.course.title)}</h1>
     <div class="row"><a class="btn" href="#/c/${id}/quiz">Practice quiz</a><a class="btn" href="#/c/${id}/quiz/missed">Missed questions</a>
-    <a class="btn" href="#/c/${id}/cards">Flashcards (${due} due)</a><a class="btn secondary" href="#/c/${id}/exam">Mock exam</a><a class="btn secondary" href="#/c/${id}/progress">Progress</a></div>
+    ${d.cards.length ? `<a class="btn" href="#/c/${id}/cards">Flashcards (${due} due)</a>` : ""}<a class="btn secondary" href="#/c/${id}/exam">Mock exam</a><a class="btn secondary" href="#/c/${id}/game/speed">Speed round</a>${d.cards.length >= 4 ? `<a class="btn secondary" href="#/c/${id}/game/match">Term match</a>` : ""}<a class="btn secondary" href="#/c/${id}/progress">Progress</a></div>
     <h2>Study guides</h2>${d.guides.map((g) => `<div class="card"><a href="#/c/${id}/guide/${g.id}">${esc(g.title)}</a> <span class="muted">${g.objectives.join(", ")}</span></div>`).join("") || "<p class='muted'>None yet.</p>"}`;
 }
 
@@ -179,6 +180,93 @@ async function progress(id) {
     <h2>Mock exams</h2>${exams.map((e) => `<div class="card">${new Date(e.t).toLocaleString()} — ${e.score}/${e.total}</div>`).join("") || "<p class='muted'>None taken.</p>"}`;
 }
 
+
+// ---------- games ----------
+async function speed(id) {
+  const d = await loadCourse(id);
+  if (!d.questions.length) { $app.innerHTML = "<p>No questions.</p>"; return; }
+  const LIMIT = 60;
+  const pool = shuffle(d.questions);
+  let i = 0, score = 0, streak = 0, best = 0, end = Date.now() + LIMIT * 1000, timer;
+  const finish = () => {
+    clearInterval(timer);
+    const record = recordGame(`${id}:speed`, score, (a, b) => a > b);
+    $app.innerHTML = `<h1>Time</h1><p class="stat">${score}</p><p>Best streak ${best}. ${record ? "New personal best." : `Personal best ${state.games[`${id}:speed`].best}.`}</p>
+      <div class="row"><button id="again">Play again</button><a class="btn secondary" href="#/c/${id}">Back</a></div>`;
+    document.getElementById("again").onclick = () => speed(id);
+  };
+  const render = () => {
+    const q = pool[i % pool.length], multi = asArr(q.answer).length > 1, sel = new Set();
+    $app.innerHTML = `<div class="row"><span class="timer" id="t"></span><span class="muted">Score ${score} · Streak ${streak}</span></div>
+      <div class="card"><p><strong>${esc(q.q)}</strong></p>${multi ? '<p class="muted">Select all that apply.</p>' : ""}
+      ${q.choices.map((c, k) => `<label class="choice" data-k="${k}"><input type="${multi ? "checkbox" : "radio"}" name="a" value="${k}"><span>${esc(c)}</span></label>`).join("")}
+      <div id="fb"></div><button id="go">${multi ? "Lock in" : "Answer"}</button></div>`;
+    const tick = () => { const left = Math.max(0, Math.ceil((end - Date.now()) / 1000)); const el = document.getElementById("t"); if (el) el.textContent = `${left}s`; if (left <= 0) finish(); };
+    tick();
+    let locked = false;
+    const submit = () => {
+      if (locked || !sel.size) return; locked = true;
+      const want = new Set(asArr(q.answer)), ok = sel.size === want.size && [...sel].every((k) => want.has(k));
+      recordQ(q.id, ok);
+      if (ok) { streak++; best = Math.max(best, streak); score += 1 + Math.floor(streak / 3); i++; return render(); }
+      streak = 0; i++;
+      $app.querySelectorAll(".choice").forEach((el) => { const k = +el.dataset.k; el.querySelector("input").disabled = true; if (want.has(k)) el.classList.add("ok"); else if (sel.has(k)) el.classList.add("bad"); });
+      document.getElementById("fb").innerHTML = `<p><strong style="color:var(--bad)">Missed</strong> ${esc(q.explanation)}</p>`;
+      const go = document.getElementById("go"); go.textContent = "Next"; go.onclick = render; locked = false; go.dataset.next = "1";
+    };
+    $app.querySelectorAll("input").forEach((inp) => inp.addEventListener("change", () => {
+      inp.checked ? sel.add(+inp.value) : sel.delete(+inp.value);
+      if (!multi) submit(); // single-choice answers lock in immediately for speed
+    }));
+    document.getElementById("go").onclick = () => { if (document.getElementById("go").dataset.next) return render(); submit(); };
+    clearInterval(timer); timer = setInterval(tick, 250);
+  };
+  window.addEventListener("hashchange", () => clearInterval(timer), { once: true });
+  render();
+}
+
+async function match(id) {
+  const d = await loadCourse(id);
+  const short = (t) => { const first = t.split(/(?<=[.!?])\s/)[0]; return first.length > 150 ? first.slice(0, 147) + "…" : first; };
+  const cards = d.cards.filter((c) => c.back.length > 20);
+  if (cards.length < 4) { $app.innerHTML = "<p>Not enough flashcards for this game.</p>"; return; }
+  const ROUND = Math.min(6, cards.length);
+  const set = shuffle(cards).slice(0, ROUND);
+  const start = Date.now(); let left = ROUND, misses = 0, pickT = null, pickD = null, timer;
+  const defs = shuffle(set);
+  $app.innerHTML = `<div class="row"><span class="timer" id="t">0.0s</span><span class="muted" id="m">Misses 0</span></div><p class="muted">Pick a term, then its definition.</p>
+    <div class="cols"><div>${set.map((c) => `<button class="tile" data-t="${c.id}">${esc(c.front)}</button>`).join("<br>")}</div>
+    <div>${defs.map((c) => `<button class="tile" data-d="${c.id}">${esc(short(c.back))}</button>`).join("<br>")}</div></div>`;
+  timer = setInterval(() => { document.getElementById("t").textContent = `${((Date.now() - start) / 1000).toFixed(1)}s`; }, 100);
+  window.addEventListener("hashchange", () => clearInterval(timer), { once: true });
+  const check = () => {
+    if (!pickT || !pickD) return;
+    const t = pickT, dd = pickD; pickT = pickD = null;
+    if (t.dataset.t === dd.dataset.d) {
+      t.classList.add("done"); dd.classList.add("done"); left--;
+      if (!left) {
+        clearInterval(timer);
+        const secs = Math.round(((Date.now() - start) / 1000 + misses * 5) * 10) / 10;
+        const record = recordGame(`${id}:match`, secs, (a, b) => a < b);
+        $app.innerHTML = `<h1>Done</h1><p class="stat">${secs}s</p><p>Time plus 5s per miss (${misses}). ${record ? "New personal best." : `Personal best ${state.games[`${id}:match`].best}s.`}</p>
+          <div class="row"><button id="again">Play again</button><a class="btn secondary" href="#/c/${id}">Back</a></div>`;
+        document.getElementById("again").onclick = () => match(id);
+      }
+    } else {
+      misses++; document.getElementById("m").textContent = `Misses ${misses}`;
+      for (const el of [t, dd]) { el.classList.remove("sel"); el.classList.add("wrong"); setTimeout(() => el.classList.remove("wrong"), 500); }
+    }
+  };
+  $app.querySelectorAll(".tile").forEach((b) => b.addEventListener("click", () => {
+    const isT = "t" in b.dataset;
+    const prev = isT ? pickT : pickD;
+    if (prev) prev.classList.remove("sel");
+    b.classList.add("sel");
+    if (isT) pickT = b; else pickD = b;
+    check();
+  }));
+}
+
 // ---------- auth + router ----------
 function showLogin(msg = "") {
   $logout.hidden = true;
@@ -204,6 +292,8 @@ async function route() {
       if (view === "cards") return await cards(id);
       if (view === "exam") return await exam(id);
       if (view === "progress") return await progress(id);
+      if (view === "game" && arg === "speed") return await speed(id);
+      if (view === "game" && arg === "match") return await match(id);
     }
     $app.innerHTML = "<p>Not found.</p>";
   } catch (e) { $app.innerHTML = `<p>Error: ${esc(e.message)}</p>`; }

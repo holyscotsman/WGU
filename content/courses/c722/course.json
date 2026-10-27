@@ -1,0 +1,16 @@
+{
+ "id": "c722",
+ "code": "C722",
+ "title": "Project Management",
+ "exam": {
+  "count": 50,
+  "minutes": 90,
+  "passPercent": 70
+ },
+ "objectives": [
+  {
+   "id": "s1",
+   "title": "Section 1: Project Management Concepts"
+  }
+ ]
+}

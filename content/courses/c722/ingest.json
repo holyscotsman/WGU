@@ -1,0 +1,198 @@
+{
+ "guides": [
+  {
+   "file": "Section 1/Section 1 - Introduction.pdf",
+   "title": "Section 1: Introduction",
+   "objectives": [
+    "s1"
+   ]
+  },
+  {
+   "file": "Section 1/Section 1- Project Management Concepts Summary.pdf",
+   "title": "Section 1: Project Management Concepts Summary",
+   "objectives": [
+    "s1"
+   ]
+  },
+  {
+   "file": "Section 1/Lesson 1- Introduction.pdf",
+   "title": "S1 1 Introduction",
+   "objectives": [
+    "s1"
+   ]
+  },
+  {
+   "file": "Section 1/Lesson 1.1- The Importance of Projects in an Organization.pdf",
+   "title": "S1 1.1 The Importance of Projects in an Organization",
+   "objectives": [
+    "s1"
+   ]
+  },
+  {
+   "file": "Section 1/Lesson 1.2- Project Management Principles.pdf",
+   "title": "S1 1.2 Project Management Principles",
+   "objectives": [
+    "s1"
+   ]
+  },
+  {
+   "file": "Section 1/Lesson 1.3- Operations and Projects.pdf",
+   "title": "S1 1.3 Operations and Projects",
+   "objectives": [
+    "s1"
+   ]
+  },
+  {
+   "file": "Section 1/Lesson 1.4- Project Characteristics.pdf",
+   "title": "S1 1.4 Project Characteristics",
+   "objectives": [
+    "s1"
+   ]
+  },
+  {
+   "file": "Section 1/Lesson 1.5- The Role Projects Play in Achieving Strategic Business Initiatives.pdf",
+   "title": "S1 1.5 The Role Projects Play in Achieving Strategic Business Initiatives",
+   "objectives": [
+    "s1"
+   ]
+  },
+  {
+   "file": "Section 1/Lesson 1.6- The Relationship Between a Project, Program, and Portfolio.pdf",
+   "title": "S1 1.6 The Relationship Between a Project, Program, and Portfolio",
+   "objectives": [
+    "s1"
+   ]
+  },
+  {
+   "file": "Section 1/Lesson 1.7- Defining and Characterizing Project Management.pdf",
+   "title": "S1 1.7 Defining and Characterizing Project Management",
+   "objectives": [
+    "s1"
+   ]
+  },
+  {
+   "file": "Section 1/Lesson 1.8- The Objectives of Project Management.pdf",
+   "title": "S1 1.8 The Objectives of Project Management",
+   "objectives": [
+    "s1"
+   ]
+  },
+  {
+   "file": "Section 1/Lesson 1- Summary.pdf",
+   "title": "S1 1 Summary",
+   "objectives": [
+    "s1"
+   ]
+  },
+  {
+   "file": "Section 1/Lesson 2- Introduction.pdf",
+   "title": "S1 2 Introduction",
+   "objectives": [
+    "s1"
+   ]
+  },
+  {
+   "file": "Section 1/Lesson 2.1- Project Management and the Project Manager.pdf",
+   "title": "S1 2.1 Project Management and the Project Manager",
+   "objectives": [
+    "s1"
+   ]
+  },
+  {
+   "file": "Section 1/Lesson 2.2- Stakeholder Engagement and Communication.pdf",
+   "title": "S1 2.2 Stakeholder Engagement and Communication",
+   "objectives": [
+    "s1"
+   ]
+  },
+  {
+   "file": "Section 1/Lesson 2.3- Communication Plans.pdf",
+   "title": "S1 2.3 Communication Plans",
+   "objectives": [
+    "s1"
+   ]
+  },
+  {
+   "file": "Section 1/Lesson 2.4- Using Reports.pdf",
+   "title": "S1 2.4 Using Reports",
+   "objectives": [
+    "s1"
+   ]
+  },
+  {
+   "file": "Section 1/Lesson 2.5- Communication Tools and Methods.pdf",
+   "title": "S1 2.5 Communication Tools and Methods",
+   "objectives": [
+    "s1"
+   ]
+  },
+  {
+   "file": "Section 1/Lesson 2.6- Project Management Organizations and Their Standards.pdf",
+   "title": "S1 2.6 Project Management Organizations and Their Standards",
+   "objectives": [
+    "s1"
+   ]
+  },
+  {
+   "file": "Section 1/Lesson 2- Summary.pdf",
+   "title": "S1 2 Summary",
+   "objectives": [
+    "s1"
+   ]
+  },
+  {
+   "file": "Section 1/Lesson 3- Introduction.pdf",
+   "title": "S1 3 Introduction",
+   "objectives": [
+    "s1"
+   ]
+  },
+  {
+   "file": "Section 1/Lesson 3.1- Advantages and Disadvantages of Common Types of Organizational Structures.pdf",
+   "title": "S1 3.1 Advantages and Disadvantages of Common Types of Organizational Structures",
+   "objectives": [
+    "s1"
+   ]
+  },
+  {
+   "file": "Section 1/Lesson 3.2- The Project Manager's Authoritya.pdf",
+   "title": "S1 3.2 The Project Manager's Authoritya",
+   "objectives": [
+    "s1"
+   ]
+  },
+  {
+   "file": "Section 1/Lesson 3.3- Project Maturity and the Advantages of a Project Management Office (PMO).pdf",
+   "title": "S1 3.3 Project Maturity and the Advantages of a Project Management Office (PMO)",
+   "objectives": [
+    "s1"
+   ]
+  },
+  {
+   "file": "Section 1/Lesson 3- Summary.pdf",
+   "title": "S1 3 Summary",
+   "objectives": [
+    "s1"
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "file": "Section 1/Section 1- Test.pdf",
+   "objective": "s1"
+  },
+  {
+   "file": "Section 1/Lesson 1- Quiz.pdf",
+   "objective": "s1"
+  },
+  {
+   "file": "Section 1/Lesson 2- Quiz.pdf",
+   "objective": "s1"
+  },
+  {
+   "file": "Section 1/Lesson 3- Quiz.pdf",
+   "objective": "s1"
+  }
+ ],
+ "keyterms": []
+}

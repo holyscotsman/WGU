@@ -1,0 +1,32 @@
+{
+ "id": "c273",
+ "code": "C273",
+ "title": "Introduction to Sociology",
+ "exam": {
+  "count": 50,
+  "minutes": 90,
+  "passPercent": 70
+ },
+ "objectives": [
+  {
+   "id": "s1",
+   "title": "Section 1: Foundations of Sociology"
+  },
+  {
+   "id": "s2",
+   "title": "Section 2: Culture and Socialization"
+  },
+  {
+   "id": "s3",
+   "title": "Section 3: Social Organizations and Deviance"
+  },
+  {
+   "id": "s4",
+   "title": "Section 4: Social Inequality"
+  },
+  {
+   "id": "s5",
+   "title": "Section 5: Social Institutions and Social Change"
+  }
+ ]
+}

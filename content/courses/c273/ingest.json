@@ -1,0 +1,792 @@
+{
+ "guides": [
+  {
+   "file": "Section 1/Section 1 Foundations of Sociology.pdf",
+   "title": "Section 1 Foundations of Sociology",
+   "objectives": [
+    "s1"
+   ]
+  },
+  {
+   "file": "Section 1/Lesson 1.1- Introduction to Sociology.pdf",
+   "title": "S1 1.1 Introduction to Sociology",
+   "objectives": [
+    "s1"
+   ]
+  },
+  {
+   "file": "Section 1/Lesson 1.2- Foundational Concepts in Sociology.pdf",
+   "title": "S1 1.2 Foundational Concepts in Sociology",
+   "objectives": [
+    "s1"
+   ]
+  },
+  {
+   "file": "Section 1/Lesson 1.3- The Development of Sociology.pdf",
+   "title": "S1 1.3 The Development of Sociology",
+   "objectives": [
+    "s1"
+   ]
+  },
+  {
+   "file": "Section 1/Lesson 1- Summary.pdf",
+   "title": "S1 1 Summary",
+   "objectives": [
+    "s1"
+   ]
+  },
+  {
+   "file": "Section 1/Lesson 2- Introduction.pdf",
+   "title": "S1 2 Introduction",
+   "objectives": [
+    "s1"
+   ]
+  },
+  {
+   "file": "Section 1/Lesson 2.1- Sociological Perspectives.pdf",
+   "title": "S1 2.1 Sociological Perspectives",
+   "objectives": [
+    "s1"
+   ]
+  },
+  {
+   "file": "Section 1/Lesson 2.2- The Functionalist Perspective.pdf",
+   "title": "S1 2.2 The Functionalist Perspective",
+   "objectives": [
+    "s1"
+   ]
+  },
+  {
+   "file": "Section 1/Lesson 2.3- The Conflict Perspective.pdf",
+   "title": "S1 2.3 The Conflict Perspective",
+   "objectives": [
+    "s1"
+   ]
+  },
+  {
+   "file": "Section 1/Lesson 2.4- Symbolic Interactionist Perspective.pdf",
+   "title": "S1 2.4 Symbolic Interactionist Perspective",
+   "objectives": [
+    "s1"
+   ]
+  },
+  {
+   "file": "Section 1/Lesson 2.5- Applied and Clinical Sociology.pdf",
+   "title": "S1 2.5 Applied and Clinical Sociology",
+   "objectives": [
+    "s1"
+   ]
+  },
+  {
+   "file": "Section 1/Lesson 2- Summary.pdf",
+   "title": "S1 2 Summary",
+   "objectives": [
+    "s1"
+   ]
+  },
+  {
+   "file": "Section 1/Lesson 3.1- The Research Process.pdf",
+   "title": "S1 3.1 The Research Process",
+   "objectives": [
+    "s1"
+   ]
+  },
+  {
+   "file": "Section 1/Lesson 3.2- Sociological Research Methods.pdf",
+   "title": "S1 3.2 Sociological Research Methods",
+   "objectives": [
+    "s1"
+   ]
+  },
+  {
+   "file": "Section 1/Lesson 3.3- Ethical Considerations in Research.pdf",
+   "title": "S1 3.3 Ethical Considerations in Research",
+   "objectives": [
+    "s1"
+   ]
+  },
+  {
+   "file": "Section 1/Lesson 3- Summary.pdf",
+   "title": "S1 3 Summary",
+   "objectives": [
+    "s1"
+   ]
+  },
+  {
+   "file": "Section 2- Culture and Socialization.pdf",
+   "title": "Section 2: Culture and Socialization",
+   "objectives": [
+    "s2"
+   ]
+  },
+  {
+   "file": "Section 2/Section 2- Culture and Socialization.pdf",
+   "title": "Section 2: Culture and Socialization",
+   "objectives": [
+    "s2"
+   ]
+  },
+  {
+   "file": "Section 2/Section 2- Summary.pdf",
+   "title": "Section 2: Summary",
+   "objectives": [
+    "s2"
+   ]
+  },
+  {
+   "file": "Section 2/Lesson 1 Introduction.pdf",
+   "title": "S2 Lesson 1 Introduction",
+   "objectives": [
+    "s2"
+   ]
+  },
+  {
+   "file": "Section 2/Lesson 1.1- Introduction to Culture.pdf",
+   "title": "S2 1.1 Introduction to Culture",
+   "objectives": [
+    "s2"
+   ]
+  },
+  {
+   "file": "Section 2/Lesson 1.2- Culture and Behavior.pdf",
+   "title": "S2 1.2 Culture and Behavior",
+   "objectives": [
+    "s2"
+   ]
+  },
+  {
+   "file": "Section 2/Lesson 1- Summary.pdf",
+   "title": "S2 1 Summary",
+   "objectives": [
+    "s2"
+   ]
+  },
+  {
+   "file": "Section 2/Lesson 2.1- Social Norms and Values.pdf",
+   "title": "S2 2.1 Social Norms and Values",
+   "objectives": [
+    "s2"
+   ]
+  },
+  {
+   "file": "Section 2/Lesson 2.2- Culture and Communication.pdf",
+   "title": "S2 2.2 Culture and Communication",
+   "objectives": [
+    "s2"
+   ]
+  },
+  {
+   "file": "Section 2/Lesson 2.3- Culture Relativism and Ethnocentrism.pdf",
+   "title": "S2 2.3 Culture Relativism and Ethnocentrism",
+   "objectives": [
+    "s2"
+   ]
+  },
+  {
+   "file": "Section 2/Lesson 2- Summary.pdf",
+   "title": "S2 2 Summary",
+   "objectives": [
+    "s2"
+   ]
+  },
+  {
+   "file": "Section 2/Lesson 3 Introduction\u202f .pdf",
+   "title": "S2 Lesson 3 Introduction",
+   "objectives": [
+    "s2"
+   ]
+  },
+  {
+   "file": "Section 2/Lesson 3.1- Introduction to Socialization.pdf",
+   "title": "S2 3.1 Introduction to Socialization",
+   "objectives": [
+    "s2"
+   ]
+  },
+  {
+   "file": "Section 2/Lesson 3.2- Socialization Across the Lifespan.pdf",
+   "title": "S2 3.2 Socialization Across the Lifespan",
+   "objectives": [
+    "s2"
+   ]
+  },
+  {
+   "file": "Section 2/Lesson 3.3- Foundations of Gender and Socialization.pdf",
+   "title": "S2 3.3 Foundations of Gender and Socialization",
+   "objectives": [
+    "s2"
+   ]
+  },
+  {
+   "file": "Section 2/Lesson 3.4- Gender Identity, Expression, and Diversity.pdf",
+   "title": "S2 3.4 Gender Identity, Expression, and Diversity",
+   "objectives": [
+    "s2"
+   ]
+  },
+  {
+   "file": "Section 2/Lesson 3.5- Sexual Orientation and Socialization.pdf",
+   "title": "S2 3.5 Sexual Orientation and Socialization",
+   "objectives": [
+    "s2"
+   ]
+  },
+  {
+   "file": "Section 2/Lesson 3- Summary.pdf",
+   "title": "S2 3 Summary",
+   "objectives": [
+    "s2"
+   ]
+  },
+  {
+   "file": "Section 2/Lesson 4.1- Stages of Self.pdf",
+   "title": "S2 4.1 Stages of Self",
+   "objectives": [
+    "s2"
+   ]
+  },
+  {
+   "file": "Section 2/Lesson 4.2- The Looking-Glass Self.pdf",
+   "title": "S2 4.2 The Looking-Glass Self",
+   "objectives": [
+    "s2"
+   ]
+  },
+  {
+   "file": "Section 2/Lesson 4- Summary.pdf",
+   "title": "S2 4 Summary",
+   "objectives": [
+    "s2"
+   ]
+  },
+  {
+   "file": "Section 3- Introduction.pdf",
+   "title": "Section 3: Introduction",
+   "objectives": [
+    "s3"
+   ]
+  },
+  {
+   "file": "Section 3/Section 3- Introduction.pdf",
+   "title": "Section 3: Introduction",
+   "objectives": [
+    "s3"
+   ]
+  },
+  {
+   "file": "Section 3/Section 3- Summary.pdf",
+   "title": "Section 3: Summary",
+   "objectives": [
+    "s3"
+   ]
+  },
+  {
+   "file": "Section 3/Lesson 1.1- The Function of Groups.pdf",
+   "title": "S3 1.1 The Function of Groups",
+   "objectives": [
+    "s3"
+   ]
+  },
+  {
+   "file": "Section 3/Lesson 1.2- In-Groups, Out-Groups, and Reference Groups.pdf",
+   "title": "S3 1.2 In-Groups, Out-Groups, and Reference Groups",
+   "objectives": [
+    "s3"
+   ]
+  },
+  {
+   "file": "Section 3/Lesson 1.3- Roles and Statuses within Groups.pdf",
+   "title": "S3 1.3 Roles and Statuses within Groups",
+   "objectives": [
+    "s3"
+   ]
+  },
+  {
+   "file": "Section 3/Lesson 1- Summary.pdf",
+   "title": "S3 1 Summary",
+   "objectives": [
+    "s3"
+   ]
+  },
+  {
+   "file": "Section 3/Lesson 2- Introduction.pdf",
+   "title": "S3 2 Introduction",
+   "objectives": [
+    "s3"
+   ]
+  },
+  {
+   "file": "Section 3/Lesson 2.1- Group Size.pdf",
+   "title": "S3 2.1 Group Size",
+   "objectives": [
+    "s3"
+   ]
+  },
+  {
+   "file": "Section 3/Lesson 2.2- Formal Organizations in Modern Society.pdf",
+   "title": "S3 2.2 Formal Organizations in Modern Society",
+   "objectives": [
+    "s3"
+   ]
+  },
+  {
+   "file": "Section 3/Lesson 2- Summary.pdf",
+   "title": "S3 2 Summary",
+   "objectives": [
+    "s3"
+   ]
+  },
+  {
+   "file": "Section 3/Lesson 3.1- Deviance and Crime.pdf",
+   "title": "S3 3.1 Deviance and Crime",
+   "objectives": [
+    "s3"
+   ]
+  },
+  {
+   "file": "Section 3/Lesson 3.2- Theoretical Perspectives of Deviance and Crime.pdf",
+   "title": "S3 3.2 Theoretical Perspectives of Deviance and Crime",
+   "objectives": [
+    "s3"
+   ]
+  },
+  {
+   "file": "Section 3/Lesson 3.3- Theoretical Perspectives (Continued).pdf",
+   "title": "S3 3.3 Theoretical Perspectives (Continued)",
+   "objectives": [
+    "s3"
+   ]
+  },
+  {
+   "file": "Section 3/Lesson 3- Summary.pdf",
+   "title": "S3 3 Summary",
+   "objectives": [
+    "s3"
+   ]
+  },
+  {
+   "file": "Section 3/Lesson 4 Introduction.pdf",
+   "title": "S3 Lesson 4 Introduction",
+   "objectives": [
+    "s3"
+   ]
+  },
+  {
+   "file": "Section 3/Lesson 4.1- Types of Crime.pdf",
+   "title": "S3 4.1 Types of Crime",
+   "objectives": [
+    "s3"
+   ]
+  },
+  {
+   "file": "Section 3/Lesson 4.2- Models of Punishment.pdf",
+   "title": "S3 4.2 Models of Punishment",
+   "objectives": [
+    "s3"
+   ]
+  },
+  {
+   "file": "Section 3/Lesson 4- Summary.pdf",
+   "title": "S3 4 Summary",
+   "objectives": [
+    "s3"
+   ]
+  },
+  {
+   "file": "Section 4- Introduction.pdf",
+   "title": "Section 4: Introduction",
+   "objectives": [
+    "s4"
+   ]
+  },
+  {
+   "file": "Section 4/Section 4- Introduction.pdf",
+   "title": "Section 4: Introduction",
+   "objectives": [
+    "s4"
+   ]
+  },
+  {
+   "file": "Section 4/Section 4- Summary.pdf",
+   "title": "Section 4: Summary",
+   "objectives": [
+    "s4"
+   ]
+  },
+  {
+   "file": "Section 4/Lesson 1- Introduction.pdf",
+   "title": "S4 1 Introduction",
+   "objectives": [
+    "s4"
+   ]
+  },
+  {
+   "file": "Section 4/Lesson 1.1- Systems of Social Stratification.pdf",
+   "title": "S4 1.1 Systems of Social Stratification",
+   "objectives": [
+    "s4"
+   ]
+  },
+  {
+   "file": "Section 4/Lesson 1.2- Poverty and Social Inequality.pdf",
+   "title": "S4 1.2 Poverty and Social Inequality",
+   "objectives": [
+    "s4"
+   ]
+  },
+  {
+   "file": "Section 4/Lesson 1.3- Global Stratification.pdf",
+   "title": "S4 1.3 Global Stratification",
+   "objectives": [
+    "s4"
+   ]
+  },
+  {
+   "file": "Section 4/Lesson 1- Summary.pdf",
+   "title": "S4 1 Summary",
+   "objectives": [
+    "s4"
+   ]
+  },
+  {
+   "file": "Section 4/Lesson 2- Introduction.pdf",
+   "title": "S4 2 Introduction",
+   "objectives": [
+    "s4"
+   ]
+  },
+  {
+   "file": "Section 4/Lesson 2.1- Understanding Race and Ethnicity.pdf",
+   "title": "S4 2.1 Understanding Race and Ethnicity",
+   "objectives": [
+    "s4"
+   ]
+  },
+  {
+   "file": "Section 4/Lesson 2.2- Social Inequality- Prejudice and Discrimination.pdf",
+   "title": "S4 2.2 Social Inequality- Prejudice and Discrimination",
+   "objectives": [
+    "s4"
+   ]
+  },
+  {
+   "file": "Section 4/Lesson 2.3- Racism and Social Inequality.pdf",
+   "title": "S4 2.3 Racism and Social Inequality",
+   "objectives": [
+    "s4"
+   ]
+  },
+  {
+   "file": "Section 4/Lesson 2.4- Race, Ethnicity, and Group Relations.pdf",
+   "title": "S4 2.4 Race, Ethnicity, and Group Relations",
+   "objectives": [
+    "s4"
+   ]
+  },
+  {
+   "file": "Section 4/Lesson 2- Summary.pdf",
+   "title": "S4 2 Summary",
+   "objectives": [
+    "s4"
+   ]
+  },
+  {
+   "file": "Section 4/Lesson 3- Introduction.pdf",
+   "title": "S4 3 Introduction",
+   "objectives": [
+    "s4"
+   ]
+  },
+  {
+   "file": "Section 4/Lesson 3.1- Gender Inequality.pdf",
+   "title": "S4 3.1 Gender Inequality",
+   "objectives": [
+    "s4"
+   ]
+  },
+  {
+   "file": "Section 4/Lesson 3.2- Inequality and Sexuality.pdf",
+   "title": "S4 3.2 Inequality and Sexuality",
+   "objectives": [
+    "s4"
+   ]
+  },
+  {
+   "file": "Section 4/Lesson 3.3- Sociological Perspectives on Gender Inequality.pdf",
+   "title": "S4 3.3 Sociological Perspectives on Gender Inequality",
+   "objectives": [
+    "s4"
+   ]
+  },
+  {
+   "file": "Section 4/Lesson 3- Summary.pdf",
+   "title": "S4 3 Summary",
+   "objectives": [
+    "s4"
+   ]
+  },
+  {
+   "file": "Section 5- Social Institutions and Social Change.pdf",
+   "title": "Section 5: Social Institutions and Social Change",
+   "objectives": [
+    "s5"
+   ]
+  },
+  {
+   "file": "Section 5/Section 5- Social Institutions and Social Change.pdf",
+   "title": "Section 5: Social Institutions and Social Change",
+   "objectives": [
+    "s5"
+   ]
+  },
+  {
+   "file": "Section 5/Section 5- Summary.pdf",
+   "title": "Section 5: Summary",
+   "objectives": [
+    "s5"
+   ]
+  },
+  {
+   "file": "Section 5/Lesson 1- Introduction.pdf",
+   "title": "S5 1 Introduction",
+   "objectives": [
+    "s5"
+   ]
+  },
+  {
+   "file": "Section 5/Lesson 1.1- Defining Families and Marriage.pdf",
+   "title": "S5 1.1 Defining Families and Marriage",
+   "objectives": [
+    "s5"
+   ]
+  },
+  {
+   "file": "Section 5/Lesson 1.2- Variations and Changes in Marriage and Families.pdf",
+   "title": "S5 1.2 Variations and Changes in Marriage and Families",
+   "objectives": [
+    "s5"
+   ]
+  },
+  {
+   "file": "Section 5/Lesson 1.3- Sociological Perspectives on Family.pdf",
+   "title": "S5 1.3 Sociological Perspectives on Family",
+   "objectives": [
+    "s5"
+   ]
+  },
+  {
+   "file": "Section 5/Lesson 1.4- Challenges of Families.pdf",
+   "title": "S5 1.4 Challenges of Families",
+   "objectives": [
+    "s5"
+   ]
+  },
+  {
+   "file": "Section 5/Lesson 1- Summary.pdf",
+   "title": "S5 1 Summary",
+   "objectives": [
+    "s5"
+   ]
+  },
+  {
+   "file": "Section 5/Lesson 2- Introduction.pdf",
+   "title": "S5 2 Introduction",
+   "objectives": [
+    "s5"
+   ]
+  },
+  {
+   "file": "Section 5/Lesson 2.1- Religious Institutions.pdf",
+   "title": "S5 2.1 Religious Institutions",
+   "objectives": [
+    "s5"
+   ]
+  },
+  {
+   "file": "Section 5/Lesson 2.2- Sociological Perspectives on Religion.pdf",
+   "title": "S5 2.2 Sociological Perspectives on Religion",
+   "objectives": [
+    "s5"
+   ]
+  },
+  {
+   "file": "Section 5/Lesson 2.3- Educational Institutions.pdf",
+   "title": "S5 2.3 Educational Institutions",
+   "objectives": [
+    "s5"
+   ]
+  },
+  {
+   "file": "Section 5/Lesson 2- Summary.pdf",
+   "title": "S5 2 Summary",
+   "objectives": [
+    "s5"
+   ]
+  },
+  {
+   "file": "Section 5/Lesson 3- Introduction.pdf",
+   "title": "S5 3 Introduction",
+   "objectives": [
+    "s5"
+   ]
+  },
+  {
+   "file": "Section 5/Lesson 3.1- Health and Medicine.pdf",
+   "title": "S5 3.1 Health and Medicine",
+   "objectives": [
+    "s5"
+   ]
+  },
+  {
+   "file": "Section 5/Lesson 3.2- Theoretical Perspectives of Healthcare.pdf",
+   "title": "S5 3.2 Theoretical Perspectives of Healthcare",
+   "objectives": [
+    "s5"
+   ]
+  },
+  {
+   "file": "Section 5/Lesson 3.3- Comparison of Healthcare Systems.pdf",
+   "title": "S5 3.3 Comparison of Healthcare Systems",
+   "objectives": [
+    "s5"
+   ]
+  },
+  {
+   "file": "Section 5/Lesson 3.4- Environment and Health.pdf",
+   "title": "S5 3.4 Environment and Health",
+   "objectives": [
+    "s5"
+   ]
+  },
+  {
+   "file": "Section 5/Lesson 3- Summary.pdf",
+   "title": "S5 3 Summary",
+   "objectives": [
+    "s5"
+   ]
+  },
+  {
+   "file": "Section 5/Lesson 4- Introduction.pdf",
+   "title": "S5 4 Introduction",
+   "objectives": [
+    "s5"
+   ]
+  },
+  {
+   "file": "Section 5/Lesson 4.1- Collective Behavior.pdf",
+   "title": "S5 4.1 Collective Behavior",
+   "objectives": [
+    "s5"
+   ]
+  },
+  {
+   "file": "Section 5/Lesson 4.2- Social Movements and Social Change.pdf",
+   "title": "S5 4.2 Social Movements and Social Change",
+   "objectives": [
+    "s5"
+   ]
+  },
+  {
+   "file": "Section 5/Lesson 4- Summary.pdf",
+   "title": "S5 4 Summary",
+   "objectives": [
+    "s5"
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "file": "Section 1/Section 1- Test.pdf",
+   "objective": "s1"
+  },
+  {
+   "file": "Section 1/Lesson 1- Quiz.pdf",
+   "objective": "s1"
+  },
+  {
+   "file": "Section 1/Lesson 2- Quiz.pdf",
+   "objective": "s1"
+  },
+  {
+   "file": "Section 1/Lesson 3- Quiz.pdf",
+   "objective": "s1"
+  },
+  {
+   "file": "Section 2/Section 2- Test.pdf",
+   "objective": "s2"
+  },
+  {
+   "file": "Section 2/Lesson 1- Quiz.pdf",
+   "objective": "s2"
+  },
+  {
+   "file": "Section 2/Lesson 2- Quiz.pdf",
+   "objective": "s2"
+  },
+  {
+   "file": "Section 2/Lesson 3- Quiz.pdf",
+   "objective": "s2"
+  },
+  {
+   "file": "Section 2/Lesson 4- Quiz.pdf",
+   "objective": "s2"
+  },
+  {
+   "file": "Section 3/Section 3- Test.pdf",
+   "objective": "s3"
+  },
+  {
+   "file": "Section 3/Lesson 1- Quiz.pdf",
+   "objective": "s3"
+  },
+  {
+   "file": "Section 3/Lesson 2- Quiz.pdf",
+   "objective": "s3"
+  },
+  {
+   "file": "Section 3/Lesson 3- Quiz.pdf",
+   "objective": "s3"
+  },
+  {
+   "file": "Section 3/Lesson 4- Quiz.pdf",
+   "objective": "s3"
+  },
+  {
+   "file": "Section 4/Section 4- Test.pdf",
+   "objective": "s4"
+  },
+  {
+   "file": "Section 4/Lesson 1- Quiz.pdf",
+   "objective": "s4"
+  },
+  {
+   "file": "Section 4/Lesson 2- Quiz.pdf",
+   "objective": "s4"
+  },
+  {
+   "file": "Section 4/Lesson 3- Quiz.pdf",
+   "objective": "s4"
+  },
+  {
+   "file": "Section 5/Section 5- Test.pdf",
+   "objective": "s5"
+  },
+  {
+   "file": "Section 5/Lesson 1- Quiz.pdf",
+   "objective": "s5"
+  },
+  {
+   "file": "Section 5/Lesson 2- Quiz.pdf",
+   "objective": "s5"
+  },
+  {
+   "file": "Section 5/Lesson 3- Quiz.pdf",
+   "objective": "s5"
+  },
+  {
+   "file": "Section 5/Lesson 4- Quiz.pdf",
+   "objective": "s5"
+  }
+ ],
+ "keyterms": []
+}

@@ -7,6 +7,7 @@ import { marked } from "marked";
 const ROOT = path.resolve(import.meta.dirname, "..");
 const CONTENT = path.join(ROOT, "content", "courses");
 const DIST = path.join(ROOT, "dist");
+const PRIVATE = path.join(ROOT, "netlify", "content");
 const validateOnly = process.argv.includes("--validate-only");
 
 const errors = [];
@@ -97,14 +98,17 @@ console.log(`Validated ${loaded.length} course(s).`);
 if (validateOnly) process.exit(0);
 
 await rm(DIST, { recursive: true, force: true });
-await mkdir(path.join(DIST, "data"), { recursive: true });
+await rm(PRIVATE, { recursive: true, force: true });
+await mkdir(DIST, { recursive: true });
+await mkdir(PRIVATE, { recursive: true });
 await cp(path.join(ROOT, "web"), DIST, { recursive: true });
 
+// Course data is private: it is bundled into the `data` function and served only to authenticated sessions.
 const index = loaded.map(({ course, guides, questions, cards }) => ({
   ...course,
   counts: { guides: guides.length, questions: questions.length, cards: cards.length },
 }));
-await writeFile(path.join(DIST, "data", "courses.json"), JSON.stringify(index));
-for (const c of loaded)
-  await writeFile(path.join(DIST, "data", `${c.course.id}.json`), JSON.stringify(c));
-console.log(`Built ${DIST}`);
+const bundle = { courses: index };
+for (const c of loaded) bundle[c.course.id] = c;
+await writeFile(path.join(PRIVATE, "index.mjs"), `export default ${JSON.stringify(bundle)};\n`);
+console.log(`Built ${DIST} and ${PRIVATE}`);
