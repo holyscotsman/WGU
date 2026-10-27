@@ -1,0 +1,25 @@
+:root { --bg:#fafafa; --fg:#1b1f24; --muted:#667; --card:#fff; --line:#dde; --accent:#1a5fb4; --ok:#1b7f3b; --bad:#b3261e; }
+@media (prefers-color-scheme: dark) { :root { --bg:#14171b; --fg:#e6e8eb; --muted:#9aa; --card:#1d2127; --line:#2c333b; --accent:#6ea8fe; --ok:#5fd38d; --bad:#ff8a80; } }
+* { box-sizing: border-box; }
+body { margin:0; background:var(--bg); color:var(--fg); font:16px/1.55 system-ui, sans-serif; }
+header { display:flex; gap:1rem; align-items:center; padding:.75rem 1rem; border-bottom:1px solid var(--line); }
+.brand { font-weight:700; color:var(--fg); text-decoration:none; margin-right:auto; }
+#sync { color:var(--muted); font-size:.8rem; }
+main { max-width:50rem; margin:0 auto; padding:1rem; }
+a { color:var(--accent); }
+.card { background:var(--card); border:1px solid var(--line); border-radius:8px; padding:1rem; margin:.75rem 0; }
+.grid { display:grid; gap:.75rem; grid-template-columns:repeat(auto-fill, minmax(14rem, 1fr)); }
+button, .btn { font:inherit; background:var(--accent); color:#fff; border:0; border-radius:6px; padding:.5rem .9rem; cursor:pointer; text-decoration:none; display:inline-block; }
+button.secondary { background:transparent; color:var(--accent); border:1px solid var(--accent); }
+button:disabled { opacity:.5; cursor:default; }
+input[type=password], select { font:inherit; padding:.5rem; border:1px solid var(--line); border-radius:6px; background:var(--card); color:var(--fg); }
+.choice { display:flex; gap:.5rem; align-items:flex-start; padding:.5rem; border:1px solid var(--line); border-radius:6px; margin:.35rem 0; cursor:pointer; }
+.choice.ok { border-color:var(--ok); background:color-mix(in srgb, var(--ok) 15%, transparent); }
+.choice.bad { border-color:var(--bad); background:color-mix(in srgb, var(--bad) 15%, transparent); }
+.muted { color:var(--muted); font-size:.9rem; }
+.bar { height:.6rem; background:var(--line); border-radius:4px; overflow:hidden; }
+.bar > i { display:block; height:100%; background:var(--accent); }
+.row { display:flex; gap:.5rem; flex-wrap:wrap; align-items:center; }
+.flash { min-height:8rem; display:flex; align-items:center; justify-content:center; text-align:center; font-size:1.2rem; cursor:pointer; white-space:pre-wrap; }
+table { border-collapse:collapse; width:100%; } td, th { padding:.4rem; border-bottom:1px solid var(--line); text-align:left; }
+.guide pre { overflow:auto; background:var(--card); padding:.75rem; border-radius:6px; } .guide table td, .guide table th { border:1px solid var(--line); }

@@ -1,0 +1,14 @@
+{
+  "name": "wgu-study",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "validate": "node scripts/build.mjs --validate-only",
+    "dev": "netlify dev"
+  },
+  "dependencies": {
+    "@netlify/blobs": "^8.1.0",
+    "marked": "^15.0.0"
+  }
+}

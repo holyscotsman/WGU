@@ -1,0 +1,5 @@
+[
+  { "id": "ex-001", "objective": "1.1", "q": "Which is the purpose of a study guide?", "choices": ["Replace the exam", "Condense material for review", "Grade assignments"], "answer": 1, "explanation": "A study guide condenses material for review." },
+  { "id": "ex-002", "objective": "1.2", "q": "Select ALL that apply: spaced repetition...", "choices": ["Reviews items at growing intervals", "Requires cramming", "Improves long-term retention"], "answer": [0, 2], "explanation": "Intervals grow as recall succeeds; it counters cramming." },
+  { "id": "ex-003", "objective": "1.2", "q": "A card answered wrong should be...", "choices": ["Shown again soon", "Retired", "Shown in a month"], "answer": 0, "explanation": "Failed cards reset to the shortest interval." }
+]
