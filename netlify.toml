@@ -1,6 +1,8 @@
 [build]
   command = "npm run build"
   publish = "dist"
+  # Skip the build (and its credits) when a push only touches docs or launcher scripts
+  ignore = "git diff --quiet $CACHED_COMMIT_REF $COMMIT_REF -- web content netlify scripts package.json package-lock.json netlify.toml"
 
 [functions]
   directory = "netlify/functions"

@@ -4,3 +4,4 @@ dist
 .env
 netlify/content
 __pycache__
+.local.env

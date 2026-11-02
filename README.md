@@ -24,6 +24,14 @@ Needs `poppler-utils` (`pdftotext`, `pdftoppm`) and Python with Pillow and numpy
 
 Not supported yet: pre-assessment exams and the module-quiz layout used by D075 (inline "Correct!" labels).
 
+## Run locally (free, no Netlify credits)
+
+Install Node.js LTS once, get the code (GitHub Desktop clone, or Download ZIP), then run the launcher:
+
+- macOS: double-click `start.command` (first time: right-click, Open) or run `bash start.command` in Terminal.
+
+It checks Node, pulls updates when the folder is a git clone, installs, builds, asks for a password once (saved in `.local.env`, never committed), starts the site at http://localhost:8888 and opens Chrome. Progress is saved in the hidden `.netlify` folder; keep it when moving to a new copy.
+
 ## Deploy (Netlify)
 
 1. Keep this GitHub repository **private**: `content/courses/*` holds courseware-derived text and Netlify builds from git.
