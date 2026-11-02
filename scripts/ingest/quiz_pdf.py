@@ -20,8 +20,20 @@ def run(cmd):
     return subprocess.run(cmd, check=True, capture_output=True, text=True).stdout
 
 def render_pages(pdf, tmp):
-    subprocess.run(["pdftoppm", "-r", str(int(72 * SCALE)), "-gray", "-png", pdf, os.path.join(tmp, "p")], check=True)
+    subprocess.run(["pdftoppm", "-r", str(int(72 * SCALE)), "-png", pdf, os.path.join(tmp, "p")], check=True)
     return sorted(f for f in os.listdir(tmp) if f.startswith("p") and f.endswith(".png"))
+
+FOOT_WORDS = {"ADA", "Accommodation", "Privacy", "Policy", "|", "Terms", "of", "Service", "Honor", "Code", "©", "2020",
+              "Western", "Governors", "University", "–", "WGU.", "All", "rights", "reserved."}
+
+def is_overlay(w):
+    """Page-footer and button text printed over the question text (larger font, interleaved word by word)."""
+    t, h, x = (w.text or ""), float(w.get("yMax")) - float(w.get("yMin")), float(w.get("xMin"))
+    if t == "Submit":
+        return True
+    if h >= 15 and (t in FOOT_WORDS or t == "Show" or (t == "Answer" and x > 60)):
+        return True
+    return False
 
 def parse(pdf):
     xml = run(["pdftotext", "-bbox-layout", pdf, "-"])
@@ -33,7 +45,7 @@ def parse(pdf):
         for b in page.iter("block"):
             lines = []
             for ln in b.iter("line"):
-                words = [w.text or "" for w in ln.iter("word")]
+                words = [w.text or "" for w in ln.iter("word") if not is_overlay(w)]
                 t = " ".join(w for w in words if w).strip()
                 if t:
                     lines.append((float(ln.get("yMin")), float(ln.get("yMax")), t))
@@ -44,29 +56,47 @@ def parse(pdf):
         pages.append(blocks)
     return pages
 
-def radio_filled(img, x_pt, y_pt):
-    cx, cy = int(x_pt * SCALE), int(y_pt * SCALE)
-    r = int(3 * SCALE)
-    patch = img[max(cy - r, 0):cy + r + 1, max(cx - r, 0):cx + r + 1]
-    # Unselected controls are a grey ring (min ~127); a selected one has a solid dark dot/check.
-    return patch.size > 0 and int((patch < 90).sum()) >= 6
+def radio_filled(img, text_x_pt, y_pt):
+    """True if a filled radio/checkbox sits just left of the choice text.
+
+    Scans the strip left of the text so it works across printout layouts. An unselected control is a thin
+    grey ring; a selected one has a solid dark dot (black) or a saturated blue dot.
+    """
+    x0, x1 = int((text_x_pt - 32) * SCALE), int((text_x_pt - 5) * SCALE)
+    cy, r = int(y_pt * SCALE), int(4 * SCALE)
+    patch = img[max(cy - r, 0):cy + r + 1, max(x0, 0):max(x1, 1)].astype(int)
+    if patch.size == 0:
+        return False
+    R, G, B = patch[..., 0], patch[..., 1], patch[..., 2]
+    dark = (R + G + B) / 3 < 90
+    blue = (B > 170) & (R < 90) & (G < 160)
+    return int((dark | blue).sum()) >= 6
+
+FOOTER = re.compile(r"ADA Accommodation|Privacy Policy \| Terms of Service \| Honor Code|© \d{4} Western Governors University[^.]*\. All rights reserved\.?")
+
+def has_control(img, text_x_pt, y_pt):
+    """True if any radio/checkbox glyph (ring or dot) sits just left of the text line."""
+    x0, x1 = int((text_x_pt - 32) * SCALE), int((text_x_pt - 5) * SCALE)
+    cy, r = int(y_pt * SCALE), int(4 * SCALE)
+    patch = img[max(cy - r, 0):cy + r + 1, max(x0, 0):max(x1, 1)].astype(int)
+    return patch.size > 0 and int((patch.mean(axis=2) < 215).sum()) >= 6
 
 def extract(pdf):
     pages = parse(pdf)
     with tempfile.TemporaryDirectory() as tmp:
         files = render_pages(pdf, tmp)
-        imgs = [np.array(Image.open(os.path.join(tmp, f)).convert("L")) for f in files]
+        imgs = [np.array(Image.open(os.path.join(tmp, f)).convert("RGB")) for f in files]
         qs, cur, mode = [], None, None
-        choice_x = None
         for pi, blocks in enumerate(pages):
             for b in blocks:
-                t = b["text"].strip()
-                if t in ("Listen",) or re.fullmatch(r"[\d.]+/[\d.]+ points? \((?:un)?graded\)", t):
+                t = FOOTER.sub(" ", b["text"]).strip()
+                t = re.sub(r"\s+", " ", t)
+                if not t or t in ("Listen", "Show Answer", "Submit") or re.fullmatch(r"[\d.]+/[\d.]+ points? \((?:un)?graded\)|[\d.]+ points? possible \((?:un)?graded\)", t):
                     continue
                 m = re.fullmatch(r"Question (\d+)", t)
                 if m:
                     cur = dict(n=int(m.group(1)), stem=[], choices=[], selected=[], result=None, explanation=[], page=pi + 1)
-                    qs.append(cur); mode = "stem"; choice_x = None
+                    qs.append(cur); mode = "stem"
                     continue
                 if cur is None:
                     continue
@@ -75,23 +105,23 @@ def extract(pdf):
                 if mode == "expl":
                     m = re.match(r"(Correct|Incorrect):\s*(.*)", t)
                     if m:
-                        cur["result"] = m.group(1).lower()
+                        cur["result"] = cur["result"] or m.group(1).lower()
                         if m.group(2): cur["explanation"].append(m.group(2))
                         continue
-                    if t == "Submit" or re.match(r"(Correct|Incorrect|Partially correct) \(", t):
-                        m2 = re.match(r"(Correct|Incorrect|Partially correct) \(", t)
-                        if m2 and cur["result"] is None: cur["result"] = m2.group(1).lower()
+                    m2 = re.match(r"(Correct|Incorrect|Partially correct) \(", t)
+                    if m2:
+                        if cur["result"] is None: cur["result"] = m2.group(1).lower()
                         continue
                     cur["explanation"].append(t)
                     continue
-                # stem vs choice: choices are indented relative to the stem
-                if mode == "stem" and choice_x is None and b["x"] > 100:
-                    choice_x = b["x"]
-                if choice_x is not None and abs(b["x"] - choice_x) < 6:
-                    idx = len(cur["choices"])
+                # stem phase: a line with a radio/checkbox to its left starts a choice; unmarked lines after the
+                # first choice continue it, and unmarked lines before it belong to the stem
+                if has_control(imgs[pi], b["x"], b["fy"]):
                     cur["choices"].append(t)
-                    if radio_filled(imgs[pi], b["x"] - 20.5, b["fy"]):
-                        cur["selected"].append(idx)
+                    if radio_filled(imgs[pi], b["x"], b["fy"]):
+                        cur["selected"].append(len(cur["choices"]) - 1)
+                elif cur["choices"]:
+                    cur["choices"][-1] += " " + t
                 elif cur["stem"] and t.startswith(cur["stem"][-1]) and len(cur["stem"][-1]) > 20:
                     cur["stem"][-1] = t  # a truncated first copy followed by the complete line
                 elif not cur["stem"] or not (t == cur["stem"][-1] or cur["stem"][-1].endswith(t)):

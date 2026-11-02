@@ -42,6 +42,26 @@ def key_terms(path):
         cards.append((term, f"{term} {rest}" if not rest[0].isupper() else rest))
     return cards
 
+def workbook_cards(path, cid, offset):
+    """Flashcards from a study-guide workbook: one sheet per topic named "S<n>...", rows of Term | Definition | Example."""
+    import openpyxl
+    wb = openpyxl.load_workbook(path, data_only=True)
+    cards = []
+    for ws in wb.worksheets:
+        m = re.match(r"S(\d+)\b", ws.title.strip())
+        if not m or "example" in ws.title.lower():
+            continue
+        obj, labels = f"s{m.group(1)}", ("Definition", "Example")
+        for row in ws.iter_rows(values_only=True):
+            a, b, c = [(str(v).strip() if v not in (None, "") else "") for v in (list(row) + [None, None, None])[:3]]
+            if a in ("Terms", "Metric"):
+                labels = (b or "Definition", c or "Example"); continue
+            if not a or not (b or c) or a.lower().startswith(("explain", "define", "describe", "my notes")):
+                continue
+            parts = [f"{lab}: {val}" if lab not in ("Definition", "What It Means") else val for lab, val in ((labels[0], b), (labels[1], c)) if val]
+            cards.append({"id": f"{cid}-wb{offset + len(cards) + 1}", "objective": obj, "front": re.sub(r"\s+", " ", a), "back": "\n".join(parts)})
+    return cards
+
 def main(src, out):
     cfg = json.load(open(os.path.join(out, "ingest.json")))
     cid = os.path.basename(out.rstrip("/"))
@@ -58,7 +78,7 @@ def main(src, out):
     for qz in cfg.get("quizzes", []):
         for q in extract(os.path.join(src, qz["file"])):
             where = f"{qz['file']} Q{q['n']}"
-            if q["result"] != "correct" or not q["selected"] or not q["explanation"]:
+            if q["result"] != "correct" or not q["selected"] or not q["explanation"] or not 2 <= len(q["choices"]) <= 8:
                 skipped.append(where); continue
             ans = q["selected"]
             questions.append({
@@ -66,12 +86,14 @@ def main(src, out):
                 "objective": qz["objective"],
                 "q": q["stem"], "choices": q["choices"],
                 "answer": ans[0] if len(ans) == 1 else ans,
-                "explanation": re.sub(r"^(That's right|Correct)[!.]\s*", "", q["explanation"]),
+                "explanation": re.sub(r"^(That's right|Correct)[!.]\s*", "", q["explanation"].strip()),
                 "source": qz["file"].rsplit(".", 1)[0],
             })
     json.dump(questions, open(os.path.join(out, "questions.json"), "w"), indent=1, ensure_ascii=False)
 
     cards = []
+    for wb in cfg.get("workbooks", []):
+        cards += workbook_cards(os.path.join(src, wb["file"]), cid, len(cards))
     for kt in cfg.get("keyterms", []):
         for n, (term, back) in enumerate(key_terms(os.path.join(src, kt["file"])), 1):
             cards.append({"id": f"{cid}-kt{len(cards)+1}", "objective": kt["objective"], "front": term, "back": back})

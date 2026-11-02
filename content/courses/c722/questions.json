@@ -328,5 +328,2135 @@
   "answer": 2,
   "explanation": "PMOs can help an organization to align project investment to corporate strategy. Correct",
   "source": "Section 1/Lesson 3- Quiz"
+ },
+ {
+  "id": "c722-section-2-section-2-test-q1",
+  "objective": "s2",
+  "q": "When does the project defining phase begin?",
+  "choices": [
+   "When an idea for a project is identified by a company",
+   "When management decides to select a project for implementation",
+   "When all aspects of the triple constraints are met",
+   "When the project charter is drafted"
+  ],
+  "answer": 0,
+  "explanation": "The defining phase begins when an idea for a project is identified.",
+  "source": "Section 2/Section 2- Test"
+ },
+ {
+  "id": "c722-section-2-section-2-test-q4",
+  "objective": "s2",
+  "q": "What is an example of project scope creep?",
+  "choices": [
+   "Having an incomplete project scope",
+   "Continually using change management procedures",
+   "Adding functionality without considering impacts"
+  ],
+  "answer": 2,
+  "explanation": "It is important to create and deliver what has been contracted, on budget and on time. Adding functionality without considering impacts to the project’s budget, schedule, and resources is an example of scope creep.",
+  "source": "Section 2/Section 2- Test"
+ },
+ {
+  "id": "c722-section-2-section-2-test-q5",
+  "objective": "s2",
+  "q": "What is gathered and documented by the project manager during the project closing phase?",
+  "choices": [
+   "Project outcomes",
+   "Revised activities",
+   "Lessons learned"
+  ],
+  "answer": 2,
+  "explanation": "The project manager gathers and documents lessons learned during the project closing phase. These are to benefit future projects.",
+  "source": "Section 2/Section 2- Test"
+ },
+ {
+  "id": "c722-section-2-section-2-test-q6",
+  "objective": "s2",
+  "q": "What is an example of a measurable goal?",
+  "choices": [
+   "Price point",
+   "Sponsor requirements",
+   "Business case",
+   "Project justification"
+  ],
+  "answer": 0,
+  "explanation": "Examples of measurable goals include price point, maximum production time, total cost, and other factors.",
+  "source": "Section 2/Section 2- Test"
+ },
+ {
+  "id": "c722-section-2-section-2-test-q7",
+  "objective": "s2",
+  "q": "The approval of the scope, budget, and schedule mark the end of which phase of the project life cycle?",
+  "choices": [
+   "Closing",
+   "Executing",
+   "Defining",
+   "Planning"
+  ],
+  "answer": 3,
+  "explanation": "The planning phase creates an approved scope, budget, and schedule so that the project can move to the executing phase of the project life cycle.",
+  "source": "Section 2/Section 2- Test"
+ },
+ {
+  "id": "c722-section-2-section-2-test-q8",
+  "objective": "s2",
+  "q": "Why are planning and executing considered iterative activities?",
+  "choices": [
+   "They can be performed in either order.",
+   "They are critical to completing the project.",
+   "They will occur repeatedly as problems during the process of project planning and execution are detected.",
+   "They occur in sequence."
+  ],
+  "answer": 2,
+  "explanation": "The project team will replan parts of the project and then return again to executing whenever it is determined that the existing plan is insufficient to meet the requirements of the customer.",
+  "source": "Section 2/Section 2- Test"
+ },
+ {
+  "id": "c722-section-2-section-2-test-q9",
+  "objective": "s2",
+  "q": "When not enough information is available to fully plan the project, which benefits can companies gain by using iterative planning methods?",
+  "choices": [
+   "The organization can discover more information through each subsequent phase.",
+   "Although the project cannot be canceled, the team can take actions to get it back on track.",
+   "The costs of project planning are kept in just one phase."
+  ],
+  "answer": 0,
+  "explanation": "Each phase has one or more deliverables that brings clarity to the scope and overall outcome of the project.",
+  "source": "Section 2/Section 2- Test"
+ },
+ {
+  "id": "c722-section-2-section-2-test-q10",
+  "objective": "s2",
+  "q": "An entrepreneur has dreams of a restaurant that will eventually branch out into a variety of ventures such as food trucks. As a project manager, he breaks down those dreams into a program and then divides specific elements of program deliverables into separate projects, the first of which will be the initial restaurant only. Which phases will be required for each subsequent project?",
+  "choices": [
+   "Executing",
+   "Defining, planning, executing, and closing",
+   "Planning, executing, and closing",
+   "Planning and executing"
+  ],
+  "answer": 1,
+  "explanation": "It is critical to complete all phases of the project life cycle for each to ensure that all the projects are integrated with the program.",
+  "source": "Section 2/Section 2- Test"
+ },
+ {
+  "id": "c722-section-2-section-2-test-q11",
+  "objective": "s2",
+  "q": "During the initial restaurant's project's execution phase, the project team discovers that some of the planned activities are not sufficient to complete the project’s objectives. What do they need to do?",
+  "choices": [
+   "Do their best and proceed to the project closing phase",
+   "Return to the planning phase in order to make adjustments to the triple constraints",
+   "Revise the project objectives",
+   "Fire the people who misjudged the planned activities in the first place"
+  ],
+  "answer": 1,
+  "explanation": "Returning to the planning phase allows the team to make adjustments to the budget, schedule, and scope.",
+  "source": "Section 2/Section 2- Test"
+ },
+ {
+  "id": "c722-section-2-section-2-test-q12",
+  "objective": "s2",
+  "q": "Which should be included in the project costs?",
+  "choices": [
+   "Kitchen equipment, which will be used after project",
+   "Cost of business expenses",
+   "Recruiter fees",
+   "Salaries"
+  ],
+  "answer": 3,
+  "explanation": "The salaries and wages of employees involved on the project are included in the project costs.",
+  "source": "Section 2/Section 2- Test"
+ },
+ {
+  "id": "c722-section-2-section-2-test-q13",
+  "objective": "s2",
+  "q": "The chef that was hired for the initial restaurant has requested a specialized piece of equipment that was not included in the original plans. What is this an example of?",
+  "choices": [
+   "A milestone",
+   "Float",
+   "A change in the critical path",
+   "Scope creep"
+  ],
+  "answer": 3,
+  "explanation": "The addition of something that was not in the statement of work leads to scope creep.",
+  "source": "Section 2/Section 2- Test"
+ },
+ {
+  "id": "c722-section-2-lesson-1-quiz-q1",
+  "objective": "s2",
+  "q": "Which kind of information might be found in a project proposal?",
+  "choices": [
+   "Risks to the project",
+   "Project charter",
+   "Low-level estimate of the costs"
+  ],
+  "answer": 0,
+  "explanation": "A complete project proposal includes any risks that might derail the project.",
+  "source": "Section 2/Lesson 1- Quiz"
+ },
+ {
+  "id": "c722-section-2-lesson-1-quiz-q2",
+  "objective": "s2",
+  "q": "Which action concludes the project defining phase?",
+  "choices": [
+   "Brainstorming approaches for getting key stakeholders on board",
+   "Creation of a work breakdown structure",
+   "Creation and selection of the project charter"
+  ],
+  "answer": 2,
+  "explanation": "Project selection and the drafting of a project charter conclude the defining phase of a project.",
+  "source": "Section 2/Lesson 1- Quiz"
+ },
+ {
+  "id": "c722-section-2-lesson-1-quiz-q3",
+  "objective": "s2",
+  "q": "Major project outcomes and deliverables, how the project will be completed, and a high-level estimate of the cost and completion time are included in the ____.",
+  "choices": [
+   "project charter",
+   "project proposal",
+   "project concept document"
+  ],
+  "answer": 1,
+  "explanation": "All these factors are included in the project proposal.",
+  "source": "Section 2/Lesson 1- Quiz"
+ },
+ {
+  "id": "c722-section-2-lesson-1-quiz-q4",
+  "objective": "s2",
+  "q": "True or false: During the executing phase, the project team may need to return to the planning phase in order to make an adjustment to the budget, schedule, or scope.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "It is during the executing phase that changes to the triple constraints of scope, schedule, and budget are often identified and must be addressed.",
+  "source": "Section 2/Lesson 1- Quiz"
+ },
+ {
+  "id": "c722-section-2-lesson-1-quiz-q5",
+  "objective": "s2",
+  "q": "Project deliverables and outcomes are created during which phase of the project life cycle?",
+  "choices": [
+   "Closing",
+   "Executing",
+   "Defining",
+   "Planning"
+  ],
+  "answer": 1,
+  "explanation": "The project team completes the activities to create the project deliverables and outcomes during the executing phase of the project life cycle.",
+  "source": "Section 2/Lesson 1- Quiz"
+ },
+ {
+  "id": "c722-section-2-lesson-1-quiz-q6",
+  "objective": "s2",
+  "q": "What are some of the activities done during the project closing phase? Select all that apply.",
+  "choices": [
+   "The customer or sponsor evaluates the deliverables to determine if they meet requirements.",
+   "Project results and lessons learned will be documented.",
+   "The scope of the project will be adjusted."
+  ],
+  "answer": [
+   0,
+   1
+  ],
+  "explanation": "The customer or sponsor evaluates the deliverables to determine if they meet requirements. Once the project concludes, the sponsor or customer must evaluate and sign off on whether the project deliverables meet their requirements. Project results and lessons learned will be documented. The team often gains experience during the project that can improve the success of future projects. This is captured in detail and added to a central repository for others within the organization to leverage.",
+  "source": "Section 2/Lesson 1- Quiz"
+ },
+ {
+  "id": "c722-section-2-lesson-1-quiz-q7",
+  "objective": "s2",
+  "q": "Which key characteristics should be focused on when gathering requirements during the project defining phase? Select all that apply.",
+  "choices": [
+   "Measurable project goals and specifications",
+   "Product specifications",
+   "Project viability"
+  ],
+  "answer": [
+   0,
+   1
+  ],
+  "explanation": "Measurable project goals and specifications are a critical component of successfully executing a project. Product specifications are often determined based on quantifiable engineering and design requirements that the finished product must meet or exceed, allowing a clear method of determining success.",
+  "source": "Section 2/Lesson 1- Quiz"
+ },
+ {
+  "id": "c722-section-2-lesson-2-quiz-q1",
+  "objective": "s2",
+  "q": "What is a project scope?",
+  "choices": [
+   "The desired result for a project",
+   "The quality of a project",
+   "Project assumptions"
+  ],
+  "answer": 0,
+  "explanation": "Project scope is the desired result for a project, and it defines the product. It is also sometimes referred to as the statement of work (SOW).",
+  "source": "Section 2/Lesson 2- Quiz"
+ },
+ {
+  "id": "c722-section-2-lesson-2-quiz-q2",
+  "objective": "s2",
+  "q": "What is an example of a milestone date?",
+  "choices": [
+   "Critical path",
+   "Project float",
+   "Safety inspection"
+  ],
+  "answer": 2,
+  "explanation": "Milestone dates are key dates that often correlate to critical events, such as safety inspections, that need to be performed within the context of the project schedule.",
+  "source": "Section 2/Lesson 2- Quiz"
+ },
+ {
+  "id": "c722-section-2-lesson-2-quiz-q3",
+  "objective": "s2",
+  "q": "Which justifications are often given to consider a project? Select all that apply.",
+  "choices": [
+   "Government requirements",
+   "Reducing costs/increasing profits",
+   "Meeting customer requirements"
+  ],
+  "answer": [
+   0,
+   1,
+   2
+  ],
+  "explanation": "Government requirements related to the environment or safety regulations often drive the need to execute a project. Projects are often undertaken to increase profitability, achieved by either reducing costs or increasing sales. A fundamental driver for most projects is meeting customer requirements to strengthen the product or service offering the company is currently providing.",
+  "source": "Section 2/Lesson 2- Quiz"
+ },
+ {
+  "id": "c722-section-2-lesson-2-quiz-q4",
+  "objective": "s2",
+  "q": "What does a project baseline help to establish?",
+  "choices": [
+   "Projected scope, schedule, and cost",
+   "Project schedule only",
+   "Project cost only",
+   "Project scope only"
+  ],
+  "answer": 0,
+  "explanation": "A project’s expected scope, schedule, and cost are all established in a project baseline. Once a project is completed, any variances from the initial cost estimates, schedule, or project deliverables can be compared with this baseline.",
+  "source": "Section 2/Lesson 2- Quiz"
+ },
+ {
+  "id": "c722-section-2-lesson-2-quiz-q5",
+  "objective": "s2",
+  "q": "In examining the triple constraints for the opening of a coffee shop, which development will affect the project scope?",
+  "choices": [
+   "A late winter freeze delays an early spring start to construction.",
+   "The addition to the building is canceled due to an unanticipated underground storage tank.",
+   "Coffee cups have increased in price since they were selected.",
+   "The installation of a parking lot takes an extra day due to weather."
+  ],
+  "answer": 1,
+  "explanation": "This development would affect the project scope, since the addition will no longer be made to the building.",
+  "source": "Section 2/Lesson 2- Quiz"
+ },
+ {
+  "id": "c722-section-2-lesson-2-quiz-q6",
+  "objective": "s2",
+  "q": "In examining the triple constraints for a proposed gift shop, which development will impact the project schedule?",
+  "choices": [
+   "The construction permits cannot be secured until three weeks later than expected.",
+   "The community covenants restrict the color choice for the building’s exterior.",
+   "The price of the selected shelving increases."
+  ],
+  "answer": 0,
+  "explanation": "This development would affect the project schedule, since the permitting process will delay the project start date.",
+  "source": "Section 2/Lesson 2- Quiz"
+ },
+ {
+  "id": "c722-section-2-lesson-2-quiz-q7",
+  "objective": "s2",
+  "q": "In examining the triple constraints for a proposed health spa, which development will impact the project cost?",
+  "choices": [
+   "The contractor’s injury delays the project start date.",
+   "The equipment ordered is no longer available.",
+   "A needed storage shed on-site encroaches on neighboring property and must be removed and replaced."
+  ],
+  "answer": 2,
+  "explanation": "This development would affect the project cost, since the shed assumed to be useful must be replaced. Project scope would only be impacted if the shed were not replaced.",
+  "source": "Section 2/Lesson 2- Quiz"
+ },
+ {
+  "id": "c722-section-3-section-3-test-q1",
+  "objective": "s3",
+  "q": "What is a possible shortcoming of using a project selection model?",
+  "choices": [
+   "Models are singular in their vision of reality.",
+   "Models are not beneficial for estimating costs.",
+   "Models require an artist’s conception."
+  ],
+  "answer": 0,
+  "explanation": "Because of their singularity of vision, models can ignore other aspects of a future project.",
+  "source": "Section 3/Section 3- Test"
+ },
+ {
+  "id": "c722-section-3-section-3-test-q2",
+  "objective": "s3",
+  "q": "Why is having an appropriate project selection method important?",
+  "choices": [
+   "To budget limited resources",
+   "To get loans from banks",
+   "To give stakeholders the impression that care goes into the project selection process",
+   "To motivate employees"
+  ],
+  "answer": 0,
+  "explanation": "Organizations have a limit to the funding, personnel, and equipment available to develop new products and services.",
+  "source": "Section 3/Section 3- Test"
+ },
+ {
+  "id": "c722-section-3-section-3-test-q3",
+  "objective": "s3",
+  "q": "What is an example of a type of non-numeric model for selection criteria?",
+  "choices": [
+   "Return on investment",
+   "Operating necessity",
+   "Revenue"
+  ],
+  "answer": 1,
+  "explanation": "The most common examples for non-numeric selection criteria models are competitive necessity, operating necessity, and sacred cow.",
+  "source": "Section 3/Section 3- Test"
+ },
+ {
+  "id": "c722-section-3-section-3-test-q4",
+  "objective": "s3",
+  "q": "A project manager (PM) working for a toy company has been assigned to lead a board game project that was approved and started over a year ago. In that time, not only have some of the company’s priorities and goals changed, but the interest in board games has declined, and the PM is not sure that this project is still relevant. Concerned about wasting resources, the employee raises the issue to their supervisor who responds that he is aware that the project is not really in line with the organization’s current strategy, but it must be completed anyway, as it has sponsorship from the VP of marketing. What is this situation an example of?",
+  "choices": [
+   "Competitive necessity",
+   "Operating necessity",
+   "Sacred cow"
+  ],
+  "answer": 2,
+  "explanation": "This is a sacred cow project since it does not fall under either a competitive or an operating necessity. The main reason it is being undertaken is at the request of a high-ranking stakeholder.",
+  "source": "Section 3/Section 3- Test"
+ },
+ {
+  "id": "c722-section-3-section-3-test-q5",
+  "objective": "s3",
+  "q": "What does opportunity cost mean?",
+  "choices": [
+   "The additional expected benefit required to invest in a riskier project",
+   "The tax you pay for the benefit derived",
+   "The fee you have to pay to take advantage of an opportunity",
+   "The benefit that could have been realized if the money were used for another purpose"
+  ],
+  "answer": 3,
+  "explanation": "This is the definition of opportunity cost. If money is used for one purpose, it is not available for another use.",
+  "source": "Section 3/Section 3- Test"
+ },
+ {
+  "id": "c722-section-3-section-3-test-q6",
+  "objective": "s3",
+  "q": "Which model selection criterion emphasizes accurate measures across a range of conditions?",
+  "choices": [
+   "Flexible",
+   "Easy to use",
+   "Comparable"
+  ],
+  "answer": 0,
+  "explanation": "The flexible criterion states that the model should provide accurate measures across a reasonable range of conditions.",
+  "source": "Section 3/Section 3- Test"
+ },
+ {
+  "id": "c722-section-3-section-3-test-q7",
+  "objective": "s3",
+  "q": "Which model selection criterion emphasizes reflecting the way the organization does business?",
+  "choices": [
+   "Realistic",
+   "Capable",
+   "Easy to use"
+  ],
+  "answer": 0,
+  "explanation": "This criterion reflects the way the organization does business and is appropriate for the level of resources, capabilities, and external environment.",
+  "source": "Section 3/Section 3- Test"
+ },
+ {
+  "id": "c722-section-3-section-3-test-q8",
+  "objective": "s3",
+  "q": "Which model selection criterion emphasizes focusing on factors that are relevant to the organization?",
+  "choices": [
+   "Capable",
+   "Comparable",
+   "Flexible"
+  ],
+  "answer": 0,
+  "explanation": "This criterion focuses on factors that are relevant to the organization.",
+  "source": "Section 3/Section 3- Test"
+ },
+ {
+  "id": "c722-section-3-section-3-test-q9",
+  "objective": "s3",
+  "q": "The checklist model for project selection is an example of which kind of model?",
+  "choices": [
+   "Non-numeric",
+   "Numeric"
+  ],
+  "answer": 0,
+  "explanation": "Checklist models are frequently used for project selection, and they are non-numeric in nature.",
+  "source": "Section 3/Section 3- Test"
+ },
+ {
+  "id": "c722-section-3-section-3-test-q10",
+  "objective": "s3",
+  "q": "What does the time value of money refer to?",
+  "choices": [
+   "The concept that money is worth more to an organization now than in the future",
+   "The costs incurred on a project",
+   "The corresponding payback period"
+  ],
+  "answer": 0,
+  "explanation": "The concept of time value of money suggests that money is worth more to an organization now than in the future. For example, if someone gave you $1,000 today, you could invest the money such that the investment would return additional value to you in the future.",
+  "source": "Section 3/Section 3- Test"
+ },
+ {
+  "id": "c722-section-3-section-3-test-q11",
+  "objective": "s3",
+  "q": "Why is net present value (NPV) important when evaluating a project?",
+  "choices": [
+   "Projects with higher NPV have greater benefits to companies.",
+   "NPV is a financial concept that cannot be applied to evaluating a project.",
+   "It is better to invest the money allocated for the project into a dividend-yielding financial instrument."
+  ],
+  "answer": 0,
+  "explanation": "Net present value (NPV) is a financial measure of the total future benefits of a project minus the costs of the project. So overall, negative NPV is bad, positive NPV is good, and projects with higher NPV have greater benefits to companies.",
+  "source": "Section 3/Section 3- Test"
+ },
+ {
+  "id": "c722-section-3-lesson-1-quiz-q1",
+  "objective": "s3",
+  "q": "What are some characteristics of an appropriate model that can be used for project selection? Select all that apply.",
+  "choices": [
+   "Realistic",
+   "Flexible",
+   "Measurement",
+   "Comparable"
+  ],
+  "answer": [
+   0,
+   1,
+   3
+  ],
+  "explanation": "Realistic. This answer is correct. Models used must accurately reflect the way the organization does business. Flexible. This answer is correct. The model should provide accurate measures across a reasonable range of conditions. Comparable. This answer is correct. The model should be usable across a range of projects such that the outcomes of the model can be used to compare projects.",
+  "source": "Section 3/Lesson 1- Quiz"
+ },
+ {
+  "id": "c722-section-3-lesson-1-quiz-q2",
+  "objective": "s3",
+  "q": "What is an example of a type of non-numeric model for selection criteria?",
+  "choices": [
+   "Return on investment",
+   "Operating necessity",
+   "Revenue"
+  ],
+  "answer": 1,
+  "explanation": "The most common examples for non-numeric selection criteria models are competitive necessity, operating necessity, and sacred cow.",
+  "source": "Section 3/Lesson 1- Quiz"
+ },
+ {
+  "id": "c722-section-3-lesson-1-quiz-q3",
+  "objective": "s3",
+  "q": "Using a scoring model, criteria are selected for scoring based on the company’s ____.",
+  "choices": [
+   "Operating necessity",
+   "Competitive necessity",
+   "Objectives"
+  ],
+  "answer": 2,
+  "explanation": "The scoring model improves upon the checklist model by identifying a set of criteria important to the company's objectives.",
+  "source": "Section 3/Lesson 1- Quiz"
+ },
+ {
+  "id": "c722-section-3-lesson-1-quiz-q4",
+  "objective": "s3",
+  "q": "What is the most common enhancement to the scoring model?",
+  "choices": [
+   "Assigning simple scores to checklist questions",
+   "Weighted scores",
+   "Adding objectives"
+  ],
+  "answer": 1,
+  "explanation": "Weighted factor scoring models require that senior management assign weight to each criterion, which places more emphasis on selected criteria when calculating the total project score.",
+  "source": "Section 3/Lesson 1- Quiz"
+ },
+ {
+  "id": "c722-section-3-lesson-1-quiz-q5",
+  "objective": "s3",
+  "q": "Which financial concept used for project selection evaluates projects in the same way that financial investments are evaluated?",
+  "choices": [
+   "Payback period",
+   "Internal rate of return",
+   "Return on investment"
+  ],
+  "answer": 1,
+  "explanation": "Like a financial investment, the internal rate of return model for project selection focuses on the potential rate of return a project might produce.",
+  "source": "Section 3/Lesson 1- Quiz"
+ },
+ {
+  "id": "c722-section-4-section-4-test-q1",
+  "objective": "s4",
+  "q": "What gets created during the executing process?",
+  "choices": [
+   "Project outcomes",
+   "The work breakdown structure (WBS)",
+   "Project scope, budget, and schedule"
+  ],
+  "answer": 0,
+  "explanation": "Project outcomes are created by the project team during the executing processes.",
+  "source": "Section 4/Section 4- Test"
+ },
+ {
+  "id": "c722-section-4-section-4-test-q2",
+  "objective": "s4",
+  "q": "What is a specific example of controlling?",
+  "choices": [
+   "Assessing whether the project plan is being implemented as designed",
+   "Terminating a project because its outcomes are no longer needed",
+   "Identifying a problem with a deliverable"
+  ],
+  "answer": 1,
+  "explanation": "Controlling is taking action or making adjustments to a project based on problems that monitoring has identified.",
+  "source": "Section 4/Section 4- Test"
+ },
+ {
+  "id": "c722-section-4-section-4-test-q3",
+  "objective": "s4",
+  "q": "What is a specific example of monitoring?",
+  "choices": [
+   "Assessing whether the project plan is being implemented as designed",
+   "Terminating a project because its outcomes are no longer needed",
+   "Expanding a project’s scope due to perceived needed functionalities"
+  ],
+  "answer": 0,
+  "explanation": "This is an example of monitoring, in which the project plan is assessed as to whether it is being implemented as designed.",
+  "source": "Section 4/Section 4- Test"
+ },
+ {
+  "id": "c722-section-4-section-4-test-q4",
+  "objective": "s4",
+  "q": "Which task occurs during the process of closing?",
+  "choices": [
+   "Acquire project team members",
+   "Create the project charter",
+   "Write the lessons learned",
+   "Create the work breakdown structure"
+  ],
+  "answer": 2,
+  "explanation": "The lessons learned are written during the closing process.",
+  "source": "Section 4/Section 4- Test"
+ },
+ {
+  "id": "c722-section-4-section-4-test-q5",
+  "objective": "s4",
+  "q": "Which characteristic of a project makes it well suited to traditional project management methods?",
+  "choices": [
+   "The risks are low and identifiable.",
+   "The resources are constrained.",
+   "The scope is likely to change.",
+   "The project has high complexity."
+  ],
+  "answer": 0,
+  "explanation": "Projects with risks that are low and identifiable are well suited to traditional project management methods.",
+  "source": "Section 4/Section 4- Test"
+ },
+ {
+  "id": "c722-section-4-section-4-test-q6",
+  "objective": "s4",
+  "q": "Which aspect of a project must be assessed during the planning process to ensure the project is a good match for traditional project management methods?",
+  "choices": [
+   "Stakeholders",
+   "Volatility",
+   "Team member evaluations"
+  ],
+  "answer": 1,
+  "explanation": "Volatility is the level of instability in a project environment.",
+  "source": "Section 4/Section 4- Test"
+ },
+ {
+  "id": "c722-section-4-section-4-test-q7",
+  "objective": "s4",
+  "q": "A potential challenge of using agile project management methods is that they depend heavily on the regular availability and ____ of the customer.",
+  "choices": [
+   "stability",
+   "requirements",
+   "decisiveness"
+  ],
+  "answer": 2,
+  "explanation": "A potential challenge to agile project management is the availability and decisiveness of the customer.",
+  "source": "Section 4/Section 4- Test"
+ },
+ {
+  "id": "c722-section-4-section-4-test-q8",
+  "objective": "s4",
+  "q": "Agile project management methods are known for being ____ to changes in customer needs and the project environment.",
+  "choices": [
+   "unresponsive",
+   "responsive"
+  ],
+  "answer": 1,
+  "explanation": "As its name suggests, agile methods can accommodate customer changes and changes in the project environment.",
+  "source": "Section 4/Section 4- Test"
+ },
+ {
+  "id": "c722-section-4-section-4-test-q9",
+  "objective": "s4",
+  "q": "When are project outcomes delivered on a project using agile management methods?",
+  "choices": [
+   "At the finish of the executing phase",
+   "As a series of functional parts"
+  ],
+  "answer": 1,
+  "explanation": "Agile management methods are responsive to changes in customer requirements, delivering functionality throughout the process.",
+  "source": "Section 4/Section 4- Test"
+ },
+ {
+  "id": "c722-section-4-section-4-test-q10",
+  "objective": "s4",
+  "q": "Which standard is the best to use for your restaurant project?",
+  "choices": [
+   "PRINCE2",
+   "PMBOK"
+  ],
+  "answer": 1,
+  "explanation": "The PMBOK focuses on the coordination of activities.",
+  "source": "Section 4/Section 4- Test"
+ },
+ {
+  "id": "c722-section-4-section-4-test-q11",
+  "objective": "s4",
+  "q": "Which tasks would take place during the executing process?",
+  "choices": [
+   "Writing the work breakdown structure (WBS) and creating the risk register",
+   "Paying vendor invoices and gathering feedback to improve future projects",
+   "Painting and furniture delivery",
+   "Developing the business case and project charter"
+  ],
+  "answer": 2,
+  "explanation": "Painting and delivering furniture are tasks associated with executing the project.",
+  "source": "Section 4/Section 4- Test"
+ },
+ {
+  "id": "c722-section-4-section-4-test-q12",
+  "objective": "s4",
+  "q": "What is the best way to decide whether you should use a traditional or an agile method?",
+  "choices": [
+   "Assess the project volatility",
+   "Begin the project with no plan and allow the method to develop organically",
+   "Use the PMBOK method",
+   "Plan to ensure that every possible contingency will be thoroughly considered"
+  ],
+  "answer": 0,
+  "explanation": "The best way to decide on the proper method is to do an assessment of project volatility.",
+  "source": "Section 4/Section 4- Test"
+ },
+ {
+  "id": "c722-section-4-lesson-1-quiz-q1",
+  "objective": "s4",
+  "q": "What is a standard that identifies the best practices in project management?",
+  "choices": [
+   "Project evaluation and review technique (PERT)",
+   "Critical path method (CPM)",
+   "Project Management Body of Knowledge (PMBOK)",
+   "Projects in controlled environments (PRINCE2)"
+  ],
+  "answer": 2,
+  "explanation": "PMBOK is a standard that identifies the best practices that can be applied across projects and environments.",
+  "source": "Section 4/Lesson 1- Quiz"
+ },
+ {
+  "id": "c722-section-4-lesson-1-quiz-q2",
+  "objective": "s4",
+  "q": "Which output is generated as a result of the completion of the initiating processes?",
+  "choices": [
+   "The project charter is issued.",
+   "The project charter is created.",
+   "The project is defined.",
+   "The project outcomes are delivered."
+  ],
+  "answer": 0,
+  "explanation": "Once all the tasks of the initiating process are completed, the project charter can be issued.",
+  "source": "Section 4/Lesson 1- Quiz"
+ },
+ {
+  "id": "c722-section-4-lesson-1-quiz-q3",
+  "objective": "s4",
+  "q": "The project scope, budget, and schedule created and approved through the planning process will become the standard for ____.",
+  "choices": [
+   "the work breakdown structure (WBS)",
+   "documentation of customer requirements",
+   "performance measurement"
+  ],
+  "answer": 2,
+  "explanation": "The approved scope, budget, and schedule become the standard for performance measurement throughout the project.",
+  "source": "Section 4/Lesson 1- Quiz"
+ },
+ {
+  "id": "c722-section-4-lesson-1-quiz-q4",
+  "objective": "s4",
+  "q": "What gets created during the executing process?",
+  "choices": [
+   "The project outcomes",
+   "The work breakdown structure (WBS)",
+   "Project scope, budget, and schedule"
+  ],
+  "answer": 0,
+  "explanation": "Project outcomes are created by the project team during the executing processes.",
+  "source": "Section 4/Lesson 1- Quiz"
+ },
+ {
+  "id": "c722-section-4-lesson-1-quiz-q5",
+  "objective": "s4",
+  "q": "Traditional project management methods are characterized by which type of steps?",
+  "choices": [
+   "Overlapping",
+   "Sequential"
+  ],
+  "answer": 1,
+  "explanation": "Traditional methods dictate that the path from project beginning to end is sequential and linear.",
+  "source": "Section 4/Lesson 1- Quiz"
+ },
+ {
+  "id": "c722-section-4-lesson-1-quiz-q6",
+  "objective": "s4",
+  "q": "The traditional project management approach of four linear phases is define, ____, execute, and close.",
+  "choices": [
+   "plan",
+   "monitor",
+   "initiate"
+  ],
+  "answer": 0,
+  "explanation": "The second linear phase is plan.",
+  "source": "Section 4/Lesson 1- Quiz"
+ },
+ {
+  "id": "c722-section-4-lesson-1-quiz-q7",
+  "objective": "s4",
+  "q": "With agile project management methods, teams ____.",
+  "choices": [
+   "are dynamic and changing",
+   "stay together for the duration"
+  ],
+  "answer": 1,
+  "explanation": "Agile project management methods require self-organizing teams who see the project through.",
+  "source": "Section 4/Lesson 1- Quiz"
+ },
+ {
+  "id": "c722-section-4-lesson-1-quiz-q8",
+  "objective": "s4",
+  "q": "In agile project management terminology, the backlog is updated with ____.",
+  "choices": [
+   "user stories",
+   "scrum"
+  ],
+  "answer": 0,
+  "explanation": "By regularly updating the cards in the backlog with user stories, gathered from customers, the team is able to determine the effort required to deliver the functionality.",
+  "source": "Section 4/Lesson 1- Quiz"
+ },
+ {
+  "id": "c722-section-4-lesson-1-quiz-q9",
+  "objective": "s4",
+  "q": "Which factor is correlated with extreme project management methods?",
+  "choices": [
+   "High-stress environment",
+   "Low and identifiable risks",
+   "Scope unlikely to change"
+  ],
+  "answer": 0,
+  "explanation": "High-stress environments are well suited to extreme project management methods.",
+  "source": "Section 4/Lesson 1- Quiz"
+ },
+ {
+  "id": "c722-section-4-lesson-1-quiz-q10",
+  "objective": "s4",
+  "q": "The five processes used to manage the project life cycle are initiating, planning, executing, ____, and closing.",
+  "choices": [
+   "monitoring and controlling",
+   "iteration",
+   "gathering requirements"
+  ],
+  "answer": 0,
+  "explanation": "Monitoring involves assessing whether the project plan is being implemented satisfactorily, and controlling involves actions taken to get the project team back on the plan.",
+  "source": "Section 4/Lesson 1- Quiz"
+ },
+ {
+  "id": "c722-section-4-lesson-1-quiz-q11",
+  "objective": "s4",
+  "q": "Which aspect within the project does not work well in the context of a traditional project management method?",
+  "choices": [
+   "Volatility",
+   "Stability"
+  ],
+  "answer": 0,
+  "explanation": "Using a traditional project management method in a volatile environment can lead to the project not meeting its scope, budget, and/or cost requirements.",
+  "source": "Section 4/Lesson 1- Quiz"
+ },
+ {
+  "id": "c722-section-4-lesson-1-quiz-q12",
+  "objective": "s4",
+  "q": "Which outcomes are delivered as chunks that would be acceptable to a customer looking for the design and delivery of an e-commerce website? Choose all that apply.",
+  "choices": [
+   "Home page",
+   "Customer account log-in creation",
+   "News portal",
+   "Payment methods",
+   "Customer reviews",
+   "Shopping cart"
+  ],
+  "answer": [
+   0,
+   1,
+   3,
+   4,
+   5
+  ],
+  "explanation": "Home page. This answer is correct. The home page is an essential component of an e-commerce website as it serves as the main landing page where customers begin their journey. Customer account and log-in creation. This answer is correct. Customer account and log-in features are critical for an e-commerce site. Payment methods. This answer is correct. Offering various payment methods is crucial for e-commerce, as it allows customers to complete transactions. Customer reviews. This answer is correct. Customer reviews provide valuable insights into products, helping customers make informed decisions. Shopping cart. This answer is correct. The shopping cart is one of the most critical features of an e-commerce site, enabling customers to select and store products they wish to buy.",
+  "source": "Section 4/Lesson 1- Quiz"
+ },
+ {
+  "id": "c722-section-5-section-5-test-q1",
+  "objective": "s5",
+  "q": "What is developed from the project scope and statement of work (SOW)?",
+  "choices": [
+   "Gantt chart",
+   "The project charter",
+   "The work breakdown structure (WBS)"
+  ],
+  "answer": 2,
+  "explanation": "Descriptions from the project scope and statement of work are how the WBS is developed.",
+  "source": "Section 5/Section 5- Test"
+ },
+ {
+  "id": "c722-section-5-section-5-test-q2",
+  "objective": "s5",
+  "q": "What describes the purpose of resource leveling?",
+  "choices": [
+   "Resource leveling minimizes the variation in need of a specific resource over several time periods.",
+   "Resource leveling keeps the project from going over budget.",
+   "Resource leveling keeps the expenses for resources even across the project life cycle."
+  ],
+  "answer": 0,
+  "explanation": "Histograms can identify how much of a resource is required for any time period in the project life cycle.",
+  "source": "Section 5/Section 5- Test"
+ },
+ {
+  "id": "c722-section-5-section-5-test-q3",
+  "objective": "s5",
+  "q": "Which statement is true about planning documents?",
+  "choices": [
+   "Planning checklists are the only way of monitoring that activities and tasks have been addressed.",
+   "It is possible to develop an accurate budget or schedule without identifying, understanding, and specifying each aspect of the project.",
+   "Planning documents need to be periodically reviewed to ensure that the plans are still valid.",
+   "Gantt charts, PERT charts, and the critical path are determined in the project charter prior to planning."
+  ],
+  "answer": 2,
+  "explanation": "Planning documents are \"living\" documents that need to be reviewed to ensure that the plans are still valid.",
+  "source": "Section 5/Section 5- Test"
+ },
+ {
+  "id": "c722-section-5-section-5-test-q4",
+  "objective": "s5",
+  "q": "After the project requirements and deliverables have been identified, what should the next step be? Construct be completed a Gantt chart to ensure tasks can within the proposed schedule",
+  "choices": [
+   "Draft the project charter",
+   "Complete the scope statement",
+   "Determine the skills required to execute the project"
+  ],
+  "answer": 2,
+  "explanation": "After requirements and deliverables are identified, the next step is to determine which skills will be needed to fulfill the requirements and meet the deliverables.",
+  "source": "Section 5/Section 5- Test"
+ },
+ {
+  "id": "c722-section-5-section-5-test-q5",
+  "objective": "s5",
+  "q": "What are the levels of the work breakdown structure (WBS)?",
+  "choices": [
+   "The WBS is used to manage project resources and is organized by role to define what capacity is available.",
+   "The WBS is done by program, project, deliverables, activities, tasks, and, frequently, subtasks.",
+   "The WBS is done by each deliverable that a customer wants from their project teams through the office of project management.",
+   "The WBS focuses on activities and tasks within the scope of the expertise of the individuals."
+  ],
+  "answer": 1,
+  "explanation": "The goal at the time you do the WBS is to identify what has to be done now for a specific project or group of projects in the program. By focusing on deliverables and breaking them down into activities and tasks, the overall work ahead can be understood. It does not focus on the people assigned to the project or within the organization.",
+  "source": "Section 5/Section 5- Test"
+ },
+ {
+  "id": "c722-section-5-section-5-test-q6",
+  "objective": "s5",
+  "q": "What defines a risk in project management?",
+  "choices": [
+   "Uncertainty in the business, organization, or project of an associated action that can impact the outcomes of the project",
+   "Changes in the business that cause concerns over the roles and responsibilities of the project personnel",
+   "Political, competitive, and financial impacts that can change the outcomes of a project with no warning",
+   "Organizational instability caused by internal and external strife"
+  ],
+  "answer": 0,
+  "explanation": "All external and internal influences can cause uncertainty, and the impact of any of those changes can be interpreted into risk. Risks can change the outcome of the project in either a negative (risky) or positive (opportunity) manner.",
+  "source": "Section 5/Section 5- Test"
+ },
+ {
+  "id": "c722-section-5-section-5-test-q7",
+  "objective": "s5",
+  "q": "What should a project manager do when they come to a metaphorical cliff and decide to mitigate the risk?",
+  "choices": [
+   "Let someone on their team jump off the cliff",
+   "Use a parachute or a hang glider for a soft landing",
+   "Walk away from the cliff",
+   "Take all the responsibility and jump off the cliff"
+  ],
+  "answer": 1,
+  "explanation": "When a project manager mitigates a problem, they want to help the team survive the risk by deferring or reducing the impact.",
+  "source": "Section 5/Section 5- Test"
+ },
+ {
+  "id": "c722-section-5-section-5-test-q8",
+  "objective": "s5",
+  "q": "When is the fourth strategy of managing risk (accepting the risk) most commonly used?",
+  "choices": [
+   "When risks can be mitigated",
+   "When risks are low impact",
+   "When risks are more critical"
+  ],
+  "answer": 1,
+  "explanation": "Accepting risk is most common when the impacts of the potential risks are perceived as lower.",
+  "source": "Section 5/Section 5- Test"
+ },
+ {
+  "id": "c722-section-5-section-5-test-q9",
+  "objective": "s5",
+  "q": "A new project requires an accountant who has full availability. The accountant that the project manager was planning to use will be on an international trip for the duration of the project, leaving the role needing to be filled. Several other accountants have availability and are willing to take on the role. Which risk response strategy is appropriate in this scenario?",
+  "choices": [
+   "Transfer",
+   "Accept",
+   "Mitigate",
+   "Avoid"
+  ],
+  "answer": 1,
+  "explanation": "Using a replacement accountant has a low impact on the project. In this scenario, the project manager should accept the risk.",
+  "source": "Section 5/Section 5- Test"
+ },
+ {
+  "id": "c722-section-5-section-5-test-q10",
+  "objective": "s5",
+  "q": "What is true about bottom-up estimating?",
+  "choices": [
+   "Bottom-up estimates are done early in a project’s life cycle when the organization is determining how the project will meet a business need.",
+   "Bottom-up estimates are early approximations of cost. Creating a bottom-up estimate requires people with expertise to do the work estimate of the",
+   "labor, supplies, materials, equipment, and any other resources needed to complete each individual work activity.",
+   "A bottom-up estimate must be created before the work breakdown structure (WBS) is available."
+  ],
+  "answer": 2,
+  "explanation": "Bottom-up estimating requires expertise in estimating a variety of costs.",
+  "source": "Section 5/Section 5- Test"
+ },
+ {
+  "id": "c722-section-5-section-5-test-q11",
+  "objective": "s5",
+  "q": "How are project costs monitored?",
+  "choices": [
+   "By comparing actual costs to the direct costs",
+   "By comparing actual costs to the baseline budget",
+   "By comparing actual costs to the estimates"
+  ],
+  "answer": 1,
+  "explanation": "The baseline budget is the approved budget that will be used as the standard of comparison throughout the life of the project.",
+  "source": "Section 5/Section 5- Test"
+ },
+ {
+  "id": "c722-section-5-section-5-test-q12",
+  "objective": "s5",
+  "q": "Which tasks of estimating project costs can be equated to checking budget performance and making corresponding adjustments?",
+  "choices": [
+   "General and administrative costs",
+   "Monitoring and controlling",
+   "Ratio and apportion methods"
+  ],
+  "answer": 1,
+  "explanation": "Monitoring and controlling occur throughout the project so that changes can be made to the budget along the way.",
+  "source": "Section 5/Section 5- Test"
+ },
+ {
+  "id": "c722-section-5-section-5-test-q13",
+  "objective": "s5",
+  "q": "What is true about contingency reserves? In order for contingency reserves to be effective, the project team must identify areas where costs may rise and pad their estimates accordingly.",
+  "choices": [
+   "The contingency reserve is only to cover things that were not anticipated.",
+   "Contingency reserves are included in the baseline budget and the total budget presented to the customer but will not be used unless the situation occurs."
+  ],
+  "answer": 1,
+  "explanation": "Contingency reserves are to be used in the case of specific situations and not for any other purpose.",
+  "source": "Section 5/Section 5- Test"
+ },
+ {
+  "id": "c722-section-5-section-5-test-q14",
+  "objective": "s5",
+  "q": "What is combined to create a calendarized budget?",
+  "choices": [
+   "Top-down and bottom-up estimation methods",
+   "Ratio and apportion methods",
+   "Work breakdown structure (WBS), budget, and network diagram",
+   "Project scope, statement of work (SOW), and work breakdown structure (WBS)"
+  ],
+  "answer": 2,
+  "explanation": "Information from all three documents is combined to create a calendarized budget.",
+  "source": "Section 5/Section 5- Test"
+ },
+ {
+  "id": "c722-section-5-section-5-test-q15",
+  "objective": "s5",
+  "q": "A project manager and architect estimate that the renovation of a restaurant space will cost $380/sq. ft. What is this an example of?",
+  "choices": [
+   "Work activity aggregate estimating",
+   "Apportion estimating",
+   "Parametric estimating",
+   "Ratio estimating"
+  ],
+  "answer": 3,
+  "explanation": "The ratio method uses experience from prior projects to estimate the overall cost of the current project. Estimating cost per square foot is an example of this.",
+  "source": "Section 5/Section 5- Test"
+ },
+ {
+  "id": "c722-section-5-lesson-1-quiz-q1",
+  "objective": "s5",
+  "q": "Project charters often include the project scope, objectives, and ____.",
+  "choices": [
+   "assumptions",
+   "budget",
+   "team members"
+  ],
+  "answer": 0,
+  "explanation": "Assumptions about the project are included in the project charter.",
+  "source": "Section 5/Lesson 1- Quiz"
+ },
+ {
+  "id": "c722-section-5-lesson-1-quiz-q2",
+  "objective": "s5",
+  "q": "During which phase does scope verification occur?",
+  "choices": [
+   "Planning",
+   "Closing",
+   "Defining",
+   "Executing"
+  ],
+  "answer": 1,
+  "explanation": "Scope verification occurs in the closing phase.",
+  "source": "Section 5/Lesson 1- Quiz"
+ },
+ {
+  "id": "c722-section-5-lesson-1-quiz-q3",
+  "objective": "s5",
+  "q": "The project deliverables come from the stakeholder requirements identified in which document?",
+  "choices": [
+   "Product scope",
+   "Statement of work (SOW)",
+   "Requirements traceability matrix",
+   "Project charter"
+  ],
+  "answer": 2,
+  "explanation": "The project deliverables come from the stakeholder requirements identified in the requirements traceability matrix.",
+  "source": "Section 5/Lesson 1- Quiz"
+ },
+ {
+  "id": "c722-section-5-lesson-1-quiz-q4",
+  "objective": "s5",
+  "q": "In the project scope statement, any limitations or boundaries to the project are listed as project ____.",
+  "choices": [
+   "assumptions",
+   "exclusions",
+   "risks"
+  ],
+  "answer": 1,
+  "explanation": "Perceived limitations and boundaries to a project are listed in the project scope statement as project exclusions. The listing of exclusions will help mitigate any assumptions on the part of the project team or the customer about what is, or is not, included in the scope.",
+  "source": "Section 5/Lesson 1- Quiz"
+ },
+ {
+  "id": "c722-section-5-lesson-1-quiz-q5",
+  "objective": "s5",
+  "q": "Four tools used to assign project team roles include experience, education, skills, and ____.",
+  "choices": [
+   "credentials",
+   "responsibilities",
+   "abilities",
+   "requirements"
+  ],
+  "answer": 2,
+  "explanation": "Abilities, experience, education, and skills are the most typical tools used to assign project team roles.",
+  "source": "Section 5/Lesson 1- Quiz"
+ },
+ {
+  "id": "c722-section-5-lesson-1-quiz-q6",
+  "objective": "s5",
+  "q": "A resource histogram is a ____ of the resources needed at a specific time in the life of the project.",
+  "choices": [
+   "pictorial representation",
+   "checklist"
+  ],
+  "answer": 0,
+  "explanation": "The histogram is a graph showing the resources needed at a specific time in the life of the project.",
+  "source": "Section 5/Lesson 1- Quiz"
+ },
+ {
+  "id": "c722-section-5-lesson-2-quiz-q1",
+  "objective": "s5",
+  "q": "What is true about the work breakdown structure (WBS)? The WBS is a methodical deconstruction of deliverables into tasks to be performed. It is a",
+  "choices": [
+   "comprehensive classification of project activities and tasks based on the deliverables in the scope.",
+   "The WBS is a chronological list of everything that is done on the project.",
+   "The WBS is an exhaustive list of all tasks that is used to generate the schedule and project plan.",
+   "The WBS creates a hierarchical organization structure."
+  ],
+  "answer": 0,
+  "explanation": "The WBS is used to validate the scope of the project and to plan for project activities and tasks.",
+  "source": "Section 5/Lesson 2- Quiz"
+ },
+ {
+  "id": "c722-section-5-lesson-2-quiz-q2",
+  "objective": "s5",
+  "q": "Examples of objectives that the work breakdown structure (WBS) is used to achieve include organizing a project’s resources, showing milestones for communicating progress, and ____ the project scope.",
+  "choices": [
+   "planning",
+   "validating stakeholders' understanding of",
+   "executing"
+  ],
+  "answer": 1,
+  "explanation": "An objective achieved through using the WBS is validating every stakeholder’s understanding of the project’s scope.",
+  "source": "Section 5/Lesson 2- Quiz"
+ },
+ {
+  "id": "c722-section-5-lesson-2-quiz-q3",
+  "objective": "s5",
+  "q": "Which tool is commonly used for building a resource plan?",
+  "choices": [
+   "Gantt chart",
+   "The project charter",
+   "Work breakdown structure (WBS) number"
+  ],
+  "answer": 2,
+  "explanation": "A WBS number is used as a coding scheme to associate the various tasks to activities, deliverables, and the project as a whole.",
+  "source": "Section 5/Lesson 2- Quiz"
+ },
+ {
+  "id": "c722-section-5-lesson-2-quiz-q4",
+  "objective": "s5",
+  "q": "Which tool is particularly effective when creating a work breakdown structure (WBS)?",
+  "choices": [
+   "Project planning software",
+   "Whiteboard and sticky notes",
+   "Learning management database",
+   "Personnel management reporting"
+  ],
+  "answer": 1,
+  "explanation": "A whiteboard and sticky notes are an informal way to team-build, create a collaborative conversation, and visualize how all the aspects of the project fit together. Sticky notes allow the team to move tasks between activities until you have this well organized.",
+  "source": "Section 5/Lesson 2- Quiz"
+ },
+ {
+  "id": "c722-section-5-lesson-2-quiz-q5",
+  "objective": "s5",
+  "q": "Which goal does the task and activity information from the work breakdown structure (WBS) assist in achieving?",
+  "choices": [
+   "Identifying quality points",
+   "Budgeting",
+   "Avoiding missing parts to the project scope"
+  ],
+  "answer": 0,
+  "explanation": "Once tasks have been identified on the WBS, this information can be used to identify quality points, make assignments, and set priorities, to name just a few objectives.",
+  "source": "Section 5/Lesson 2- Quiz"
+ },
+ {
+  "id": "c722-section-5-lesson-2-quiz-q6",
+  "objective": "s5",
+  "q": "What is the 8/80 rule used in establishing the level of granularity in a work breakdown structure (WBS)?",
+  "choices": [
+   "Assign all tasks that take less than 8 hours and more than 80 hours to complete.",
+   "Do not assign any tasks that take less than 8 hours or more than 80 hours to complete.",
+   "Only capture tasks that cover 80% of the project scope in 8 hour slots."
+  ],
+  "answer": 1,
+  "explanation": "Tasks that take less than 8 hours and tasks that take more than 80 hours are not assigned.",
+  "source": "Section 5/Lesson 2- Quiz"
+ },
+ {
+  "id": "c722-section-5-lesson-3-quiz-q1",
+  "objective": "s5",
+  "q": "Ways of recognizing and managing risks in business include avoiding, ____, transferring, or accepting risks.",
+  "choices": [
+   "eliminating",
+   "validating",
+   "mitigating",
+   "executing"
+  ],
+  "answer": 2,
+  "explanation": "The fourth way of recognizing and managing risk is to mitigate it.",
+  "source": "Section 5/Lesson 3- Quiz"
+ },
+ {
+  "id": "c722-section-5-lesson-3-quiz-q2",
+  "objective": "s5",
+  "q": "Which type of risk management involves minimizing the impact of the risk should it occur and not allowing it to impact effort and cost?",
+  "choices": [
+   "Accepting risk",
+   "Mitigating risk",
+   "Avoiding risk",
+   "Transferring risk"
+  ],
+  "answer": 1,
+  "explanation": "Teams can minimize the potential impact of risks by taking early preventive action and planning for their eventuality.",
+  "source": "Section 5/Lesson 3- Quiz"
+ },
+ {
+  "id": "c722-section-5-lesson-3-quiz-q3",
+  "objective": "s5",
+  "q": "What should be covered in a risk management plan?",
+  "choices": [
+   "Management of people and resources",
+   "Project Management Body of Knowledge (PMBOK)",
+   "Deliverables"
+  ],
+  "answer": 0,
+  "explanation": "Who will do what and when is an important part of a risk management plan.",
+  "source": "Section 5/Lesson 3- Quiz"
+ },
+ {
+  "id": "c722-section-5-lesson-3-quiz-q4",
+  "objective": "s5",
+  "q": "Which two scores on the risk register are multiplied together as a means of assessing risks according to priority?",
+  "choices": [
+   "Probability and severity",
+   "Severity and risk threshold",
+   "Severity and impact"
+  ],
+  "answer": 0,
+  "explanation": "Probability and severity are the factors that are multiplied together to compute the score P*S, a means of rating the priority of the risk.",
+  "source": "Section 5/Lesson 3- Quiz"
+ },
+ {
+  "id": "c722-section-5-lesson-3-quiz-q5",
+  "objective": "s5",
+  "q": "What are some of the factors in a project that impact the risks involved? Choose all that apply.",
+  "choices": [
+   "Uncertainty",
+   "Complexity",
+   "Volatility"
+  ],
+  "answer": [
+   0,
+   1,
+   2
+  ],
+  "explanation": "Uncertainty. This answer is correct. In project management, risk is defined as any uncertainty in an event or condition that may impact the project. It could impact scope, schedule, cost, or quality. Complexity. This answer is correct. When determining scope and requirements, complexity can cause scope creep and add risks to the project. Volatility. This answer is correct. The project and the business environment that the project is being executed in can be impacted by volatility, leading to added risks to the success of the project.",
+  "source": "Section 5/Lesson 3- Quiz"
+ },
+ {
+  "id": "c722-section-5-lesson-3-quiz-q6",
+  "objective": "s5",
+  "q": "What are the performance domains associated with project risk and risk management as per the Project Management Body of Knowledge (PMBOK) 7? Choose all that apply.",
+  "choices": [
+   "Stakeholder domain",
+   "Development Approach domain",
+   "PMBOK"
+  ],
+  "answer": [
+   0,
+   1
+  ],
+  "explanation": "Stakeholder domain. This answer is correct. If not monitored, stakeholder interactions, interests, and influences, which vary throughout the project life cycle, could manifest as risks. Development Approach domain. This answer is correct. When requirements are identified with a greater level of confidence and with less uncertainty, a predictive development approach is employed. In an adaptive approach, uncertainty and ambiguity are often associated with defining requirements. Therefore, the risk associated with the project scope may be higher.",
+  "source": "Section 5/Lesson 3- Quiz"
+ },
+ {
+  "id": "c722-section-5-lesson-3-quiz-q7",
+  "objective": "s5",
+  "q": "What are some of the sources of risks applicable to a project? Choose all that apply.",
+  "choices": [
+   "Technical impact",
+   "Project manager leaving the company",
+   "Financial changes in timing and availability of funds"
+  ],
+  "answer": [
+   0,
+   2
+  ],
+  "explanation": "Technical impact. This answer is correct. In project management, there could be risks related to available technical capabilities needed to complete a project. For example, software projects often get impacted with technical limitations in the software or platform being used during implementation. Financial changes in timing and availability of funds. This answer is correct.Volatility related to funding impacts the project and the business environment that the project is being executed in. This can lead to added risks to the success of the project.",
+  "source": "Section 5/Lesson 3- Quiz"
+ },
+ {
+  "id": "c722-section-5-lesson-4-quiz-q1",
+  "objective": "s5",
+  "q": "Which method helps develop initial estimates of cost?",
+  "choices": [
+   "Top-down",
+   "Bottom-up",
+   "Apportion"
+  ],
+  "answer": 0,
+  "explanation": "Top-down estimation starts with a broad, overall projection for the entire project, which is then broken down into more detailed estimates for individual components or tasks.",
+  "source": "Section 5/Lesson 4- Quiz"
+ },
+ {
+  "id": "c722-section-5-lesson-4-quiz-q2",
+  "objective": "s5",
+  "q": "What is more likely to be used during the defining phase of a project?",
+  "choices": [
+   "Top-down methods",
+   "Bottom-up methods",
+   "Rough costs"
+  ],
+  "answer": 0,
+  "explanation": "The organization uses top-down methods to estimate functionality, cost, and schedule during the defining phase.",
+  "source": "Section 5/Lesson 4- Quiz"
+ },
+ {
+  "id": "c722-section-5-lesson-4-quiz-q3",
+  "objective": "s5",
+  "q": "What has to be created before a bottom-up estimate can be generated?",
+  "choices": [
+   "The work breakdown structure (WBS)",
+   "Project charter",
+   "Gantt chart"
+  ],
+  "answer": 0,
+  "explanation": "The bottom-up method of estimating costs depends on the WBS, which outlines the activities required to complete a project.",
+  "source": "Section 5/Lesson 4- Quiz"
+ },
+ {
+  "id": "c722-section-5-lesson-4-quiz-q4",
+  "objective": "s5",
+  "q": "What is the difference between a calendarized budget and a simple budget?",
+  "choices": [
+   "Calendarized budgets show timing of expenditures.",
+   "Simple budgets include indirect costs.",
+   "One is for fiscal reporting, and the other is for calendar year reporting."
+  ],
+  "answer": 0,
+  "explanation": "While simple budgets show the cost of deliverables, calendarized budgets show the timing of expenditures. Knowing when expenses will occur allows the organization to ensure that sufficient money is available to pay the bills when due.",
+  "source": "Section 5/Lesson 4- Quiz"
+ },
+ {
+  "id": "c722-section-5-lesson-4-quiz-q5",
+  "objective": "s5",
+  "q": "What is the difference between a contingency reserve and a management reserve when determining contingency estimates for a project budget?",
+  "choices": [
+   "The addition of an arbitrary buffer or extra time at the individual task level when defining the work breakdown structure (WBS) for a project.",
+   "Management reserves add in contingency related to management travel, which are not included in the contingency reserve estimates.",
+   "Contingency reserves include costs related to known variances that might occur, while management reserves include costs that are intended to cover for unknown risks."
+  ],
+  "answer": 2,
+  "explanation": "A management reserve is an amount added to the overall project budget to cover unforeseen risks, while a contingency reserve includes areas where costs may rise.",
+  "source": "Section 5/Lesson 4- Quiz"
+ },
+ {
+  "id": "c722-section-6-section-6-test-q1",
+  "objective": "s6",
+  "q": "A project manager is working on a renovation project on their kitchen. The contractors have provided the following duration estimates for the work that needs to be done: Optimistic Estimate = 12 days Most Likely Estimate = 22 days Pessimistic Estimate = 40 days What is the simple average (rounded to the nearest day)?",
+  "choices": [
+   "23 days",
+   "22 days",
+   "25 days",
+   "28 days"
+  ],
+  "answer": 2,
+  "explanation": "Using the formula (O + M + P)/3, the simple average is 24.7 days, rounded up to 25.",
+  "source": "Section 6/Section 6- Test"
+ },
+ {
+  "id": "c722-section-6-section-6-test-q2",
+  "objective": "s6",
+  "q": "A project manager calculates that the software build-out the team is working on will have 15 discrete steps. The team member who will be responsible for the activities estimates that each step will most likely require 17 hours of work, although if all goes well, it would probably only take 14 hours. However, based on some concerns about resourcing, there is a real potential for it to take 21 hours. What is the single-point estimate for this deliverable (rounded to the nearest hour)?",
+  "choices": [
+   "210 hours",
+   "255 hours",
+   "280 hours",
+   "315 hours"
+  ],
+  "answer": 1,
+  "explanation": "Using the single-point calculation of 15 steps and 17 hours of work per step is 255 hours.",
+  "source": "Section 6/Section 6- Test"
+ },
+ {
+  "id": "c722-section-6-section-6-test-q3",
+  "objective": "s6",
+  "q": "When creating reliable duration estimates, which level is the best to begin with?",
+  "choices": [
+   "Activities",
+   "Major deliverables",
+   "Project"
+  ],
+  "answer": 0,
+  "explanation": "Starting at the activity level with each deliverable is the most effective way to create a reliable duration estimate.",
+  "source": "Section 6/Section 6- Test"
+ },
+ {
+  "id": "c722-section-6-section-6-test-q4",
+  "objective": "s6",
+  "q": "A project manager needs to begin the activity duration estimation for a restaurant kitchen rebuild. The first activity is demolition. Who should have primary input into the duration estimates for this activity?",
+  "choices": [
+   "The chef",
+   "The project manager",
+   "The stakeholders who have a financial stake in the project",
+   "The general contractor"
+  ],
+  "answer": 3,
+  "explanation": "General contractors are the people who will be doing the work, so they would have the most reliable idea of how long the activity should take.",
+  "source": "Section 6/Section 6- Test"
+ },
+ {
+  "id": "c722-section-6-section-6-test-q5",
+  "objective": "s6",
+  "q": "The contractor on the kitchen renovation project has provided a time estimate for completion of the demolition work on the kitchen. When questioned about how the estimate was calculated, he says, \"I have been doing this forever. Based on my experience, this estimate should be fine.\" Which type of estimation method is being used?",
+  "choices": [
+   "One-point",
+   "Beta",
+   "Triangular"
+  ],
+  "answer": 0,
+  "explanation": "The contractor is doing a one-point estimate based on his past experience.",
+  "source": "Section 6/Section 6- Test"
+ },
+ {
+  "id": "c722-section-6-section-6-test-q6",
+  "objective": "s6",
+  "q": "The purchase of restaurant materials, such as paint, flooring, furniture, and decorations, cannot be done until the design is approved by the owner. Which kind of relationship is this an example of?",
+  "choices": [
+   "Start-to-finish",
+   "Start-to-start",
+   "Finish-to-finish",
+   "Finish-to-start"
+  ],
+  "answer": 3,
+  "explanation": "In a finish-to-start relationship, one task must be completed before another can begin. In this case, the design must be approved before the purchase of materials can start.",
+  "source": "Section 6/Section 6- Test"
+ },
+ {
+  "id": "c722-section-6-section-6-test-q7",
+  "objective": "s6",
+  "q": "If an owner reviews the decor after it is purchased, the design will need to be refined with the owner’s feedback. This indicates which kind of relationship with the purchasing tasks?",
+  "choices": [
+   "Finish-to-finish",
+   "Finish-to-start",
+   "Start-to-start",
+   "Start-to-finish"
+  ],
+  "answer": 0,
+  "explanation": "In a finish-to-finish relationship, two tasks are dependent on both being completed. Since the design refinement based on the owner’s feedback cannot be completed until the decor is purchased, these two tasks must be finished around the same time.",
+  "source": "Section 6/Section 6- Test"
+ },
+ {
+  "id": "c722-section-6-section-6-test-q8",
+  "objective": "s6",
+  "q": "During the construction of a gas pipeline, as soon as the crew begins digging the trench and creates the start of the pipeline, the laying of the pipe can start. This is the process of filling the trench. Which kind of relationship is this an example of?",
+  "choices": [
+   "Finish-to-start",
+   "Start-to-finish",
+   "Start-to-start",
+   "Finish-to-finish"
+  ],
+  "answer": 2,
+  "explanation": "In a start-to-start relationship, the start of one task is dependent on the start of another task. In this case, as soon as the crew begins digging the trench, the laying of the pipe can begin. Since the digging of the trench and laying of the pipe are starting simultaneously, these activities have a start-to-start relationship.",
+  "source": "Section 6/Section 6- Test"
+ },
+ {
+  "id": "c722-section-6-section-6-test-q9",
+  "objective": "s6",
+  "q": "When is the Gantt chart constructed in relationship to the deliverables and requirements being broken down into activities and tasks?",
+  "choices": [
+   "Before",
+   "Simultaneously",
+   "After"
+  ],
+  "answer": 2,
+  "explanation": "The Gantt chart is constructed after the deliverables and requirements are broken down into activities and tasks. It is used to organize activities into a timeline, showing when each task should begin and end.",
+  "source": "Section 6/Section 6- Test"
+ },
+ {
+  "id": "c722-section-6-section-6-test-q10",
+  "objective": "s6",
+  "q": "What is an example of two tasks that could only be performed serially?",
+  "choices": [
+   "Install custom bar; purchase furnishings",
+   "Purchase wall treatment; purchase flooring",
+   "Put up wall treatment; install flooring"
+  ],
+  "answer": 2,
+  "explanation": "These tasks could not be performed concurrently for logistical reasons, so they would have to be performed serially.",
+  "source": "Section 6/Section 6- Test"
+ },
+ {
+  "id": "c722-section-6-section-6-test-q11",
+  "objective": "s6",
+  "q": "In describing a critical path, what is the only critical element?",
+  "choices": [
+   "Sequences",
+   "Length of time",
+   "Tools",
+   "Dependencies"
+  ],
+  "answer": 1,
+  "explanation": "The critical element of the critical path is the length of time it takes to complete the longest sequence of dependent tasks. The critical path is concerned with the total duration of the project, identifying the tasks that directly affect the project's overall timeline.",
+  "source": "Section 6/Section 6- Test"
+ },
+ {
+  "id": "c722-section-6-section-6-test-q12",
+  "objective": "s6",
+  "q": "During a project to design and develop a new type of solar battery for a SMART car program, a key stakeholder informs the project manager that the deadline for completion of the project must be moved forward by 30 days in order to be able to introduce the new prototype at an important industry convention. The company president has warned the team that costs must stay within budget. What is the project manager's best course of action?",
+  "choices": [
+   "Add resources",
+   "Tell the stakeholder the new deadline is impossible to meet",
+   "Prepare the team to start working overtime",
+   "Move some functions to a future phase"
+  ],
+  "answer": 3,
+  "explanation": "By deferring some noncritical functions to a future phase, the project manager can focus on delivering the essential components of the solar battery prototype by the new deadline while still keeping the project within budget.",
+  "source": "Section 6/Section 6- Test"
+ },
+ {
+  "id": "c722-section-6-section-6-test-q13",
+  "objective": "s6",
+  "q": "A project manager and their team have identified all the deliverables, activities, and tasks for the next phase of the restaurant project. They know the dependencies and sequences of tasks and have a good estimate of the time each task will take. The project manager is pretty sure about how tasks will be done in parallel or serial paths and has a reliable estimate of time for each path. What is a good tool for visually showing these dependencies and controlling a project?",
+  "choices": [
+   "Crash analysis",
+   "Critical path diagram",
+   "Gantt chart"
+  ],
+  "answer": 1,
+  "explanation": "A critical path from the network diagram is a useful tool for showing these dependencies and controlling a project.",
+  "source": "Section 6/Section 6- Test"
+ },
+ {
+  "id": "c722-section-6-lesson-1-quiz-q1",
+  "objective": "s6",
+  "q": "Which situation would present the best possibility of having a learning curve?",
+  "choices": [
+   "You assign your most experienced developer to a complex series of tasks, knowing that she has significant expertise.",
+   "A junior team member with little experience is assigned to QA the instructional materials that are being produced at various points in the project.",
+   "A manufacturing operation automates 80% of the line to capitalize on time efficiencies."
+  ],
+  "answer": 1,
+  "explanation": "The best possibility of a learning curve is having a lesser-experienced team member carry out the same type of activity across the life of the project.",
+  "source": "Section 6/Lesson 1- Quiz"
+ },
+ {
+  "id": "c722-section-6-lesson-1-quiz-q3",
+  "objective": "s6",
+  "q": "In estimating activity duration, time considerations include ____.",
+  "choices": [
+   "float time",
+   "vendor lead time"
+  ],
+  "answer": 1,
+  "explanation": "The time necessary for ordering products from vendors, for products to cure, and for equipment to be available are examples of time considerations in the estimating of activity duration.",
+  "source": "Section 6/Lesson 1- Quiz"
+ },
+ {
+  "id": "c722-section-6-lesson-1-quiz-q5",
+  "objective": "s6",
+  "q": "A homeowner has decided to update their kitchen and wants to be the project manager for the renovation project. The contractors provide the following duration estimates for the work that needs to be done: Optimistic Estimate = 12 days Most-Likely Estimate = 22 days Pessimistic Estimate = 40 days What is the activity duration using the beta distribution method?",
+  "choices": [
+   "24 days",
+   "22 days",
+   "23.3 days",
+   "25 days"
+  ],
+  "answer": 2,
+  "explanation": "Using the formula (O + 4M + P)/6, the average duration is 23.33 days.",
+  "source": "Section 6/Lesson 1- Quiz"
+ },
+ {
+  "id": "c722-section-6-lesson-2-quiz-q1",
+  "objective": "s6",
+  "q": "Which process do label nodes identify?",
+  "choices": [
+   "Tasks",
+   "Activities",
+   "Resources",
+   "Sequence"
+  ],
+  "answer": 3,
+  "explanation": "Label nodes are used to identify the sequence of tasks, activities, or steps in a process. They represent the order in which these elements occur and help in visualizing the flow and progression of a process.",
+  "source": "Section 6/Lesson 2- Quiz"
+ },
+ {
+  "id": "c722-section-6-lesson-2-quiz-q2",
+  "objective": "s6",
+  "q": "What graphic representation is focused on task dependencies and sequence?",
+  "choices": [
+   "WBS",
+   "Network diagram",
+   "Gantt chart"
+  ],
+  "answer": 1,
+  "explanation": "A network diagram, sometimes called a precedence diagram, is a graphic representation of a project that emphasizes task order, dependencies, and critical paths.",
+  "source": "Section 6/Lesson 2- Quiz"
+ },
+ {
+  "id": "c722-section-6-lesson-2-quiz-q3",
+  "objective": "s6",
+  "q": "Which factors determine whether a project can be performed serially or concurrently? Choose all that apply.",
+  "choices": [
+   "Availability of skills and resources",
+   "Label nodes",
+   "Correct tools",
+   "Dependencies of the activities"
+  ],
+  "answer": [
+   0,
+   3
+  ],
+  "explanation": "Availability of skills and resources. This answer is correct. This is a factor that determines whether a project is performed serially or concurrently. Dependencies of the activities. This answer is correct. This is a factor that determines whether a project is performed serially or concurrently.",
+  "source": "Section 6/Lesson 2- Quiz"
+ },
+ {
+  "id": "c722-section-6-lesson-2-quiz-q4",
+  "objective": "s6",
+  "q": "Resources, time, and ____ are three examples of information found on a network diagram.",
+  "choices": [
+   "sequence",
+   "budget"
+  ],
+  "answer": 0,
+  "explanation": "Sequence is an important part of the network diagram and corresponds to the label nodes.",
+  "source": "Section 6/Lesson 2- Quiz"
+ },
+ {
+  "id": "c722-section-6-lesson-2-quiz-q5",
+  "objective": "s6",
+  "q": "What is the most common relationship between tasks?",
+  "choices": [
+   "Finish-to-finish",
+   "Finish-to-start",
+   "Start-to-start",
+   "Start-to-finish"
+  ],
+  "answer": 1,
+  "explanation": "Finish-to-start relationships, in which a successor activity cannot start until a predecessor activity has been finished, is the most common relationship between tasks.",
+  "source": "Section 6/Lesson 2- Quiz"
+ },
+ {
+  "id": "c722-section-6-lesson-3-quiz-q1",
+  "objective": "s6",
+  "q": "A project manager hopes to reduce the critical path of her project by changing some activities from serial to concurrent. Which steps for reducing critical path might help her to achieve this? Select all that apply.",
+  "choices": [
+   "Eliminating tasks",
+   "Reviewing task dependencies",
+   "Reviewing resource availability"
+  ],
+  "answer": [
+   1,
+   2
+  ],
+  "explanation": "Reviewing task dependencies. This answer is correct. Reviewing task dependencies and reviewing resource availability are steps that will help the project manager to change some activities from serial to concurrent. Reviewing resource availability. This answer is correct. Reviewing task dependencies and reviewing resource availability are steps that will help the project manager to change some activities from serial to concurrent.",
+  "source": "Section 6/Lesson 3- Quiz"
+ },
+ {
+  "id": "c722-section-6-lesson-3-quiz-q2",
+  "objective": "s6",
+  "q": "Critical path helps to define a project’s ____.",
+  "choices": [
+   "completion date",
+   "deliverables cost"
+  ],
+  "answer": 0,
+  "explanation": "The critical path describes the sequence of tasks to complete a project and helps to define its completion date.",
+  "source": "Section 6/Lesson 3- Quiz"
+ },
+ {
+  "id": "c722-section-6-lesson-3-quiz-q3",
+  "objective": "s6",
+  "q": "What is the definition of schedule compression?",
+  "choices": [
+   "Resource reduction",
+   "Project timeline reduction",
+   "Functionality reduction"
+  ],
+  "answer": 1,
+  "explanation": "Schedule compression is about reducing a project timeline to meet a desired end date.",
+  "source": "Section 6/Lesson 3- Quiz"
+ },
+ {
+  "id": "c722-section-6-lesson-3-quiz-q4",
+  "objective": "s6",
+  "q": "What is float time, and why is it important for a project manager? Float time is when no work is being done on a project task. Project managers often use this time to relax. Float time is the amount of time an activity can be delayed without affecting the project",
+  "choices": [
+   "timelines. Project managers often use this to determine where resources can be redirected from to assist other areas of the project. Float time is the amount of time a customer has to change their mind on requirements",
+   "without impacting the project schedule. Project managers often use this time to help the customer understand their options."
+  ],
+  "answer": 0,
+  "explanation": "By knowing where and how much float exists, the project manager can determine if there are any resources that may be available to be redirected to activities that may be \"in trouble.”",
+  "source": "Section 6/Lesson 3- Quiz"
+ },
+ {
+  "id": "c722-section-7-section-7-test-q1",
+  "objective": "s7",
+  "q": "What must a project manager do in order to make a team work effectively together?",
+  "choices": [
+   "Force team cohesiveness by using their position as the leader of the team",
+   "Set ground rules up front, and make sure that everyone on the team adheres to them and reports noncompliance",
+   "Build common ground",
+   "It is not the project manager’s responsibility to ensure the team works together. The project manager’s responsibility is to get the project done on time, on schedule, and within budget."
+  ],
+  "answer": 2,
+  "explanation": "To make the team work, the project manager has to build common ground over time.",
+  "source": "Section 7/Section 7- Test"
+ },
+ {
+  "id": "c722-section-7-section-7-test-q3",
+  "objective": "s7",
+  "q": "What are some key characteristics of a great team? Team members work cooperatively toward a uniformly agreed-upon end goal or objective.",
+  "choices": [
+   "The team functions better as a group than as individuals because team members are willing to help each other out to achieve the end goal or objective.",
+   "Team members work to achieve a goal or objective by ensuring that each team member does only the job they were hired to do. Team members work cooperatively toward reaching a uniformly agreed-upon goal or",
+   "objective, but the end goal is solely the project manager’s responsibility. Each team member uses their skills to fulfill their role’s obligations so they are not blamed if the end goal is not achieved.",
+   "Team members work to achieve a goal or objective by using their individual skills to drive success, and each team member’s needs are the core responsibility of the project manager."
+  ],
+  "answer": 0,
+  "explanation": "A great team works together toward a shared goal by using their individual skills to drive success while maintaining communication with each other and providing help when help needed.",
+  "source": "Section 7/Section 7- Test"
+ },
+ {
+  "id": "c722-section-7-section-7-test-q4",
+  "objective": "s7",
+  "q": "The general contractor on a restaurant project is having repeated conflicts with the accountant on the same project. What should the project manager do to facilitate them working effectively together? The project manager should provide a list of specific ground rules up front to guide all of their",
+  "choices": [
+   "interactions. Inform them they will be under scrutiny and that any infraction is grounds for termination.",
+   "The project manager should build common ground between the general contractor and accountant by discussing the team’s shared goals for the restaurant. It is not the project manager's responsibility to ensure that the general contractor and the",
+   "accountant get along. The program manager should be concentrating on getting the deliverables wrapped up.",
+   "The project manager should make sure that the general contractor and accountant do not work together on the same task, to avoid friction."
+  ],
+  "answer": 1,
+  "explanation": "To make the team work, the project manager will need to facilitate building the common ground between team members to reduce conflict.",
+  "source": "Section 7/Section 7- Test"
+ },
+ {
+  "id": "c722-section-7-section-7-test-q5",
+  "objective": "s7",
+  "q": "Team members are working diligently on adding information to the WBS for the restaurant project, but the chef wants the project manager to do something about the front-of-house manager, who is making decisions that impact the kitchen. Which stage of development is the team going through at this point?",
+  "choices": [
+   "Norming",
+   "Storming",
+   "Forming",
+   "Performing"
+  ],
+  "answer": 1,
+  "explanation": "The storming stage is characterized by conflict and tension as team members try to assert their ideas and roles. The chef getting upset and wanting the project manager to address issues with the front-of-house manager’s decisions indicates conflict within the team.",
+  "source": "Section 7/Section 7- Test"
+ },
+ {
+  "id": "c722-section-7-section-7-test-q7",
+  "objective": "s7",
+  "q": "What is the primary reason for scope changes?",
+  "choices": [
+   "Stakeholders change their minds midproject.",
+   "While working on the project, the team's knowledge base grows, and they begin to better understand the requirements and solution options.",
+   "The project manager and the team did not do an adequate job of identifying and estimating deliverables."
+  ],
+  "answer": 1,
+  "explanation": "Scope changes most often occur because the team gains more knowledge as they begin to execute the project. This is true for the team and stakeholders. As everyone gets smarter, the scope changes.",
+  "source": "Section 7/Section 7- Test"
+ },
+ {
+  "id": "c722-section-7-section-7-test-q8",
+  "objective": "s7",
+  "q": "What is the process of nonverbally communicating project performance information on a monthly basis to stakeholders?",
+  "choices": [
+   "Reporting",
+   "Controlling",
+   "Recording"
+  ],
+  "answer": 0,
+  "explanation": "Reporting is a key nonverbal communications methodology used by project managers to inform and to document project information.",
+  "source": "Section 7/Section 7- Test"
+ },
+ {
+  "id": "c722-section-7-section-7-test-q9",
+  "objective": "s7",
+  "q": "Before the start of a project, the project manager communicates customer requirements to the project team to avoid future miscommunications regarding how project outcomes will be measured at delivery. What is the project manager primarily engaged in?",
+  "choices": [
+   "Quality control",
+   "Quality management",
+   "Quality assurance"
+  ],
+  "answer": 1,
+  "explanation": "Quality management is emphasized during the planning phase of the project to ensure that the project team understands the customer’s requirements and how the project outcomes will be assessed upon delivery.",
+  "source": "Section 7/Section 7- Test"
+ },
+ {
+  "id": "c722-section-7-section-7-test-q10",
+  "objective": "s7",
+  "q": "You are well into the final renovations of the restaurant, and everything is on schedule and within the budget margins specified in the planning documents. Then a snowstorm brings work to a grinding halt for a full week. Because this is always a possibility, you identified this event as a potential risk. Which document should the project manager refer to in order to move the work forward?",
+  "choices": [
+   "Work breakdown structure (WBS)",
+   "Project charter",
+   "A contingency plan",
+   "A resource responsibility matrix"
+  ],
+  "answer": 2,
+  "explanation": "Contingency plans are previously developed responses to events that may occur during the execution of the project. Because these events were identified as risks, the project manager should have a contingency plan for dealing with the issue.",
+  "source": "Section 7/Section 7- Test"
+ },
+ {
+  "id": "c722-section-7-section-7-test-q11",
+  "objective": "s7",
+  "q": "A project manager has learned that a project is currently running over budget. How can the project manager determine how efficiently the project team must work for the remainder of the project in order to finish on budget?",
+  "choices": [
+   "By calculating the to-complete performance index (TCPI)",
+   "By calculating the budget at completion (BAC)",
+   "By calculating the schedule performance index (SPI)"
+  ],
+  "answer": 0,
+  "explanation": "The TCPI allows the project manager and key stakeholders to determine if it is feasible for the team to improve their cost efficiency on the remaining work.",
+  "source": "Section 7/Section 7- Test"
+ },
+ {
+  "id": "c722-section-7-section-7-test-q12",
+  "objective": "s7",
+  "q": "A project manager has been so busy with the project duties that there has not been time to think about how the project team members will be released once the first restaurant project is over. Why is it important to have a process in place for this situation?",
+  "choices": [
+   "It is a means of recognizing individual and team performance. If team members do not feel valued, they are less likely to have the same level of commitment in the future.",
+   "It is not really important to have a release process in project management.",
+   "It is the only way to prove that the work is done and that the team is no longer needed. If you do not formally release the team members, you will have to keep paying them."
+  ],
+  "answer": 0,
+  "explanation": "It is a means of recognizing team and individual contributions, which is a motivator for commitment on other projects in the future.",
+  "source": "Section 7/Section 7- Test"
+ },
+ {
+  "id": "c722-section-7-section-7-test-q13",
+  "objective": "s7",
+  "q": "How should a project manager approach the discussion about what the team might be able to do better in the future?",
+  "choices": [
+   "Be blunt and honest. Tell the team exactly what went wrong and why and demand specifics to address the shortfalls.",
+   "Discuss what went right first, and then invite discussion on what to improve and how.",
+   "Avoid the discussion completely. It will only make team members defensive."
+  ],
+  "answer": 1,
+  "explanation": "It is important not to demotivate the team. Discussing what went right and then having the team identify what could be done better acknowledges that everyone put in effort and that everyone learned.",
+  "source": "Section 7/Section 7- Test"
+ },
+ {
+  "id": "c722-section-7-lesson-1-quiz-q1",
+  "objective": "s7",
+  "q": "What demonstrates an effective team?",
+  "choices": [
+   "Team members have a variety of end goals.",
+   "Team members assist each other with difficult tasks.",
+   "Team members seek both individual and group rewards."
+  ],
+  "answer": 1,
+  "explanation": "On an effective team, if one team member has a problem with a task, others willingly assist.",
+  "source": "Section 7/Lesson 1- Quiz"
+ },
+ {
+  "id": "c722-section-7-lesson-1-quiz-q2",
+  "objective": "s7",
+  "q": "What is a likely result of building team cohesiveness and trust?",
+  "choices": [
+   "Identifying high-performing individuals",
+   "Facilitating effective task performance",
+   "Developing routines and procedures"
+  ],
+  "answer": 1,
+  "explanation": "Team members need to be cohesive and trust each other to perform their tasks effectively and efficiently.",
+  "source": "Section 7/Lesson 1- Quiz"
+ },
+ {
+  "id": "c722-section-7-lesson-1-quiz-q3",
+  "objective": "s7",
+  "q": "What describes the storming stage of group development?",
+  "choices": [
+   "Anxiety occurs as team members meet each other for the first time.",
+   "Conflict occurs as team members struggle to work together.",
+   "Stress occurs as the team disbands and members face uncertainty."
+  ],
+  "answer": 1,
+  "explanation": "In the storming stage, integration into the team may involve struggle and conflict as team members figure out how to work together.",
+  "source": "Section 7/Lesson 1- Quiz"
+ },
+ {
+  "id": "c722-section-7-lesson-1-quiz-q4",
+  "objective": "s7",
+  "q": "What is a unique challenge associated with managing a virtual team?",
+  "choices": [
+   "Scheduling meetings that fit multiple time zones",
+   "Moving too quickly through the group development stages",
+   "Increasing team member conflicts with excessive face-to-face meetings"
+  ],
+  "answer": 0,
+  "explanation": "With virtual teams, the issue of time zones must be addressed by project managers. If, for instance, a virtual meeting is called for 10:00 a.m. Eastern time, this means 7:00 a.m. Pacific time. This issue may seem minor, but it can lead to hard feelings and conflict if some groups feel that meeting times are only for the convenience of one group and not others.",
+  "source": "Section 7/Lesson 1- Quiz"
+ },
+ {
+  "id": "c722-section-7-lesson-2-quiz-q1",
+  "objective": "s7",
+  "q": "A project manager is monitoring the project schedule and has already compared WBS activities to the schedule baseline. What should the project manager do next?",
+  "choices": [
+   "Analyze variances",
+   "Revise the baseline scope",
+   "Implement schedule changes"
+  ],
+  "answer": 0,
+  "explanation": "The process of monitoring a project schedule involves comparing WBS activities to the schedule baseline, analyzing variances, and then proposing changes to the schedule or plan.",
+  "source": "Section 7/Lesson 2- Quiz"
+ },
+ {
+  "id": "c722-section-7-lesson-2-quiz-q2",
+  "objective": "s7",
+  "q": "Why does a project manager monitor the risk register while a project is being executed?",
+  "choices": [
+   "To determine the status of a risk event",
+   "To generate a list of potential risks",
+   "To develop a plan for handling a risk event"
+  ],
+  "answer": 0,
+  "explanation": "Throughout the execution of the project, the risk register is monitored to identify the status of each risk item.",
+  "source": "Section 7/Lesson 2- Quiz"
+ },
+ {
+  "id": "c722-section-7-lesson-2-quiz-q3",
+  "objective": "s7",
+  "q": "When is project plan reporting designed and established?",
+  "choices": [
+   "At the beginning of the executing phase",
+   "At any point during the monitoring and controlling phase",
+   "At the start of the project"
+  ],
+  "answer": 2,
+  "explanation": "Project plan reporting is designed and established at the start of the project.",
+  "source": "Section 7/Lesson 2- Quiz"
+ },
+ {
+  "id": "c722-section-7-lesson-2-quiz-q4",
+  "objective": "s7",
+  "q": "What do weekly status reports communicate to stakeholders and fellow team members? Choose all that apply.",
+  "choices": [
+   "Accomplishments",
+   "Issues",
+   "New team members joining the project"
+  ],
+  "answer": [
+   0,
+   1
+  ],
+  "explanation": "Accomplishments. This answer is correct. The weekly status report is a working document that should list out deliverables and milestones achieved. Issues. This answer is correct. The status report should list issues currently being encountered. These are often marked by a color code to denote the severity of the issue.",
+  "source": "Section 7/Lesson 2- Quiz"
+ },
+ {
+  "id": "c722-section-7-lesson-2-quiz-q5",
+  "objective": "s7",
+  "q": "How are quality standards applied in the context of a project? Choose all that apply.",
+  "choices": [
+   "Quality of project outcomes must be determined at the beginning of the project based on the customer requirements.",
+   "Project outcome quality can often be determined based on an industry standard.",
+   "Quality audits are used to perform rigorous reviews of the project performance."
+  ],
+  "answer": [
+   0,
+   1,
+   2
+  ],
+  "explanation": "Quality of project outcomes must be determined at the beginning of the project based on the customer requirements. This answer is correct. The appropriate step in ensuring quality is to define the quality of the outcome during the planning process and then develop plans that will achieve the expected quality, meet the available budget, and monitor its execution. Project outcome quality can often be determined based on an industry standard. This answer is correct. Standards are requirements that are generally accepted by a group of firms that produce similar products or services. Quality audits are used to perform rigorous reviews of the project performance. This answer is correct. The quality reviews are often completed by groups of experts outside of the project team, such as a company’s quality assurance (QA) department or an outside consultant.",
+  "source": "Section 7/Lesson 2- Quiz"
+ },
+ {
+  "id": "c722-section-7-lesson-3-quiz-q1",
+  "objective": "s7",
+  "q": "A project manager is conducting an earned value analysis and needs to know the total value of costs incurred to date. Which data element is the project manager evaluating?",
+  "choices": [
+   "Planned value (PV)",
+   "Budget at completion (BAC)",
+   "Actual cost (AC)"
+  ],
+  "answer": 2,
+  "explanation": "The actual cost (AC) is the total dollar value of costs incurred to date. This includes work and invoices already paid as well as any expenses that have been incurred but not yet invoiced or paid.",
+  "source": "Section 7/Lesson 3- Quiz"
+ },
+ {
+  "id": "c722-section-7-lesson-3-quiz-q2",
+  "objective": "s7",
+  "q": "In which situation is earned value management (EVM) appropriate?",
+  "choices": [
+   "Budget changes are needed to complete the project as scheduled.",
+   "The project scope seems feasible given the budgetary limitations.",
+   "The quality of the project is being monitored on a regular basis."
+  ],
+  "answer": 0,
+  "explanation": "EVM uses measures of the value of work completed to make comparisons to the baseline budget and schedule. The results of this analysis guide the project manager in determining whether changes to the project plan or project resources will be needed in order to meet the budget and schedule baselines.",
+  "source": "Section 7/Lesson 3- Quiz"
+ },
+ {
+  "id": "c722-section-7-lesson-3-quiz-q3",
+  "objective": "s7",
+  "q": "What describes the earned value (EV) of a project at a given point in time?",
+  "choices": [
+   "Approved budget to date",
+   "Total costs incurred to date",
+   "Value of completed work"
+  ],
+  "answer": 2,
+  "explanation": "The earned value (EV) is the value of work completed to date.",
+  "source": "Section 7/Lesson 3- Quiz"
+ },
+ {
+  "id": "c722-section-7-lesson-3-quiz-q4",
+  "objective": "s7",
+  "q": "What does a negative value for the schedule variance indicate?",
+  "choices": [
+   "The project is currently ahead of schedule.",
+   "The project is currently on schedule.",
+   "The project is currently behind schedule."
+  ],
+  "answer": 2,
+  "explanation": "A negative value for schedule variance (SV) indicates that the project work is currently behind schedule.",
+  "source": "Section 7/Lesson 3- Quiz"
+ },
+ {
+  "id": "c722-section-7-lesson-4-quiz-q1",
+  "objective": "s7",
+  "q": "What does a formal acceptance of a project’s deliverables do? Choose all that apply.",
+  "choices": [
+   "Precludes the customer from ever taking action if something goes wrong",
+   "Indicates that the customer or sponsor have accepted the deliverables",
+   "Provides a final opportunity to review all project documents before acceptance of the product of the project",
+   "Signals the end of the project life cycle"
+  ],
+  "answer": [
+   1,
+   2,
+   3
+  ],
+  "explanation": "Indicates that the customer or sponsor have accepted the deliverables. This answer is correct. These are all purposes of a formal acceptance process. Provides a final opportunity to review all project documents before acceptance of the product of the project. This answer is correct. These are all purposes of a formal acceptance process. Signals the end of the project life cycle. This answer is correct. These are all purposes of a formal acceptance process.",
+  "source": "Section 7/Lesson 4- Quiz"
+ },
+ {
+  "id": "c722-section-7-lesson-4-quiz-q2",
+  "objective": "s7",
+  "q": "What is the purpose of recording lessons learned after a project is complete?",
+  "choices": [
+   "Lessons learned reviews help the organization avoid legal liability if something goes wrong.",
+   "Lessons learned reviews are used in promotion and bonus determinations and in termination decisions.",
+   "Lessons learned reviews provide stakeholders with a means of verifying that project deliverables have been delivered as ordered.",
+   "Lessons learned reviews teach current or future project managers, teams, and others what works well and what may not work well."
+  ],
+  "answer": 3,
+  "explanation": "The purpose of recording lessons learned is to encourage success through innovation, learn from what the team did right, and set in place ways to avoid making similar mistakes in future projects.",
+  "source": "Section 7/Lesson 4- Quiz"
+ },
+ {
+  "id": "c722-section-7-lesson-4-quiz-q3",
+  "objective": "s7",
+  "q": "In the lessons learned review, what is provided by determining what went right during the project?",
+  "choices": [
+   "A baseline from which to improve",
+   "An unimportant information subset",
+   "A benchmark to meet"
+  ],
+  "answer": 0,
+  "explanation": "Determining what went right during the project can help to improve future projects.",
+  "source": "Section 7/Lesson 4- Quiz"
+ },
+ {
+  "id": "c722-section-7-lesson-4-quiz-q4",
+  "objective": "s7",
+  "q": "What is the best way for a project manager to address what the team could have done better during project execution?",
+  "choices": [
+   "\"I know the sponsor was demanding, and some of this was beyond our control, but we still have a responsibility to make sure things like this never happen again.\"",
+   "\"The team did a great job. Are there things we might do differently next time?\"",
+   "\"Our stakeholders are unhappy with the final outcome, so we are demanding an explanation of what went wrong during the execution phase.\""
+  ],
+  "answer": 1,
+  "explanation": "This is phrased in a positive way so that team members will be motivated to explore other options.",
+  "source": "Section 7/Lesson 4- Quiz"
  }
 ]

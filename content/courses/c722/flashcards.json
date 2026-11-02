@@ -1,1 +1,1526 @@
-[]
+[
+ {
+  "id": "c722-wb1",
+  "objective": "s1",
+  "front": "Stewardship",
+  "back": "Be a diligent, respectful, and caring steward.\nExample: A PM safeguards client funds and only spends on approved project activities."
+ },
+ {
+  "id": "c722-wb2",
+  "objective": "s1",
+  "front": "Team",
+  "back": "Create a collaborative team environment.\nExample: A cross-functional team of developers, designers, and testers collaborates daily to deliver a new app."
+ },
+ {
+  "id": "c722-wb3",
+  "objective": "s1",
+  "front": "Stakeholders",
+  "back": "Effectively engage with stakeholders.\nExample: The client, end users, sponsor, and vendors are all stakeholders in a software rollout."
+ },
+ {
+  "id": "c722-wb4",
+  "objective": "s1",
+  "front": "Value",
+  "back": "Focus on value.\nExample: Looks differently for every stakeholder.  (ie) Finanacial gain, social goods or benefits"
+ },
+ {
+  "id": "c722-wb5",
+  "objective": "s1",
+  "front": "Systems thinking",
+  "back": "Recognize, evaluate, and respond to the system interactions.\nExample: A PM considers how a delayed shipment will ripple into production, sales, and customer support."
+ },
+ {
+  "id": "c722-wb6",
+  "objective": "s1",
+  "front": "Leadership",
+  "back": "Demonstrate leadership behaviors to support individual and team needs.\nExample: A PM coaches a struggling team member instead of simply reassigning the task."
+ },
+ {
+  "id": "c722-wb7",
+  "objective": "s1",
+  "front": "Tailoring",
+  "back": "Tailor based on context.\nExample: Every project is unique Example: Artifacts, Development approach, Governance, Methods, and processes."
+ },
+ {
+  "id": "c722-wb8",
+  "objective": "s1",
+  "front": "Quality",
+  "back": "Build quality into processes and products (deliverables).\nExample: The team runs code reviews and user testing before each release to catch defects early."
+ },
+ {
+  "id": "c722-wb9",
+  "objective": "s1",
+  "front": "Complexity",
+  "back": "Navigate complexity.\nExample: A multi-country product launch involves multiple regulations, currencies, and time zones."
+ },
+ {
+  "id": "c722-wb10",
+  "objective": "s1",
+  "front": "Risk",
+  "back": "Optimize risk response.\nExample: The PM identifies a key vendor's financial instability as a risk and lines up a backup supplier."
+ },
+ {
+  "id": "c722-wb11",
+  "objective": "s1",
+  "front": "Adaptability and Resiliency",
+  "back": "Embrace adaptability and resiliency.\nExample: When a competitor releases a similar product early, the team pivots the launch plan."
+ },
+ {
+  "id": "c722-wb12",
+  "objective": "s1",
+  "front": "Change",
+  "back": "Enable change to achieve the envisioned future state.\nExample: The PM helps the organization transition from paper timesheets to a new digital system."
+ },
+ {
+  "id": "c722-wb13",
+  "objective": "s1",
+  "front": "Responsibility",
+  "back": "The duty to take ownership of the decisions made or failed to make as a practitioner, the actions you take or fail to take, and the consequences that result.\nExample: A PM who misses a deadline explains what went wrong and proposes a recovery plan rather than hiding it."
+ },
+ {
+  "id": "c722-wb14",
+  "objective": "s1",
+  "front": "Respect",
+  "back": "The duty to show a high regard for yourself, others, and the resources entrusted to you. Resources entrusted to you may include people, money, reputation, the safety of others, and natural and environmental resources.\nExample: A PM listens to a junior team member's schedule concern instead of dismissing it."
+ },
+ {
+  "id": "c722-wb15",
+  "objective": "s1",
+  "front": "Fairness",
+  "back": "The duty to make decisions and act impartially and objectively. Your conduct must be free from competing self-interest, prejudice, and favoritism.\nExample: A PM awards the vendor contract based on bid criteria, not personal friendship."
+ },
+ {
+  "id": "c722-wb16",
+  "objective": "s1",
+  "front": "Honesty",
+  "back": "The duty to understand the truth and act in a truthful manner both in your communications and in your conduct.\nExample: A PM tells the sponsor the project is behind schedule instead of downplaying the risk."
+ },
+ {
+  "id": "c722-wb17",
+  "objective": "s1",
+  "front": "Projects",
+  "back": "Example: Building a new company website is a project — it has a defined start, end, and unique deliverable."
+ },
+ {
+  "id": "c722-wb18",
+  "objective": "s1",
+  "front": "Operations",
+  "back": "Example: Running the customer support call center day after day is an ongoing operation, not a project."
+ },
+ {
+  "id": "c722-wb19",
+  "objective": "s1",
+  "front": "Product",
+  "back": "Example: The finished mobile app delivered to the client is the project's product."
+ },
+ {
+  "id": "c722-wb20",
+  "objective": "s1",
+  "front": "Business Scenario",
+  "back": "Example: A retailer needs a new inventory system because manual tracking is causing stockouts."
+ },
+ {
+  "id": "c722-wb21",
+  "objective": "s1",
+  "front": "Business Strategy",
+  "back": "Example: A company's strategy to become the low-cost leader in its market shapes which projects it selects."
+ },
+ {
+  "id": "c722-wb22",
+  "objective": "s1",
+  "front": "Subject Matter Experts (Lesson 1.5)",
+  "back": "Example: A licensed electrician is brought in to validate the wiring plan for a renovation project."
+ },
+ {
+  "id": "c722-wb23",
+  "objective": "s1",
+  "front": "Program",
+  "back": "Example: A university's “Campus Modernization Program” includes several related projects: a new library, dorms, and parking garage."
+ },
+ {
+  "id": "c722-wb24",
+  "objective": "s1",
+  "front": "Portfolio",
+  "back": "Example: A company's portfolio includes its IT programs, marketing projects, and facilities projects, all prioritized together."
+ },
+ {
+  "id": "c722-wb25",
+  "objective": "s1",
+  "front": "Charter",
+  "back": "Example: The project charter formally authorizes the PM to begin the ERP implementation and use company resources."
+ },
+ {
+  "id": "c722-wb26",
+  "objective": "s1",
+  "front": "Business Case",
+  "back": "Example: The business case shows the new system will pay for itself in cost savings within 18 months."
+ },
+ {
+  "id": "c722-wb27",
+  "objective": "s1",
+  "front": "Project Life Cycle Phases",
+  "back": "Example: A construction project moves through Defining, Planning, Executing, and Closing phases from concept to ribbon-cutting."
+ },
+ {
+  "id": "c722-wb28",
+  "objective": "s1",
+  "front": "Defining",
+  "back": "Example: The team clarifies the project's purpose and high-level scope before any detailed planning begins."
+ },
+ {
+  "id": "c722-wb29",
+  "objective": "s1",
+  "front": "Planning",
+  "back": "Example: The PM builds the schedule, budget, and risk register before work starts."
+ },
+ {
+  "id": "c722-wb30",
+  "objective": "s1",
+  "front": "Executing",
+  "back": "Example: The construction crew builds the structure according to the approved plans."
+ },
+ {
+  "id": "c722-wb31",
+  "objective": "s1",
+  "front": "Closing",
+  "back": "Example: The PM collects final sign-off from the client and archives project documents."
+ },
+ {
+  "id": "c722-wb32",
+  "objective": "s1",
+  "front": "SMART Goals",
+  "back": "Example: “Reduce customer complaints by 20% by the end of Q3” is a SMART goal."
+ },
+ {
+  "id": "c722-wb33",
+  "objective": "s1",
+  "front": "Challenges of Project Management",
+  "back": "Example: Competing stakeholder priorities can make it hard to keep a project on scope."
+ },
+ {
+  "id": "c722-wb34",
+  "objective": "s1",
+  "front": "Key Motivators to Adopt Project Management",
+  "back": "Example: A company adopts formal PM practices after repeatedly missing deadlines and budgets."
+ },
+ {
+  "id": "c722-wb35",
+  "objective": "s1",
+  "front": "Project Management",
+  "back": "Example: Applying knowledge, tools, and schedules to deliver a new product launch on time and on budget."
+ },
+ {
+  "id": "c722-wb36",
+  "objective": "s1",
+  "front": "Project Manager Key Skills and Responsibilities",
+  "back": "Example: A PM needs communication, budgeting, and risk management skills to keep a construction project on track."
+ },
+ {
+  "id": "c722-wb37",
+  "objective": "s1",
+  "front": "Working PM vs Dedicated PM",
+  "back": "Example: A working PM also codes on the project team, while a dedicated PM manages full-time without other assigned tasks."
+ },
+ {
+  "id": "c722-wb38",
+  "objective": "s1",
+  "front": "Stakeholder Engagement",
+  "back": "Example: The PM holds monthly briefings so the sponsor and end users stay informed and involved."
+ },
+ {
+  "id": "c722-wb39",
+  "objective": "s1",
+  "front": "Stakeholder Matrix",
+  "back": "Example: A matrix plots the CFO as high power/high interest, so the PM prioritizes frequent, detailed updates to her."
+ },
+ {
+  "id": "c722-wb40",
+  "objective": "s1",
+  "front": "Communication Plan",
+  "back": "Example: The plan specifies weekly status emails to the team and monthly steering-committee reports to executives."
+ },
+ {
+  "id": "c722-wb41",
+  "objective": "s1",
+  "front": "Status Meetings",
+  "back": "Example: The team meets every Monday to review progress, blockers, and next steps."
+ },
+ {
+  "id": "c722-wb42",
+  "objective": "s1",
+  "front": "Change requests (CR)",
+  "back": "Example: The client submits a change request asking to add a new feature after the scope was already approved."
+ },
+ {
+  "id": "c722-wb43",
+  "objective": "s1",
+  "front": "Change control board (CCB)",
+  "back": "Example: The CCB reviews the client's requested scope change and approves an updated budget and timeline."
+ },
+ {
+  "id": "c722-wb44",
+  "objective": "s1",
+  "front": "Project Reports",
+  "back": "Example: A weekly dashboard shows the project is 60% complete and on budget."
+ },
+ {
+  "id": "c722-wb45",
+  "objective": "s1",
+  "front": "Collaboration Tools",
+  "back": "Example: The team uses a shared project board to track tasks and deadlines in real time."
+ },
+ {
+  "id": "c722-wb46",
+  "objective": "s1",
+  "front": "Work Breakdown Structure",
+  "back": "Example: The WBS breaks “Build the House” into foundation, framing, plumbing, electrical, and finishing work packages."
+ },
+ {
+  "id": "c722-wb47",
+  "objective": "s1",
+  "front": "Conflict Management",
+  "back": "Example: The PM mediates a disagreement between two team members about task ownership."
+ },
+ {
+  "id": "c722-wb48",
+  "objective": "s1",
+  "front": "Project Management Standards and Purpose",
+  "back": "Example: PMI's standards give PMs a common vocabulary and process framework across industries."
+ },
+ {
+  "id": "c722-wb49",
+  "objective": "s1",
+  "front": "PMI",
+  "back": "Example: The Project Management Institute publishes the PMBOK Guide and offers the PMP certification."
+ },
+ {
+  "id": "c722-wb50",
+  "objective": "s1",
+  "front": "PMBOK",
+  "back": "Example: The PMBOK Guide outlines widely accepted project management practices and knowledge areas."
+ },
+ {
+  "id": "c722-wb51",
+  "objective": "s1",
+  "front": "PMP/CAPM",
+  "back": "Example: A PM earns the PMP certification to demonstrate proven project leadership experience."
+ },
+ {
+  "id": "c722-wb52",
+  "objective": "s1",
+  "front": "AXELOS",
+  "back": "Example: AXELOS owns and maintains the PRINCE2 project management methodology."
+ },
+ {
+  "id": "c722-wb53",
+  "objective": "s1",
+  "front": "PRINCE2",
+  "back": "Example: A UK government IT project follows PRINCE2's stage-gate process for approvals."
+ },
+ {
+  "id": "c722-wb54",
+  "objective": "s1",
+  "front": "Functional/Departmentalized Org",
+  "back": "Example: Employees report to a marketing manager and are loaned to projects only part-time."
+ },
+ {
+  "id": "c722-wb55",
+  "objective": "s1",
+  "front": "Matrix Org",
+  "back": "Example: A team member reports to both their functional manager and the project manager at the same time."
+ },
+ {
+  "id": "c722-wb56",
+  "objective": "s1",
+  "front": "Strong/Weak Matrix Org",
+  "back": "Example: In a strong matrix, the PM controls the budget and priorities; in a weak matrix, the functional manager does."
+ },
+ {
+  "id": "c722-wb57",
+  "objective": "s1",
+  "front": "Projectized Org",
+  "back": "Example: Staff are assigned full-time to the project and report directly to the PM until the project ends."
+ },
+ {
+  "id": "c722-wb58",
+  "objective": "s1",
+  "front": "PMO",
+  "back": "Example: The PMO sets standard templates and reviews project health across the whole organization."
+ },
+ {
+  "id": "c722-wb59",
+  "objective": "s1",
+  "front": "Five Levels of project management maturity",
+  "back": "Example: An organization assesses itself as “Managed” rather than “Ad Hoc” based on how consistently it follows PM processes."
+ },
+ {
+  "id": "c722-wb60",
+  "objective": "s1",
+  "front": "OPM3 Organizational Maturity Levels",
+  "back": "Example: OPM3 helps an organization benchmark and improve its project management capability over time."
+ },
+ {
+  "id": "c722-wb61",
+  "objective": "s1",
+  "front": "Ad Hoc",
+  "back": "Example: Each project team makes up its own process because there's no standard approach yet."
+ },
+ {
+  "id": "c722-wb62",
+  "objective": "s1",
+  "front": "Planned",
+  "back": "Example: The organization has documented processes, but teams don't always follow them consistently."
+ },
+ {
+  "id": "c722-wb63",
+  "objective": "s1",
+  "front": "Managed",
+  "back": "Example: Leadership actively tracks whether teams are following the standard PM processes."
+ },
+ {
+  "id": "c722-wb64",
+  "objective": "s1",
+  "front": "Integrated",
+  "back": "Example: PM processes are coordinated across departments and programs, not just within single projects."
+ },
+ {
+  "id": "c722-wb65",
+  "objective": "s1",
+  "front": "Sustained",
+  "back": "Example: Continuous improvement of PM practices is built into how the organization operates long-term."
+ },
+ {
+  "id": "c722-wb66",
+  "objective": "s2",
+  "front": "Defining",
+  "back": "Example: The team agrees on the project's purpose and boundaries before planning details."
+ },
+ {
+  "id": "c722-wb67",
+  "objective": "s2",
+  "front": "Planning",
+  "back": "Example: The PM creates the schedule, budget, and communication plan."
+ },
+ {
+  "id": "c722-wb68",
+  "objective": "s2",
+  "front": "Executing",
+  "back": "Example: The team builds the deliverable according to the plan."
+ },
+ {
+  "id": "c722-wb69",
+  "objective": "s2",
+  "front": "Closing",
+  "back": "Example: The PM obtains client sign-off and closes out contracts."
+ },
+ {
+  "id": "c722-wb70",
+  "objective": "s2",
+  "front": "Project Scope",
+  "back": "Example: The scope states the website will include a homepage, product catalog, and checkout, but not a mobile app."
+ },
+ {
+  "id": "c722-wb71",
+  "objective": "s2",
+  "front": "Project Justification",
+  "back": "Example: The justification explains that the new system will cut processing time by 30%."
+ },
+ {
+  "id": "c722-wb72",
+  "objective": "s2",
+  "front": "Project Sponsor",
+  "back": "Example: The VP of Operations sponsors the project and secures its funding."
+ },
+ {
+  "id": "c722-wb73",
+  "objective": "s2",
+  "front": "Project Charter",
+  "back": "Example: The charter names the PM and authorizes the project to begin."
+ },
+ {
+  "id": "c722-wb74",
+  "objective": "s2",
+  "front": "Statement of Work",
+  "back": "Example: The SOW describes exactly what the contractor will deliver and by when."
+ },
+ {
+  "id": "c722-wb75",
+  "objective": "s2",
+  "front": "Scope",
+  "back": "Example: The scope defines that the project will renovate the kitchen but not the bathroom."
+ },
+ {
+  "id": "c722-wb76",
+  "objective": "s2",
+  "front": "Time",
+  "back": "Example: The project must finish before the store's holiday season begins."
+ },
+ {
+  "id": "c722-wb77",
+  "objective": "s2",
+  "front": "Cost",
+  "back": "Example: The renovation budget is capped at $50,000."
+ },
+ {
+  "id": "c722-wb78",
+  "objective": "s2",
+  "front": "Scope Creep",
+  "back": "Example: The client keeps adding small features without adjusting the budget or timeline."
+ },
+ {
+  "id": "c722-wb79",
+  "objective": "s2",
+  "front": "Scope Reduction",
+  "back": "Example: To meet a fixed deadline, the team removes a planned feature from the release."
+ },
+ {
+  "id": "c722-wb80",
+  "objective": "s2",
+  "front": "Project Baseline",
+  "back": "Example: The original approved budget and schedule serve as the baseline to measure performance against."
+ },
+ {
+  "id": "c722-wb81",
+  "objective": "s2",
+  "front": "Project Quality",
+  "back": "Example: The deliverable must meet the agreed acceptance criteria before the client signs off."
+ },
+ {
+  "id": "c722-wb82",
+  "objective": "s3",
+  "front": "Project Selection Model Criteria",
+  "back": "Example: A company evaluates potential projects against cost, risk, and strategic fit before choosing one."
+ },
+ {
+  "id": "c722-wb83",
+  "objective": "s3",
+  "front": "Realistic",
+  "back": "Example: The model only considers projects the organization actually has the resources to complete."
+ },
+ {
+  "id": "c722-wb84",
+  "objective": "s3",
+  "front": "Capable",
+  "back": "Example: The selection model can evaluate projects across very different sizes and types."
+ },
+ {
+  "id": "c722-wb85",
+  "objective": "s3",
+  "front": "Flexible",
+  "back": "Example: The model can be adjusted as the organization's priorities change."
+ },
+ {
+  "id": "c722-wb86",
+  "objective": "s3",
+  "front": "Easy to Use",
+  "back": "Example: Managers can apply the selection model without needing advanced statistical training."
+ },
+ {
+  "id": "c722-wb87",
+  "objective": "s3",
+  "front": "Low Cost",
+  "back": "Example: The selection process itself shouldn't cost more than the value it helps capture."
+ },
+ {
+  "id": "c722-wb88",
+  "objective": "s3",
+  "front": "Comparable",
+  "back": "Example: The model lets the company rank a marketing project against an IT project on the same scale."
+ },
+ {
+  "id": "c722-wb89",
+  "objective": "s3",
+  "front": "Non-numeric Selection Methods",
+  "back": "Example: A company picks a project simply because the CEO insists on it, without a formal scoring model."
+ },
+ {
+  "id": "c722-wb90",
+  "objective": "s3",
+  "front": "Competitive Necessity",
+  "back": "Example: A retailer launches online ordering because every competitor already offers it."
+ },
+ {
+  "id": "c722-wb91",
+  "objective": "s3",
+  "front": "Operating Necessity",
+  "back": "Example: A factory repairs a failing roof because operations can't continue without it."
+ },
+ {
+  "id": "c722-wb92",
+  "objective": "s3",
+  "front": "Sacred Cow",
+  "back": "Example: A senior executive's pet project gets approved regardless of its financial return."
+ },
+ {
+  "id": "c722-wb93",
+  "objective": "s3",
+  "front": "Checklist Model",
+  "back": "Example: The company scores each proposed project against a simple yes/no list of criteria."
+ },
+ {
+  "id": "c722-wb94",
+  "objective": "s3",
+  "front": "Numeric Selection Criteria",
+  "back": "Example: Projects are ranked using a formula based on cost, revenue, and risk scores."
+ },
+ {
+  "id": "c722-wb95",
+  "objective": "s3",
+  "front": "Scoring Criteria",
+  "back": "Example: Each project earns points for strategic fit, cost, and expected revenue."
+ },
+ {
+  "id": "c722-wb96",
+  "objective": "s3",
+  "front": "Weighted Factor Scoring Model",
+  "back": "Example: Strategic fit is weighted at 40%, cost at 30%, and risk at 30% when ranking projects."
+ },
+ {
+  "id": "c722-wb97",
+  "objective": "s3",
+  "front": "Time Value of Money",
+  "back": "Example: $10,000 today is worth more than $10,000 received five years from now."
+ },
+ {
+  "id": "c722-wb98",
+  "objective": "s3",
+  "front": "Opportunity Cost",
+  "back": "Example: Choosing to fund Project A means giving up the potential return from Project B."
+ },
+ {
+  "id": "c722-wb99",
+  "objective": "s3",
+  "front": "Payback Period",
+  "back": "Example: The new equipment will pay for itself in two years of cost savings."
+ },
+ {
+  "id": "c722-wb100",
+  "objective": "s3",
+  "front": "Internal Rate of Return",
+  "back": "Example: The project's IRR of 15% exceeds the company's 10% required return, so it's approved."
+ },
+ {
+  "id": "c722-wb101",
+  "objective": "s3",
+  "front": "Net Present Value",
+  "back": "Example: A project with a positive NPV is expected to add value after accounting for the time value of money."
+ },
+ {
+  "id": "c722-wb102",
+  "objective": "s3",
+  "front": "Future Net Cash Flows",
+  "back": "Example: The project is expected to generate $20,000 in net cash flow each year for the next five years."
+ },
+ {
+  "id": "c722-wb103",
+  "objective": "s3",
+  "front": "Discounted Cash Flows",
+  "back": "Example: Future cash flows are discounted back to today's dollars to fairly compare projects of different lengths."
+ },
+ {
+  "id": "c722-wb104",
+  "objective": "s4",
+  "front": "PERT",
+  "back": "Example: PERT uses optimistic, pessimistic, and most likely estimates to calculate expected activity duration."
+ },
+ {
+  "id": "c722-wb105",
+  "objective": "s4",
+  "front": "CPM",
+  "back": "Example: CPM identifies the sequence of tasks that determines the project's shortest possible duration."
+ },
+ {
+  "id": "c722-wb106",
+  "objective": "s4",
+  "front": "CCPM",
+  "back": "Example: CCPM adds time buffers to protect the project schedule from resource conflicts and estimating errors."
+ },
+ {
+  "id": "c722-wb107",
+  "objective": "s4",
+  "front": "Waterfall Method",
+  "back": "Example: The team completes requirements, then design, then build, then test — each phase finishing before the next starts."
+ },
+ {
+  "id": "c722-wb108",
+  "objective": "s4",
+  "front": "PRINCE2",
+  "back": "Example: A government project uses PRINCE2's defined stages and management products to control delivery."
+ },
+ {
+  "id": "c722-wb109",
+  "objective": "s4",
+  "front": "Complexity in PM",
+  "back": "Example: A project spanning five countries and three vendors is far more complex than a single-team internal project."
+ },
+ {
+  "id": "c722-wb110",
+  "objective": "s4",
+  "front": "Uncertainty in PM",
+  "back": "Example: A brand-new technology with no track record adds uncertainty to the project's cost and schedule estimates."
+ },
+ {
+  "id": "c722-wb111",
+  "objective": "s4",
+  "front": "Initiating",
+  "back": "Example: The PM drafts and gets approval for the project charter."
+ },
+ {
+  "id": "c722-wb112",
+  "objective": "s4",
+  "front": "Planning",
+  "back": "Example: The team builds out the schedule, budget, and risk plan."
+ },
+ {
+  "id": "c722-wb113",
+  "objective": "s4",
+  "front": "Executing",
+  "back": "Example: The development team writes and tests the code."
+ },
+ {
+  "id": "c722-wb114",
+  "objective": "s4",
+  "front": "Monitoring & Controlling",
+  "back": "Example: The PM compares actual progress to the plan each week and adjusts as needed."
+ },
+ {
+  "id": "c722-wb115",
+  "objective": "s4",
+  "front": "Closing",
+  "back": "Example: The PM finalizes documentation and releases the team from the project."
+ },
+ {
+  "id": "c722-wb116",
+  "objective": "s4",
+  "front": "Traditional Methods",
+  "back": "Example: A construction project plans the entire scope up front and follows it sequentially through completion."
+ },
+ {
+  "id": "c722-wb117",
+  "objective": "s4",
+  "front": "Iterative Methods (Sections 2 & 4)",
+  "back": "Example: The team builds a basic version first, then refines it in repeated cycles based on feedback."
+ },
+ {
+  "id": "c722-wb118",
+  "objective": "s4",
+  "front": "Agile Methods",
+  "back": "Example: A software team delivers working features every two weeks and adjusts priorities based on feedback."
+ },
+ {
+  "id": "c722-wb119",
+  "objective": "s4",
+  "front": "Scrum",
+  "back": "Example: The team works in two-week sprints with daily stand-ups and a sprint review at the end."
+ },
+ {
+  "id": "c722-wb120",
+  "objective": "s4",
+  "front": "Extreme Project Management",
+  "back": "Example: A fast-moving startup adjusts its project goals weekly as market conditions shift."
+ },
+ {
+  "id": "c722-wb121",
+  "objective": "s5",
+  "front": "Project Charter",
+  "back": "Example: The charter authorizes the PM to begin work and outlines the project's high-level objectives."
+ },
+ {
+  "id": "c722-wb122",
+  "objective": "s5",
+  "front": "Project Scope",
+  "back": "Example: The scope defines exactly what will and won't be included in the new mobile app."
+ },
+ {
+  "id": "c722-wb123",
+  "objective": "s5",
+  "front": "Checklist",
+  "back": "Example: The team uses a checklist to confirm every required planning document has been completed."
+ },
+ {
+  "id": "c722-wb124",
+  "objective": "s5",
+  "front": "Statement of Work",
+  "back": "Example: The SOW specifies the contractor will deliver 500 units by March 1st."
+ },
+ {
+  "id": "c722-wb125",
+  "objective": "s5",
+  "front": "Work Breadown Structure",
+  "back": "Example: The WBS breaks the project into manageable, assignable pieces of work."
+ },
+ {
+  "id": "c722-wb126",
+  "objective": "s5",
+  "front": "Living Documents",
+  "back": "Example: The risk register is updated continuously throughout the project as new risks are identified."
+ },
+ {
+  "id": "c722-wb127",
+  "objective": "s5",
+  "front": "Product Scope",
+  "back": "Example: The product scope defines the features and specifications of the software itself."
+ },
+ {
+  "id": "c722-wb128",
+  "objective": "s5",
+  "front": "Make/Buy Decision",
+  "back": "Example: The team decides to buy an off-the-shelf payment processor instead of building one in-house."
+ },
+ {
+  "id": "c722-wb129",
+  "objective": "s5",
+  "front": "Project Requirements",
+  "back": "Example: The client requires the system to support 10,000 concurrent users."
+ },
+ {
+  "id": "c722-wb130",
+  "objective": "s5",
+  "front": "Requirements Traceability Matrix",
+  "back": "Example: The matrix links each requirement back to the test case that verifies it was delivered."
+ },
+ {
+  "id": "c722-wb131",
+  "objective": "s5",
+  "front": "Project Deliverables",
+  "back": "Example: The signed contract, the finished building, and the training manual are all deliverables."
+ },
+ {
+  "id": "c722-wb132",
+  "objective": "s5",
+  "front": "Resource Responsibility Matrix",
+  "back": "Example: The matrix shows the developer is responsible for coding while the QA lead is responsible for testing."
+ },
+ {
+  "id": "c722-wb133",
+  "objective": "s5",
+  "front": "Histogram",
+  "back": "Example: A resource histogram shows the design team is overallocated in week three."
+ },
+ {
+  "id": "c722-wb134",
+  "objective": "s5",
+  "front": "Resource Levelling",
+  "back": "Example: The PM shifts a task to week four so the same engineer isn't double-booked in week three."
+ },
+ {
+  "id": "c722-wb135",
+  "objective": "s5",
+  "front": "KSA",
+  "back": "Example: The role requires the KSA (knowledge, skills, and abilities) to manage vendor contracts."
+ },
+ {
+  "id": "c722-wb136",
+  "objective": "s5",
+  "front": "Purpose of WBS",
+  "back": "Example: The WBS breaks a large, complex project into smaller, manageable pieces that can be assigned and tracked."
+ },
+ {
+  "id": "c722-wb137",
+  "objective": "s5",
+  "front": "Deliverable",
+  "back": "Example: A completed and tested mobile app is a deliverable of the project."
+ },
+ {
+  "id": "c722-wb138",
+  "objective": "s5",
+  "front": "Activity",
+  "back": "Example: Writing the login-page code is one activity within a larger work package."
+ },
+ {
+  "id": "c722-wb139",
+  "objective": "s5",
+  "front": "Task",
+  "back": "Example: Testing the login button is a specific task assigned to one team member."
+ },
+ {
+  "id": "c722-wb140",
+  "objective": "s5",
+  "front": "8/80 rule",
+  "back": "Example: A work package should take no less than 8 hours and no more than 80 hours to complete."
+ },
+ {
+  "id": "c722-wb141",
+  "objective": "s5",
+  "front": "Hierarchical Numbering",
+  "back": "Example: Task 1.2.3 shows it's the third task under the second work package of the first deliverable."
+ },
+ {
+  "id": "c722-wb142",
+  "objective": "s5",
+  "front": "Top-Down Estimation",
+  "back": "Example: Executives set a $500,000 budget for the whole project based on past similar projects."
+ },
+ {
+  "id": "c722-wb143",
+  "objective": "s5",
+  "front": "Parametric Estimation",
+  "back": "Example: The team estimates cost per square foot, then multiplies by the building's total square footage."
+ },
+ {
+  "id": "c722-wb144",
+  "objective": "s5",
+  "front": "Ratio Method",
+  "back": "Example: Cost is estimated based on a historical ratio, like $200 per unit produced."
+ },
+ {
+  "id": "c722-wb145",
+  "objective": "s5",
+  "front": "Apportion Method",
+  "back": "Example: 40% of the total budget is allocated to design based on how past similar projects were split."
+ },
+ {
+  "id": "c722-wb146",
+  "objective": "s5",
+  "front": "Bottom-up Estimation",
+  "back": "Example: Each task is estimated individually, then summed to build the total project budget."
+ },
+ {
+  "id": "c722-wb147",
+  "objective": "s5",
+  "front": "Cost Management",
+  "back": "Example: The PM tracks actual spending against the budget every week to catch overruns early."
+ },
+ {
+  "id": "c722-wb148",
+  "objective": "s5",
+  "front": "Baseline Budget",
+  "back": "Example: The original approved $500,000 budget is the baseline used to measure cost performance."
+ },
+ {
+  "id": "c722-wb149",
+  "objective": "s5",
+  "front": "Direct Costs",
+  "back": "Example: Wages paid to the developers working on this specific project are direct costs."
+ },
+ {
+  "id": "c722-wb150",
+  "objective": "s5",
+  "front": "Direct Overhead Costs",
+  "back": "Example: The cost of electricity for the office where the project team works is a direct overhead cost."
+ },
+ {
+  "id": "c722-wb151",
+  "objective": "s5",
+  "front": "General & Administrative Costs",
+  "back": "Example: A portion of the company's HR and accounting department costs is allocated to the project."
+ },
+ {
+  "id": "c722-wb152",
+  "objective": "s5",
+  "front": "Padding",
+  "back": "Example: A team member quietly adds extra time to an estimate as a personal safety cushion."
+ },
+ {
+  "id": "c722-wb153",
+  "objective": "s5",
+  "front": "Contingency Reserve",
+  "back": "Example: A 10% contingency reserve is added to cover known risks like potential material price increases."
+ },
+ {
+  "id": "c722-wb154",
+  "objective": "s5",
+  "front": "Management Reserve",
+  "back": "Example: Management sets aside funds for unknown risks that weren't identified during planning."
+ },
+ {
+  "id": "c722-wb155",
+  "objective": "s5",
+  "front": "Calendarized Budget",
+  "back": "Example: The $1.2 million budget is spread across 12 months to match expected spending."
+ },
+ {
+  "id": "c722-wb156",
+  "objective": "s5",
+  "front": "Simple Budget",
+  "back": "Example: The whole project is tracked against a single total dollar figure rather than by phase or task."
+ },
+ {
+  "id": "c722-wb157",
+  "objective": "s5",
+  "front": "Risk",
+  "back": "Example: A key supplier could go out of business before delivering materials."
+ },
+ {
+  "id": "c722-wb158",
+  "objective": "s5",
+  "front": "Risk Appetite",
+  "back": "Example: A startup with high risk appetite is willing to launch an unproven product quickly."
+ },
+ {
+  "id": "c722-wb159",
+  "objective": "s5",
+  "front": "Risk Tolerance",
+  "back": "Example: The organization can tolerate up to a two-week schedule delay without escalating."
+ },
+ {
+  "id": "c722-wb160",
+  "objective": "s5",
+  "front": "Risk Threshold",
+  "back": "Example: Once potential cost overrun exceeds $50,000, the risk must be escalated to the sponsor."
+ },
+ {
+  "id": "c722-wb161",
+  "objective": "s5",
+  "front": "Risk Management",
+  "back": "Example: The PM regularly identifies, assesses, and plans responses to project risks."
+ },
+ {
+  "id": "c722-wb162",
+  "objective": "s5",
+  "front": "Risk Responses",
+  "back": "Example: The team decides how to respond to the risk of a key vendor missing a delivery date."
+ },
+ {
+  "id": "c722-wb163",
+  "objective": "s5",
+  "front": "Avoidance",
+  "back": "Example: The team removes a risky new technology from the project scope entirely."
+ },
+ {
+  "id": "c722-wb164",
+  "objective": "s5",
+  "front": "Mitigation",
+  "back": "Example: The team orders materials from two suppliers to reduce the impact if one is late."
+ },
+ {
+  "id": "c722-wb165",
+  "objective": "s5",
+  "front": "Transfer",
+  "back": "Example: The company purchases insurance to shift the financial risk of a data breach to the insurer."
+ },
+ {
+  "id": "c722-wb166",
+  "objective": "s5",
+  "front": "Acceptance",
+  "back": "Example: The team accepts a small risk of minor delay since it's not worth the cost to address."
+ },
+ {
+  "id": "c722-wb167",
+  "objective": "s5",
+  "front": "Opportunity Management",
+  "back": "Example: The team plans how to take advantage of a chance to finish early and under budget."
+ },
+ {
+  "id": "c722-wb168",
+  "objective": "s5",
+  "front": "Acceptance",
+  "back": "Example: The team simply takes advantage of an opportunity if it happens, without any extra effort."
+ },
+ {
+  "id": "c722-wb169",
+  "objective": "s5",
+  "front": "Enhancing the opportunity",
+  "back": "Example: The team invests extra resources to increase the chance of finishing ahead of schedule."
+ },
+ {
+  "id": "c722-wb170",
+  "objective": "s5",
+  "front": "Sharing the opportunity",
+  "back": "Example: The company partners with another firm to jointly capture a new market opportunity."
+ },
+ {
+  "id": "c722-wb171",
+  "objective": "s5",
+  "front": "Risk Categories",
+  "back": "Example: Risks are grouped into technical, external, organizational, and other categories."
+ },
+ {
+  "id": "c722-wb172",
+  "objective": "s5",
+  "front": "Organization",
+  "back": "Example: A sudden budget cut from leadership is an organizational risk."
+ },
+ {
+  "id": "c722-wb173",
+  "objective": "s5",
+  "front": "External",
+  "back": "Example: A new government regulation could delay the project's approval."
+ },
+ {
+  "id": "c722-wb174",
+  "objective": "s5",
+  "front": "Technical",
+  "back": "Example: The new software might not integrate properly with an existing legacy system."
+ },
+ {
+  "id": "c722-wb175",
+  "objective": "s5",
+  "front": "Risk Register",
+  "back": "Example: The risk register lists “vendor delay” with its likelihood, impact, and planned response."
+ },
+ {
+  "id": "c722-wb176",
+  "objective": "s5",
+  "front": "P*S Score",
+  "back": "Example: A risk with high probability and high severity gets a higher P*S score than a rare, minor risk."
+ },
+ {
+  "id": "c722-wb177",
+  "objective": "s6",
+  "front": "Duration",
+  "back": "Example: The task to pour the foundation is estimated to take 5 business days."
+ },
+ {
+  "id": "c722-wb178",
+  "objective": "s6",
+  "front": "One Point Estimate",
+  "back": "Example: The team estimates the task will take exactly 3 days, with no range given."
+ },
+ {
+  "id": "c722-wb179",
+  "objective": "s6",
+  "front": "Triangular Distribution",
+  "back": "Example: The team estimates 4 days optimistic, 6 days most likely, and 10 days pessimistic."
+ },
+ {
+  "id": "c722-wb180",
+  "objective": "s6",
+  "front": "Beta Distribution",
+  "back": "Example: PERT weighs the most-likely estimate four times more heavily than the optimistic or pessimistic ones."
+ },
+ {
+  "id": "c722-wb181",
+  "objective": "s6",
+  "front": "Standard Deviation",
+  "back": "Example: A wide gap between optimistic and pessimistic estimates produces a large standard deviation."
+ },
+ {
+  "id": "c722-wb182",
+  "objective": "s6",
+  "front": "Deterministic Estimate",
+  "back": "Example: The task is estimated at a fixed 10 days based on a signed vendor contract."
+ },
+ {
+  "id": "c722-wb183",
+  "objective": "s6",
+  "front": "Probabilistic Estimate",
+  "back": "Example: The task's duration is estimated as a range, accounting for uncertainty in weather and labor availability."
+ },
+ {
+  "id": "c722-wb184",
+  "objective": "s6",
+  "front": "Learning Curve",
+  "back": "Example: The tenth unit takes far less time to build than the first, as the team gains experience."
+ },
+ {
+  "id": "c722-wb185",
+  "objective": "s6",
+  "front": "Nodes",
+  "back": "Example: Each box in the network diagram represents one activity, like “Pour Foundation.”"
+ },
+ {
+  "id": "c722-wb186",
+  "objective": "s6",
+  "front": "Precedence Relationships",
+  "back": "Example: Framing can't start until the foundation is finished — that's a precedence relationship."
+ },
+ {
+  "id": "c722-wb187",
+  "objective": "s6",
+  "front": "Finish to Start",
+  "back": "Example: Painting can't start until drywall installation finishes."
+ },
+ {
+  "id": "c722-wb188",
+  "objective": "s6",
+  "front": "Finish to Finish",
+  "back": "Example: Testing must finish at the same time as documentation is finished."
+ },
+ {
+  "id": "c722-wb189",
+  "objective": "s6",
+  "front": "Start to Start",
+  "back": "Example: Excavation and site surveying can begin at the same time."
+ },
+ {
+  "id": "c722-wb190",
+  "objective": "s6",
+  "front": "Start to Finish",
+  "back": "Example: A night security shift can't end until the day shift starts."
+ },
+ {
+  "id": "c722-wb191",
+  "objective": "s6",
+  "front": "Network Diagram",
+  "back": "Example: The diagram visually shows the order and dependencies of every project activity."
+ },
+ {
+  "id": "c722-wb192",
+  "objective": "s6",
+  "front": "Gantt Chart",
+  "back": "Example: The Gantt chart shows each task as a bar spanning its planned start and end dates."
+ },
+ {
+  "id": "c722-wb193",
+  "objective": "s6",
+  "front": "Lead/Lag Time",
+  "back": "Example: Painting can start two days before drywall is 100% finished — a two-day lead time."
+ },
+ {
+  "id": "c722-wb194",
+  "objective": "s6",
+  "front": "Critical Path",
+  "back": "Example: The sequence of tasks from foundation to final inspection determines the earliest the building can be finished."
+ },
+ {
+  "id": "c722-wb195",
+  "objective": "s6",
+  "front": "Float",
+  "back": "Example: A task with 3 days of float can be delayed 3 days without pushing back the project finish date."
+ },
+ {
+  "id": "c722-wb196",
+  "objective": "s6",
+  "front": "Slack",
+  "back": "Example: Slack shows how much a non-critical task can slip without affecting the overall schedule."
+ },
+ {
+  "id": "c722-wb197",
+  "objective": "s6",
+  "front": "Schedule Compression",
+  "back": "Example: The PM shortens the schedule by adding more workers or overlapping tasks."
+ },
+ {
+  "id": "c722-wb198",
+  "objective": "s6",
+  "front": "Fast Tracking",
+  "back": "Example: Design and construction phases are overlapped instead of run sequentially to save time."
+ },
+ {
+  "id": "c722-wb199",
+  "objective": "s6",
+  "front": "Crashing",
+  "back": "Example: The PM adds extra workers to a task to finish it faster, at additional cost."
+ },
+ {
+  "id": "c722-wb200",
+  "objective": "s6",
+  "front": "Critical Chain",
+  "back": "Example: The schedule adds time buffers to protect against resource conflicts on the critical path."
+ },
+ {
+  "id": "c722-wb201",
+  "objective": "s7",
+  "front": "Stages of Team Development",
+  "back": "Example: A new team moves through Forming, Storming, Norming, Performing, and Adjourning."
+ },
+ {
+  "id": "c722-wb202",
+  "objective": "s7",
+  "front": "Forming",
+  "back": "Example: Team members meet for the first time and are polite but unsure of their roles."
+ },
+ {
+  "id": "c722-wb203",
+  "objective": "s7",
+  "front": "Storming",
+  "back": "Example: Team members start disagreeing over priorities and how work should be divided."
+ },
+ {
+  "id": "c722-wb204",
+  "objective": "s7",
+  "front": "Norming",
+  "back": "Example: The team settles into agreed-upon roles and working habits."
+ },
+ {
+  "id": "c722-wb205",
+  "objective": "s7",
+  "front": "Performing",
+  "back": "Example: The team works efficiently together with minimal oversight needed."
+ },
+ {
+  "id": "c722-wb206",
+  "objective": "s7",
+  "front": "Adjourning",
+  "back": "Example: The team disbands and celebrates after the project is delivered."
+ },
+ {
+  "id": "c722-wb207",
+  "objective": "s7",
+  "front": "Co-located Teams",
+  "back": "Example: The whole project team works together in the same office space."
+ },
+ {
+  "id": "c722-wb208",
+  "objective": "s7",
+  "front": "Virtual Teams",
+  "back": "Example: Team members in three different countries collaborate entirely online."
+ },
+ {
+  "id": "c722-wb209",
+  "objective": "s7",
+  "front": "Change Management Process",
+  "back": "Example: The team follows a defined process to evaluate and approve the client's requested scope change."
+ },
+ {
+  "id": "c722-wb210",
+  "objective": "s7",
+  "front": "Identify Change",
+  "back": "Example: A team member flags that the client wants an added feature not in the original scope."
+ },
+ {
+  "id": "c722-wb211",
+  "objective": "s7",
+  "front": "Evaluate Change",
+  "back": "Example: The PM assesses how the requested change would affect cost, schedule, and quality."
+ },
+ {
+  "id": "c722-wb212",
+  "objective": "s7",
+  "front": "Decision",
+  "back": "Example: The change control board approves the change with an extended deadline."
+ },
+ {
+  "id": "c722-wb213",
+  "objective": "s7",
+  "front": "Communicate Change",
+  "back": "Example: The PM notifies the team and stakeholders that the schedule has shifted two weeks."
+ },
+ {
+  "id": "c722-wb214",
+  "objective": "s7",
+  "front": "Structured Change Management Process",
+  "back": "Example: The organization requires every change to go through a formal review and approval workflow."
+ },
+ {
+  "id": "c722-wb215",
+  "objective": "s7",
+  "front": "Initiation—Prepare for change",
+  "back": "Obtain the necessary resources and documentation to organize the processes of change.\nExample: The team gathers the documentation needed to formally request a scope change."
+ },
+ {
+  "id": "c722-wb216",
+  "objective": "s7",
+  "front": "Planning",
+  "back": "The integration of formal plans and change management plans into the overall change management and project management plan.\nExample: The team updates the schedule and budget to reflect the newly approved change."
+ },
+ {
+  "id": "c722-wb217",
+  "objective": "s7",
+  "front": "Management",
+  "back": "The management of the implementation of the change based on the defined change management plan.\nExample: The PM oversees the rollout of the approved change according to the updated plan."
+ },
+ {
+  "id": "c722-wb218",
+  "objective": "s7",
+  "front": "Reinforcing and Sustaining the Change",
+  "back": "A thorough evaluation of the sustainability of a change. Making the change both permanent and sustainable.\nExample: Reward and incentives"
+ },
+ {
+  "id": "c722-wb219",
+  "objective": "s7",
+  "front": "Contingency Plans",
+  "back": "Example: The PM checks in on a task that's at risk of slipping and prepares a fallback plan."
+ },
+ {
+  "id": "c722-wb220",
+  "objective": "s7",
+  "front": "Corrective Action",
+  "back": "Example: The PM adds an extra resource to a delayed task to bring the schedule back on track."
+ },
+ {
+  "id": "c722-wb221",
+  "objective": "s7",
+  "front": "Scope Creep",
+  "back": "Example: The client keeps requesting small extras that were never part of the approved scope."
+ },
+ {
+  "id": "c722-wb222",
+  "objective": "s7",
+  "front": "Work Performance Data",
+  "back": "Example: Raw data like “60% of tasks complete” and “$40,000 spent so far” feeds into performance reports."
+ },
+ {
+  "id": "c722-wb223",
+  "objective": "s7",
+  "front": "Project Controls",
+  "back": "Example: Regular status meetings and budget reviews help the PM keep the project on track."
+ },
+ {
+  "id": "c722-wb224",
+  "objective": "s7",
+  "front": "Quality Management",
+  "back": "Example: The team defines, monitors, and improves the standards the deliverable must meet."
+ },
+ {
+  "id": "c722-wb225",
+  "objective": "s7",
+  "front": "Quality assurance",
+  "back": "Example: The team audits its own development process to confirm it follows the company's coding standards."
+ },
+ {
+  "id": "c722-wb226",
+  "objective": "s7",
+  "front": "Quality audit",
+  "back": "Example: An outside reviewer checks whether the team actually followed its documented QA process."
+ },
+ {
+  "id": "c722-wb227",
+  "objective": "s7",
+  "front": "Quality control",
+  "back": "Example: The QA team tests the finished product for defects before it ships."
+ },
+ {
+  "id": "c722-wb228",
+  "objective": "s7",
+  "front": "Earned Value",
+  "back": "Budgeted value of the work that has actually been completed.\nFormula: EV = BAC × Actual % Complete\nExample: $100,000 × 35% actual complete = $35,000"
+ },
+ {
+  "id": "c722-wb229",
+  "objective": "s7",
+  "front": "Actual Cost",
+  "back": "Actual amount spent to complete the work performed. (Given, not calculated.)\nExample: $38,000 (given)"
+ },
+ {
+  "id": "c722-wb230",
+  "objective": "s7",
+  "front": "Planned Value",
+  "back": "Budgeted value of the work that should have been completed by a certain date.\nFormula: PV = BAC × Planned % Complete\nExample: $100,000 × 40% planned complete = $40,000"
+ },
+ {
+  "id": "c722-wb231",
+  "objective": "s7",
+  "front": "Budget at Completion",
+  "back": "Total approved budget for the entire project. (Given, not calculated.)\nExample: $100,000 (given)"
+ },
+ {
+  "id": "c722-wb232",
+  "objective": "s7",
+  "front": "50/50 Rule",
+  "back": "Example: A task is credited 50% complete the moment it starts and the other 50% when it finishes, regardless of actual progress."
+ },
+ {
+  "id": "c722-wb233",
+  "objective": "s7",
+  "front": "0/100 Rule",
+  "back": "Example: A task earns no credit until it's 100% finished, so a nearly-done task still shows 0% earned value."
+ },
+ {
+  "id": "c722-wb234",
+  "objective": "s7",
+  "front": "Cost Variance",
+  "back": "Measures whether the project is under or over budget.\nFormula: CV = EV − AC\nCV > 0 = under budget · CV < 0 = over budget · CV = 0 = on budget\nExample: $35,000 − $38,000 = −$3,000 → over budget by $3,000"
+ },
+ {
+  "id": "c722-wb235",
+  "objective": "s7",
+  "front": "Cost Performance Index",
+  "back": "Measures cost efficiency — value earned per dollar spent.\nFormula: CPI = EV ÷ AC\nCPI > 1.0 = cost efficient · CPI < 1.0 = over budget · CPI = 1.0 = on budget\nExample: $35,000 ÷ $38,000 = 0.92 → earns $0.92 of value for every $1.00 spent"
+ },
+ {
+  "id": "c722-wb236",
+  "objective": "s7",
+  "front": "Schedule Variance",
+  "back": "Measures whether the project is ahead of or behind schedule.\nFormula: SV = EV − PV\nSV > 0 = ahead of schedule · SV < 0 = behind schedule · SV = 0 = on schedule\nExample: $35,000 − $40,000 = −$5,000 → behind schedule by $5,000 of planned work"
+ },
+ {
+  "id": "c722-wb237",
+  "objective": "s7",
+  "front": "Schedule Performance Index",
+  "back": "Measures schedule efficiency.\nFormula: SPI = EV ÷ PV\nSPI > 1.0 = ahead of schedule · SPI < 1.0 = behind schedule · SPI = 1.0 = on schedule\nExample: $35,000 ÷ $40,000 = 0.88 → progressing at 88% of the planned rate"
+ },
+ {
+  "id": "c722-wb238",
+  "objective": "s7",
+  "front": "To Complete Performance Index",
+  "back": "Example: TCPI shows the cost efficiency needed on the remaining work to still hit the original $100,000 budget."
+ },
+ {
+  "id": "c722-wb239",
+  "objective": "s7",
+  "front": "Percent Complete Index",
+  "back": "Example: The team estimates a task is 70% complete based on the work performed so far."
+ },
+ {
+  "id": "c722-wb240",
+  "objective": "s7",
+  "front": "Estimate to Complete",
+  "back": "Example: Based on current performance, the team estimates it will cost another $15,000 to finish the remaining work."
+ },
+ {
+  "id": "c722-wb241",
+  "objective": "s7",
+  "front": "Estimate at Completion",
+  "back": "Example: Given current cost overruns, the project is now forecast to finish at $110,000 instead of the original $100,000 budget."
+ },
+ {
+  "id": "c722-wb242",
+  "objective": "s7",
+  "front": "Budget at Completion (BAC)",
+  "back": "Total approved budget for the entire project.\nFormula: Given"
+ },
+ {
+  "id": "c722-wb243",
+  "objective": "s7",
+  "front": "Planned Value (PV)",
+  "back": "Budgeted value of the work that should have been completed by a certain date.\nFormula: PV = BAC × Planned % Complete"
+ },
+ {
+  "id": "c722-wb244",
+  "objective": "s7",
+  "front": "Earned Value (EV)",
+  "back": "Budgeted value of the work that has actually been completed.\nFormula: EV = BAC × Actual % Complete"
+ },
+ {
+  "id": "c722-wb245",
+  "objective": "s7",
+  "front": "Actual Cost (AC)",
+  "back": "Actual amount spent to complete the work performed.\nFormula: Given"
+ },
+ {
+  "id": "c722-wb246",
+  "objective": "s7",
+  "front": "Measure",
+  "back": "Good\nFormula: Bad"
+ },
+ {
+  "id": "c722-wb247",
+  "objective": "s7",
+  "front": "CV (Cost Variance)",
+  "back": "Positive (+)\nFormula: Negative (−)"
+ },
+ {
+  "id": "c722-wb248",
+  "objective": "s7",
+  "front": "SV (Schedule Variance)",
+  "back": "Positive (+)\nFormula: Negative (−)"
+ },
+ {
+  "id": "c722-wb249",
+  "objective": "s7",
+  "front": "CPI (Cost Performance Index)",
+  "back": "Greater than 1.0\nFormula: Less than 1.0"
+ },
+ {
+  "id": "c722-wb250",
+  "objective": "s7",
+  "front": "SPI (Schedule Performance Index)",
+  "back": "Greater than 1.0\nFormula: Less than 1.0"
+ },
+ {
+  "id": "c722-wb251",
+  "objective": "s7",
+  "front": "Lessons Learned",
+  "back": "Example: The team documents that vendor delays caused the biggest schedule risk, to help future projects plan better."
+ },
+ {
+  "id": "c722-wb252",
+  "objective": "s7",
+  "front": "After Action Review",
+  "back": "Example: The team meets after the project ends to discuss what went well and what didn't."
+ },
+ {
+  "id": "c722-wb253",
+  "objective": "s7",
+  "front": "Vendor Closing Checklist",
+  "back": "Example: The PM confirms all vendor invoices are paid and contracts are formally closed."
+ },
+ {
+  "id": "c722-wb254",
+  "objective": "s7",
+  "front": "Checklist",
+  "back": "Example: The PM uses a checklist to confirm every deliverable, contract, and document is properly closed out."
+ }
+]

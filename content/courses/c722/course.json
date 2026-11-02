@@ -11,6 +11,30 @@
   {
    "id": "s1",
    "title": "Section 1: Project Management Concepts"
+  },
+  {
+   "id": "s2",
+   "title": "Section 2: The Project Life Cycle"
+  },
+  {
+   "id": "s3",
+   "title": "Section 3: Project Selection Criteria and Models"
+  },
+  {
+   "id": "s4",
+   "title": "Section 4: Project Management Methods"
+  },
+  {
+   "id": "s5",
+   "title": "Section 5: Project Planning"
+  },
+  {
+   "id": "s6",
+   "title": "Section 6: Project Scheduling"
+  },
+  {
+   "id": "s7",
+   "title": "Section 7: Executing, Monitoring, Controlling, and Closing Project Work"
   }
  ]
 }
