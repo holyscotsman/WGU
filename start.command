@@ -2,6 +2,8 @@
 # WGU Study launcher: double-click (macOS) or run `bash start.command`.
 # Installs dependencies, builds, remembers your password, starts the site locally, opens the browser.
 set -u
+# Homebrew (Apple silicon and Intel) installs node here; a fresh Terminal may not have it on PATH yet
+export PATH="/opt/homebrew/bin:/usr/local/bin:$PATH"
 cd "$(dirname "$0")"
 PORT=8888
 URL="http://localhost:$PORT"
