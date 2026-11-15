@@ -4,12 +4,26 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="robots" content="noindex, nofollow">
+  <meta name="theme-color" content="#0d2a47">
   <title>WGU Study</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%230d2a47'/%3E%3Cpath d='M9 10h4.5c1.6 0 2.5.8 2.5 2v10c0-1.2-.9-2-2.5-2H9zM23 10h-4.5c-1.6 0-2.5.8-2.5 2v10c0-1.2.9-2 2.5-2H23z' fill='none' stroke='%23c9a45c' stroke-width='1.8' stroke-linejoin='round'/%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@400;500;600;700&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&display=swap">
   <link rel="stylesheet" href="/style.css">
 </head>
 <body>
-  <header><a href="#/" class="brand">WGU Study</a><span id="sync"></span><button id="logout" hidden>Log out</button></header>
-  <main id="app"></main>
+  <header class="topbar">
+    <div class="topbar-in">
+      <a href="#/" class="brand" aria-label="WGU Study home">
+        <svg class="mark" viewBox="0 0 32 32" aria-hidden="true"><rect width="32" height="32" rx="7"/><path d="M9 10h4.5c1.6 0 2.5.8 2.5 2v10c0-1.2-.9-2-2.5-2H9zM23 10h-4.5c-1.6 0-2.5.8-2.5 2v10c0-1.2.9-2 2.5-2H23z"/></svg>
+        <span>WGU <em>Study</em></span>
+      </a>
+      <span id="sync" role="status" aria-live="polite"></span>
+      <button id="logout" class="ghost" hidden>Log out</button>
+    </div>
+  </header>
+  <main id="app"><div class="skel"><i></i><i></i><i></i></div></main>
   <script type="module" src="/app.js"></script>
 </body>
 </html>
