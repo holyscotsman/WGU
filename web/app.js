@@ -10,6 +10,18 @@ const tone = (p) => (p >= 80 ? "ok" : p >= 60 ? "mid" : "low");
 const explain = (t) => t.replace(/^(That's right|Correct)[!.]\s*/i, "");
 const choiceHTML = (c, k, multi) => `<label class="choice" data-k="${k}"><input type="${multi ? "checkbox" : "radio"}" name="a" value="${k}"><span class="k">${"ABCDEFGH"[k]}</span><span>${esc(c)}</span></label>`;
 const asArr = (a) => (Array.isArray(a) ? a : [a]);
+const ICON = {
+  quiz: '<path d="M9 9a3 3 0 1 1 4 2.8c-.6.3-1 .9-1 1.6V14"/><circle cx="12" cy="17.5" r=".6"/><circle cx="12" cy="12" r="9"/>',
+  missed: '<path d="M3 12a9 9 0 1 0 3-6.7"/><path d="M3 4v4h4"/><path d="M12 8v4l2.5 2"/>',
+  cards: '<rect x="3" y="6" width="14" height="14" rx="2"/><path d="M7 3h12a2 2 0 0 1 2 2v12"/>',
+  exam: '<circle cx="12" cy="13" r="8"/><path d="M12 9v4l2 2M10 2h4"/>',
+  progress: '<path d="M4 20V10M10 20V4M16 20v-7M22 20H2"/>',
+  speed: '<path d="M13 2 4 14h7l-1 8 9-12h-7z"/>',
+  match: '<rect x="3" y="3" width="7" height="7" rx="1.5"/><rect x="14" y="14" width="7" height="7" rx="1.5"/><path d="M14 6.5h3.5a2 2 0 0 1 2 2V11M10 17.5H6.5a2 2 0 0 1-2-2V13"/>',
+};
+const icon = (k) => `<span class="ic"><svg viewBox="0 0 24 24" aria-hidden="true">${ICON[k]}</svg></span>`;
+const empty = (title, msg, href, label = "Back") => `<div class="empty"><h2>${title}</h2><p>${msg}</p>${href ? `<a class="btn" href="${href}">${label}</a>` : ""}</div>`;
+const setSync = (text, s = "ok") => { $sync.textContent = text; $sync.dataset.s = s; };
 const shuffle = (a) => { a = [...a]; for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; };
 
 // ---------- progress state (localStorage cache + server sync) ----------
@@ -31,15 +43,15 @@ async function pull() {
 function push() {
   persist();
   clearTimeout(pushTimer);
-  $sync.textContent = "unsaved…";
+  setSync("Saving…", "pending");
   pushTimer = setTimeout(async () => {
     try {
       state = await api("/api/progress", { method: "PUT", headers: { "content-type": "application/json" }, body: JSON.stringify(state) });
       persist();
-      $sync.textContent = "saved";
+      setSync("Saved");
     } catch (e) {
       if (e.status === 401) return showLogin();
-      $sync.textContent = "sync failed — will retry on next answer";
+      setSync("Sync failed, will retry", "error");
     }
   }, 800);
 }
@@ -61,12 +73,13 @@ async function home() {
   const cardHTML = (c) => {
     const seen = Object.keys(state.questions).filter((k) => k.startsWith(`${c.id}-`)).length;
     const p = pct(seen, c.counts.questions);
-    return `<a class="card course" href="#/c/${c.id}"><div class="bar-top"></div><div class="body">
+    return `<a class="card course" href="#/c/${c.id}"><div class="bar-top"></div><span class="go" aria-hidden="true">→</span><div class="body">
       <span class="chip">${esc(c.code ?? c.id.toUpperCase())}</span><span class="t">${esc(c.title)}</span>
-      <div class="meta"><span>${c.counts.guides} guides</span><span>${c.counts.questions} questions</span>${c.counts.cards ? `<span>${c.counts.cards} cards</span>` : ""}</div>
-      <div><div class="bar ${tone(p)}"><i style="width:${p}%"></i></div><span class="muted">${p}% of questions attempted</span></div></div></a>`;
+      <div class="meta"><span><b>${c.counts.guides}</b> guides</span><span><b>${c.counts.questions}</b> questions</span>${c.counts.cards ? `<span><b>${c.counts.cards}</b> cards</span>` : ""}</div>
+      <div class="prog"><div class="bar ${tone(p)}"><i style="width:${p}%"></i></div><span class="muted"><span>Questions attempted</span><span>${p}%</span></span></div></div></a>`;
   };
-  $app.innerHTML = `<h1>Your courses</h1><div class="grid">${courses.map(cardHTML).join("") || "<p>No courses yet.</p>"}</div>`;
+  $app.innerHTML = `<div class="page-head"><div><span class="eyebrow">Dashboard</span><h1>Your courses</h1><p>Pick up where you left off. Progress syncs across your devices.</p></div></div>
+    ${courses.length ? `<div class="grid">${courses.map(cardHTML).join("")}</div>` : empty("No courses yet", "Ingest a course and rebuild the site to see it here.")}`;
 }
 
 function objStats(d) {
@@ -86,29 +99,29 @@ async function course(id) {
   const mine = d.questions.filter((q) => state.questions[q.id]);
   const n = mine.reduce((a, q) => a + state.questions[q.id].n, 0), c = mine.reduce((a, q) => a + state.questions[q.id].c, 0);
   const missed = mine.filter((q) => !state.questions[q.id].last).length;
-  const act = (href, title, sub, cls = "") => `<a class="act ${cls}" href="#/c/${id}/${href}"><b>${title}</b><small>${sub}</small></a>`;
+  const act = (href, ic, title, sub, cls = "") => `<a class="act ${cls}" href="#/c/${id}/${href}">${icon(ic)}<b>${title}</b><small>${sub}</small></a>`;
   const byObj = d.course.objectives.map((o) => ({ o, gs: d.guides.filter((g) => g.objectives.includes(o.id)) })).filter((x) => x.gs.length);
   $app.innerHTML = `<a class="crumb" href="#/">← All courses</a>
-    <section class="hero"><span class="chip">${esc(d.course.code ?? "")}</span><h1>${esc(d.course.title)}</h1>
+    <section class="hero"><div><span class="chip">${esc(d.course.code ?? "")}</span><h1>${esc(d.course.title)}</h1><p class="sub">${d.guides.length} guides · ${d.questions.length} questions${d.cards.length ? ` · ${d.cards.length} flashcards` : ""}</p></div>
       <div class="stats"><div><b>${n ? pct(c, n) + "%" : "n/a"}</b><span>accuracy</span></div><div><b>${mine.length}/${d.questions.length}</b><span>questions seen</span></div><div><b>${d.cards.length ? due : "n/a"}</b><span>cards due</span></div></div></section>
-    <h2>Study</h2><div class="actions">
-      ${act("quiz", "Practice quiz", "20 questions, unseen first")}
-      ${act("quiz/missed", "Missed questions", missed ? `${missed} to review` : "Nothing missed yet", missed ? "red" : "")}
-      ${d.cards.length ? act("cards", "Flashcards", `${due} due now`, "gold") : ""}
-      ${act("exam", "Mock exam", `${d.course.exam?.count ?? 50} questions, timed`, "green")}
-      ${act("progress", "Progress", "By objective")}
+    <div class="sec-title"><h2>Study</h2></div><div class="actions${d.cards.length ? " feature" : ""}">
+      ${act("quiz", "quiz", "Practice quiz", "20 questions, unseen first")}
+      ${act("quiz/missed", "missed", "Missed questions", missed ? `${missed} to review` : "Nothing missed yet", missed ? "red" : "")}
+      ${d.cards.length ? act("cards", "cards", "Flashcards", `${due} due now`, "gold") : ""}
+      ${act("exam", "exam", "Mock exam", `${d.course.exam?.count ?? 50} questions, timed`, "green")}
+      ${act("progress", "progress", "Progress", "Accuracy by objective")}
     </div>
-    <h2>Games</h2><div class="actions">
-      ${act("game/speed", "Speed round", "60 seconds, build a streak", "gold")}
-      ${d.cards.length >= 4 ? act("game/match", "Term match", "Pair terms and definitions", "gold") : ""}
+    <div class="sec-title"><h2>Games</h2></div><div class="actions">
+      ${act("game/speed", "speed", "Speed round", "60 seconds, build a streak", "gold")}
+      ${d.cards.length >= 4 ? act("game/match", "match", "Term match", "Pair terms and definitions", "gold") : ""}
     </div>
-    <h2>Study guides</h2>${byObj.map(({ o, gs }, k) => `<details class="sec"${byObj.length === 1 || k === 0 ? " open" : ""}><summary><span>${esc(o.title)}</span><span class="muted">${gs.length}</span></summary><div class="glist">${gs.map((g) => `<a href="#/c/${id}/guide/${g.id}">${esc(g.title)}</a>`).join("")}</div></details>`).join("") || "<p class='muted'>None yet.</p>"}`;
+    <div class="sec-title"><h2>Study guides</h2></div>${byObj.map(({ o, gs }, k) => `<details class="sec"${byObj.length === 1 || k === 0 ? " open" : ""}><summary><span>${esc(o.title)}</span><span class="muted">${gs.length}</span></summary><div class="glist">${gs.map((g) => `<a href="#/c/${id}/guide/${g.id}">${esc(g.title)}</a>`).join("")}</div></details>`).join("") || empty("No guides yet", "Study guides for this course haven't been added.")}`;
 }
 
 async function guide(id, gid) {
   const d = await loadCourse(id);
   const k = d.guides.findIndex((x) => x.id === gid), g = d.guides[k];
-  if (!g) { $app.innerHTML = "<p>Guide not found.</p>"; return; }
+  if (!g) { $app.innerHTML = empty("Guide not found", "This guide may have been moved or renamed.", `#/c/${id}`, "Back to course"); return; }
   const prev = d.guides[k - 1], next = d.guides[k + 1];
   $app.innerHTML = `<div class="guide-wrap"><a class="crumb" href="#/c/${id}">← ${esc(d.course.title)}</a><article class="guide">${g.html}</article>
     <nav class="guide-nav">${prev ? `<a class="btn secondary" href="#/c/${id}/guide/${prev.id}">← Previous</a>` : "<span></span>"}${next ? `<a class="btn" href="#/c/${id}/guide/${next.id}">Next →</a>` : `<a class="btn" href="#/c/${id}/quiz">Practice quiz</a>`}</nav></div>`;
@@ -152,15 +165,19 @@ async function quiz(id, mode, params) {
   if (mode === "missed") pool = pool.filter((q) => state.questions[q.id] && !state.questions[q.id].last);
   else pool = shuffle(pool).sort((a, b) => (state.questions[a.id]?.n ?? 0) - (state.questions[b.id]?.n ?? 0)); // unseen first
   pool = pool.slice(0, 20);
-  if (!pool.length) { $app.innerHTML = `<p>No questions available. <a href="#/c/${id}">Back</a></p>`; return; }
-  runQuiz(shuffle(pool), { onDone: (r) => { $app.innerHTML = `<h1>Done</h1><p>${r.filter((x) => x.correct).length} / ${r.length} correct.</p><a class="btn" href="#/c/${id}">Back</a>`; } });
+  if (!pool.length) { $app.innerHTML = mode === "missed" ? empty("Nothing to review", "You haven't missed any questions yet. Take a practice quiz to find weak spots.", `#/c/${id}/quiz`, "Start practice quiz") : empty("No questions available", "There are no questions for this selection.", `#/c/${id}`); return; }
+  runQuiz(shuffle(pool), { onDone: (r) => {
+    const c = r.filter((x) => x.correct).length, p = pct(c, r.length);
+    $app.innerHTML = `<div class="card result"><span class="eyebrow">${mode === "missed" ? "Review" : "Practice"} complete</span><div class="ring ${tone(p)}" style="--p:${p}"><b>${p}%</b></div><h1>${c} of ${r.length} correct</h1><p class="muted">${p >= 80 ? "Strong work. Keep the streak going." : p >= 60 ? "Getting there. Review the misses and try again." : "Worth another pass. Missed questions are saved for review."}</p>
+      <div class="row"><a class="btn" href="#/c/${id}/quiz">Another quiz</a><a class="btn secondary" href="#/c/${id}">Back to course</a></div></div>`;
+  } });
 }
 
 async function exam(id) {
   const d = await loadCourse(id);
   const cfg = { count: 50, minutes: 90, passPercent: 70, ...d.course.exam };
   const qs = shuffle(d.questions).slice(0, cfg.count);
-  if (!qs.length) { $app.innerHTML = "<p>No questions.</p>"; return; }
+  if (!qs.length) { $app.innerHTML = empty("No questions", "This course has no questions for a mock exam yet.", `#/c/${id}`); return; }
   const deadline = Date.now() + cfg.minutes * 60000;
   let finished = false;
   const finish = (results) => {
@@ -173,10 +190,12 @@ async function exam(id) {
     const byObj = {};
     for (const r of results) { const o = (byObj[r.q.objective] ??= { n: 0, c: 0 }); o.n++; o.c += r.correct; recordQ(r.q.id, r.correct); }
     state.exams.push({ course: id, t: Date.now(), score, total: qs.length, byObj }); push();
-    $app.innerHTML = `<h1>${pct >= cfg.passPercent ? "Pass" : "Not yet"} — ${pct}%</h1><p>${score} / ${qs.length}. Pass mark ${cfg.passPercent}%.</p>
-      <table><tr><th>Objective</th><th>Score</th></tr>${Object.entries(byObj).map(([o, v]) => `<tr><td>${esc(o)}</td><td>${v.c}/${v.n}</td></tr>`).join("")}</table>
-      <h2>Missed</h2>${results.filter((r) => !r.correct).map((r) => `<div class="card"><strong>${esc(r.q.q)}</strong><p class="muted">${esc(explain(r.q.explanation))}</p></div>`).join("") || "<p>None.</p>"}
-      <a class="btn" href="#/c/${id}">Back</a>`;
+    const pass = pct >= cfg.passPercent, names = Object.fromEntries(d.course.objectives.map((o) => [o.id, o.title]));
+    $app.innerHTML = `<div class="card result ${pass ? "pass" : "fail"}"><span class="eyebrow">Mock exam · ${pass ? "Pass" : "Not yet"}</span><div class="ring ${pass ? "ok" : tone(pct)}" style="--p:${pct}"><b>${pct}%</b></div><h1>${score} of ${qs.length} correct</h1><p class="muted">Pass mark ${cfg.passPercent}%.</p></div>
+      <div class="sec-title"><h2>By objective</h2></div>
+      <div class="card"><table><tr><th>Objective</th><th>Score</th></tr>${Object.entries(byObj).map(([o, v]) => { const p = Math.round((v.c / v.n) * 100); return `<tr><td><b>${esc(names[o] ?? o)}</b></td><td style="min-width:9rem"><div class="bar ${tone(p)}"><i style="width:${p}%"></i></div><span class="muted">${v.c}/${v.n} · ${p}%</span></td></tr>`; }).join("")}</table></div>
+      <div class="sec-title"><h2>Missed</h2></div>${results.filter((r) => !r.correct).map((r) => `<div class="card missed"><strong>${esc(r.q.q)}</strong><p class="muted">${esc(explain(r.q.explanation))}</p></div>`).join("") || "<p class='muted'>None. Perfect score.</p>"}
+      <div class="row" style="margin-top:2rem"><a class="btn" href="#/c/${id}">Back to course</a></div>`;
   };
   const results = [];
   const timer = setInterval(() => {
@@ -190,7 +209,7 @@ async function cards(id) {
   const queue = shuffle(d.cards.filter((c) => (state.cards[c.id]?.due ?? 0) <= Date.now()));
   let i = 0, flipped = false;
   const render = () => {
-    if (i >= queue.length) { $app.innerHTML = `<h1>${queue.length ? "Session complete" : "Nothing due"}</h1><a class="btn" href="#/c/${id}">Back</a>`; return; }
+    if (i >= queue.length) { $app.innerHTML = queue.length ? `<div class="card result"><span class="eyebrow">Flashcards</span><h1>Session complete</h1><p class="muted">You reviewed ${queue.length} card${queue.length === 1 ? "" : "s"}. They'll come back when they're due.</p><div class="row"><a class="btn" href="#/c/${id}">Back to course</a></div></div>` : empty("Nothing due", "All caught up. Cards return on a spaced schedule, so check back later.", `#/c/${id}`, "Back to course"); return; }
     const c = queue[i];
     const box = state.cards[c.id]?.box;
     $app.innerHTML = `<div class="qhead"><span>Card ${i + 1} of ${queue.length}</span><span>${box ? `Box ${box} of 5` : "New card"}</span></div><div class="bar"><i style="width:${pct(i + 1, queue.length)}%"></i></div><div class="card flash${flipped ? " back" : ""}" id="f">${esc(flipped ? c.back : c.front)}</div><p class="muted" style="text-align:center">${flipped ? "How did you do?" : "Tap the card to flip"}</p>
@@ -211,30 +230,30 @@ async function progress(id) {
   const rows = objStats(d).filter((o) => o.total).map((o) => { const p = o.acc === null ? null : Math.round(o.acc * 100);
     return `<tr><td><b>${esc(o.title)}</b><div class="muted">${o.seen}/${o.total} seen</div></td>
     <td style="min-width:8rem">${p === null ? '<span class="muted">not started</span>' : `<div class="bar ${tone(p)}"><i style="width:${p}%"></i></div><span class="muted">${p}%</span>`}</td>
-    <td><a href="#/c/${id}/quiz?obj=${encodeURIComponent(o.id)}">Drill</a></td></tr>`; }).join("");
-  $app.innerHTML = `<a class="crumb" href="#/c/${id}">← ${esc(d.course.title)}</a><h1>Progress</h1>
+    <td style="text-align:right"><a class="drill" href="#/c/${id}/quiz?obj=${encodeURIComponent(o.id)}">Drill</a></td></tr>`; }).join("");
+  $app.innerHTML = `<a class="crumb" href="#/c/${id}">← ${esc(d.course.title)}</a><div class="page-head"><div><span class="eyebrow">${esc(d.course.code ?? "")}</span><h1>Progress</h1><p>Accuracy by objective. Drill any area to focus on it.</p></div></div>
     <div class="card"><table><tr><th>Objective</th><th>Accuracy</th><th></th></tr>${rows}</table></div>
-    <h2>Mock exams</h2>${exams.map((e) => `<div class="card row" style="justify-content:space-between"><span>${new Date(e.t).toLocaleDateString()}</span><b>${e.score}/${e.total} (${pct(e.score, e.total)}%)</b></div>`).join("") || "<p class='muted'>None taken.</p>"}
-    ${games.length ? `<h2>Game records</h2>${games.map(([k, v]) => `<div class="card row" style="justify-content:space-between"><span>${k.endsWith("speed") ? "Speed round" : "Term match"}</span><b>${k.endsWith("speed") ? v.best + " pts" : v.best + "s"}</b></div>`).join("")}` : ""}`;
+    <div class="sec-title"><h2>Mock exams</h2></div>${exams.length ? `<div class="card" style="padding:0">${exams.map((e) => `<div class="list-row" style="border-bottom:1px solid var(--line)"><span>${new Date(e.t).toLocaleDateString(undefined, { dateStyle: "medium" })}</span><b>${e.score}/${e.total} · ${pct(e.score, e.total)}%</b></div>`).join("")}</div>` : empty("No mock exams yet", "Take a timed mock exam to see how you'd score.", `#/c/${id}/exam`, "Start mock exam")}
+    ${games.length ? `<div class="sec-title"><h2>Game records</h2></div><div class="card" style="padding:0">${games.map(([k, v]) => `<div class="list-row"><span>${k.endsWith("speed") ? "Speed round" : "Term match"}</span><b>${k.endsWith("speed") ? v.best + " pts" : v.best + "s"}</b></div>`).join("")}</div>` : ""}`;
 }
 
 // ---------- games ----------
 async function speed(id) {
   const d = await loadCourse(id);
-  if (!d.questions.length) { $app.innerHTML = "<p>No questions.</p>"; return; }
+  if (!d.questions.length) { $app.innerHTML = empty("No questions", "This course has no questions for the speed round.", `#/c/${id}`); return; }
   const LIMIT = 60;
   const pool = shuffle(d.questions);
   let i = 0, score = 0, streak = 0, best = 0, end = Date.now() + LIMIT * 1000, timer;
   const finish = () => {
     clearInterval(timer);
     const record = recordGame(`${id}:speed`, score, (a, b) => a > b);
-    $app.innerHTML = `<h1>Time</h1><p class="stat">${score}</p><p>Best streak ${best}. ${record ? "New personal best." : `Personal best ${state.games[`${id}:speed`].best}.`}</p>
-      <div class="row"><button id="again">Play again</button><a class="btn secondary" href="#/c/${id}">Back</a></div>`;
+    $app.innerHTML = `<div class="card result"><span class="eyebrow">Speed round · Time</span><p class="stat">${score}</p><p class="muted">points · best streak ${best}</p><p><b>${record ? "New personal best." : `Personal best ${state.games[`${id}:speed`].best}.`}</b></p>
+      <div class="row"><button id="again">Play again</button><a class="btn secondary" href="#/c/${id}">Back to course</a></div></div>`;
     document.getElementById("again").onclick = () => speed(id);
   };
   const render = () => {
     const q = pool[i % pool.length], multi = asArr(q.answer).length > 1, sel = new Set();
-    $app.innerHTML = `<div class="row"><span class="timer" id="t"></span><span class="muted">Score ${score} · Streak ${streak}</span></div>
+    $app.innerHTML = `<div class="hud"><span class="timer" id="t"></span><span class="muted">Score ${score} · Streak ${streak}</span></div>
       <div class="card qcard"><p class="stem">${esc(q.q)}</p>${multi ? '<p class="muted">Select all that apply.</p>' : ""}
       ${q.choices.map((c, k) => choiceHTML(c, k, multi)).join("")}
       <div id="fb"></div><button id="go">${multi ? "Lock in" : "Answer"}</button></div>`;
@@ -266,12 +285,12 @@ async function match(id) {
   const d = await loadCourse(id);
   const short = (t) => { const first = t.split(/(?<=[.!?])\s/)[0]; return first.length > 150 ? first.slice(0, 147) + "…" : first; };
   const cards = d.cards.filter((c) => c.back.length > 20);
-  if (cards.length < 4) { $app.innerHTML = "<p>Not enough flashcards for this game.</p>"; return; }
+  if (cards.length < 4) { $app.innerHTML = empty("Not enough flashcards", "Term match needs at least four flashcards with definitions.", `#/c/${id}`); return; }
   const ROUND = Math.min(6, cards.length);
   const set = shuffle(cards).slice(0, ROUND);
   const start = Date.now(); let left = ROUND, misses = 0, pickT = null, pickD = null, timer;
   const defs = shuffle(set);
-  $app.innerHTML = `<div class="row"><span class="timer" id="t">0.0s</span><span class="muted" id="m">Misses 0</span></div><p class="muted">Pick a term, then its definition.</p>
+  $app.innerHTML = `<div class="hud"><span class="timer" id="t">0.0s</span><span class="muted" id="m">Misses 0</span></div><p class="muted">Pick a term, then its definition.</p>
     <div class="cols"><div>${set.map((c) => `<button class="tile" data-t="${c.id}">${esc(c.front)}</button>`).join("<br>")}</div>
     <div>${defs.map((c) => `<button class="tile" data-d="${c.id}">${esc(short(c.back))}</button>`).join("<br>")}</div></div>`;
   timer = setInterval(() => { document.getElementById("t").textContent = `${((Date.now() - start) / 1000).toFixed(1)}s`; }, 100);
@@ -285,8 +304,8 @@ async function match(id) {
         clearInterval(timer);
         const secs = Math.round(((Date.now() - start) / 1000 + misses * 5) * 10) / 10;
         const record = recordGame(`${id}:match`, secs, (a, b) => a < b);
-        $app.innerHTML = `<h1>Done</h1><p class="stat">${secs}s</p><p>Time plus 5s per miss (${misses}). ${record ? "New personal best." : `Personal best ${state.games[`${id}:match`].best}s.`}</p>
-          <div class="row"><button id="again">Play again</button><a class="btn secondary" href="#/c/${id}">Back</a></div>`;
+        $app.innerHTML = `<div class="card result"><span class="eyebrow">Term match · Done</span><p class="stat">${secs}s</p><p class="muted">Time plus 5s per miss (${misses})</p><p><b>${record ? "New personal best." : `Personal best ${state.games[`${id}:match`].best}s.`}</b></p>
+          <div class="row"><button id="again">Play again</button><a class="btn secondary" href="#/c/${id}">Back to course</a></div></div>`;
         document.getElementById("again").onclick = () => match(id);
       }
     } else {
@@ -307,7 +326,8 @@ async function match(id) {
 // ---------- auth + router ----------
 function showLogin(msg = "") {
   $logout.hidden = true;
-  $app.innerHTML = `<form class="card login" id="lf"><h1>WGU Study</h1><p class="muted">${esc(msg) || "Enter your password to continue."}</p><p><input type="password" id="pw" placeholder="Password" autocomplete="current-password" autofocus></p><button style="width:100%">Log in</button></form>`;
+  $sync.textContent = "";
+  $app.innerHTML = `<div class="login-wrap"><form class="card login" id="lf"><span class="eyebrow">Private study space</span><h1>WGU <em>Study</em></h1><p class="muted${msg ? " err" : ""}" role="${msg ? "alert" : ""}">${esc(msg) || "Enter your password to continue."}</p><label for="pw">Password</label><input type="password" id="pw" autocomplete="current-password" autofocus required><button>Log in</button><p class="fine">Guides, quizzes, flashcards and progress tracking.</p></form></div>`;
   document.getElementById("lf").onsubmit = async (e) => {
     e.preventDefault();
     try { await api("/api/auth", { method: "POST", headers: { "content-type": "application/json" }, body: JSON.stringify({ password: document.getElementById("pw").value }) }); await start(); }
@@ -319,6 +339,7 @@ $logout.onclick = async () => { await fetch("/api/auth", { method: "DELETE" }); 
 async function route() {
   const [path, qs] = (location.hash.slice(1) || "/").split("?");
   const p = path.split("/").filter(Boolean), params = new URLSearchParams(qs);
+  if (!$app.querySelector(".skel")) $app.innerHTML = '<div class="skel"><i></i><i></i><i></i></div>';
   try {
     if (!p.length) return await home();
     if (p[0] === "c") {
@@ -332,12 +353,12 @@ async function route() {
       if (view === "game" && arg === "speed") return await speed(id);
       if (view === "game" && arg === "match") return await match(id);
     }
-    $app.innerHTML = "<p>Not found.</p>";
-  } catch (e) { $app.innerHTML = `<p>Error: ${esc(e.message)}</p>`; }
+    $app.innerHTML = empty("Page not found", "That link doesn't match anything here.", "#/", "Go to dashboard");
+  } catch (e) { if (e.status === 401) return showLogin(); $app.innerHTML = `<div class="empty err"><h2>Something went wrong</h2><p>${esc(e.message)}</p><a class="btn" href="#/">Go to dashboard</a></div>`; }
 }
 
 async function start() {
-  try { await pull(); $sync.textContent = "synced"; } catch (e) { if (e.status === 401) return showLogin(); $sync.textContent = "offline — using local cache"; }
+  try { await pull(); setSync("Synced"); } catch (e) { if (e.status === 401) return showLogin(); setSync("Offline, using local copy", "error"); }
   $logout.hidden = false;
   route();
 }
