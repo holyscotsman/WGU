@@ -10,11 +10,9 @@ kind: intro
 
 Consider the following learning objectives as you move through the lesson:
 
-Describe the different types of estimation techniques.
-
-Explain how to construct a project budget.
-
-Prepare a calendarized project budget.
+- Describe the different types of estimation techniques.
+- Explain how to construct a project budget.
+- Prepare a calendarized project budget.
 
 ## A calculator, a pen, and papers showing a spreadsheet and graphs
 

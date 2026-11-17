@@ -16,13 +16,26 @@ Correct answers come only from the courseware: the ingester reads which choice w
 
 ```
 python3 scripts/ingest/autoconfig.py <courseware_dir> content/courses/<id> <CODE> "<Title>"   # sections/lessons layout
-python3 scripts/ingest/ingest_course.py <courseware_dir> content/courses/<id>
-npm run validate && npm run build
+python3 scripts/ingest/ingest_course.py <courseware_dir> content/courses/<id>                  # PDFs -> guides, questions, cards
+python3 scripts/ingest/postprocess.py content/courses/<id>                                     # clean, de-dupe, lessons, card scrub
+npm run validate && npm run build && npm test
 ```
 
-Needs `poppler-utils` (`pdftotext`, `pdftoppm`) and Python with Pillow and numpy. `ingest.json` in each course folder lists the files; edit it to reorder or remap objectives. Replace the generated section objectives in `course.json` with official competency statements.
+Needs `poppler-utils` (`pdftotext`, `pdftoppm`) and Python with Pillow and numpy (plus `openpyxl` for study-guide workbooks).
 
-Not supported yet: pre-assessment exams and the module-quiz layout used by D075 (inline "Correct!" labels).
+Per-course files in `content/courses/<id>/`:
+
+| File | Purpose |
+|---|---|
+| `course.json` | id, code, title, objectives (one per section), `lessonGuides: true` to build one guide per lesson |
+| `lessons.json` | lesson ids (`s5-l2`) and titles; `-l0` is the section overview |
+| `ingest.json` | which courseware files to read; `questionOverrides` for hand-checked repairs where a page footer hides part of a question |
+| `explanations.json` | hand-written explanations (marked `explanationSource: "added"`) where the courseware's is missing, thin or wrong |
+| `preassessment/attemptN.json` | a pre-assessment attempt: questions with a `pa` block plus topic `clusters`; `attemptN.extra.json` holds the miss patterns |
+
+Quiz answers come only from the selected, graded answer in the courseware printouts. Where a footer overlay hides a radio button, the answer is taken from the courseware's own explanation and the question carries `answerBasis: "explanation"`.
+
+Not supported yet: the module-quiz layout used by D075 (inline "Correct!" labels).
 
 ## Run locally (free, no Netlify credits)
 
@@ -44,3 +57,11 @@ Local: `npm install && npx netlify dev`.
 
 - Do not make this repository public: it contains WGU courseware text.
 - Device conflicts resolve per question, card and game record by latest write.
+
+## Deploys and credits
+
+Netlify builds every push to the connected branch. Add `[skip ci]` to a commit message to push without triggering a build, and use **Trigger deploy** in Netlify when you want a version live. `netlify.toml` also skips builds when a push only touches docs or the launcher.
+
+## Tests
+
+`npm test` runs unit tests for the study logic (readiness, next up, practice and exam selection, pre-assessment mastery), the lesson guide builder and the server-side progress merge.

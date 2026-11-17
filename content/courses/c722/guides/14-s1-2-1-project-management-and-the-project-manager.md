@@ -39,7 +39,7 @@ Each domain provides a set of activities and functions that are adaptable to an 
 
 ## Uncertainty
 
-The principles of project management guide the content and actions in the project performance domains. The previous lesson defined a principle as a fundamental norm, truth, or value. The project management principles guide the behavior of people involved in projects as they influence and shape the 2020 performance domains to produce the intended outcomes. (PMBOK 7, 2021)
+The principles of project management guide the content and actions in the project performance domains. The previous lesson defined a principle as a fundamental norm, truth, or value. The project management principles guide the behavior of people involved in projects as they influence and shape the performance domains to produce the intended outcomes. (PMBOK 7, 2021)
 
 ## Project Manager’s Skills
 

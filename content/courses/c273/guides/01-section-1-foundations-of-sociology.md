@@ -560,8 +560,6 @@ Correct: The sociological perspective explains how personal troubles are influen
 
 ## Correct (1/1 point)
 
-2020
-
 ## Question 2
 
 1.0/1.0 point (ungraded)
@@ -658,9 +656,8 @@ In this lesson, you will explore three major sociological perspectives and their
 
 Consider the following learning objectives as you move through the lesson:
 
-Identify the functionalist, conflict, and symbolic interactionist perspectives.
-
-Define applied sociology and real-life applications of sociology.
+- Identify the functionalist, conflict, and symbolic interactionist perspectives.
+- Define applied sociology and real-life applications of sociology.
 
 ## Initial Reflection
 
@@ -1508,7 +1505,7 @@ Explanatory research focuses on why something happens. It looks at relationships
 
 Why does this happen?
 
-2020 What factors influence this outcome?
+What factors influence this outcome?
 
 Key takeaway: Descriptive research explains what is happening. Explanatory research explains why it is happening.
 

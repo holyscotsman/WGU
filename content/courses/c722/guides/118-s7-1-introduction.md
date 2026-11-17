@@ -10,7 +10,7 @@ kind: intro
 
 Consider the following learning objectives as you move through the lesson:
 
-Describe the characteristics of an effective project team.
+- Describe the characteristics of an effective project team.
 
 ## Overview
 

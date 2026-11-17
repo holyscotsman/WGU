@@ -16,10 +16,8 @@ The budget needs to include activity level costs (direct costs and project overh
 
 Contingency reserves should be presented to the customer rather than allowing padded estimates to be included. The contingency reserve is included to cover potential cost changes that are identified during the planning process. The management reserve is included in the budget to cover unforeseen cost changes.
 
-Regardless of the methods used to estimate the project costs, the budget will be the project team’s commitment to the customer regarding the cost to complete the project work. The approved budget will be frozen as a snapshot called the budget baseline, which will be used in the cost management process to compare with actual costs throughout the life of the project. Any changes 2020 to the approved project budget must be approved.
+Regardless of the methods used to estimate the project costs, the budget will be the project team’s commitment to the customer regarding the cost to complete the project work. The approved budget will be frozen as a snapshot called the budget baseline, which will be used in the cost management process to compare with actual costs throughout the life of the project. Any changes to the approved project budget must be approved.
 
 The level of detail required in the budget depends on the complexity of the project and the level of monitoring needed to keep the project under control. A simple budget provides overall costs and some level of cost breakdown between project expense areas. A calendarized project budget is a detailed budget that identifies the work activity generating the cost and when the cost will be incurred.
 
 Developing accurate cost estimates that support the creation of the overall project budget is a critical and difficult project function. The budget represents the cost element of the triple constraints (time, cost, and scope).
-
-2020

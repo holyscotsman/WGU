@@ -10,9 +10,8 @@ kind: intro
 
 Consider the following learning objectives as you move through the lesson:
 
-Define the project term triple constraint.
-
-Describe how triple constraint impacts project quality.
+- Define the project term triple constraint.
+- Describe how triple constraint impacts project quality.
 
 ## Constraints
 

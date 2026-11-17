@@ -33,7 +33,7 @@ Implicit bias refers to unconscious attitudes or stereotypes about groups of peo
 
 ## Key Characteristics Implicit Bias
 
-The 2020 following points summarize key characteristics of implicit bias and help you identify how it operates and why it matters:
+The following points summarize key characteristics of implicit bias and help you identify how it operates and why it matters:
 
 Everyone has implicit biases, including individuals who aim to be fair and impartial.
 

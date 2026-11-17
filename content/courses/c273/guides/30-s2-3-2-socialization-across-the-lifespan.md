@@ -27,7 +27,7 @@ Childhood Birth to early teens depend on caregivers
 
 attend school
 
-learn rules, norms, and 2020 basic skills
+learn rules, norms, and basic skills
 
 limited responsibility and decision-making
 

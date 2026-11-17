@@ -10,11 +10,9 @@ Learning objectives:
 
 Consider the following learning objectives as you move through the lesson:
 
-Describe the purpose of project planning.
-
-Describe how the scope of a project is developed.
-
-Describe common tools used to assign project team roles.
+- Describe the purpose of project planning.
+- Describe how the scope of a project is developed.
+- Describe common tools used to assign project team roles.
 
 "Great things do not simply happen. They must be brought to pass through effort. They must also achieve their initial existence in the minds of visionaries before they achieve physical reality.
 

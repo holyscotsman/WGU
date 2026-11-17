@@ -15,7 +15,7 @@ Describe the steps in performing a lessons learned review, as part of project cl
 
 Sometimes called an after-action review (AAR)—especially by the military, first responders, and other uniformed services—the lessons learned review teaches current or future project managers, project teams, and others what can work well and what may not work well. This can help avoid unnecessary expenditure of resources on future projects.
 
-First Lt. Elijah Carroll (right), helps Soldiers with the Lebanese Armed Forces 7th Ranger Brigade do their 2020 first after action review following the training they had just conducted. " After action report with the LAF " by Georgia National Guard is licensed under CC BY 2.0 While every project can, and should, be an opportunity for the project team members to improve their skills and broaden their knowledge base, there are subsets of information that can be obtained:
+First Lt. Elijah Carroll (right), helps Soldiers with the Lebanese Armed Forces 7th Ranger Brigade do their first after action review following the training they had just conducted. " After action report with the LAF " by Georgia National Guard is licensed under CC BY 2.0 While every project can, and should, be an opportunity for the project team members to improve their skills and broaden their knowledge base, there are subsets of information that can be obtained:
 
 What did we do right?
 
@@ -35,7 +35,7 @@ Documenting all of this creates a database of information and experience that wi
 
 What Could We Do Better?
 
-Just because you did things right does not mean that there is no room for improvement. How this is approached is very important. An approach of negativity or "we messed up, and it has to stop" is demotivating. People will view this as criticism. No one likes to be criticized. People need to 2020 learn from experience, and setting a positive climate for accepting the reality of mistakes will eventually build a stronger organization.
+Just because you did things right does not mean that there is no room for improvement. How this is approached is very important. An approach of negativity or "we messed up, and it has to stop" is demotivating. People will view this as criticism. No one likes to be criticized. People need to learn from experience, and setting a positive climate for accepting the reality of mistakes will eventually build a stronger organization.
 
 An approach of "we did a good job, and let’s see what we learned to do even better in the future" works much better. It acknowledges that everyone put in an effort and that everyone learned. It gives the opportunity for the "grunt on the ground" to offer suggestions. It engages the team members. Engaging people in decisions is one of the best ways to motivate and educate them.
 
@@ -59,10 +59,10 @@ These are expressed in real issues that occur on the project. It would be a wond
 
 How Can We Prevent What Went Wrong from Going Wrong Next Time?
 
-The best way to prevent the same error from occurring in the next project is to increase skills, knowledge, and experience by documenting the results of the lessons learned review. Take the time to document what happened, and be sure to share these with all levels of the organization. 2020 Encourage success through innovating from what you did right and setting in place ways to avoid making the same mistakes.
+The best way to prevent the same error from occurring in the next project is to increase skills, knowledge, and experience by documenting the results of the lessons learned review. Take the time to document what happened, and be sure to share these with all levels of the organization.
+
+Encourage success through innovating from what you did right and setting in place ways to avoid making the same mistakes.
 
 ## Reference
 
 "After action report with the LAF" by Georgia National Guard is licensed under CC BY 2.0
-
-2020

@@ -33,7 +33,7 @@ elapsed or calendar time for when the work can be done and what date it must be 
 
 sequencing the activities, including the following:
 
-predecessors, which are related tasks that must be completed before this activity, task, or work is started 2020 concurrent or parallel activities that can be done at the same time
+predecessors, which are related tasks that must be completed before this activity, task, or work is started concurrent or parallel activities that can be done at the same time
 
 successor activities, or what can be done only after this work is complete
 
@@ -47,11 +47,13 @@ Using the restaurant example, you will look at the activities for creating or se
 
 With the unique node label or identifier, begin to determine the sequence of activities to be done. The work breakdown sets the front of the restaurant as an activity in your first project (which is to create your first restaurant).
 
-2020 Activity on node or label nodes is a method for uniquely representing each item in a precedence diagram. Every activity receives a node label as its unique identifier. The project is setting up a new restaurant. The first activity is setting the front of the restaurant. A series of tasks are there associated with the project.
+Activity on node or label nodes is a method for uniquely representing each item in a precedence diagram. Every activity receives a node label as its unique identifier. The project is setting up a new restaurant. The first activity is setting the front of the restaurant. A series of tasks are there associated with the project.
 
 Once you have identified the WBS activities, continue to define these activities and identify tasks within those activities. This is a decomposition of the activities and the WBS so you can easily assign and track logical tasks. You take your activity of "front of the house" and break it into tasks that include dining room design and setup. The following table shows how the team broke the activity of dining room design and setup into the tasks of design, approval, and purchase of furnishings, paint, and floors. Before you can buy anything, you need to do a design and have it approved. Your first task is 3.1, or design. This is done before you do anything else, so it is a predecessor to all other tasks. As you follow this logic, you need to buy materials before you can do work. This visualization is a logical flow of work and shows task predecessors and successors. If a task is needed immediately before, you can stress that by calling it an immediate predecessor for clarification.
 
-Front of House 3.0 2020 Activites, Tasks, and Sequencing
+## Front of House 3.0
+
+## Activites, Tasks, and Sequencing
 
 ## Activity Tasks Nodes/Sequence Resource Days Start End Immediate
 
@@ -69,7 +71,9 @@ Purchase 3.6 Manager 2 16-Aug 17-Aug 3.2 flooring Lay floor 3.7 Flooring 5 18-Au
 
 ## Serial Activities
 
-Serial activities are done in a single stream of tasks. If you look at the previous chart, you recognize that you must do the design, get approval, and then purchase materials before you can do the work. These are serial activities and flow one after the other. You have decided to paint before installing flooring so that the painter and flooring person do not get in each other’s way and you do not get paint on the new floor. These are serial activities, so the nodes follow each other. 2020 Task Node Label
+Serial activities are done in a single stream of tasks. If you look at the previous chart, you recognize that you must do the design, get approval, and then purchase materials before you can do the work. These are serial activities and flow one after the other. You have decided to paint before installing flooring so that the painter and flooring person do not get in each other’s way and you do not get paint on the new floor. These are serial activities, so the nodes follow each other.
+
+## Task Node Label
 
 ## Design 3.1
 
@@ -95,9 +99,7 @@ order entry
 
 dining room design and setup
 
-bar
-
-2020 Each of these sets of activities can be done at the same time, because they involve different resources. You choose to have a hiring manager function for the team who will do all the recruiting and hiring of the staff for the dining room, kitchen, bar, and administration. This frees up the line managers to get the restaurant ready by participating in activities like setting up the bar or the dining room or dealing with the software vendor for the order entry system, where their expertise is critical.
+bar Each of these sets of activities can be done at the same time, because they involve different resources. You choose to have a hiring manager function for the team who will do all the recruiting and hiring of the staff for the dining room, kitchen, bar, and administration. This frees up the line managers to get the restaurant ready by participating in activities like setting up the bar or the dining room or dealing with the software vendor for the order entry system, where their expertise is critical.
 
 If the team has limited human resources, these activities cannot be done concurrently and must be done serially.
 
@@ -117,6 +119,4 @@ physical dependencies where primer must be applied before the final paint or whe
 
 A project schedule network diagram is a graphical representation of the logical relationships or dependencies the team has recognized during the planning phase. You can produce this diagram from the spreadsheet you build using routine software tools or project management software. The picture is easy to produce with the correct tools. The harder job is identifying the tasks and making correct assumptions about what activities and tasks must be done, by when, by whom, and with what relationship to each other and to the given milestones. Resource availability and skill set and level will need to be taken into consideration.
 
-2020 The network diagram can be created at a detail or summary level. Its primary function is to provide everyone involved on the project with a clear representation of the schedule and the critical path(s) so the assumptions made during the planning process can be validated. It is not unusual for the chart to be published with a detailed list of assumptions and analysis.
-
-2020
+The network diagram can be created at a detail or summary level. Its primary function is to provide everyone involved on the project with a clear representation of the schedule and the critical path(s) so the assumptions made during the planning process can be validated. It is not unusual for the chart to be published with a detailed list of assumptions and analysis.

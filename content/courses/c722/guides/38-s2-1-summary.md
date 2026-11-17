@@ -13,5 +13,3 @@ This lesson explored the project life cycle by breaking it down into four groups
 You were introduced to the concept of the iterative nature of projects within the executing phase of the project life cycle. You saw how work must be monitored and controlled, which may identify situations where replanning must occur. Once the plan is updated, the team can return to executing. These iterations of executing and then refining the plan when problems occur help ensure that the project outcomes meet the customer’s expectations.
 
 Finally, you learned the critical role of lessons learned. The lessons learned are gathered and documented during the closing phase of the project life cycle. Lessons learned are then shared with the project organization to aid in the development and success of future projects.
-
-2020 2020

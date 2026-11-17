@@ -12,6 +12,11 @@ test("learning objectives are read from bullets under their heading only", () =>
   assert.deepEqual(learningObjectives(md), ["Describe A.", "Describe B."]);
 });
 
+test("learning objectives also work without bullets or with a singular heading", () => {
+  assert.deepEqual(learningObjectives("# T\n\n## Learning Objectives\n\nDescribe A.\n\nExplain B.\n\n## Next\n"), ["Describe A.", "Explain B."]);
+  assert.deepEqual(learningObjectives("# T\n\n## Learning Objective\n\nConsider the following learning objectives as you move through the lesson:\n\n- Describe C.\n"), ["Describe C."]);
+});
+
 test("key ideas come from the summary text, capped", () => {
   const md = "# S\n\n## Summary\n\n" + Array.from({ length: 12 }, (_, i) => `This is a complete summary sentence number ${i + 1} about projects.`).join(" ");
   assert.equal(keyIdeas(md).length, 8);

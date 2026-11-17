@@ -21,16 +21,18 @@ export function pageTitle(meta) {
 const sentences = (text) =>
   text.replace(/[#*_`>]|\s+/g, " ").split(/(?<=[.!?])\s+(?=[A-Z"“])/).map((s) => s.trim()).filter((s) => s.length >= 30 && s.length <= 260);
 
-/** Bullets under the "Learning Objectives" heading of an intro page. */
+/** Objectives under the "Learning Objectives" heading of an intro page (bullets, or plain sentences when there are none). */
 export function learningObjectives(md) {
-  const out = [];
+  const bullets = [], plain = [];
   let inside = false;
   for (const line of md.split("\n")) {
-    if (/^#{2,3}\s+learning objectives:?\s*$/i.test(line)) { inside = true; continue; }
+    if (/^#{2,3}\s+learning objectives?:?\s*$/i.test(line)) { inside = true; continue; }
     if (inside && /^#{1,6}\s/.test(line)) break;
-    if (inside && line.startsWith("- ")) out.push(line.slice(2).trim());
+    if (!inside) continue;
+    if (line.startsWith("- ")) bullets.push(line.slice(2).trim());
+    else if (line.trim().endsWith(".") && line.length <= 260 && !/learning objectives/i.test(line)) plain.push(line.trim());
   }
-  return out;
+  return bullets.length ? bullets : plain;
 }
 
 /** Short bullets from the courseware's own lesson summary page. */

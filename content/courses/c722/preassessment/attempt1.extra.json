@@ -1,0 +1,21 @@
+{
+ "patterns": [
+  {
+   "title": "Look-alike terms",
+   "text": "Check sheet vs checklist, payback vs time value of money, mitigate vs avoid. Define both terms before picking."
+  },
+  {
+   "title": "Ignoring the scenario's giveaway line",
+   "text": "'Selected without evaluation' means sacred cow. 'Willing to eliminate an interface' means scope reduction. 'Rewards and recognition' means reinforce. The answer is usually written into the scenario."
+  },
+  {
+   "title": "Picking an option that isn't in the category",
+   "text": "'Upgrading the change', 'Incentives' as a constraint, 'Risk process group'. Eliminate anything that isn't on the official list first."
+  },
+  {
+   "title": "Partial paths and wrong order",
+   "text": "Critical path must be a complete path. The schedule starts at the first WBS activity, and the schedule follows the bottom-up estimates."
+  }
+ ],
+ "note": "From C722 - Pre-Assessment 1 Fix-It Guide ('Patterns across your misses')"
+}

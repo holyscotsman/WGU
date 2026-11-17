@@ -10,11 +10,9 @@ kind: intro
 
 Consider the following learning objectives as you move through the lesson:
 
-Describe how managers monitor against project baselines.
-
-Describe project change management processes.
-
-Describe the principles of quality management.
+- Describe how managers monitor against project baselines.
+- Describe project change management processes.
+- Describe the principles of quality management.
 
 ## Overview
 

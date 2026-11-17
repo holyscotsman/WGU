@@ -21,7 +21,7 @@ Regardless of whether a computer-based or a manual system is used, a process mus
 
 The change management system is in place to formally identify, evaluate, decide, and communicate project changes.
 
-2020 Change management is a key operation for the project manager. The change management process, including four boxes in a horizontal row, is shown. There are arrows pointing from the first box to the second, the second box to the third, and the third box to the fourth. The first box says identify change. The second box says evaluate change. The third box says the decision. The fourth box says communicate change. Identifying change means having processes in place to document changes as soon as they are identified. Evaluating change means ensuring that the appropriate stakeholders provide input to identify the costs and benefits of the change. When sufficient information is gathered, project leadership and the customer must decide if the proposed change will be implemented. Communicating change involves notifying the project team of the change, updating the project plans to incorporate the change, and implementing the change. If the proposed change is not approved, then it still needs to be documented and communicated so that the team is aware of its status.
+Change management is a key operation for the project manager. The change management process, including four boxes in a horizontal row, is shown. There are arrows pointing from the first box to the second, the second box to the third, and the third box to the fourth. The first box says identify change. The second box says evaluate change. The third box says the decision. The fourth box says communicate change. Identifying change means having processes in place to document changes as soon as they are identified. Evaluating change means ensuring that the appropriate stakeholders provide input to identify the costs and benefits of the change. When sufficient information is gathered, project leadership and the customer must decide if the proposed change will be implemented. Communicating change involves notifying the project team of the change, updating the project plans to incorporate the change, and implementing the change. If the proposed change is not approved, then it still needs to be documented and communicated so that the team is aware of its status.
 
 Once the change has been evaluated and a decision has been made, the plans need to be revised to incorporate the change. The work breakdown structure (WBS), budgets, and schedules all can be impacted, and resources must be committed to complete the change. The project manager must now manage the delivery of the change as part of the project and report on completion along with the rest of the project’s work. The ultimate project performance measurements will include the change.
 
@@ -29,7 +29,7 @@ Once the change has been evaluated and a decision has been made, the plans need 
 
 The change control process is a generic outline that can be used at any level throughout the organization. Still, other project elements must be considered for it to work effectively.
 
-2020 Integrative change control integrates the change control process within the project to utilize established elements within the project plan, such as the original scope statement, established baseline, identified risks, and predetermined contingency plans.
+Integrative change control integrates the change control process within the project to utilize established elements within the project plan, such as the original scope statement, established baseline, identified risks, and predetermined contingency plans.
 
 The project scope is always at the heart of any project, especially when it comes to implementing changes. However, the supporting acts of project management and change management seal the deal for success. In project management, the scope, which represents the functional content of the change, needs to be integrated with change management.
 
@@ -37,7 +37,7 @@ By designing a change control process and integrating it within the project, the
 
 This depicts an integrated change management chart that shows the linkage of project management phases, the scope of the change and the integrative change management phases. The first row in blue depicts PMBOK’s five project processes Initiating, Planning, Executing, Monitoring and Controlling, and Closing. The second line depicts the Scope of the Change, first the Pre- Project Documents, on to Communication, and Change Management Plan, Next implement and Monitor, and finally, Measure. The orange third row depicts the four integrated Change Management phases, Initiating, Planning, Manage Change and finally Reinforce and Sustain.
 
-2020 Structured Change Management Phases
+## Structured Change Management Phases
 
 A structured change management approach, consisting of four essential phases—prepare for the change, plan, manage, and reinforce and sustain the change—is very important in supporting scope change. This approach, linked with the PMBOK process groups, is key to the success of change within projects.
 
@@ -61,7 +61,9 @@ The final component of the change process is a thorough evaluation of the sustai
 
 ## Reporting and Recording
 
-Project plan reporting and recording are designed and established at the start of the project. It is critical that, when identifying stakeholders, you include the reporting and meetings to be provided for each stakeholder category. Often, organizations have standard practices for reporting and meetings that the project should follow. Fewer is better, but it is critical to document and communicate regularly. 2020 Recording is the process of documenting and archiving project-related information. Project reports can be archived to a website or other repository so that they can be accessed as needed. It is appropriate to have project information available to stakeholders throughout the life of the project and, where appropriate, use the reports to support the lessons learned that will be shared with the project-sponsoring organization.
+Project plan reporting and recording are designed and established at the start of the project. It is critical that, when identifying stakeholders, you include the reporting and meetings to be provided for each stakeholder category. Often, organizations have standard practices for reporting and meetings that the project should follow. Fewer is better, but it is critical to document and communicate regularly.
+
+Recording is the process of documenting and archiving project-related information. Project reports can be archived to a website or other repository so that they can be accessed as needed. It is appropriate to have project information available to stakeholders throughout the life of the project and, where appropriate, use the reports to support the lessons learned that will be shared with the project-sponsoring organization.
 
 Reporting is a key nonverbal communications methodology used to inform and to document project information. The project manager and team should budget time for this as part of their project schedule and be sure to recognize it as a key activity of the project.
 
@@ -75,7 +77,7 @@ Follow standards for formatting.
 
 Cover updates on the triple constraints when appropriate: time, budget, and scope.
 
-Use 2020 language that fits the audience.
+Use language that fits the audience.
 
 Avoid unnecessary detail.
 
@@ -115,7 +117,7 @@ change management reporting showing changes identified, requiring approval, and 
 
 As required, meetings are used to cover key accomplishments, discuss design and implementation, and ensure the right people are involved at the correct time.
 
-2020 Controlling
+## Controlling
 
 During project execution, the project manager and team must control the use of all resources, including time, money, and other goods and services. They must use these resources according to company policy and the project plan's commitments. There is a need to balance detail with action and information.
 
@@ -125,8 +127,8 @@ Project controls are the data gathering, management, and analytical processes us
 
 ## For review: Mosaic White Paper, Project Controls—A Definition
 
-2020 In a circle, the words "project control" is in the center. Around it are the following words: quality, time, cost, and scope. One set of tools used to measure schedule (time) and money (cost) is the EVA process, or earned value analysis. This will be fully described in another lesson.
+In a circle, the words "project control" is in the center. Around it are the following words: quality, time, cost, and scope. One set of tools used to measure schedule (time) and money (cost) is the EVA process, or earned value analysis. This will be fully described in another lesson.
 
-2020 Reference Mosaic Projects. (2014. January 18). Mosaic white paper, Project controls — A definition.
+## Reference
 
-2020
+Mosaic Projects. (2014. January 18). Mosaic white paper, Project controls — A definition.

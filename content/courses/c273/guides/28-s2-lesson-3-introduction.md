@@ -16,13 +16,10 @@ In this lesson, you will explore how socialization occurs through interactions w
 
 Consider the following learning objectives as you move through the lesson:
 
-Identify the agents of socialization.
-
-Identify the life course process.
-
-Explain the social construction of gender.
-
-Identify different sexual identities and how social context shapes human sexual behaviors.
+- Identify the agents of socialization.
+- Identify the life course process.
+- Explain the social construction of gender.
+- Identify different sexual identities and how social context shapes human sexual behaviors.
 
 ## Key
 

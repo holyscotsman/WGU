@@ -10,9 +10,8 @@ kind: intro
 
 Consider the following learning objectives as you move through the lesson:
 
-Describe common techniques used to estimate activity duration.
-
-Construct an activity duration estimate.
+- Describe common techniques used to estimate activity duration.
+- Construct an activity duration estimate.
 
 As described in a previous section, the work breakdown structure (WBS) identifies the specific work activities necessary to complete the project. These activities are the starting point for developing the project schedule. Like much of project planning, developing the schedule is an iterative process. The team works from the WBS, risk register, and budget, but additional information will be identified during the development of the schedule that will require changes to those initial documents.
 

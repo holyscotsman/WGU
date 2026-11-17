@@ -16,8 +16,6 @@ In this lesson, you will examine how societies organize people into different la
 
 Consider the following learning objectives as you move through the lesson:
 
-Identify systems of social stratification in different societies.
-
-Identify types, causes, and consequences of poverty and social inequality.
-
-Identify stratification and inequality between nations and global systems.
+- Identify systems of social stratification in different societies.
+- Identify types, causes, and consequences of poverty and social inequality.
+- Identify stratification and inequality between nations and global systems.

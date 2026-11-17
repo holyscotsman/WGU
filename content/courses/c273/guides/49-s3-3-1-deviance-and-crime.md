@@ -27,7 +27,9 @@ When is behavior deviant? A behavior becomes deviant only when a group or
 
 society decides that it violates shared norms for behavior. Sociologists describe
 
-this idea as social construction, meaning behaviors are considered deviant not 2020 because they are naturally wrong but because people collectively agree that they
+this idea as social construction, meaning behaviors are considered deviant not
+
+because they are naturally wrong but because people collectively agree that they
 
 break accepted social norms.
 

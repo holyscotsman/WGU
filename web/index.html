@@ -3,13 +3,22 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
   <meta name="robots" content="noindex, nofollow">
   <title>WGU Study</title>
   <link rel="stylesheet" href="/style.css">
 </head>
 <body>
-  <header><a href="#/" class="brand">WGU Study</a><span id="sync"></span><button id="logout" hidden>Log out</button></header>
-  <main id="app"></main>
-  <script type="module" src="/app.js"></script>
+  <a class="skip" href="#app">Skip to content</a>
+  <header class="site-top">
+    <a class="brand" href="#/"><span class="mark" aria-hidden="true"></span>WGU Study</a>
+    <nav id="crumb" class="crumb" aria-label="Breadcrumb"></nav>
+    <span class="spacer"></span>
+    <span id="save" class="save" role="status" aria-live="polite" hidden><i class="dot ok" aria-hidden="true"></i><span>Saved</span></span>
+    <a class="navlink" id="courses-link" href="#/" hidden>Courses</a>
+    <button id="logout" class="navlink" type="button" hidden>Log out</button>
+  </header>
+  <main id="app" tabindex="-1"></main>
+  <script type="module" src="/js/main.js"></script>
 </body>
 </html>

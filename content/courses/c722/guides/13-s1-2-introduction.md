@@ -10,11 +10,9 @@ kind: intro
 
 Consider the following learning objectives as you move through the lesson:
 
-Describe the role of a project manager.
-
-Describe the communication methods used by the project manager.
-
-Identify globally recognized project management organizations and standards.
+- Describe the role of a project manager.
+- Describe the communication methods used by the project manager.
+- Identify globally recognized project management organizations and standards.
 
 ## Lesson 2: The Project Manager
 
@@ -40,6 +38,6 @@ virtual teams You will learn about project management organizations and their st
 
 purpose of standards
 
-2020 differences between organizations
+differences between organizations
 
 certifications

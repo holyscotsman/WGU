@@ -10,9 +10,8 @@ kind: intro
 
 Consider the following learning objectives as you move through the lesson:
 
-Define risk and risk management.
-
-Describe how to construct a risk register.
+- Define risk and risk management.
+- Describe how to construct a risk register.
 
 ## Risk Management
 

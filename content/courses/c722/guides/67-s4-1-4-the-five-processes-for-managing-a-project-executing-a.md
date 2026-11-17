@@ -33,7 +33,7 @@ managing stakeholders
 
 implementing the project plan
 
-documenting 2020 change requests assessing team member performance
+documenting change requests assessing team member performance
 
 recognizing and rewarding performance
 
@@ -45,7 +45,7 @@ Monitoring can be separated from controlling (although they work hand in hand). 
 
 Controlling is the action to get the project team back on track with the plan or making adjustments to the plan to achieve the desired outcomes and deliverables. As you can see, you would not have controlling unless during monitoring you detected some change that needed to occur. However, if your monitoring did not detect any issues that need to be addressed, then there would be no need to make any changes; no controlling needs to occur.
 
-2020 A radiator thermostat is used for controlling temperature. Project management processes that occur during monitoring and controlling are as follows:
+Project management processes that occur during monitoring and controlling are as follows:
 
 keeping the project activities in sync (integration control)
 
@@ -67,4 +67,4 @@ monitoring project risks
 
 monitoring vendor/provider performance
 
-determining when replanning is needed 2020 2020
+determining when replanning is needed

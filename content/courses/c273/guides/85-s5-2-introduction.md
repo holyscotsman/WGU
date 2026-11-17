@@ -16,6 +16,5 @@ In this lesson, you will examine how religion and education function as social i
 
 Consider the following learning objectives as you move through the lesson:
 
-Describe the significance of the institutions of religion.
-
-Describe the significance of the institutions of education.
+- Describe the significance of the institutions of religion.
+- Describe the significance of the institutions of education.

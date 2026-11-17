@@ -82,7 +82,8 @@ async function loadPreAssessments(dir, base, objectives, lessonIds, questionIds)
       for (const l of c.lessons ?? []) if (!lessonIds.has(l)) fail(`${where}#cluster:${c.id}`, `unknown lesson "${l}"`);
       c.pageRefs = (c.pages ?? []).map(pageRef);
     }
-    attempts.push({ ...data.attempt, clusters: data.clusters ?? [] });
+    const extra = await readJson(path.join(pdir, f.replace(/\.json$/, ".extra.json")), {});
+    attempts.push({ ...data.attempt, clusters: data.clusters ?? [], patterns: extra.patterns ?? [] });
   }
   return { attempts, questions };
 }

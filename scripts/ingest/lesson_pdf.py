@@ -8,7 +8,8 @@ SENT_END = (".", "!", "?", ":", '"', "”", ")")
 HEAD_MAX = 64
 
 FOOT_WORDS = {"ADA", "Accommodation", "Privacy", "Policy", "|", "Terms", "of", "Service", "Honor", "Code", "©", "WGU", "WGU.",
-              "Western", "Governors", "University", "–", "All", "rights", "reserved.", "Rights", "Reserved."}
+              "Western", "Governors", "University", "–", "All", "rights", "reserved.", "Rights", "Reserved.",
+              "2019", "2020", "2021", "2022", "2023", "2024", "2025", "2026"}
 
 def pdf_text(path):
     """Page text with the page-footer overlay removed, rebuilt from word coordinates.
@@ -120,10 +121,20 @@ def to_markdown(path, title):
             para = []
     n = len(lines)
     i = 0
+    obj_mode = False   # inside a "Learning objectives" list: each short sentence is one objective, possibly separated by blank lines
     while i < n:
         l = lines[i]
         if l == "":
             flush(); i += 1; continue
+        if obj_mode:
+            nxt0 = lines[i + 1] if i + 1 < n else ""
+            looks_heading = len(l) <= HEAD_MAX and not l.endswith((".", "!", "?", ":")) and l[:1].isupper()
+            if l.endswith(".") and len(l) <= 240 and not looks_heading:
+                flush(); out.append(f"- {inline_clean(l)}"); i += 1
+                if i >= n or lines[i] == "" and (i + 1 >= n or not lines[i + 1].endswith(".") or len(lines[i + 1]) > 240): out.append("")
+                continue
+            obj_mode = False
+            out.append("")
         prev = lines[i - 1] if i > 0 else ""
         nxt = lines[i + 1] if i + 1 < n else ""
         prev_closed = (not para) or para[-1].endswith(SENT_END)
@@ -136,11 +147,9 @@ def to_markdown(path, title):
         para.append(l)
         i += 1
         # learning objectives: one sentence per line after the lead-in
-        if l.endswith(":") and re.search(r"learning objectives", l, re.I) and i < n and lines[i].endswith("."):
+        if l.endswith(":") and re.search(r"learning objectives", l, re.I):
             flush()
-            while i < n and lines[i] and lines[i].endswith("."):
-                out.append(f"- {lines[i]}"); i += 1
-            out.append("")
+            obj_mode = True
             continue
         # bullet run after a line ending with ":"
         if l.endswith(":") and i < n and lines[i] and len(lines[i]) < 70 and not lines[i].endswith("."):

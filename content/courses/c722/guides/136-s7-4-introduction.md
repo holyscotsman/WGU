@@ -10,9 +10,8 @@ kind: intro
 
 Consider the following learning objectives as you move through the lesson:
 
-Describe how to close a project.
-
-Describe the steps in performing a lessons learned review, as part of project closeout.
+- Describe how to close a project.
+- Describe the steps in performing a lessons learned review, as part of project closeout.
 
 ## Overview
 

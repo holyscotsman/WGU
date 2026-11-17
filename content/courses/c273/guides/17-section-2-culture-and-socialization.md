@@ -24,7 +24,7 @@ This illustration shows a large and diverse group of people standing together. A
 
 Everyday life is shaped by patterned ways of thinking, acting, and interacting with others. In this section, you will explore how people internalize expectations and rules, and how these influence behavior, identity, and relationships. You will examine how ideologies, rules, language, and symbols guide social behavior and how these expectations and rules are shaped as we interact. This section also focuses on how individuals learn expectations from family, peers, schools, media, and other social settings across the lifespan.
 
-2020 This section covers one competency in four lessons.
+This section covers one competency in four lessons.
 
 ## Lesson 1: Culture
 

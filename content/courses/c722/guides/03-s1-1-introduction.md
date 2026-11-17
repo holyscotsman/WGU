@@ -10,11 +10,9 @@ kind: intro
 
 Consider the following learning objectives as you move through the lesson:
 
-Define projects, including their purpose.
-
-Describe the role projects play in achieving strategic initiatives.
-
-Define project management.
+- Define projects, including their purpose.
+- Describe the role projects play in achieving strategic initiatives.
+- Define project management.
 
 ## Lesson 1: Project Characteristics
 

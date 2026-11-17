@@ -10,9 +10,8 @@ kind: intro
 
 Consider the following learning objectives as you move through the lesson:
 
-Describe the components that make up earned value management.
-
-Determine the progress of a project given various earned value scenarios.
+- Describe the components that make up earned value management.
+- Determine the progress of a project given various earned value scenarios.
 
 ## Overview
 

@@ -16,6 +16,5 @@ In this lesson, you will explore three major sociological perspectives and their
 
 Consider the following learning objectives as you move through the lesson:
 
-Identify the functionalist, conflict, and symbolic interactionist perspectives.
-
-Define applied sociology and real-life applications of sociology.
+- Identify the functionalist, conflict, and symbolic interactionist perspectives.
+- Define applied sociology and real-life applications of sociology.

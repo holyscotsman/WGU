@@ -13,8 +13,6 @@ Describe the communication methods used by the project manager.
 
 In conjunction with the project principles, the eight project performance domains function as an integrated system and are interdependent, ensuring the project's successful execution and achieving its desired results. Each domain provides activities and functions adaptable to an organization's specific needs and capabilities, among other variables.
 
-2020
-
 12 Principles and 8 Performance Domains are shown. This depicts a side-by-side image, to show how the Project Management twelve Principles and eight Performance Domains are independent yet can function as an integrated system. The left column displays the Standard for Project Management Principles; Stakeholders, Team, Leadership, Risk, Tailor, Steward, Value, Quality, Interactions, Complexity, Change, and Adaptability. These principles point directly to the PMBOK Guide 7e, performance domains in the right column; Stakeholders, Team, Uncertainty, Tailoring, Approach, Planning, Work, and Delivery.
 
 Performance domains operate simultaneously throughout a project, irrespective of the frequency of value delivery—frequent, periodic, or at the project's conclusion. For instance, project leaders dedicate attention to stakeholders, the project team, the project life cycle, and the project work from the beginning to the end of the project.

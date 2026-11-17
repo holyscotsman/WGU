@@ -16,6 +16,5 @@ In this lesson, you will examine how group size, leadership, and group behavior 
 
 Consider the following learning objectives as you move through this lesson:
 
-Identify types of groups, types of leadership, and group phenomena.
-
-Identify types of organizations and their growth in modern society.
+- Identify types of groups, types of leadership, and group phenomena.
+- Identify types of organizations and their growth in modern society.

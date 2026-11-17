@@ -35,7 +35,7 @@ Explanatory research focuses on why something happens. It looks at relationships
 
 Why does this happen?
 
-2020 What factors influence this outcome?
+What factors influence this outcome?
 
 Key takeaway: Descriptive research explains what is happening. Explanatory research explains why it is happening.
 

@@ -13,5 +13,3 @@ Project management encompasses a lot of different tasks. This lesson defined pro
 Because communication is so integral to the success of a project, you learned how to engage stakeholders and how to run project status meetings. You were introduced to a number of types of reports and learned how and when to use them, and the lesson discussed some of the unique characteristics of communicating in virtual teams. It also illustrated how to appropriately use communication skills during conflict resolution.
 
 Finally, you reviewed key project management organizations and their standards for project management, as well as the certification programs available to people interested in furthering their careers in project management.
-
-2020
