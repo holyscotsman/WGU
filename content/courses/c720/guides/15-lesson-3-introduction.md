@@ -1,6 +1,8 @@
 ---
 title: Lesson 3 Introduction
 objectives: 2.6
+lesson: s1-l3
+kind: intro
 ---
 # Lesson 3 Introduction
 

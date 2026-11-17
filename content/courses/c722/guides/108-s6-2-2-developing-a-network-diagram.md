@@ -1,6 +1,9 @@
 ---
 title: S6 2.2 Developing a Network Diagram
 objectives: s6
+lesson: s6-l2
+page: 2.2
+kind: page
 ---
 # S6 2.2 Developing a Network Diagram
 

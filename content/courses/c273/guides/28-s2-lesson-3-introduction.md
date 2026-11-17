@@ -1,6 +1,8 @@
 ---
 title: S2 Lesson 3 Introduction
 objectives: s2
+lesson: s2-l3
+kind: intro
 ---
 # S2 Lesson 3 Introduction
 
@@ -10,6 +12,11 @@ From the moment people are born, they begin learning how to function as members 
 
 ## Learning Objectives
 
-Consider the following learning objectives as you move through the lesson: Identify the agents of socialization. Identify the life course process. Explain the social construction of gender. Identify different sexual identities and how social context shapes human sexual behaviors.
+Consider the following learning objectives as you move through the lesson:
+
+- Identify the agents of socialization.
+- Identify the life course process.
+- Explain the social construction of gender.
+- Identify different sexual identities and how social context shapes human sexual behaviors.
 
 Key Terms socialization: learning the norms, values, beliefs, and behaviors of your society self: a sense of who you are that is formed and shaped by interactions with others and society

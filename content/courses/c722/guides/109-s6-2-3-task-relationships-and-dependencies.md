@@ -1,6 +1,9 @@
 ---
 title: S6 2.3 Task Relationships and Dependencies
 objectives: s6
+lesson: s6-l2
+page: 2.3
+kind: page
 ---
 # S6 2.3 Task Relationships and Dependencies
 

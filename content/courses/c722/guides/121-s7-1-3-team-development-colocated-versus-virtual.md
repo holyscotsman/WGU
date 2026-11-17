@@ -1,8 +1,11 @@
 ---
-title: S7 1.3 Team Development- Colocated Versus Virtual
+title: S7 1.3 Team Development: Colocated Versus Virtual
 objectives: s7
+lesson: s7-l1
+page: 1.3
+kind: page
 ---
-# S7 1.3 Team Development- Colocated Versus Virtual
+# S7 1.3 Team Development: Colocated Versus Virtual
 
 ## Learning Objectives
 
@@ -21,27 +24,21 @@ It is possible that even with virtual teams, some team members may be colocated.
 
 Colocation involves team members physically working at the same location or holding project meetings together in a common setup. This tends to improve the efficiency and effectiveness of working relationships and improves communication and productivity. The colocated team is the more traditional—and in many ways easier to manage—format. Since team members are located in or near the same location, a team face-to-face meeting may only require a walk down a hallway to a conference room. Members are able to easily meet in person with one another at almost any time. On the positive side, a colocated team may allow the five team-building stages to progress more quickly and smoothly since team members have frequent interaction. On the negative side, human nature being what it is, more frequent interaction may also exacerbate team member conflicts.
 
-ADA Accommodation © 2020 Western Governors University – WGU. All rights reserved.
+rights reserved.
 
-## Privacy Policy | Terms of Service |
+| Honor Code
 
-## Honor Code
+With colocated teams, it can be a relatively simple matter to engage in team-building activities. These can be as simple and relatively inexpensive as having lunch delivered or a catered afterwork dinner in an office conference room. Social time, formal or informal, can be a great teambuilding activity, as it allows team members to get to know each other outside of the normal office functions. This is one reason why office golf leagues, bowling leagues, and so on are prevalent. Some are even sponsored by the corporation or organization as a means of building camaraderie between workers. An invitation to participate in informal events, in particular, can be viewed as acceptance of a new member by the more senior members. Go back to the earlier example and look at sports teams. In the offseason, the team members disband and return to their homes. Prior to the beginning of the next season, they reconvene for preseason practice. There are a number of reasons for this. For one thing, team members have gotten out of practice. Another is that even if they have had many seasons together, the team has just been separated for several months. People’s situations have changed, and they may react differently to situations. They will need to revisit the forming-storming stages again. An ADA Accommodation additional reason is that some old players may have left and replacement players have joined the team. This will definitely require the forming-storming-norming stages before they can begin performing together. Interpersonal dynamics may have changed.
 
-Group of people are at a conference table with the sun coming through the window behind them. Rawpixel/iStock / Getty Images Plus via Getty Images. With colocated teams, it can be a relatively simple matter to engage in team-building activities. These can be as simple and relatively inexpensive as having lunch delivered or a catered afterwork dinner in an office conference room. Social time, formal or informal, can be a great teambuilding activity, as it allows team members to get to know each other outside of the normal office functions. This is one reason why office golf leagues, bowling leagues, and so on are prevalent. Some are even sponsored by the corporation or organization as a means of building camaraderie between workers. An invitation to participate in informal events, in particular, can be viewed as acceptance of a new member by the more senior members. Go back to the earlier example and look at sports teams. In the offseason, the team members disband and return to their homes. Prior to the beginning of the next season, they reconvene for preseason practice. There are a number of reasons for this. For one thing, team members have gotten out of practice. Another is that even if they have had many seasons together, the team has just been separated for several months. People’s situations have changed, and they may react differently to situations. They will need to revisit the forming-storming stages again. An ADA Accommodation additional reason is that some old players may have left and replacement players have joined the team. This will definitely require the forming-storming-norming stages before they can begin performing together. Interpersonal dynamics may have changed.
+rights reserved.
 
-© 2020 Western Governors University – WGU. All rights reserved.
-
-## Privacy Policy | Terms of Service |
-
-## Honor Code
+| Honor Code
 
 ## Virtual Teams
 
 Virtual teams are teams whose members interact primarily through electronic communications. Members of a virtual team may be within the same building or across continents. There are a variety of venues and platforms designed for virtual teams to meet. These can run from relatively simple and inexpensive to complex and expensive to set up and operate. On the simple side are conference calls. Regular conference calls and online meetings help to clarify information and create the human interaction needed to create a team. Software is available to facilitate online meetings with voice and information sharing (e.g., Microsoft Teams, Skype, GoTo Meeting, Webex, etc.). The core to all of this is understanding everyone’s experience, ideas, and contributions. Always remember that you are dealing with people and that the needs of those people differ, but the project’s goals are specific and shared. With current technology, meetings may involve face-to-face or audio-only conversations or platforms for sharing presentations and documents in real time.
 
-## ADA Accommodation
-
-A smiling woman having a video conference with a few people in her desktop computer. © 2020 Western Governors University – WGU. All Privacy Policy | Terms of Service | martin-dm/E+ via Getty Images.
+A smiling woman having a video conference with a few people in her desktop computer. © 2020 Western Governors University – WGU. All | martin-dm/E+ via Getty Images.
 
 rights reserved.
 
@@ -51,8 +48,6 @@ Regardless of which team meeting method is utilized, there is one very important
 
 Due to geographically diverse locations, communication between virtual team members is critically important. Every effort must be made to assure and encourage open lines of communication. Communications must be open both horizontally and vertically. Vertical communication must be open both top-down and bottom-up and recognize time differences and specific special needs. One note of caution with virtual teams: It is possible that some members may be colocated. In this situation, it is possible for an "us versus them" attitude to develop. It is natural for colocated team members to form closer working bonds than with those team members who are remote. It is the team leader's responsibility to find methods to foster good working relationships among all team members, especially during the early stages of team development.
 
-ADA Accommodation © 2020 Western Governors University – WGU. All rights reserved.
+rights reserved.
 
-## Privacy Policy | Terms of Service |
-
-## Honor Code
+| Honor Code

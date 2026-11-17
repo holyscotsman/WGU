@@ -1,6 +1,9 @@
 ---
 title: S7 4.1 Project Closeout
 objectives: s7
+lesson: s7-l4
+page: 4.1
+kind: page
 ---
 # S7 4.1 Project Closeout
 
@@ -98,7 +101,7 @@ An example of a PMO onboarding checklist that includes items such as logistics, 
 
 ## Steps in Releasing Project Team Members
 
-Some farm animals are in a meeting. The caption says that the cow mooed, the pig oinked, the chicken clucked, the sheep baaed, and then they adjourned the meeting. andrewgenn/iStock / Getty Images Plus via Getty Images. While the cartoon provides a humorous vision of teams adjourning, releasing team members should be taken seriously, whether a single team member is no longer required or the entire team is disbanded. This is an opportunity to assure team members that both their individual and combined contributions to the team’s success were recognized and valued. If individuals do not feel as if their work is valued, they are less likely to generate the same level of commitment in the future. For employees of the organization or outside personnel, the need to clearly end the project involvement is important. Often, organizations require formal reviews or paperwork to ensure clarity that the project has been completed.
+While the cartoon provides a humorous vision of teams adjourning, releasing team members should be taken seriously, whether a single team member is no longer required or the entire team is disbanded. This is an opportunity to assure team members that both their individual and combined contributions to the team’s success were recognized and valued. If individuals do not feel as if their work is valued, they are less likely to generate the same level of commitment in the future. For employees of the organization or outside personnel, the need to clearly end the project involvement is important. Often, organizations require formal reviews or paperwork to ensure clarity that the project has been completed.
 
 ## Reasons for Project Termination
 

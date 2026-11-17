@@ -1,6 +1,9 @@
 ---
 title: S1 1.6 The Relationship Between a Project, Program, and Portfolio
 objectives: s1
+lesson: s1-l1
+page: 1.6
+kind: page
 ---
 # S1 1.6 The Relationship Between a Project, Program, and Portfolio
 

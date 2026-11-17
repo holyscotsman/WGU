@@ -1,6 +1,8 @@
 ---
 title: Section 1 Summary
 objectives: 2.6
+lesson: s1-l0
+kind: section-summary
 ---
 # Section 1 Summary
 
@@ -41,8 +43,6 @@ aproduct/servicefromthecompetition
 ## Managingbudgetstokeep
 
 financeshealthy.
-
-A light bulb surrounded by marketing terms and graphics. andresr/E+ via Getty Images.
 
 ## EconomicsStrategy
 

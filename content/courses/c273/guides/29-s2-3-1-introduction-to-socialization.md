@@ -1,6 +1,9 @@
 ---
 title: S2 3.1 Introduction to Socialization
 objectives: s2
+lesson: s2-l3
+page: 3.1
+kind: page
 ---
 # S2 3.1 Introduction to Socialization
 
@@ -15,8 +18,6 @@ How do people learn what behavior is expected of them in everyday life?
 ## Socialization and Self
 
 Children are predisposed to different behavioral traits. For example, one child may be very active and quick to react emotionally, while another may be calmer and easier to soothe. When a child starts school, they must learn when to raise a hand, how to take turns, and how to behave in class. Teachers and classmates respond to these behaviors in different ways, offering praise, correction, or labels. Over time, the child may begin to see themselves as a good student, a troublemaker, or someone shy or outgoing. This story illustrates socialization, the process of learning society's rules and expectations. Through socialization, people develop the self, meaning their understanding of who they are in relation to others. Social experiences play a significant role in shaping identity. People may be predisposed to behaviors such as impulsivity, but nurture will teach you that rather than shouting out an answer in a classroom setting, you need to raise your hand.
-
-High school students raising their hands during class. The teacher is facing the class. monkeybusinessimages/iStock / Getty Images Plus via Getty Images.
 
 Key takeaway: Socialization is the process of learning society's rules and expectations and how people develop an understanding of who they are in relation to others. Who we are is influenced by both nature (biology) and nurture (social experiences).
 

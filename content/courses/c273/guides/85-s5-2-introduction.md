@@ -1,6 +1,8 @@
 ---
 title: S5 2 Introduction
 objectives: s5
+lesson: s5-l2
+kind: intro
 ---
 # S5 2 Introduction
 
@@ -10,4 +12,7 @@ Religion and education are powerful social institutions that shape how people un
 
 ## Learning Objectives
 
-Consider the following learning objectives as you move through the lesson: Describe the significance of the institutions of religion. Describe the significance of the institutions of education.
+Consider the following learning objectives as you move through the lesson:
+
+- Describe the significance of the institutions of religion.
+- Describe the significance of the institutions of education.

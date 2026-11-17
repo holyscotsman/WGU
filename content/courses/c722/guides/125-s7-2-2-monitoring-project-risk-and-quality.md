@@ -1,6 +1,9 @@
 ---
 title: S7 2.2 Monitoring Project Risk and Quality
 objectives: s7
+lesson: s7-l2
+page: 2.2
+kind: page
 ---
 # S7 2.2 Monitoring Project Risk and Quality
 

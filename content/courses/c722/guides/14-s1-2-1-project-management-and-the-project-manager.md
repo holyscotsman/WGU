@@ -1,6 +1,9 @@
 ---
 title: S1 2.1 Project Management and the Project Manager
 objectives: s1
+lesson: s1-l2
+page: 2.1
+kind: page
 ---
 # S1 2.1 Project Management and the Project Manager
 
@@ -32,17 +35,13 @@ The previous lesson defined a project as a temporary activity that creates a uni
 
 The principles of project management guide the content and actions in the project performance
 
-## ADA Accommodation
-
 domains. The previous lesson defined a principle as a fundamental norm, truth, or value. The project
 
 management principles guide the behavior of people involved in projects as they influence and shape the performance domains to produce the intended outcomes. (PMBOK 7, 2021)
 
-© 2020 Western Governors University – WGU. All rights reserved.
+All rights reserved.
 
-## Privacy Policy | Terms of Service |
-
-## Honor Code
+| Honor Code
 
 ## Project Manager’s Skills
 
@@ -83,8 +82,6 @@ Emotional intelligence is a set of interpersonal skills associated with having t
 The project manager (PM) is responsible and accountable for managing the project to maximize its success. PM responsibilities include the following: initiating the project with clear goals, sponsorship, and a business case that aligns with the
 
 goals of the organization overseeing the development and acceptance of a realistic project plan that meets the requirements approved for the project The PM should have complete knowledge of the project plan, which should include approved requirements for the product, service, or process being produced; a schedule for the project; resource plans/requirements, including people (time), money (budget), material, equipment, and facilities; a strong communications plan; a risk plan identifying risks and actions; and a statement of quality standards and directions. Both the resource and cost plans are based on activities in the schedule and include the team members’ skills and assignments. All subcontracting activities should be included. The final scope, schedule, and budget plans are captured as baselines for the project, which the sponsor approves before the project moves into the execution phase. Project performance is measured against the baselines in these three areas. This is often referred to as the triple constraints of a project (time, cost, and scope).
-
-A triangle with scope, cost, and time at the different corners. In the middle is the word "quality." A person's finger presses the center. BeeBright/iStock / Getty Images Plus via Getty Images.
 
 The project should be executed to the defined baselines: Team members come onto the project, understand their responsibilities, and execute to them; materials are purchased and used efficiently. Change control process should be clearly defined: Doing this will drive discussions and control actions necessary to approve all changes. In many cases, the schedule, scope, or cost baselines will be modified with the approval of the sponsor or customer. Lessons learned should be shared: When the project is complete or if it is terminated, the project manager is responsible for ensuring that all contractual requirements are closed and that the knowledge base of the organization is contributed to.
 

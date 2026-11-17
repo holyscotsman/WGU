@@ -1,6 +1,8 @@
 ---
 title: Lesson 2 Introduction
 objectives: 2.6
+lesson: s1-l2
+kind: intro
 ---
 # Lesson 2 Introduction
 

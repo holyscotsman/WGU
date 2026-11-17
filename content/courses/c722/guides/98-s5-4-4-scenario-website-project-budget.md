@@ -1,8 +1,11 @@
 ---
-title: S5 4.4 Scenario- Website Project Budget
+title: S5 4.4 Scenario: Website Project Budget
 objectives: s5
+lesson: s5-l4
+page: 4.4
+kind: page
 ---
-# S5 4.4 Scenario- Website Project Budget
+# S5 4.4 Scenario: Website Project Budget
 
 ## Learning Objectives
 

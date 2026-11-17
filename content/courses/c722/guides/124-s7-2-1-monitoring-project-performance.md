@@ -1,6 +1,9 @@
 ---
 title: S7 2.1 Monitoring Project Performance
 objectives: s7
+lesson: s7-l2
+page: 2.1
+kind: page
 ---
 # S7 2.1 Monitoring Project Performance
 
@@ -11,8 +14,6 @@ Describe how managers monitor against project baselines.
 ## Monitoring Project Scope
 
 The project scope was originally defined during the initiating phase as part of the project charter. The initial scope was further refined during the planning phase by rigorously collecting, researching, and analyzing stakeholder requirements. The resulting scope statement was approved by the project team, project sponsor, and key stakeholders. At the conclusion of the planning phase, this scope statement became the baseline project scope, which means that it is the approved description of the project outcomes and deliverables that is to be used to measure project performance.
-
-A person standing in front of a wall with various icons and the word "scope" written on it. anyaberkut/iStock / Getty Images Plus via Getty Images./Text changed
 
 Now you are in the executing phase of a project. This is where the work of the project is performed. This also includes leading, managing, monitoring, and controlling all of the processes, principles, and performance domains simultaneously to ensure progress is being made and results will be delivered. During the execution phase of the project life cycle, the project team will monitor project performance to ensure that the approved project scope will still be met. This is done through regular status reporting and meetings comparing activities and current knowledge to the baseline. Because the project scope was baselined at the conclusion of the project planning phase, the project manager will need to ensure that the baselined scope remains appropriate for the life of the project or is modified and approved through change control accordingly. When differences between actual performance and the baseline scope are identified, the variance must be analyzed to determine whether a change in scope is warranted. Sometimes the variance is a result of the project plan not producing the desired outcomes. In this case, corrective action may be needed to revise the plan or otherwise adjust shortcomings in the deliverable. If corrective action or scope changes are identified, they are documented and reviewed prior to implementation.
 

@@ -1,6 +1,9 @@
 ---
 title: S1 2.6 Project Management Organizations and Their Standards
 objectives: s1
+lesson: s1-l2
+page: 2.6
+kind: page
 ---
 # S1 2.6 Project Management Organizations and Their Standards
 

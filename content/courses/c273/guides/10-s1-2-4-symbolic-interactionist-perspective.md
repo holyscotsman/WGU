@@ -1,6 +1,9 @@
 ---
 title: S1 2.4 Symbolic Interactionist Perspective
 objectives: s1
+lesson: s1-l2
+page: 2.4
+kind: page
 ---
 # S1 2.4 Symbolic Interactionist Perspective
 

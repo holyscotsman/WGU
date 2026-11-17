@@ -1,6 +1,9 @@
 ---
 title: S5 1.1 The Purpose of Project Planning
 objectives: s5
+lesson: s5-l1
+page: 1.1
+kind: page
 ---
 # S5 1.1 The Purpose of Project Planning
 
@@ -14,7 +17,7 @@ Planning is about developing a plan to create an output or project deliverable, 
 
 ## The Project Charter and Its Usefulness
 
-Project charter written on a whiteboard with the following words written around it: scope, objective, measurements and assumptions, restrictions, major participants, project manager authority. syahrir maulana/iStock / Getty Images Plus via Getty Images. The project charter’s most important function is that it authorizes the project. It is, essentially, the contract document showing the agreement by the key stakeholders created in the defining phase. Without this, no work on the project can occur. The project charter is a relatively brief document that provides a very high-level view of what the project entails. Here is an example of a project charter template from the Centers for Disease Control and Prevention (CDC):
+The project charter’s most important function is that it authorizes the project. It is, essentially, the contract document showing the agreement by the key stakeholders created in the defining phase. Without this, no work on the project can occur. The project charter is a relatively brief document that provides a very high-level view of what the project entails. Here is an example of a project charter template from the Centers for Disease Control and Prevention (CDC):
 
 - Project Charter template
 
@@ -42,7 +45,7 @@ business need met signatures of authorized representatives to acknowledge approv
 
 In a previous lesson, you learned about the triple constraints and how a change to any one constraint can impact the other two. You saw how important it is to fully understand and define scope, cost, and budget. The project scope includes several items that must be further broken down into components. Without identifying, understanding, and specifying each aspect of the project, it is impossible to develop an accurate budget or schedule. Numerous documents must be developed in order to ensure proper identification of all items and to ensure that everything is included.
 
-The paper is marked with three checkboxes, and a pencil is laid on top. deeaf/iStock / Getty Images Plus via Getty Images. Checklists are one method of ensuring that all needed documents are written. A checklist only ensures that the actions on the list are addressed. The checklist is only as good as the completeness of the items listed and the team’s attention to the work being done.
+Checklists are one method of ensuring that all needed documents are written. A checklist only ensures that the actions on the list are addressed. The checklist is only as good as the completeness of the items listed and the team’s attention to the work being done.
 
 Here is an example of a project planning checklist:
 

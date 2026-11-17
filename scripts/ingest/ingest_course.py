@@ -14,6 +14,28 @@ sys.path.insert(0, os.path.dirname(__file__))
 from quiz_pdf import extract
 from lesson_pdf import to_markdown, pdf_text
 
+TITLE_FIXES = {"The Project Manager's Authoritya": "The Project Manager's Authority"}
+
+def fix_title(t):
+    """File names turn colons into '- '; restore them and fix known typos."""
+    t = TITLE_FIXES.get(t, t)
+    return re.sub(r"(?<=\w)- (?=\w)", ": ", t)
+
+def lesson_info(path):
+    """('s2-l1', '1.3' | None, kind) from a courseware path like 'Section 2/Lesson 1.3- Title.pdf'."""
+    m_sec = re.search(r"Section (\d+)", path)
+    base = os.path.basename(path)
+    m = re.search(r"Lesson (\d+)(?:\.(\d+))?", base)
+    if not m_sec:
+        return None, None, "page"
+    sec = int(m_sec.group(1))
+    if not m:
+        kind = "section-summary" if re.search(r"Summary", base) else "section-intro"
+        return f"s{sec}-l0", None, kind
+    page = f"{m.group(1)}.{m.group(2)}" if m.group(2) else None
+    kind = "page" if page else ("summary" if "Summary" in base else "intro" if "Intro" in base else "page")
+    return f"s{sec}-l{m.group(1)}", page, kind
+
 def slug(s):
     return re.sub(r"[^a-z0-9]+", "-", s.lower()).strip("-")[:60]
 
@@ -69,8 +91,11 @@ def main(src, out):
     for f in os.listdir(os.path.join(out, "guides")):
         os.remove(os.path.join(out, "guides", f))
     for i, g in enumerate(cfg["guides"], 1):
-        md = to_markdown(os.path.join(src, g["file"]), g["title"])
-        fm = f"---\ntitle: {g['title']}\nobjectives: {', '.join(g['objectives'])}\n---\n"
+        title = fix_title(g["title"])
+        lesson, page, kind = lesson_info(g["file"])
+        md = to_markdown(os.path.join(src, g["file"]), title)
+        extra = "".join(f"{k}: {v}\n" for k, v in (("lesson", lesson), ("page", page), ("kind", kind)) if v)
+        fm = f"---\ntitle: {title}\nobjectives: {', '.join(g['objectives'])}\n{extra}---\n"
         name = f"{i:02d}-{slug(g['title'])}.md"
         open(os.path.join(out, "guides", name), "w").write(fm + md)
 
@@ -78,16 +103,24 @@ def main(src, out):
     for qz in cfg.get("quizzes", []):
         for q in extract(os.path.join(src, qz["file"])):
             where = f"{qz['file']} Q{q['n']}"
+            ov = cfg.get("questionOverrides", {}).get(where)
+            if ov:  # hand-checked repair where the page footer hides part of the question (see ingest.json "note")
+                for k in ("stem", "choices", "selected", "answerBasis"):
+                    if k in ov: q[k] = ov[k]
+                q["result"] = "correct"
             if q["result"] != "correct" or not q["selected"] or not q["explanation"] or not 2 <= len(q["choices"]) <= 8:
                 skipped.append(where); continue
             ans = q["selected"]
+            lesson = lesson_info(qz["file"])[0] if "Test" not in qz["file"] else None
             questions.append({
                 "id": f"{cid}-{slug(qz['file'].rsplit('.',1)[0])}-q{q['n']}",
                 "objective": qz["objective"],
+                "lesson": lesson,
                 "q": q["stem"], "choices": q["choices"],
                 "answer": ans[0] if len(ans) == 1 else ans,
                 "explanation": re.sub(r"^(That's right|Correct)[!.]\s*", "", q["explanation"].strip()),
                 "source": qz["file"].rsplit(".", 1)[0],
+                **({"answerBasis": q["answerBasis"]} if q.get("answerBasis") else {}),
             })
     json.dump(questions, open(os.path.join(out, "questions.json"), "w"), indent=1, ensure_ascii=False)
 

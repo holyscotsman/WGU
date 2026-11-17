@@ -1,6 +1,9 @@
 ---
 title: S5 3.2 Theoretical Perspectives of Healthcare
 objectives: s5
+lesson: s5-l3
+page: 3.2
+kind: page
 ---
 # S5 3.2 Theoretical Perspectives of Healthcare
 

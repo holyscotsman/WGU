@@ -1,14 +1,15 @@
 ---
 title: S3 1.8 Net Present Value (NPV)
 objectives: s3
+lesson: s3-l1
+page: 1.8
+kind: page
 ---
 # S3 1.8 Net Present Value (NPV)
 
 ## Learning Objectives
 
 Describe how financial concepts are used for project selection purposes.
-
-Net present value documents on a table. designer491/iStock / Getty Images Plus via Getty Images.
 
 Net present value (NPV) Net present value (NPV) is a financial measure of the total future benefits of a project minus the costs of the project. If the future benefits (revenue, income, savings) are greater than the costs of the project, NPV is positive. If the costs of the project outweigh the future benefits, NPV will be negative. So overall, negative NPV is bad, positive NPV is good, and projects with higher NPV have greater benefits to companies. Earlier you learned about the time value of money, which said that money received in the future is not as valuable as money received now. NPV takes into consideration the time value of money by discounting future benefits. Although this makes the gathering of data and the calculation more complicated, the result is a very realistic estimate of a project’s value to a company. NPV uses the concept of future net cash flows, which means that to evaluate a project, you need to know the costs (cash outflows) and benefits (cash inflows) for the entire working life of the project outcome. If a company is evaluating a project to replace a current packaging machine, it will need to estimate the cost of installing the machine (the project cost), the cost of maintaining the machine, and the benefits (operational savings derived) for its operating life.
 

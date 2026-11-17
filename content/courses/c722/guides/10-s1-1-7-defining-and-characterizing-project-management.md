@@ -1,6 +1,9 @@
 ---
 title: S1 1.7 Defining and Characterizing Project Management
 objectives: s1
+lesson: s1-l1
+page: 1.7
+kind: page
 ---
 # S1 1.7 Defining and Characterizing Project Management
 

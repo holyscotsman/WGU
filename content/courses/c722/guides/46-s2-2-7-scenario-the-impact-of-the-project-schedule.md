@@ -1,8 +1,11 @@
 ---
-title: S2 2.7 Scenario- The Impact of the Project Schedule
+title: S2 2.7 Scenario: The Impact of the Project Schedule
 objectives: s2
+lesson: s2-l2
+page: 2.7
+kind: page
 ---
-# S2 2.7 Scenario- The Impact of the Project Schedule
+# S2 2.7 Scenario: The Impact of the Project Schedule
 
 ## Learning Objectives
 

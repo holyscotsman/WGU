@@ -1,6 +1,8 @@
 ---
 title: Lesson 4 Summary
 objectives: 2.6
+lesson: s1-l4
+kind: summary
 ---
 # Lesson 4 Summary
 

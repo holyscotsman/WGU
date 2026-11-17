@@ -1,6 +1,9 @@
 ---
 title: S1 1.2 Project Management Principles
 objectives: s1
+lesson: s1-l1
+page: 1.2
+kind: page
 ---
 # S1 1.2 Project Management Principles
 

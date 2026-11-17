@@ -1,6 +1,8 @@
 ---
 title: Section 2: Summary
 objectives: s2
+lesson: s2-l0
+kind: section-summary
 ---
 # Section 2: Summary
 

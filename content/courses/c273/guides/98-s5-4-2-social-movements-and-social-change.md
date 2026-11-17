@@ -1,6 +1,9 @@
 ---
 title: S5 4.2 Social Movements and Social Change
 objectives: s5
+lesson: s5-l4
+page: 4.2
+kind: page
 ---
 # S5 4.2 Social Movements and Social Change
 

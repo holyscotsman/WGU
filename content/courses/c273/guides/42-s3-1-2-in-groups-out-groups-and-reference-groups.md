@@ -1,6 +1,9 @@
 ---
 title: S3 1.2 In-Groups, Out-Groups, and Reference Groups
 objectives: s3
+lesson: s3-l1
+page: 1.2
+kind: page
 ---
 # S3 1.2 In-Groups, Out-Groups, and Reference Groups
 
@@ -71,8 +74,6 @@ A reference group does not require direct membership. People may compare themsel
 ## The Function of Reference Groups
 
 Reference groups are important because they reinforce social norms and expectations and help individuals decide what is acceptable, desirable, or successful in a particular social context.
-
-Thomas Barwick/DigitalVision via Getty Images.
 
 Key takeaway: Reference groups, even without direct membership, provide the benchmarks and contrasts needed for comparison and evaluation of group and personal characteristics. Recognizing reference groups helps you analyze how social expectations influence behavior and identify why individuals conform to certain norms in everyday situations and assessments.
 

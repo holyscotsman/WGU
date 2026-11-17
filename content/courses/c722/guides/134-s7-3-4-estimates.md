@@ -1,6 +1,9 @@
 ---
 title: S7 3.4 Estimates
 objectives: s7
+lesson: s7-l3
+page: 3.4
+kind: page
 ---
 # S7 3.4 Estimates
 
@@ -12,7 +15,7 @@ Determine the progress of a project given various earned value scenarios.
 
 The earned value analysis (EVA) values and the indexes calculated by the project manager can be used to predict how the project will end. Two of these estimates assume that the efficiency of how the team is using money will continue until project completion. If the team becomes more or less efficient based on the cost performance index (CPI), the estimates will need to be revised. The third estimate shows what the efficiency will need to be for the rest of the project in order to finish at the original budget. Finally, the efficiency estimates and budget predictions can be used to calculate how much of the project work has been completed.
 
-A business person dressed as a fortune teller is standing near a crystal ball indicating an activity of measurement. The crystal ball showcases an arrow that points to evaluation. Jrcasas/iStock / Getty Images Plus via Getty Images. The estimate to completion (ETC) provides an estimate of how much money will be needed to complete the project. It is based on the CPI measure of cost efficiency and how much of the baseline total budget has already been expended.
+The estimate to completion (ETC) provides an estimate of how much money will be needed to complete the project. It is based on the CPI measure of cost efficiency and how much of the baseline total budget has already been expended.
 
 ## ETC = (BAC − EV)/CPI
 
@@ -39,10 +42,6 @@ The original budget at completion was $100,000; the EAC is predicting a $5.755 c
 Key EVA measures and variances can be summarized using a line chart. Notice that the weeks of the project are shown on the horizontal axis, and the cumulative dollars are on the vertical axis. The website example EVA was calculated based on the end of Week 3, which is identified as "NOW" with the blue dashed vertical line. The cumulative project budget is identified by the solid blue line crossing the Week 3 dashed blue line at the current PV of $60,000 and ending at the BAC of $100,000 at the end of Week 5. The cumulative actual costs are identified by the dashed yellow line that crosses the Week 3
 
 dashed blue line at the current AC value of $40,000. The cumulative earned value is identified by the dotted green line that crosses the Week 3 line at the current EV of $42,500. The variances (SV and CV) are identified as the gaps between the EVA measures of AC, PV, and E.
-
-The Earned Value Management Chart follows the Cumulative Budget beginning from week 0 to 1, $20000 dollars in the X axis, and on the Y axis, it follows Week 0 to Week 5. The cumulative project budget is identified by the solid blue line crossing the Week 3 dashed green bar at the current PV of $60,000 and ending at the BAC of $100,000 at the end of Week 5. The cumulative actual costs are identified by the dashed gray line that crosses the Week 3 dashed green bar at the current AC value of $40,000. The cumulative earned value is identified by the dotted blue line that crosses the Week 3 line at the current Earned Value of $42,500.
-
-## Image description
 
 The Earned Value Management Chart follows the Cumulative Budget beginning from week 0 to 1, $20000 dollars in the X axis, and on the Y axis, it follows Week 0 to Week 5. The cumulative project budget is identified by the solid blue line crossing the Week 3 dashed green bar at the current PV of $60,000 and ending at the BAC of $100,000 at the end of Week 5. The cumulative actual costs are identified by the dashed gray line that crosses the Week 3 dashed green bar at the current AC value of $40,000. The cumulative earned value is identified by the dotted blue line that crosses the Week 3 line at the current Earned Value of $42,500.
 

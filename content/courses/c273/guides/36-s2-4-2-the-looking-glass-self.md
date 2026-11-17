@@ -1,6 +1,9 @@
 ---
 title: S2 4.2 The Looking-Glass Self
 objectives: s2
+lesson: s2-l4
+page: 4.2
+kind: page
 ---
 # S2 4.2 The Looking-Glass Self
 
@@ -15,8 +18,6 @@ How do you think other people's opinions of you influence the way you see yourse
 ## The Looking-Glass Self
 
 While George Herbert Mead focused on how the self develops through stages of interaction, sociologist Charles Horton Cooley emphasized how the self is shaped by social feedback. Cooley argued that individuals do not form a sense of self in isolation. Instead, people's self-understanding is constructed, in part, by their perception of how others view them. He called this process the lookingglass self. The looking-glass self explains how individuals evaluate themselves based on how they imagine others perceive them. This process happens continuously in everyday interactions and does not require direct feedback from others.
-
-A younger woman, as seen from behind, stares through a mirror she's holding so that she's looking at the viewer. ryasick/E+ via Getty Images.
 
 ## Cooley's Three Parts of the Looking-Glass Self
 

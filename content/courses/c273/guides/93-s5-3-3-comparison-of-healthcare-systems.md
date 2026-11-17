@@ -1,6 +1,9 @@
 ---
 title: S5 3.3 Comparison of Healthcare Systems
 objectives: s5
+lesson: s5-l3
+page: 3.3
+kind: page
 ---
 # S5 3.3 Comparison of Healthcare Systems
 

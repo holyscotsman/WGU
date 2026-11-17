@@ -1,6 +1,9 @@
 ---
 title: S1 1.5 The Role Projects Play in Achieving Strategic Business Initiatives
 objectives: s1
+lesson: s1-l1
+page: 1.5
+kind: page
 ---
 # S1 1.5 The Role Projects Play in Achieving Strategic Business Initiatives
 
@@ -11,8 +14,6 @@ Describe the role projects play in achieving strategic business initiatives.
 ## Business Strategy
 
 Projects selected by an organization must be directly related to the organization’s strategy. Project alignment occurs when the planned and executed project agrees with the organization's broader strategic objectives. The project should consistently yield business outcomes that align with organizational goals, enhancing value and competitive edge in the market. The commitment of resources to a project can be substantial, and the results of the project must support the organization's goals to ensure the organization's survival. A business’s strategy consists of the activities, methods, and tactics that will be employed to meet the business's goals. These may include increased market share and profitability through entry into a new market segment, customer retention by providing the best customer services in the industry, compliance with new and revised government requirements, and reduced costs by providing the best tools and systems to operational personnel. Strategy is determined by senior management in the organization to improve the value of the company to its stakeholders.
-
-A coffee cup sits on a placemat with a drawing of a business strategy concept. Peshkova/iStock / Getty Images Plus via Getty Images.
 
 ## Project Success and Its Determinants
 

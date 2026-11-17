@@ -1,8 +1,11 @@
 ---
-title: S5 4.2 Project Budgeting- Estimating Costs
+title: S5 4.2 Project Budgeting: Estimating Costs
 objectives: s5
+lesson: s5-l4
+page: 4.2
+kind: page
 ---
-# S5 4.2 Project Budgeting- Estimating Costs
+# S5 4.2 Project Budgeting: Estimating Costs
 
 ## Learning Objectives
 
@@ -30,9 +33,9 @@ is complete, the project manager will take a snapshot of the project budget. Thi
 
 The two critical elements of a budget are the amount of expenditure and when the expenditure is expected to occur. The amount will include the direct costs, indirect costs, and any general and administrative overhead costs. Direct costs are costs that are directly attributable to completing the project work. The direct costs can be attributed to specific work activities identified in the WBS. They often include labor, materials, supplies, and equipment.
 
-A warehouse worker is using a forklift. endopack/iStock / Getty Images Plus via Getty Images. Direct overhead costs (also known as indirect costs) are costs from the project that are shared across the work activities. If workspace, supervision, project administration, equipment, or other resources are not related to a specific work activity, they are included as overhead and will be allocated to all work activities. These are also called indirect costs because they cannot be directly attributed to a specific project work activity.
+Direct overhead costs (also known as indirect costs) are costs from the project that are shared across the work activities. If workspace, supervision, project administration, equipment, or other resources are not related to a specific work activity, they are included as overhead and will be allocated to all work activities. These are also called indirect costs because they cannot be directly attributed to a specific project work activity.
 
-Coworkers working and drinking coffee together at the office. valentinrussanov/E+ via Getty Images. General and administrative costs (G&A) are overhead costs from the project organization. These are outside of the project team but often include expenses from corporate services such as legal, human resources, and payroll. These support functions are provided by the project hosting organization but cannot be related to a specific project work activity, so they will be allocated to all projects and project work activities. These are also called "corporate overheads" because they are not specifically related to one project but are shared or born by all activities of the business. In the following example, project costs are summarized by cost type. Notice that G&A costs are allocated to the project as a percentage of total direct cost. Organizations can allocate G&A costs as a percentage or a fixed amount. Profit is also included in this example as a percentage of the total cost of the project.
+General and administrative costs (G&A) are overhead costs from the project organization. These are outside of the project team but often include expenses from corporate services such as legal, human resources, and payroll. These support functions are provided by the project hosting organization but cannot be related to a specific project work activity, so they will be allocated to all projects and project work activities. These are also called "corporate overheads" because they are not specifically related to one project but are shared or born by all activities of the business. In the following example, project costs are summarized by cost type. Notice that G&A costs are allocated to the project as a percentage of total direct cost. Organizations can allocate G&A costs as a percentage or a fixed amount. Profit is also included in this example as a percentage of the total cost of the project.
 
 ## Direct costs
 
@@ -65,10 +68,6 @@ $ 79,600 A budget
 The time element comes into play because the project hosting organization will need to have money available to pay the bills when they come due. The project schedule will provide information on when the work activities of the WBS are being completed so the budget can be appropriately distributed into time periods. Depending on the organization’s policy, project costs may be divided into weeks, months, quarters, or years. The result is a cost per work activity per time period, which creates a table similar to a cash flow statement used in accounting. This example shows the activity costs across the 12 weeks of the project. Totals of each column show the cash requirements each week based on the work completed during that week.
 
 A project budget is categorized and shown by week. It is an account of 11 weeks, which includes amounts for the designer, blueprint, kitchen renovation, furniture, dining area and computer installation.
-
-## Image description
-
-A project budget shows the payments needed each week of the project. In Week 1, the payment is $2,250 to the designer. Week 2, needs payments for the designer and blueprints, Week 3 needs payments for permits, Week 4 needs payments for the kitchen renovation, and Weeks 5 and 6 need payments for the dining area and kitchen renovations. Weeks 7 and 8 include payments for HVAC equipment and kitchen renovations. Weeks 9 and 10 require payments for outdoor signs, kitchen equipment, and kitchen renovation. The final week, Week 11, requires $10,500 for furniture and $5,000 for computer equipment installation.
 
 ## The Purpose of Estimating Project Costs
 

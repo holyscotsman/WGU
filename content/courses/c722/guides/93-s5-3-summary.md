@@ -1,6 +1,8 @@
 ---
 title: S5 3 Summary
 objectives: s5
+lesson: s5-l3
+kind: summary
 ---
 # S5 3 Summary
 

@@ -1,6 +1,8 @@
 ---
 title: S7 1 Summary
 objectives: s7
+lesson: s7-l1
+kind: summary
 ---
 # S7 1 Summary
 

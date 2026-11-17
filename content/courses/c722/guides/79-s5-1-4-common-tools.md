@@ -1,6 +1,9 @@
 ---
 title: S5 1.4 Common Tools
 objectives: s5
+lesson: s5-l1
+page: 1.4
+kind: page
 ---
 # S5 1.4 Common Tools
 
@@ -83,9 +86,3 @@ As you can see, the left-hand column will list all of the activities required to
 ## Skill Matrix
 
 A skill matrix is a matrix showing the required skills for each role and the available skills for each person available for the project team. A sample skill matrix is given in which there are five main columns and six rows.
-
-## Image description
-
-A sample job skill matrix is given. There are five main columns and six rows. A key is given that mentions the full forms of the given criteria. The letter X will mark the required, the letter O will mark optional, and the letter N will mark not applicable. The five main columns are basic skills, soft skills, quality systems, hard skills, and computer skills. The rows are management, sales, administration, engineering, quality, and production. Below the main columns, there are subcolumns. Under the column basic skills, the sub-columns are read, write, speak English, and basic math. Under the column soft skills, the sub-columns are working effectively with others, time management, motivation, and empowerment, management, and supervision, root cause problem-solving. Under the column quality system, the sub-columns are quality system, documentation, management responsibility, human resources, customer-related processes, design and development, purchasing, production, and service, monitoring and measuring devices, measurement, internal audit, control of non-conforming, corrective and preventative. Under the column hard skills, the sub-columns are blueprint reading, safety awareness, measuring and gauging, customer produces knowledge, product design skills, advanced math,
-
-and statistical techniques. Under the column computer skills, the sub-columns are MMP, CAD, windows, Word, Excel, Access, and Outlook email.

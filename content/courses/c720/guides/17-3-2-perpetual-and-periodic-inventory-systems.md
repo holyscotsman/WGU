@@ -1,6 +1,9 @@
 ---
 title: 3.2 Perpetual and Periodic Inventory Systems
 objectives: 2.6
+lesson: s1-l3
+page: 3.2
+kind: page
 ---
 # 3.2 Perpetual and Periodic Inventory Systems
 

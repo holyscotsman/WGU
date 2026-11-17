@@ -1,6 +1,9 @@
 ---
 title: S3 3.3 Theoretical Perspectives (Continued)
 objectives: s3
+lesson: s3-l3
+page: 3.3
+kind: page
 ---
 # S3 3.3 Theoretical Perspectives (Continued)
 

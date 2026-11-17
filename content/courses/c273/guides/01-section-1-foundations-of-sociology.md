@@ -1,12 +1,12 @@
 ---
 title: Section 1 Foundations of Sociology
 objectives: s1
+lesson: s1-l0
+kind: section-intro
 ---
 # Section 1 Foundations of Sociology
 
 ## Section 1: Foundations of Sociology
-
-Graphic image of multi-ethnic human profiles from around the world. PeterPencil/DigitalVision Vectors via Getty Images.
 
 ## Section 1: Introduction
 
@@ -428,13 +428,9 @@ Correct: The sociological perspective explains how personal troubles are influen
 
 Correct (1/1 point)
 
-© 2020 Western Governors University – WGU. All rights reserved.
+All rights reserved.
 
-## ADA Accommodation
-
-## Privacy Policy | Terms of Service |
-
-## Honor Code
+| Honor Code
 
 Question 2 1.0/1.0 point (ungraded)
 
@@ -502,7 +498,10 @@ Why do some people see society as mostly stable and working as it should, while 
 
 ## Learning Objectives
 
-Consider the following learning objectives as you move through the lesson: Identify the functionalist, conflict, and symbolic interactionist perspectives. Define applied sociology and real-life applications of sociology.
+Consider the following learning objectives as you move through the lesson:
+
+- Identify the functionalist, conflict, and symbolic interactionist perspectives.
+- Define applied sociology and real-life applications of sociology.
 
 ## Initial Reflection
 
@@ -1167,13 +1166,9 @@ Explanatory research focuses on why something happens. It looks at relationships
 
 outcomes. It answers questions such as the following:
 
-## ADA Accommodation
-
 Why does this happen? What factors influenceUniversity this outcome? © 2020 Western Governors – WGU. All rights reserved.
 
-## Privacy Policy | Terms of Service |
-
-## Honor Code
+| Honor Code
 
 Key takeaway: Descriptive research explains what is happening. Explanatory research explains why it is happening.
 

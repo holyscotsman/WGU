@@ -1,6 +1,9 @@
 ---
 title: S1 2.2 Stakeholder Engagement and Communication
 objectives: s1
+lesson: s1-l2
+page: 2.2
+kind: page
 ---
 # S1 2.2 Stakeholder Engagement and Communication
 
@@ -10,11 +13,9 @@ Describe the communication methods used by the project manager.
 
 In conjunction with the project principles, the eight project performance domains function as an integrated system and are interdependent, ensuring the project's successful execution and achieving its desired results. Each domain provides activities and functions adaptable to an organization's specific needs and capabilities, among other variables.
 
-ADA Accommodation © 2020 Western Governors University – WGU. All rights reserved.
+All rights reserved.
 
-## Privacy Policy | Terms of Service |
-
-## Honor Code
+| Honor Code
 
 12 Principles and 8 Performance Domains are shown. This depicts a side-by-side image, to show how the Project Management twelve Principles and eight Performance Domains are independent yet can function as an integrated system. The left column displays the Standard for Project Management Principles; Stakeholders, Team, Leadership, Risk, Tailor, Steward, Value, Quality, Interactions, Complexity, Change, and Adaptability. These principles point directly to the PMBOK Guide 7e, performance domains in the right column; Stakeholders, Team, Uncertainty, Tailoring, Approach, Planning, Work, and Delivery.
 

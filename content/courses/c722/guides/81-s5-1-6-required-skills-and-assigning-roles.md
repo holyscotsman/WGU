@@ -1,6 +1,9 @@
 ---
 title: S5 1.6 Required Skills and Assigning Roles
 objectives: s5
+lesson: s5-l1
+page: 1.6
+kind: page
 ---
 # S5 1.6 Required Skills and Assigning Roles
 

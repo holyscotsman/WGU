@@ -1,6 +1,9 @@
 ---
 title: S4 3.1 Gender Inequality
 objectives: s4
+lesson: s4-l3
+page: 3.1
+kind: page
 ---
 # S4 3.1 Gender Inequality
 

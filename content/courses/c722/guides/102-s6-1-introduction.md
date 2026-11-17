@@ -1,14 +1,17 @@
 ---
 title: S6 1 Introduction
 objectives: s6
+lesson: s6-l1
+kind: intro
 ---
 # S6 1 Introduction
 
 ## Learning Objectives
 
-Consider the following learning objectives as you move through the lesson: Describe common techniques used to estimate activity duration. Construct an activity duration estimate.
+Consider the following learning objectives as you move through the lesson:
 
-An analog clock overlays a calendar referring to the estimation of activities. STILLFX/iStock / Getty Images Plus via Getty Images.
+- Describe common techniques used to estimate activity duration.
+- Construct an activity duration estimate.
 
 As described in a previous section, the work breakdown structure (WBS) identifies the specific work activities necessary to complete the project. These activities are the starting point for developing the project schedule. Like much of project planning, developing the schedule is an iterative process. The team works from the WBS, risk register, and budget, but additional information will be identified during the development of the schedule that will require changes to those initial documents. This lesson will showcase the PMBOK 7 performance domains of Team, Development Approach, Planning, Delivery, Measurement, and Uncertainty. It will also focus on the processes used to estimate the time required to complete the work activities. A major component of the time estimates will be labor hours, which will feed back to the budgeting process to ensure that appropriate labor dollars have been allocated. Other time considerations include the following:
 

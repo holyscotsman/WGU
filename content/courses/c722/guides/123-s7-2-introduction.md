@@ -1,12 +1,18 @@
 ---
 title: S7 2 Introduction
 objectives: s7
+lesson: s7-l2
+kind: intro
 ---
 # S7 2 Introduction
 
 ## Learning Objectives
 
-Consider the following learning objectives as you move through the lesson: Describe how managers monitor against project baselines. Describe project change management processes. Describe the principles of quality management.
+Consider the following learning objectives as you move through the lesson:
+
+- Describe how managers monitor against project baselines.
+- Describe project change management processes.
+- Describe the principles of quality management.
 
 ## Overview
 

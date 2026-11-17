@@ -1,6 +1,9 @@
 ---
 title: S5 1.1 Defining Families and Marriage
 objectives: s5
+lesson: s5-l1
+page: 1.1
+kind: page
 ---
 # S5 1.1 Defining Families and Marriage
 

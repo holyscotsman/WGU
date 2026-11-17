@@ -1,6 +1,9 @@
 ---
 title: 1.6 Sustainability
 objectives: 2.6
+lesson: s1-l1
+page: 1.6
+kind: page
 ---
 # 1.6 Sustainability
 

@@ -1,6 +1,9 @@
 ---
 title: S1 3.1 Advantages and Disadvantages of Common Types of Organizational Structures
 objectives: s1
+lesson: s1-l3
+page: 3.1
+kind: page
 ---
 # S1 3.1 Advantages and Disadvantages of Common Types of Organizational Structures
 

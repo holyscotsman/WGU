@@ -1,8 +1,11 @@
 ---
-title: S2 2.8 Scenario- The Impact of Project Cost
+title: S2 2.8 Scenario: The Impact of Project Cost
 objectives: s2
+lesson: s2-l2
+page: 2.8
+kind: page
 ---
-# S2 2.8 Scenario- The Impact of Project Cost
+# S2 2.8 Scenario: The Impact of Project Cost
 
 ## Learning Objectives
 

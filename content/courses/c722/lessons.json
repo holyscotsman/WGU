@@ -1,0 +1,152 @@
+[
+ {
+  "id": "s1-l0",
+  "section": "s1",
+  "number": 0,
+  "title": "Section overview"
+ },
+ {
+  "id": "s1-l1",
+  "section": "s1",
+  "number": 1,
+  "title": "Projects and Project Management"
+ },
+ {
+  "id": "s1-l2",
+  "section": "s1",
+  "number": 2,
+  "title": "The Project Manager, Stakeholders and Communication"
+ },
+ {
+  "id": "s1-l3",
+  "section": "s1",
+  "number": 3,
+  "title": "Organizational Structures and the PMO"
+ },
+ {
+  "id": "s2-l0",
+  "section": "s2",
+  "number": 0,
+  "title": "Section overview"
+ },
+ {
+  "id": "s2-l1",
+  "section": "s2",
+  "number": 1,
+  "title": "The Phases of the Project Life Cycle"
+ },
+ {
+  "id": "s2-l2",
+  "section": "s2",
+  "number": 2,
+  "title": "Constraints, Baselines and the Triple Constraint"
+ },
+ {
+  "id": "s3-l0",
+  "section": "s3",
+  "number": 0,
+  "title": "Section overview"
+ },
+ {
+  "id": "s3-l1",
+  "section": "s3",
+  "number": 1,
+  "title": "Project Selection Models"
+ },
+ {
+  "id": "s4-l0",
+  "section": "s4",
+  "number": 0,
+  "title": "Section overview"
+ },
+ {
+  "id": "s4-l1",
+  "section": "s4",
+  "number": 1,
+  "title": "Project Management Methods and the Five Processes"
+ },
+ {
+  "id": "s5-l0",
+  "section": "s5",
+  "number": 0,
+  "title": "Section overview"
+ },
+ {
+  "id": "s5-l1",
+  "section": "s5",
+  "number": 1,
+  "title": "Project Planning and the Project Scope"
+ },
+ {
+  "id": "s5-l2",
+  "section": "s5",
+  "number": 2,
+  "title": "The Work Breakdown Structure"
+ },
+ {
+  "id": "s5-l3",
+  "section": "s5",
+  "number": 3,
+  "title": "Project Risk"
+ },
+ {
+  "id": "s5-l4",
+  "section": "s5",
+  "number": 4,
+  "title": "Estimating and Budgeting"
+ },
+ {
+  "id": "s6-l0",
+  "section": "s6",
+  "number": 0,
+  "title": "Section overview"
+ },
+ {
+  "id": "s6-l1",
+  "section": "s6",
+  "number": 1,
+  "title": "Estimating Activity Durations"
+ },
+ {
+  "id": "s6-l2",
+  "section": "s6",
+  "number": 2,
+  "title": "Network Diagrams and Gantt Charts"
+ },
+ {
+  "id": "s6-l3",
+  "section": "s6",
+  "number": 3,
+  "title": "The Critical Path and Schedule Compression"
+ },
+ {
+  "id": "s7-l0",
+  "section": "s7",
+  "number": 0,
+  "title": "Section overview"
+ },
+ {
+  "id": "s7-l1",
+  "section": "s7",
+  "number": 1,
+  "title": "Developing Project Teams"
+ },
+ {
+  "id": "s7-l2",
+  "section": "s7",
+  "number": 2,
+  "title": "Monitoring, Controlling and Change Management"
+ },
+ {
+  "id": "s7-l3",
+  "section": "s7",
+  "number": 3,
+  "title": "Earned Value Management"
+ },
+ {
+  "id": "s7-l4",
+  "section": "s7",
+  "number": 4,
+  "title": "Project Closeout"
+ }
+]

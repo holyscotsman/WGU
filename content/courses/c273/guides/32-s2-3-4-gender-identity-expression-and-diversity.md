@@ -1,6 +1,9 @@
 ---
 title: S2 3.4 Gender Identity, Expression, and Diversity
 objectives: s2
+lesson: s2-l3
+page: 3.4
+kind: page
 ---
 # S2 3.4 Gender Identity, Expression, and Diversity
 

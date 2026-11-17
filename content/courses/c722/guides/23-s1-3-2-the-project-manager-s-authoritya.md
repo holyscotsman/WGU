@@ -1,6 +1,9 @@
 ---
 title: S1 3.2 The Project Manager's Authoritya
 objectives: s1
+lesson: s1-l3
+page: 3.2
+kind: page
 ---
 # S1 3.2 The Project Manager's Authoritya
 

@@ -1,6 +1,9 @@
 ---
 title: S4 3.2 Inequality and Sexuality
 objectives: s4
+lesson: s4-l3
+page: 3.2
+kind: page
 ---
 # S4 3.2 Inequality and Sexuality
 

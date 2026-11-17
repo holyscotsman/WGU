@@ -1,6 +1,9 @@
 ---
 title: S1 3.2 Sociological Research Methods
 objectives: s1
+lesson: s1-l3
+page: 3.2
+kind: page
 ---
 # S1 3.2 Sociological Research Methods
 
@@ -31,13 +34,9 @@ Explanatory research focuses on why something happens. It looks at relationships
 
 outcomes. It answers questions such as the following:
 
-## ADA Accommodation
-
 Why does this happen? What factors influenceUniversity this outcome? © 2020 Western Governors – WGU. All rights reserved.
 
-## Privacy Policy | Terms of Service |
-
-## Honor Code
+| Honor Code
 
 Key takeaway: Descriptive research explains what is happening. Explanatory research explains why it is happening.
 

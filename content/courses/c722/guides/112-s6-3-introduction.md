@@ -1,6 +1,8 @@
 ---
 title: S6 3 Introduction
 objectives: s6
+lesson: s6-l3
+kind: intro
 ---
 # S6 3 Introduction
 

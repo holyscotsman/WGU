@@ -1,6 +1,9 @@
 ---
 title: S3 1.6 The Payback Period
 objectives: s3
+lesson: s3-l1
+page: 1.6
+kind: page
 ---
 # S3 1.6 The Payback Period
 

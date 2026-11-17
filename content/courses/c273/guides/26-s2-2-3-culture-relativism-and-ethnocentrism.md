@@ -1,6 +1,9 @@
 ---
 title: S2 2.3 Culture Relativism and Ethnocentrism
 objectives: s2
+lesson: s2-l2
+page: 2.3
+kind: page
 ---
 # S2 2.3 Culture Relativism and Ethnocentrism
 

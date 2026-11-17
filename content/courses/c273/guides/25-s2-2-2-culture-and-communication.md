@@ -1,6 +1,9 @@
 ---
 title: S2 2.2 Culture and Communication
 objectives: s2
+lesson: s2-l2
+page: 2.2
+kind: page
 ---
 # S2 2.2 Culture and Communication
 
@@ -20,11 +23,9 @@ People use symbols to communicate ideas and make sense of the world around them.
 
 Because symbols are socially constructed, their meanings can vary across societies and over time. For example, a thumbs-up gesture is commonly used in the United States to signal approval or agreement. However, in some cultures, such as Russia and Australia, this same gesture can be interpreted as offensive. This difference shows that symbols only have meaning within a shared cultural context.
 
-ADA Accommodation © 2020 Western Governors University – WGU. All rights reserved.
+All rights reserved.
 
-## Privacy Policy | Terms of Service |
-
-## Honor Code
+| Honor Code
 
 This image displays a grid of simple symbols used in everyday life. The symbols include a stop sign, a flag, a heart, a graduation cap, rings, an X mark, a thumbs up, and a Wi Fi signal. Each symbol represents a shared meaning understood within a culture, such as stopping, love, approval, or connection.
 

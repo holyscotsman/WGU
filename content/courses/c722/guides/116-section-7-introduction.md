@@ -1,6 +1,8 @@
 ---
 title: Section 7: Introduction
 objectives: s7
+lesson: s7-l0
+kind: section-intro
 ---
 # Section 7: Introduction
 

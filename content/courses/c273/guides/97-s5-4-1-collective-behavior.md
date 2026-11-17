@@ -1,6 +1,9 @@
 ---
 title: S5 4.1 Collective Behavior
 objectives: s5
+lesson: s5-l4
+page: 4.1
+kind: page
 ---
 # S5 4.1 Collective Behavior
 

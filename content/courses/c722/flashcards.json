@@ -3,1524 +3,2115 @@
   "id": "c722-wb1",
   "objective": "s1",
   "front": "Stewardship",
-  "back": "Be a diligent, respectful, and caring steward.\nExample: A PM safeguards client funds and only spends on approved project activities."
+  "back": "Be a diligent, respectful, and caring steward.\nExample: A PM safeguards client funds and only spends on approved project activities.",
+  "lesson": "s1-l2",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb2",
   "objective": "s1",
   "front": "Team",
-  "back": "Create a collaborative team environment.\nExample: A cross-functional team of developers, designers, and testers collaborates daily to deliver a new app."
+  "back": "Create a collaborative ____ environment.\nExample: A cross-functional ____ of developers, designers, and testers collaborates daily to deliver a new app.",
+  "raw": "Create a collaborative team environment.\nExample: A cross-functional team of developers, designers, and testers collaborates daily to deliver a new app.",
+  "lesson": "s1-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb3",
   "objective": "s1",
   "front": "Stakeholders",
-  "back": "Effectively engage with stakeholders.\nExample: The client, end users, sponsor, and vendors are all stakeholders in a software rollout."
+  "back": "Effectively engage with ____.\nExample: The client, end users, sponsor, and vendors are all ____ in a software rollout.",
+  "raw": "Effectively engage with stakeholders.\nExample: The client, end users, sponsor, and vendors are all stakeholders in a software rollout.",
+  "lesson": "s1-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb4",
   "objective": "s1",
   "front": "Value",
-  "back": "Focus on value.\nExample: Looks differently for every stakeholder.  (ie) Finanacial gain, social goods or benefits"
+  "back": "Focus on ____.\nExample: Looks differently for every stakeholder.  (ie) Finanacial gain, social goods or benefits",
+  "raw": "Focus on value.\nExample: Looks differently for every stakeholder.  (ie) Finanacial gain, social goods or benefits",
+  "lesson": "s1-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb5",
   "objective": "s1",
   "front": "Systems thinking",
-  "back": "Recognize, evaluate, and respond to the system interactions.\nExample: A PM considers how a delayed shipment will ripple into production, sales, and customer support."
+  "back": "Recognize, evaluate, and respond to the system interactions.\nExample: A PM considers how a delayed shipment will ripple into production, sales, and customer support.",
+  "lesson": "s1-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb6",
   "objective": "s1",
   "front": "Leadership",
-  "back": "Demonstrate leadership behaviors to support individual and team needs.\nExample: A PM coaches a struggling team member instead of simply reassigning the task."
+  "back": "Demonstrate ____ behaviors to support individual and team needs.\nExample: A PM coaches a struggling team member instead of simply reassigning the task.",
+  "raw": "Demonstrate leadership behaviors to support individual and team needs.\nExample: A PM coaches a struggling team member instead of simply reassigning the task.",
+  "lesson": "s1-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb7",
   "objective": "s1",
   "front": "Tailoring",
-  "back": "Tailor based on context.\nExample: Every project is unique Example: Artifacts, Development approach, Governance, Methods, and processes."
+  "back": "Tailor based on context.\nExample: Every project is unique Example: Artifacts, Development approach, Governance, Methods, and processes.",
+  "lesson": "s1-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb8",
   "objective": "s1",
   "front": "Quality",
-  "back": "Build quality into processes and products (deliverables).\nExample: The team runs code reviews and user testing before each release to catch defects early."
+  "back": "Build ____ into processes and products (deliverables).\nExample: The team runs code reviews and user testing before each release to catch defects early.",
+  "raw": "Build quality into processes and products (deliverables).\nExample: The team runs code reviews and user testing before each release to catch defects early.",
+  "lesson": "s1-l2",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb9",
   "objective": "s1",
   "front": "Complexity",
-  "back": "Navigate complexity.\nExample: A multi-country product launch involves multiple regulations, currencies, and time zones."
+  "back": "Navigate ____.\nExample: A multi-country product launch involves multiple regulations, currencies, and time zones.",
+  "raw": "Navigate complexity.\nExample: A multi-country product launch involves multiple regulations, currencies, and time zones.",
+  "lesson": "s1-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb10",
   "objective": "s1",
   "front": "Risk",
-  "back": "Optimize risk response.\nExample: The PM identifies a key vendor's financial instability as a risk and lines up a backup supplier."
+  "back": "Optimize ____ response.\nExample: The PM identifies a key vendor's financial instability as a ____ and lines up a backup supplier.",
+  "raw": "Optimize risk response.\nExample: The PM identifies a key vendor's financial instability as a risk and lines up a backup supplier.",
+  "lesson": "s1-l3",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb11",
   "objective": "s1",
   "front": "Adaptability and Resiliency",
-  "back": "Embrace adaptability and resiliency.\nExample: When a competitor releases a similar product early, the team pivots the launch plan."
+  "back": "Embrace ____.\nExample: When a competitor releases a similar product early, the team pivots the launch plan.",
+  "raw": "Embrace adaptability and resiliency.\nExample: When a competitor releases a similar product early, the team pivots the launch plan.",
+  "lesson": "s1-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb12",
   "objective": "s1",
   "front": "Change",
-  "back": "Enable change to achieve the envisioned future state.\nExample: The PM helps the organization transition from paper timesheets to a new digital system."
+  "back": "Enable ____ to achieve the envisioned future state.\nExample: The PM helps the organization transition from paper timesheets to a new digital system.",
+  "raw": "Enable change to achieve the envisioned future state.\nExample: The PM helps the organization transition from paper timesheets to a new digital system.",
+  "lesson": "s1-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb13",
   "objective": "s1",
   "front": "Responsibility",
-  "back": "The duty to take ownership of the decisions made or failed to make as a practitioner, the actions you take or fail to take, and the consequences that result.\nExample: A PM who misses a deadline explains what went wrong and proposes a recovery plan rather than hiding it."
+  "back": "The duty to take ownership of the decisions made or failed to make as a practitioner, the actions you take or fail to take, and the consequences that result.\nExample: A PM who misses a deadline explains what went wrong and proposes a recovery plan rather than hiding it.",
+  "lesson": "s1-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb14",
   "objective": "s1",
   "front": "Respect",
-  "back": "The duty to show a high regard for yourself, others, and the resources entrusted to you. Resources entrusted to you may include people, money, reputation, the safety of others, and natural and environmental resources.\nExample: A PM listens to a junior team member's schedule concern instead of dismissing it."
+  "back": "The duty to show a high regard for yourself, others, and the resources entrusted to you. Resources entrusted to you may include people, money, reputation, the safety of others, and natural and environmental resources.\nExample: A PM listens to a junior team member's schedule concern instead of dismissing it.",
+  "lesson": "s1-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb15",
   "objective": "s1",
   "front": "Fairness",
-  "back": "The duty to make decisions and act impartially and objectively. Your conduct must be free from competing self-interest, prejudice, and favoritism.\nExample: A PM awards the vendor contract based on bid criteria, not personal friendship."
+  "back": "The duty to make decisions and act impartially and objectively. Your conduct must be free from competing self-interest, prejudice, and favoritism.\nExample: A PM awards the vendor contract based on bid criteria, not personal friendship.",
+  "lesson": "s1-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb16",
   "objective": "s1",
   "front": "Honesty",
-  "back": "The duty to understand the truth and act in a truthful manner both in your communications and in your conduct.\nExample: A PM tells the sponsor the project is behind schedule instead of downplaying the risk."
+  "back": "The duty to understand the truth and act in a truthful manner both in your communications and in your conduct.\nExample: A PM tells the sponsor the project is behind schedule instead of downplaying the risk.",
+  "lesson": "s1-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb17",
   "objective": "s1",
   "front": "Projects",
-  "back": "Example: Building a new company website is a project — it has a defined start, end, and unique deliverable."
+  "back": "Example: Building a new company website is a project — it has a defined start, end, and unique deliverable.",
+  "lesson": "s1-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb18",
   "objective": "s1",
   "front": "Operations",
-  "back": "Example: Running the customer support call center day after day is an ongoing operation, not a project."
+  "back": "The day-to-day activities in which organizations engage.\nExample: Running the customer support call center day after day is an ongoing operation, not a project.",
+  "definitionSource": "lesson",
+  "raw": "Operations are the day-to-day activities in which organizations engage.\nExample: Running the customer support call center day after day is an ongoing operation, not a project.",
+  "lesson": "s1-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb19",
   "objective": "s1",
   "front": "Product",
-  "back": "Example: The finished mobile app delivered to the client is the project's product."
+  "back": "Example: The finished mobile app delivered to the client is the project's ____.",
+  "raw": "Example: The finished mobile app delivered to the client is the project's product.",
+  "lesson": "s1-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb20",
   "objective": "s1",
   "front": "Business Scenario",
-  "back": "Example: A retailer needs a new inventory system because manual tracking is causing stockouts."
+  "back": "Example: A retailer needs a new inventory system because manual tracking is causing stockouts.",
+  "lesson": "s1-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb21",
   "objective": "s1",
   "front": "Business Strategy",
-  "back": "Example: A company's strategy to become the low-cost leader in its market shapes which projects it selects."
+  "back": "Example: A company's strategy to become the low-cost leader in its market shapes which projects it selects.",
+  "lesson": "s1-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb22",
   "objective": "s1",
   "front": "Subject Matter Experts (Lesson 1.5)",
-  "back": "Example: A licensed electrician is brought in to validate the wiring plan for a renovation project."
+  "back": "Example: A licensed electrician is brought in to validate the wiring plan for a renovation project.",
+  "lesson": "s1-l3",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb23",
   "objective": "s1",
   "front": "Program",
-  "back": "Example: A university's “Campus Modernization Program” includes several related projects: a new library, dorms, and parking garage."
+  "back": "A group of related projects.\nExample: A university's “Campus Modernization ____” includes several related projects: a new library, dorms, and parking garage.",
+  "definitionSource": "lesson",
+  "raw": "A program is a group of related projects.\nExample: A university's “Campus Modernization Program” includes several related projects: a new library, dorms, and parking garage.",
+  "lesson": "s1-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb24",
   "objective": "s1",
   "front": "Portfolio",
-  "back": "Example: A company's portfolio includes its IT programs, marketing projects, and facilities projects, all prioritized together."
+  "back": "A group of related programs that support a long-term company goal or objective.\nExample: A company's ____ includes its IT programs, marketing projects, and facilities projects, all prioritized together.",
+  "definitionSource": "lesson",
+  "raw": "A portfolio is a group of related programs that support a long-term company goal or objective.\nExample: A company's portfolio includes its IT programs, marketing projects, and facilities projects, all prioritized together.",
+  "lesson": "s1-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb25",
   "objective": "s1",
   "front": "Charter",
-  "back": "Example: The project charter formally authorizes the PM to begin the ERP implementation and use company resources."
+  "back": "A document that, like a contract, is agreed upon by the sponsor and key stakeholders.\nExample: The project ____ formally authorizes the PM to begin the ERP implementation and use company resources.",
+  "definitionSource": "lesson",
+  "raw": "The charter is a document that, like a contract, is agreed upon by the sponsor and key stakeholders.\nExample: The project charter formally authorizes the PM to begin the ERP implementation and use company resources.",
+  "lesson": "s1-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb26",
   "objective": "s1",
   "front": "Business Case",
-  "back": "Example: The business case shows the new system will pay for itself in cost savings within 18 months."
+  "back": "Example: The ____ shows the new system will pay for itself in cost savings within 18 months.",
+  "raw": "Example: The business case shows the new system will pay for itself in cost savings within 18 months.",
+  "lesson": "s1-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb27",
   "objective": "s1",
   "front": "Project Life Cycle Phases",
-  "back": "Example: A construction project moves through Defining, Planning, Executing, and Closing phases from concept to ribbon-cutting."
+  "back": "Example: A construction project moves through Defining, Planning, Executing, and Closing phases from concept to ribbon-cutting.",
+  "lesson": "s1-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb28",
   "objective": "s1",
   "front": "Defining",
-  "back": "Example: The team clarifies the project's purpose and high-level scope before any detailed planning begins."
+  "back": "Example: The team clarifies the project's purpose and high-level scope before any detailed planning begins.",
+  "lesson": "s1-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb29",
   "objective": "s1",
   "front": "Planning",
-  "back": "Example: The PM builds the schedule, budget, and risk register before work starts."
+  "back": "Example: The PM builds the schedule, budget, and risk register before work starts.",
+  "lesson": "s1-l2",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb30",
   "objective": "s1",
   "front": "Executing",
-  "back": "Example: The construction crew builds the structure according to the approved plans."
+  "back": "Example: The construction crew builds the structure according to the approved plans.",
+  "lesson": "s1-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb31",
   "objective": "s1",
   "front": "Closing",
-  "back": "Example: The PM collects final sign-off from the client and archives project documents."
+  "back": "Example: The PM collects final sign-off from the client and archives project documents.",
+  "lesson": "s1-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb32",
   "objective": "s1",
   "front": "SMART Goals",
-  "back": "Example: “Reduce customer complaints by 20% by the end of Q3” is a SMART goal."
+  "back": "Example: “Reduce customer complaints by 20% by the end of Q3” is a SMART goal.",
+  "lesson": "s1-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb33",
   "objective": "s1",
   "front": "Challenges of Project Management",
-  "back": "Example: Competing stakeholder priorities can make it hard to keep a project on scope."
+  "back": "Example: Competing stakeholder priorities can make it hard to keep a project on scope.",
+  "lesson": "s1-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb34",
   "objective": "s1",
   "front": "Key Motivators to Adopt Project Management",
-  "back": "Example: A company adopts formal PM practices after repeatedly missing deadlines and budgets."
+  "back": "Example: A company adopts formal PM practices after repeatedly missing deadlines and budgets.",
+  "lesson": "s1-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb35",
   "objective": "s1",
   "front": "Project Management",
-  "back": "Example: Applying knowledge, tools, and schedules to deliver a new product launch on time and on budget."
+  "back": "The act of managing a project and encompasses the use of knowledge, skills, tools, and techniques to ensure that the project meets its goals.\nExample: Applying knowledge, tools, and schedules to deliver a new product launch on time and on budget.",
+  "definitionSource": "lesson",
+  "raw": "Project management is the act of managing a project and encompasses the use of knowledge, skills, tools, and techniques to ensure that the project meets its goals.\nExample: Applying knowledge, tools, and schedules to deliver a new product launch on time and on budget.",
+  "lesson": "s1-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb36",
   "objective": "s1",
   "front": "Project Manager Key Skills and Responsibilities",
-  "back": "Example: A PM needs communication, budgeting, and risk management skills to keep a construction project on track."
+  "back": "Example: A PM needs communication, budgeting, and risk management skills to keep a construction project on track.",
+  "lesson": "s1-l2",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb37",
   "objective": "s1",
   "front": "Working PM vs Dedicated PM",
-  "back": "Example: A working PM also codes on the project team, while a dedicated PM manages full-time without other assigned tasks."
+  "back": "Example: A working PM also codes on the project team, while a dedicated PM manages full-time without other assigned tasks.",
+  "lesson": "s1-l3",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb38",
   "objective": "s1",
   "front": "Stakeholder Engagement",
-  "back": "Example: The PM holds monthly briefings so the sponsor and end users stay informed and involved."
+  "back": "Example: The PM holds monthly briefings so the sponsor and end users stay informed and involved.",
+  "lesson": "s1-l2",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb39",
   "objective": "s1",
   "front": "Stakeholder Matrix",
-  "back": "Example: A matrix plots the CFO as high power/high interest, so the PM prioritizes frequent, detailed updates to her."
+  "back": "Example: A matrix plots the CFO as high power/high interest, so the PM prioritizes frequent, detailed updates to her.",
+  "lesson": "s1-l2",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb40",
   "objective": "s1",
   "front": "Communication Plan",
-  "back": "Example: The plan specifies weekly status emails to the team and monthly steering-committee reports to executives."
+  "back": "Example: The plan specifies weekly status emails to the team and monthly steering-committee reports to executives.",
+  "lesson": "s1-l2",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb41",
   "objective": "s1",
   "front": "Status Meetings",
-  "back": "Example: The team meets every Monday to review progress, blockers, and next steps."
+  "back": "Example: The team meets every Monday to review progress, blockers, and next steps.",
+  "lesson": "s1-l2",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb42",
   "objective": "s1",
   "front": "Change requests (CR)",
-  "back": "Example: The client submits a change request asking to add a new feature after the scope was already approved."
+  "back": "Example: The client submits a change request asking to add a new feature after the scope was already approved.",
+  "lesson": "s1-l2",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb43",
   "objective": "s1",
   "front": "Change control board (CCB)",
-  "back": "Example: The CCB reviews the client's requested scope change and approves an updated budget and timeline."
+  "back": "Example: The ____ reviews the client's requested scope change and approves an updated budget and timeline.",
+  "raw": "Example: The CCB reviews the client's requested scope change and approves an updated budget and timeline.",
+  "lesson": "s1-l2",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb44",
   "objective": "s1",
   "front": "Project Reports",
-  "back": "Example: A weekly dashboard shows the project is 60% complete and on budget."
+  "back": "Example: A weekly dashboard shows the project is 60% complete and on budget.",
+  "lesson": "s1-l2",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb45",
   "objective": "s1",
   "front": "Collaboration Tools",
-  "back": "Example: The team uses a shared project board to track tasks and deadlines in real time."
+  "back": "Example: The team uses a shared project board to track tasks and deadlines in real time.",
+  "lesson": "s1-l2",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb46",
   "objective": "s1",
   "front": "Work Breakdown Structure",
-  "back": "Example: The WBS breaks “Build the House” into foundation, framing, plumbing, electrical, and finishing work packages."
+  "back": "Example: The WBS breaks “Build the House” into foundation, framing, plumbing, electrical, and finishing work packages.",
+  "lesson": "s1-l2",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb47",
   "objective": "s1",
   "front": "Conflict Management",
-  "back": "Example: The PM mediates a disagreement between two team members about task ownership."
+  "back": "Example: The PM mediates a disagreement between two team members about task ownership.",
+  "lesson": "s1-l2",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb48",
   "objective": "s1",
   "front": "Project Management Standards and Purpose",
-  "back": "Example: PMI's standards give PMs a common vocabulary and process framework across industries."
+  "back": "Example: PMI's standards give PMs a common vocabulary and process framework across industries.",
+  "lesson": "s1-l2",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb49",
   "objective": "s1",
   "front": "PMI",
-  "back": "Example: The Project Management Institute publishes the PMBOK Guide and offers the PMP certification."
+  "back": "The largest organization with international standards for setting rules and methodologies.\nExample: The Project Management Institute publishes the PMBOK Guide and offers the PMP certification.",
+  "definitionSource": "lesson",
+  "raw": "PMI is the largest organization with international standards for setting rules and methodologies.\nExample: The Project Management Institute publishes the PMBOK Guide and offers the PMP certification.",
+  "lesson": "s1-l2",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb50",
   "objective": "s1",
   "front": "PMBOK",
-  "back": "Example: The PMBOK Guide outlines widely accepted project management practices and knowledge areas."
+  "back": "Example: The ____ Guide outlines widely accepted project management practices and knowledge areas.",
+  "raw": "Example: The PMBOK Guide outlines widely accepted project management practices and knowledge areas.",
+  "lesson": "s1-l2",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb51",
   "objective": "s1",
   "front": "PMP/CAPM",
-  "back": "Example: A PM earns the PMP certification to demonstrate proven project leadership experience."
+  "back": "Example: A PM earns the PMP certification to demonstrate proven project leadership experience.",
+  "lesson": "s1-l2",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb52",
   "objective": "s1",
   "front": "AXELOS",
-  "back": "Example: AXELOS owns and maintains the PRINCE2 project management methodology."
+  "back": "Example: ____ owns and maintains the PRINCE2 project management methodology.",
+  "raw": "Example: AXELOS owns and maintains the PRINCE2 project management methodology.",
+  "lesson": "s1-l2",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb53",
   "objective": "s1",
   "front": "PRINCE2",
-  "back": "Example: A UK government IT project follows PRINCE2's stage-gate process for approvals."
+  "back": "Example: A UK government IT project follows ____'s stage-gate process for approvals.",
+  "raw": "Example: A UK government IT project follows PRINCE2's stage-gate process for approvals.",
+  "lesson": "s1-l2",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb54",
   "objective": "s1",
   "front": "Functional/Departmentalized Org",
-  "back": "Example: Employees report to a marketing manager and are loaned to projects only part-time."
+  "back": "Example: Employees report to a marketing manager and are loaned to projects only part-time.",
+  "lesson": "s1-l3",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb55",
   "objective": "s1",
   "front": "Matrix Org",
-  "back": "Example: A team member reports to both their functional manager and the project manager at the same time."
+  "back": "Example: A team member reports to both their functional manager and the project manager at the same time.",
+  "lesson": "s1-l2",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb56",
   "objective": "s1",
   "front": "Strong/Weak Matrix Org",
-  "back": "Example: In a strong matrix, the PM controls the budget and priorities; in a weak matrix, the functional manager does."
+  "back": "Example: In a strong matrix, the PM controls the budget and priorities; in a weak matrix, the functional manager does.",
+  "lesson": "s1-l3",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb57",
   "objective": "s1",
   "front": "Projectized Org",
-  "back": "Example: Staff are assigned full-time to the project and report directly to the PM until the project ends."
+  "back": "Example: Staff are assigned full-time to the project and report directly to the PM until the project ends.",
+  "lesson": "s1-l3",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb58",
   "objective": "s1",
   "front": "PMO",
-  "back": "Example: The PMO sets standard templates and reviews project health across the whole organization."
+  "back": "Example: The ____ sets standard templates and reviews project health across the whole organization.",
+  "raw": "Example: The PMO sets standard templates and reviews project health across the whole organization.",
+  "lesson": "s1-l2",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb59",
   "objective": "s1",
   "front": "Five Levels of project management maturity",
-  "back": "Example: An organization assesses itself as “Managed” rather than “Ad Hoc” based on how consistently it follows PM processes."
+  "back": "Example: An organization assesses itself as “Managed” rather than “Ad Hoc” based on how consistently it follows PM processes.",
+  "lesson": "s1-l3",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb60",
   "objective": "s1",
   "front": "OPM3 Organizational Maturity Levels",
-  "back": "Example: OPM3 helps an organization benchmark and improve its project management capability over time."
+  "back": "Example: OPM3 helps an organization benchmark and improve its project management capability over time.",
+  "lesson": "s1-l3",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb61",
   "objective": "s1",
   "front": "Ad Hoc",
-  "back": "Example: Each project team makes up its own process because there's no standard approach yet."
+  "back": "Example: Each project team makes up its own process because there's no standard approach yet.",
+  "lesson": "s1-l3",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb62",
   "objective": "s1",
   "front": "Planned",
-  "back": "Example: The organization has documented processes, but teams don't always follow them consistently."
+  "back": "Example: The organization has documented processes, but teams don't always follow them consistently.",
+  "lesson": "s1-l3",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb63",
   "objective": "s1",
   "front": "Managed",
-  "back": "Example: Leadership actively tracks whether teams are following the standard PM processes."
+  "back": "Example: Leadership actively tracks whether teams are following the standard PM processes.",
+  "lesson": "s1-l2",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb64",
   "objective": "s1",
   "front": "Integrated",
-  "back": "Example: PM processes are coordinated across departments and programs, not just within single projects."
+  "back": "Example: PM processes are coordinated across departments and programs, not just within single projects.",
+  "lesson": "s1-l3",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb65",
   "objective": "s1",
   "front": "Sustained",
-  "back": "Example: Continuous improvement of PM practices is built into how the organization operates long-term."
+  "back": "Example: Continuous improvement of PM practices is built into how the organization operates long-term.",
+  "lesson": "s1-l3",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb66",
   "objective": "s2",
   "front": "Defining",
-  "back": "Example: The team agrees on the project's purpose and boundaries before planning details."
+  "back": "Example: The team agrees on the project's purpose and boundaries before planning details.",
+  "lesson": "s2-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb67",
   "objective": "s2",
   "front": "Planning",
-  "back": "Example: The PM creates the schedule, budget, and communication plan."
+  "back": "Example: The PM creates the schedule, budget, and communication plan.",
+  "lesson": "s2-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb68",
   "objective": "s2",
   "front": "Executing",
-  "back": "Example: The team builds the deliverable according to the plan."
+  "back": "Example: The team builds the deliverable according to the plan.",
+  "lesson": "s2-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb69",
   "objective": "s2",
   "front": "Closing",
-  "back": "Example: The PM obtains client sign-off and closes out contracts."
+  "back": "Example: The PM obtains client sign-off and closes out contracts.",
+  "lesson": "s2-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb70",
   "objective": "s2",
   "front": "Project Scope",
-  "back": "Example: The scope states the website will include a homepage, product catalog, and checkout, but not a mobile app."
+  "back": "Example: The scope states the website will include a homepage, product catalog, and checkout, but not a mobile app.",
+  "lesson": "s2-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb71",
   "objective": "s2",
   "front": "Project Justification",
-  "back": "Example: The justification explains that the new system will cut processing time by 30%."
+  "back": "Example: The justification explains that the new system will cut processing time by 30%.",
+  "lesson": "s2-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb72",
   "objective": "s2",
   "front": "Project Sponsor",
-  "back": "Example: The VP of Operations sponsors the project and secures its funding."
+  "back": "Example: The VP of Operations sponsors the project and secures its funding.",
+  "lesson": "s2-l2",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb73",
   "objective": "s2",
   "front": "Project Charter",
-  "back": "Example: The charter names the PM and authorizes the project to begin."
+  "back": "Example: The charter names the PM and authorizes the project to begin.",
+  "lesson": "s2-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb74",
   "objective": "s2",
   "front": "Statement of Work",
-  "back": "Example: The SOW describes exactly what the contractor will deliver and by when."
+  "back": "Example: The SOW describes exactly what the contractor will deliver and by when.",
+  "lesson": "s2-l2",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb75",
   "objective": "s2",
   "front": "Scope",
-  "back": "Example: The scope defines that the project will renovate the kitchen but not the bathroom."
+  "back": "The number and type of features or functions.\nExample: The ____ defines that the project will renovate the kitchen but not the bathroom.",
+  "definitionSource": "lesson",
+  "raw": "Scope is the number and type of features or functions.\nExample: The scope defines that the project will renovate the kitchen but not the bathroom.",
+  "lesson": "s2-l2",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb76",
   "objective": "s2",
   "front": "Time",
-  "back": "Example: The project must finish before the store's holiday season begins."
+  "back": "Example: The project must finish before the store's holiday season begins.",
+  "lesson": "s2-l2",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb77",
   "objective": "s2",
   "front": "Cost",
-  "back": "Example: The renovation budget is capped at $50,000."
+  "back": "Example: The renovation budget is capped at $50,000.",
+  "lesson": "s2-l2",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb78",
   "objective": "s2",
   "front": "Scope Creep",
-  "back": "Example: The client keeps adding small features without adjusting the budget or timeline."
+  "back": "Example: The client keeps adding small features without adjusting the budget or timeline.",
+  "lesson": "s2-l2",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb79",
   "objective": "s2",
   "front": "Scope Reduction",
-  "back": "Example: To meet a fixed deadline, the team removes a planned feature from the release."
+  "back": "Example: To meet a fixed deadline, the team removes a planned feature from the release.",
+  "lesson": "s2-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb80",
   "objective": "s2",
   "front": "Project Baseline",
-  "back": "Example: The original approved budget and schedule serve as the baseline to measure performance against."
+  "back": "Example: The original approved budget and schedule serve as the baseline to measure performance against.",
+  "lesson": "s2-l2",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb81",
   "objective": "s2",
   "front": "Project Quality",
-  "back": "Example: The deliverable must meet the agreed acceptance criteria before the client signs off."
+  "back": "Example: The deliverable must meet the agreed acceptance criteria before the client signs off.",
+  "lesson": "s2-l2",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb82",
   "objective": "s3",
   "front": "Project Selection Model Criteria",
-  "back": "Example: A company evaluates potential projects against cost, risk, and strategic fit before choosing one."
+  "back": "Example: A company evaluates potential projects against cost, risk, and strategic fit before choosing one.",
+  "lesson": "s3-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb83",
   "objective": "s3",
   "front": "Realistic",
-  "back": "Example: The model only considers projects the organization actually has the resources to complete."
+  "back": "Example: The model only considers projects the organization actually has the resources to complete.",
+  "lesson": "s3-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb84",
   "objective": "s3",
   "front": "Capable",
-  "back": "Example: The selection model can evaluate projects across very different sizes and types."
+  "back": "Example: The selection model can evaluate projects across very different sizes and types.",
+  "lesson": "s3-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb85",
   "objective": "s3",
   "front": "Flexible",
-  "back": "Example: The model can be adjusted as the organization's priorities change."
+  "back": "Example: The model can be adjusted as the organization's priorities change.",
+  "lesson": "s3-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb86",
   "objective": "s3",
   "front": "Easy to Use",
-  "back": "Example: Managers can apply the selection model without needing advanced statistical training."
+  "back": "Example: Managers can apply the selection model without needing advanced statistical training.",
+  "lesson": "s3-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb87",
   "objective": "s3",
   "front": "Low Cost",
-  "back": "Example: The selection process itself shouldn't cost more than the value it helps capture."
+  "back": "Example: The selection process itself shouldn't cost more than the value it helps capture.",
+  "lesson": "s3-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb88",
   "objective": "s3",
   "front": "Comparable",
-  "back": "Example: The model lets the company rank a marketing project against an IT project on the same scale."
+  "back": "Example: The model lets the company rank a marketing project against an IT project on the same scale.",
+  "lesson": "s3-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb89",
   "objective": "s3",
   "front": "Non-numeric Selection Methods",
-  "back": "Example: A company picks a project simply because the CEO insists on it, without a formal scoring model."
+  "back": "Example: A company picks a project simply because the CEO insists on it, without a formal scoring model.",
+  "lesson": "s3-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb90",
   "objective": "s3",
   "front": "Competitive Necessity",
-  "back": "Example: A retailer launches online ordering because every competitor already offers it."
+  "back": "Example: A retailer launches online ordering because every competitor already offers it.",
+  "lesson": "s3-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb91",
   "objective": "s3",
   "front": "Operating Necessity",
-  "back": "Example: A factory repairs a failing roof because operations can't continue without it."
+  "back": "Example: A factory repairs a failing roof because operations can't continue without it.",
+  "lesson": "s3-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb92",
   "objective": "s3",
   "front": "Sacred Cow",
-  "back": "Example: A senior executive's pet project gets approved regardless of its financial return."
+  "back": "Example: A senior executive's pet project gets approved regardless of its financial return.",
+  "lesson": "s3-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb93",
   "objective": "s3",
   "front": "Checklist Model",
-  "back": "Example: The company scores each proposed project against a simple yes/no list of criteria."
+  "back": "Example: The company scores each proposed project against a simple yes/no list of criteria.",
+  "lesson": "s3-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb94",
   "objective": "s3",
   "front": "Numeric Selection Criteria",
-  "back": "Example: Projects are ranked using a formula based on cost, revenue, and risk scores."
+  "back": "Example: Projects are ranked using a formula based on cost, revenue, and risk scores.",
+  "lesson": "s3-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb95",
   "objective": "s3",
   "front": "Scoring Criteria",
-  "back": "Example: Each project earns points for strategic fit, cost, and expected revenue."
+  "back": "Example: Each project earns points for strategic fit, cost, and expected revenue.",
+  "lesson": "s3-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb96",
   "objective": "s3",
   "front": "Weighted Factor Scoring Model",
-  "back": "Example: Strategic fit is weighted at 40%, cost at 30%, and risk at 30% when ranking projects."
+  "back": "Example: Strategic fit is weighted at 40%, cost at 30%, and risk at 30% when ranking projects.",
+  "lesson": "s3-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb97",
   "objective": "s3",
   "front": "Time Value of Money",
-  "back": "Example: $10,000 today is worth more than $10,000 received five years from now."
+  "back": "Example: $10,000 today is worth more than $10,000 received five years from now.",
+  "lesson": "s3-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb98",
   "objective": "s3",
   "front": "Opportunity Cost",
-  "back": "Example: Choosing to fund Project A means giving up the potential return from Project B."
+  "back": "Example: Choosing to fund Project A means giving up the potential return from Project B.",
+  "lesson": "s3-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb99",
   "objective": "s3",
   "front": "Payback Period",
-  "back": "Example: The new equipment will pay for itself in two years of cost savings."
+  "back": "Example: The new equipment will pay for itself in two years of cost savings.",
+  "lesson": "s3-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb100",
   "objective": "s3",
   "front": "Internal Rate of Return",
-  "back": "Example: The project's IRR of 15% exceeds the company's 10% required return, so it's approved."
+  "back": "Example: The project's IRR of 15% exceeds the company's 10% required return, so it's approved.",
+  "lesson": "s3-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb101",
   "objective": "s3",
   "front": "Net Present Value",
-  "back": "Example: A project with a positive NPV is expected to add value after accounting for the time value of money."
+  "back": "Example: A project with a positive NPV is expected to add value after accounting for the time value of money.",
+  "lesson": "s3-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb102",
   "objective": "s3",
   "front": "Future Net Cash Flows",
-  "back": "Example: The project is expected to generate $20,000 in net cash flow each year for the next five years."
+  "back": "Example: The project is expected to generate $20,000 in net cash flow each year for the next five years.",
+  "lesson": "s3-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb103",
   "objective": "s3",
   "front": "Discounted Cash Flows",
-  "back": "Example: Future cash flows are discounted back to today's dollars to fairly compare projects of different lengths."
+  "back": "Example: Future cash flows are discounted back to today's dollars to fairly compare projects of different lengths.",
+  "lesson": "s3-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb104",
   "objective": "s4",
   "front": "PERT",
-  "back": "Example: PERT uses optimistic, pessimistic, and most likely estimates to calculate expected activity duration."
+  "back": "Example: ____ uses optimistic, pessimistic, and most likely estimates to calculate expected activity duration.",
+  "raw": "Example: PERT uses optimistic, pessimistic, and most likely estimates to calculate expected activity duration.",
+  "lesson": "s4-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb105",
   "objective": "s4",
   "front": "CPM",
-  "back": "Example: CPM identifies the sequence of tasks that determines the project's shortest possible duration."
+  "back": "Example: ____ identifies the sequence of tasks that determines the project's shortest possible duration.",
+  "raw": "Example: CPM identifies the sequence of tasks that determines the project's shortest possible duration.",
+  "lesson": "s4-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb106",
   "objective": "s4",
   "front": "CCPM",
-  "back": "Example: CCPM adds time buffers to protect the project schedule from resource conflicts and estimating errors."
+  "back": "Example: ____ adds time buffers to protect the project schedule from resource conflicts and estimating errors.",
+  "raw": "Example: CCPM adds time buffers to protect the project schedule from resource conflicts and estimating errors.",
+  "lesson": "s4-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb107",
   "objective": "s4",
   "front": "Waterfall Method",
-  "back": "Example: The team completes requirements, then design, then build, then test — each phase finishing before the next starts."
+  "back": "A traditional practice that found its best use in software and hardware development.\nExample: The team completes requirements, then design, then build, then test — each phase finishing before the next starts.",
+  "definitionSource": "lesson",
+  "raw": "The waterfall method is a traditional practice that found its best use in software and hardware development.\nExample: The team completes requirements, then design, then build, then test — each phase finishing before the next starts.",
+  "lesson": "s4-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb108",
   "objective": "s4",
   "front": "PRINCE2",
-  "back": "Example: A government project uses PRINCE2's defined stages and management products to control delivery."
+  "back": "Example: A government project uses ____'s defined stages and management products to control delivery.",
+  "raw": "Example: A government project uses PRINCE2's defined stages and management products to control delivery.",
+  "lesson": "s4-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb109",
   "objective": "s4",
   "front": "Complexity in PM",
-  "back": "Example: A project spanning five countries and three vendors is far more complex than a single-team internal project."
+  "back": "Example: A project spanning five countries and three vendors is far more complex than a single-team internal project.",
+  "lesson": "s4-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb110",
   "objective": "s4",
   "front": "Uncertainty in PM",
-  "back": "Example: A brand-new technology with no track record adds uncertainty to the project's cost and schedule estimates."
+  "back": "Example: A brand-new technology with no track record adds uncertainty to the project's cost and schedule estimates.",
+  "lesson": "s4-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb111",
   "objective": "s4",
   "front": "Initiating",
-  "back": "Example: The PM drafts and gets approval for the project charter."
+  "back": "Example: The PM drafts and gets approval for the project charter.",
+  "lesson": "s4-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb112",
   "objective": "s4",
   "front": "Planning",
-  "back": "Example: The team builds out the schedule, budget, and risk plan."
+  "back": "Example: The team builds out the schedule, budget, and risk plan.",
+  "lesson": "s4-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb113",
   "objective": "s4",
   "front": "Executing",
-  "back": "Example: The development team writes and tests the code."
+  "back": "Example: The development team writes and tests the code.",
+  "lesson": "s4-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb114",
   "objective": "s4",
   "front": "Monitoring & Controlling",
-  "back": "Example: The PM compares actual progress to the plan each week and adjusts as needed."
+  "back": "Example: The PM compares actual progress to the plan each week and adjusts as needed.",
+  "lesson": "s4-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb115",
   "objective": "s4",
   "front": "Closing",
-  "back": "Example: The PM finalizes documentation and releases the team from the project."
+  "back": "Example: The PM finalizes documentation and releases the team from the project.",
+  "lesson": "s4-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb116",
   "objective": "s4",
   "front": "Traditional Methods",
-  "back": "Example: A construction project plans the entire scope up front and follows it sequentially through completion."
+  "back": "Example: A construction project plans the entire scope up front and follows it sequentially through completion.",
+  "lesson": "s4-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb117",
   "objective": "s4",
   "front": "Iterative Methods (Sections 2 & 4)",
-  "back": "Example: The team builds a basic version first, then refines it in repeated cycles based on feedback."
+  "back": "Example: The team builds a basic version first, then refines it in repeated cycles based on feedback.",
+  "lesson": "s4-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb118",
   "objective": "s4",
   "front": "Agile Methods",
-  "back": "Example: A software team delivers working features every two weeks and adjusts priorities based on feedback."
+  "back": "Example: A software team delivers working features every two weeks and adjusts priorities based on feedback.",
+  "lesson": "s4-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb119",
   "objective": "s4",
   "front": "Scrum",
-  "back": "Example: The team works in two-week sprints with daily stand-ups and a sprint review at the end."
+  "back": "Example: The team works in two-week sprints with daily stand-ups and a sprint review at the end.",
+  "lesson": "s4-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb120",
   "objective": "s4",
   "front": "Extreme Project Management",
-  "back": "Example: A fast-moving startup adjusts its project goals weekly as market conditions shift."
+  "back": "Example: A fast-moving startup adjusts its project goals weekly as market conditions shift.",
+  "lesson": "s4-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb121",
   "objective": "s5",
   "front": "Project Charter",
-  "back": "Example: The charter authorizes the PM to begin work and outlines the project's high-level objectives."
+  "back": "A relatively brief document that provides a very high-level view of what the project entails.\nExample: The charter authorizes the PM to begin work and outlines the project's high-level objectives.",
+  "definitionSource": "lesson",
+  "raw": "The project charter is a relatively brief document that provides a very high-level view of what the project entails.\nExample: The charter authorizes the PM to begin work and outlines the project's high-level objectives.",
+  "lesson": "s5-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb122",
   "objective": "s5",
   "front": "Project Scope",
-  "back": "Example: The scope defines exactly what will and won't be included in the new mobile app."
+  "back": "The standard by which project results will be measured.\nExample: The scope defines exactly what will and won't be included in the new mobile app.",
+  "definitionSource": "lesson",
+  "raw": "The project scope is the standard by which project results will be measured.\nExample: The scope defines exactly what will and won't be included in the new mobile app.",
+  "lesson": "s5-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb123",
   "objective": "s5",
   "front": "Checklist",
-  "back": "Example: The team uses a checklist to confirm every required planning document has been completed."
+  "back": "A tool to help make sure all items are included.\nExample: The team uses a ____ to confirm every required planning document has been completed.",
+  "definitionSource": "lesson",
+  "raw": "A checklist is a tool to help make sure all items are included.\nExample: The team uses a checklist to confirm every required planning document has been completed.",
+  "lesson": "s5-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb124",
   "objective": "s5",
   "front": "Statement of Work",
-  "back": "Example: The SOW specifies the contractor will deliver 500 units by March 1st."
+  "back": "Example: The SOW specifies the contractor will deliver 500 units by March 1st.",
+  "lesson": "s5-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb125",
   "objective": "s5",
   "front": "Work Breadown Structure",
-  "back": "Example: The WBS breaks the project into manageable, assignable pieces of work."
+  "back": "Example: The WBS breaks the project into manageable, assignable pieces of work.",
+  "lesson": "s5-l2",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb126",
   "objective": "s5",
   "front": "Living Documents",
-  "back": "Example: The risk register is updated continuously throughout the project as new risks are identified."
+  "back": "Example: The risk register is updated continuously throughout the project as new risks are identified.",
+  "lesson": "s5-l3",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb127",
   "objective": "s5",
   "front": "Product Scope",
-  "back": "Example: The product scope defines the features and specifications of the software itself."
+  "back": "Example: The ____ defines the features and specifications of the software itself.",
+  "raw": "Example: The product scope defines the features and specifications of the software itself.",
+  "lesson": "s5-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb128",
   "objective": "s5",
   "front": "Make/Buy Decision",
-  "back": "Example: The team decides to buy an off-the-shelf payment processor instead of building one in-house."
+  "back": "Example: The team decides to buy an off-the-shelf payment processor instead of building one in-house.",
+  "lesson": "s5-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb129",
   "objective": "s5",
   "front": "Project Requirements",
-  "back": "Example: The client requires the system to support 10,000 concurrent users."
+  "back": "Example: The client requires the system to support 10,000 concurrent users.",
+  "lesson": "s5-l3",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb130",
   "objective": "s5",
   "front": "Requirements Traceability Matrix",
-  "back": "Example: The matrix links each requirement back to the test case that verifies it was delivered."
+  "back": "Example: The matrix links each requirement back to the test case that verifies it was delivered.",
+  "lesson": "s5-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb131",
   "objective": "s5",
   "front": "Project Deliverables",
-  "back": "Example: The signed contract, the finished building, and the training manual are all deliverables."
+  "back": "Example: The signed contract, the finished building, and the training manual are all deliverables.",
+  "lesson": "s5-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb132",
   "objective": "s5",
   "front": "Resource Responsibility Matrix",
-  "back": "Example: The matrix shows the developer is responsible for coding while the QA lead is responsible for testing."
+  "back": "Example: The matrix shows the developer is responsible for coding while the QA lead is responsible for testing.",
+  "lesson": "s5-l2",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb133",
   "objective": "s5",
   "front": "Histogram",
-  "back": "Example: A resource histogram shows the design team is overallocated in week three."
+  "back": "A graph of a frequency distribution in which rectangles with bases on the horizontal axis are given widths equal to the class intervals and heights equal to the corresponding frequencies.\nExample: A resource ____ shows the design team is overallocated in week three.",
+  "definitionSource": "lesson",
+  "raw": "A histogram is a graph of a frequency distribution in which rectangles with bases on the horizontal axis are given widths equal to the class intervals and heights equal to the corresponding frequencies.\nExample: A resource histogram shows the design team is overallocated in week three.",
+  "lesson": "s5-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb134",
   "objective": "s5",
   "front": "Resource Levelling",
-  "back": "Example: The PM shifts a task to week four so the same engineer isn't double-booked in week three."
+  "back": "Example: The PM shifts a task to week four so the same engineer isn't double-booked in week three.",
+  "lesson": "s5-l4",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb135",
   "objective": "s5",
   "front": "KSA",
-  "back": "Example: The role requires the KSA (knowledge, skills, and abilities) to manage vendor contracts."
+  "back": "Example: The role requires the ____ (knowledge, skills, and abilities) to manage vendor contracts.",
+  "raw": "Example: The role requires the KSA (knowledge, skills, and abilities) to manage vendor contracts.",
+  "lesson": "s5-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb136",
   "objective": "s5",
   "front": "Purpose of WBS",
-  "back": "Example: The WBS breaks a large, complex project into smaller, manageable pieces that can be assigned and tracked."
+  "back": "Example: The WBS breaks a large, complex project into smaller, manageable pieces that can be assigned and tracked.",
+  "lesson": "s5-l2",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb137",
   "objective": "s5",
   "front": "Deliverable",
-  "back": "Example: A completed and tested mobile app is a deliverable of the project."
+  "back": "The outcomes that satisfy the requirements grouped together and identified by the stakeholders.\nExample: A completed and tested mobile app is a ____ of the project.",
+  "definitionSource": "lesson",
+  "raw": "Deliverables are the outcomes that satisfy the requirements grouped together and identified by the stakeholders.\nExample: A completed and tested mobile app is a deliverable of the project.",
+  "lesson": "s5-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb138",
   "objective": "s5",
   "front": "Activity",
-  "back": "Example: Writing the login-page code is one activity within a larger work package."
+  "back": "A portion of work that will be executed as part of the project to create the specified deliverables.\nExample: Writing the login-page code is one ____ within a larger work package.",
+  "definitionSource": "lesson",
+  "raw": "An activity is a portion of work that will be executed as part of the project to create the specified deliverables.\nExample: Writing the login-page code is one activity within a larger work package.",
+  "lesson": "s5-l2",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb139",
   "objective": "s5",
   "front": "Task",
-  "back": "Example: Testing the login button is a specific task assigned to one team member."
+  "back": "Example: Testing the login button is a specific ____ assigned to one team member.",
+  "raw": "Example: Testing the login button is a specific task assigned to one team member.",
+  "lesson": "s5-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb140",
   "objective": "s5",
   "front": "8/80 rule",
-  "back": "Example: A work package should take no less than 8 hours and no more than 80 hours to complete."
+  "back": "Example: A work package should take no less than 8 hours and no more than 80 hours to complete.",
+  "lesson": "s5-l2",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb141",
   "objective": "s5",
   "front": "Hierarchical Numbering",
-  "back": "Example: Task 1.2.3 shows it's the third task under the second work package of the first deliverable."
+  "back": "Example: Task 1.2.3 shows it's the third task under the second work package of the first deliverable.",
+  "lesson": "s5-l2",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb142",
   "objective": "s5",
   "front": "Top-Down Estimation",
-  "back": "Example: Executives set a $500,000 budget for the whole project based on past similar projects."
+  "back": "Example: Executives set a $500,000 budget for the whole project based on past similar projects.",
+  "lesson": "s5-l4",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb143",
   "objective": "s5",
   "front": "Parametric Estimation",
-  "back": "Example: The team estimates cost per square foot, then multiplies by the building's total square footage."
+  "back": "Example: The team estimates cost per square foot, then multiplies by the building's total square footage.",
+  "lesson": "s5-l4",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb144",
   "objective": "s5",
   "front": "Ratio Method",
-  "back": "Example: Cost is estimated based on a historical ratio, like $200 per unit produced."
+  "back": "Example: Cost is estimated based on a historical ratio, like $200 per unit produced.",
+  "lesson": "s5-l4",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb145",
   "objective": "s5",
   "front": "Apportion Method",
-  "back": "Example: 40% of the total budget is allocated to design based on how past similar projects were split."
+  "back": "Example: 40% of the total budget is allocated to design based on how past similar projects were split.",
+  "lesson": "s5-l4",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb146",
   "objective": "s5",
   "front": "Bottom-up Estimation",
-  "back": "Example: Each task is estimated individually, then summed to build the total project budget."
+  "back": "Example: Each task is estimated individually, then summed to build the total project budget.",
+  "lesson": "s5-l4",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb147",
   "objective": "s5",
   "front": "Cost Management",
-  "back": "Example: The PM tracks actual spending against the budget every week to catch overruns early."
+  "back": "The process of measuring how close actual costs are to the budget and then making changes in project execution as needed.\nExample: The PM tracks actual spending against the budget every week to catch overruns early.",
+  "definitionSource": "lesson",
+  "raw": "Cost management is the process of measuring how close actual costs are to the budget and then making changes in project execution as needed.\nExample: The PM tracks actual spending against the budget every week to catch overruns early.",
+  "lesson": "s5-l4",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb148",
   "objective": "s5",
   "front": "Baseline Budget",
-  "back": "Example: The original approved $500,000 budget is the baseline used to measure cost performance."
+  "back": "The approved budget and will be used as the standard for comparison of actual costs throughout the life of the project and identifying variances.\nExample: The original approved $500,000 budget is the baseline used to measure cost performance.",
+  "definitionSource": "lesson",
+  "raw": "The baseline budget is the approved budget and will be used as the standard for comparison of actual costs throughout the life of the project and identifying variances.\nExample: The original approved $500,000 budget is the baseline used to measure cost performance.",
+  "lesson": "s5-l4",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb149",
   "objective": "s5",
   "front": "Direct Costs",
-  "back": "Example: Wages paid to the developers working on this specific project are direct costs."
+  "back": "Example: Wages paid to the developers working on this specific project are ____.",
+  "raw": "Example: Wages paid to the developers working on this specific project are direct costs.",
+  "lesson": "s5-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb150",
   "objective": "s5",
   "front": "Direct Overhead Costs",
-  "back": "Example: The cost of electricity for the office where the project team works is a direct overhead cost."
+  "back": "Example: The cost of electricity for the office where the project team works is a direct overhead cost.",
+  "lesson": "s5-l4",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb151",
   "objective": "s5",
   "front": "General & Administrative Costs",
-  "back": "Example: A portion of the company's HR and accounting department costs is allocated to the project."
+  "back": "Example: A portion of the company's HR and accounting department costs is allocated to the project.",
+  "lesson": "s5-l4",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb152",
   "objective": "s5",
   "front": "Padding",
-  "back": "Example: A team member quietly adds extra time to an estimate as a personal safety cushion."
+  "back": "Example: A team member quietly adds extra time to an estimate as a personal safety cushion.",
+  "lesson": "s5-l4",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb153",
   "objective": "s5",
   "front": "Contingency Reserve",
-  "back": "Example: A 10% contingency reserve is added to cover known risks like potential material price increases."
+  "back": "Example: A 10% ____ is added to cover known risks like potential material price increases.",
+  "raw": "Example: A 10% contingency reserve is added to cover known risks like potential material price increases.",
+  "lesson": "s5-l4",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb154",
   "objective": "s5",
   "front": "Management Reserve",
-  "back": "Example: Management sets aside funds for unknown risks that weren't identified during planning."
+  "back": "An amount added to the overall project budget to cover unknown risks.\nExample: Management sets aside funds for unknown risks that weren't identified during planning.",
+  "definitionSource": "lesson",
+  "raw": "A management reserve is an amount added to the overall project budget to cover unknown risks.\nExample: Management sets aside funds for unknown risks that weren't identified during planning.",
+  "lesson": "s5-l4",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb155",
   "objective": "s5",
   "front": "Calendarized Budget",
-  "back": "Example: The $1.2 million budget is spread across 12 months to match expected spending."
+  "back": "Example: The $1.2 million budget is spread across 12 months to match expected spending.",
+  "lesson": "s5-l4",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb156",
   "objective": "s5",
   "front": "Simple Budget",
-  "back": "Example: The whole project is tracked against a single total dollar figure rather than by phase or task."
+  "back": "Example: The whole project is tracked against a single total dollar figure rather than by phase or task.",
+  "lesson": "s5-l3",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb157",
   "objective": "s5",
   "front": "Risk",
-  "back": "Example: A key supplier could go out of business before delivering materials."
+  "back": "Example: A key supplier could go out of business before delivering materials.",
+  "lesson": "s5-l3",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb158",
   "objective": "s5",
   "front": "Risk Appetite",
-  "back": "Example: A startup with high risk appetite is willing to launch an unproven product quickly."
+  "back": "Example: A startup with high ____ is willing to launch an unproven product quickly.",
+  "raw": "Example: A startup with high risk appetite is willing to launch an unproven product quickly.",
+  "lesson": "s5-l3",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb159",
   "objective": "s5",
   "front": "Risk Tolerance",
-  "back": "Example: The organization can tolerate up to a two-week schedule delay without escalating."
+  "back": "The degree, amount, or volume of risk that an organization or individual will withstand.\nExample: The organization can tolerate up to a two-week schedule delay without escalating.",
+  "definitionSource": "lesson",
+  "raw": "Risk tolerance is the degree, amount, or volume of risk that an organization or individual will withstand.\nExample: The organization can tolerate up to a two-week schedule delay without escalating.",
+  "lesson": "s5-l3",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb160",
   "objective": "s5",
   "front": "Risk Threshold",
-  "back": "Example: Once potential cost overrun exceeds $50,000, the risk must be escalated to the sponsor."
+  "back": "Measurements along the level of uncertainty or the level of impact at which a stakeholder may have a specific interest.\nExample: Once potential cost overrun exceeds $50,000, the risk must be escalated to the sponsor.",
+  "definitionSource": "lesson",
+  "raw": "Risk threshold refers to measurements along the level of uncertainty or the level of impact at which a stakeholder may have a specific interest.\nExample: Once potential cost overrun exceeds $50,000, the risk must be escalated to the sponsor.",
+  "lesson": "s5-l3",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb161",
   "objective": "s5",
   "front": "Risk Management",
-  "back": "Example: The PM regularly identifies, assesses, and plans responses to project risks."
+  "back": "Example: The PM regularly identifies, assesses, and plans responses to project risks.",
+  "lesson": "s5-l3",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb162",
   "objective": "s5",
   "front": "Risk Responses",
-  "back": "Example: The team decides how to respond to the risk of a key vendor missing a delivery date."
+  "back": "Example: The team decides how to respond to the risk of a key vendor missing a delivery date.",
+  "lesson": "s5-l3",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb163",
   "objective": "s5",
   "front": "Avoidance",
-  "back": "Example: The team removes a risky new technology from the project scope entirely."
+  "back": "Example: The team removes a risky new technology from the project scope entirely.",
+  "lesson": "s5-l3",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb164",
   "objective": "s5",
   "front": "Mitigation",
-  "back": "Example: The team orders materials from two suppliers to reduce the impact if one is late."
+  "back": "Example: The team orders materials from two suppliers to reduce the impact if one is late.",
+  "lesson": "s5-l3",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb165",
   "objective": "s5",
   "front": "Transfer",
-  "back": "Example: The company purchases insurance to shift the financial risk of a data breach to the insurer."
+  "back": "Example: The company purchases insurance to shift the financial risk of a data breach to the insurer.",
+  "lesson": "s5-l3",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb166",
   "objective": "s5",
   "front": "Acceptance",
-  "back": "Example: The team accepts a small risk of minor delay since it's not worth the cost to address."
+  "back": "Example: The team accepts a small risk of minor delay since it's not worth the cost to address.",
+  "lesson": "s5-l3",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb167",
   "objective": "s5",
   "front": "Opportunity Management",
-  "back": "Example: The team plans how to take advantage of a chance to finish early and under budget."
+  "back": "Example: The team plans how to take advantage of a chance to finish early and under budget.",
+  "lesson": "s5-l3",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb168",
   "objective": "s5",
   "front": "Acceptance",
-  "back": "Example: The team simply takes advantage of an opportunity if it happens, without any extra effort."
+  "back": "Example: The team simply takes advantage of an opportunity if it happens, without any extra effort.",
+  "lesson": "s5-l3",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb169",
   "objective": "s5",
   "front": "Enhancing the opportunity",
-  "back": "Example: The team invests extra resources to increase the chance of finishing ahead of schedule."
+  "back": "Example: The team invests extra resources to increase the chance of finishing ahead of schedule.",
+  "lesson": "s5-l3",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb170",
   "objective": "s5",
   "front": "Sharing the opportunity",
-  "back": "Example: The company partners with another firm to jointly capture a new market opportunity."
+  "back": "Example: The company partners with another firm to jointly capture a new market opportunity.",
+  "lesson": "s5-l3",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb171",
   "objective": "s5",
   "front": "Risk Categories",
-  "back": "Example: Risks are grouped into technical, external, organizational, and other categories."
+  "back": "Example: Risks are grouped into technical, external, organizational, and other categories.",
+  "lesson": "s5-l3",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb172",
   "objective": "s5",
   "front": "Organization",
-  "back": "Example: A sudden budget cut from leadership is an organizational risk."
+  "back": "Example: A sudden budget cut from leadership is an organizational risk.",
+  "lesson": "s5-l4",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb173",
   "objective": "s5",
   "front": "External",
-  "back": "Example: A new government regulation could delay the project's approval."
+  "back": "Example: A new government regulation could delay the project's approval.",
+  "lesson": "s5-l3",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb174",
   "objective": "s5",
   "front": "Technical",
-  "back": "Example: The new software might not integrate properly with an existing legacy system."
+  "back": "Example: The new software might not integrate properly with an existing legacy system.",
+  "lesson": "s5-l3",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb175",
   "objective": "s5",
   "front": "Risk Register",
-  "back": "Example: The risk register lists “vendor delay” with its likelihood, impact, and planned response."
+  "back": "Example: The ____ lists “vendor delay” with its likelihood, impact, and planned response.",
+  "raw": "Example: The risk register lists “vendor delay” with its likelihood, impact, and planned response.",
+  "lesson": "s5-l3",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb176",
   "objective": "s5",
   "front": "P*S Score",
-  "back": "Example: A risk with high probability and high severity gets a higher P*S score than a rare, minor risk."
+  "back": "Example: A risk with high probability and high severity gets a higher ____ than a rare, minor risk.",
+  "raw": "Example: A risk with high probability and high severity gets a higher P*S score than a rare, minor risk.",
+  "lesson": "s5-l3",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb177",
   "objective": "s6",
   "front": "Duration",
-  "back": "Example: The task to pour the foundation is estimated to take 5 business days."
+  "back": "Example: The task to pour the foundation is estimated to take 5 business days.",
+  "lesson": "s6-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb178",
   "objective": "s6",
   "front": "One Point Estimate",
-  "back": "Example: The team estimates the task will take exactly 3 days, with no range given."
+  "back": "Example: The team estimates the task will take exactly 3 days, with no range given.",
+  "lesson": "s6-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb179",
   "objective": "s6",
   "front": "Triangular Distribution",
-  "back": "Example: The team estimates 4 days optimistic, 6 days most likely, and 10 days pessimistic."
+  "back": "Example: The team estimates 4 days optimistic, 6 days most likely, and 10 days pessimistic.",
+  "lesson": "s6-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb180",
   "objective": "s6",
   "front": "Beta Distribution",
-  "back": "Example: PERT weighs the most-likely estimate four times more heavily than the optimistic or pessimistic ones."
+  "back": "Example: PERT weighs the most-likely estimate four times more heavily than the optimistic or pessimistic ones.",
+  "lesson": "s6-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb181",
   "objective": "s6",
   "front": "Standard Deviation",
-  "back": "Example: A wide gap between optimistic and pessimistic estimates produces a large standard deviation."
+  "back": "A statistical measure of how much the actual activity duration is likely to vary.\nExample: A wide gap between optimistic and pessimistic estimates produces a large ____.",
+  "definitionSource": "lesson",
+  "raw": "The standard deviation is a statistical measure of how much the actual activity duration is likely to vary.\nExample: A wide gap between optimistic and pessimistic estimates produces a large standard deviation.",
+  "lesson": "s6-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb182",
   "objective": "s6",
   "front": "Deterministic Estimate",
-  "back": "Example: The task is estimated at a fixed 10 days based on a signed vendor contract."
+  "back": "Example: The task is estimated at a fixed 10 days based on a signed vendor contract.",
+  "lesson": "s6-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb183",
   "objective": "s6",
   "front": "Probabilistic Estimate",
-  "back": "Example: The task's duration is estimated as a range, accounting for uncertainty in weather and labor availability."
+  "back": "Example: The task's duration is estimated as a range, accounting for uncertainty in weather and labor availability.",
+  "lesson": "s6-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb184",
   "objective": "s6",
   "front": "Learning Curve",
-  "back": "Example: The tenth unit takes far less time to build than the first, as the team gains experience."
+  "back": "Example: The tenth unit takes far less time to build than the first, as the team gains experience.",
+  "lesson": "s6-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb185",
   "objective": "s6",
   "front": "Nodes",
-  "back": "Example: Each box in the network diagram represents one activity, like “Pour Foundation.”"
+  "back": "Example: Each box in the network diagram represents one activity, like “Pour Foundation.”",
+  "lesson": "s6-l2",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb186",
   "objective": "s6",
   "front": "Precedence Relationships",
-  "back": "Example: Framing can't start until the foundation is finished — that's a precedence relationship."
+  "back": "Example: Framing can't start until the foundation is finished — that's a precedence relationship.",
+  "lesson": "s6-l2",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb187",
   "objective": "s6",
   "front": "Finish to Start",
-  "back": "Example: Painting can't start until drywall installation finishes."
+  "back": "Example: Painting can't start until drywall installation finishes.",
+  "lesson": "s6-l2",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb188",
   "objective": "s6",
   "front": "Finish to Finish",
-  "back": "Example: Testing must finish at the same time as documentation is finished."
+  "back": "Example: Testing must finish at the same time as documentation is finished.",
+  "lesson": "s6-l2",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb189",
   "objective": "s6",
   "front": "Start to Start",
-  "back": "Example: Excavation and site surveying can begin at the same time."
+  "back": "Example: Excavation and site surveying can begin at the same time.",
+  "lesson": "s6-l2",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb190",
   "objective": "s6",
   "front": "Start to Finish",
-  "back": "Example: A night security shift can't end until the day shift starts."
+  "back": "Example: A night security shift can't end until the day shift starts.",
+  "lesson": "s6-l2",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb191",
   "objective": "s6",
   "front": "Network Diagram",
-  "back": "Example: The diagram visually shows the order and dependencies of every project activity."
+  "back": "Example: The diagram visually shows the order and dependencies of every project activity.",
+  "lesson": "s6-l2",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb192",
   "objective": "s6",
   "front": "Gantt Chart",
-  "back": "Example: The Gantt chart shows each task as a bar spanning its planned start and end dates."
+  "back": "Example: The ____ shows each task as a bar spanning its planned start and end dates.",
+  "raw": "Example: The Gantt chart shows each task as a bar spanning its planned start and end dates.",
+  "lesson": "s6-l2",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb193",
   "objective": "s6",
   "front": "Lead/Lag Time",
-  "back": "Example: Painting can start two days before drywall is 100% finished — a two-day lead time."
+  "back": "Example: Painting can start two days before drywall is 100% finished — a two-day lead time.",
+  "lesson": "s6-l2",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb194",
   "objective": "s6",
   "front": "Critical Path",
-  "back": "Example: The sequence of tasks from foundation to final inspection determines the earliest the building can be finished."
+  "back": "The longest path through the network.\nExample: The sequence of tasks from foundation to final inspection determines the earliest the building can be finished.",
+  "definitionSource": "lesson",
+  "raw": "The critical path is the longest path through the network.\nExample: The sequence of tasks from foundation to final inspection determines the earliest the building can be finished.",
+  "lesson": "s6-l3",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb195",
   "objective": "s6",
   "front": "Float",
-  "back": "Example: A task with 3 days of float can be delayed 3 days without pushing back the project finish date."
+  "back": "Example: A task with 3 days of ____ can be delayed 3 days without pushing back the project finish date.",
+  "raw": "Example: A task with 3 days of float can be delayed 3 days without pushing back the project finish date.",
+  "lesson": "s6-l3",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb196",
   "objective": "s6",
   "front": "Slack",
-  "back": "Example: Slack shows how much a non-critical task can slip without affecting the overall schedule."
+  "back": "Example: ____ shows how much a non-critical task can slip without affecting the overall schedule.",
+  "raw": "Example: Slack shows how much a non-critical task can slip without affecting the overall schedule.",
+  "lesson": "s6-l3",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb197",
   "objective": "s6",
   "front": "Schedule Compression",
-  "back": "Example: The PM shortens the schedule by adding more workers or overlapping tasks."
+  "back": "Example: The PM shortens the schedule by adding more workers or overlapping tasks.",
+  "lesson": "s6-l3",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb198",
   "objective": "s6",
   "front": "Fast Tracking",
-  "back": "Example: Design and construction phases are overlapped instead of run sequentially to save time."
+  "back": "Example: Design and construction phases are overlapped instead of run sequentially to save time.",
+  "lesson": "s6-l3",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb199",
   "objective": "s6",
   "front": "Crashing",
-  "back": "Example: The PM adds extra workers to a task to finish it faster, at additional cost."
+  "back": "Example: The PM adds extra workers to a task to finish it faster, at additional cost.",
+  "lesson": "s6-l3",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb200",
   "objective": "s6",
   "front": "Critical Chain",
-  "back": "Example: The schedule adds time buffers to protect against resource conflicts on the critical path."
+  "back": "Example: The schedule adds time buffers to protect against resource conflicts on the critical path.",
+  "lesson": "s6-l3",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb201",
   "objective": "s7",
   "front": "Stages of Team Development",
-  "back": "Example: A new team moves through Forming, Storming, Norming, Performing, and Adjourning."
+  "back": "Example: A new team moves through Forming, Storming, Norming, Performing, and Adjourning.",
+  "lesson": "s7-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb202",
   "objective": "s7",
   "front": "Forming",
-  "back": "Example: Team members meet for the first time and are polite but unsure of their roles."
+  "back": "Example: Team members meet for the first time and are polite but unsure of their roles.",
+  "lesson": "s7-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb203",
   "objective": "s7",
   "front": "Storming",
-  "back": "Example: Team members start disagreeing over priorities and how work should be divided."
+  "back": "Example: Team members start disagreeing over priorities and how work should be divided.",
+  "lesson": "s7-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb204",
   "objective": "s7",
   "front": "Norming",
-  "back": "Example: The team settles into agreed-upon roles and working habits."
+  "back": "Example: The team settles into agreed-upon roles and working habits.",
+  "lesson": "s7-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb205",
   "objective": "s7",
   "front": "Performing",
-  "back": "Example: The team works efficiently together with minimal oversight needed."
+  "back": "Example: The team works efficiently together with minimal oversight needed.",
+  "lesson": "s7-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb206",
   "objective": "s7",
   "front": "Adjourning",
-  "back": "Example: The team disbands and celebrates after the project is delivered."
+  "back": "Example: The team disbands and celebrates after the project is delivered.",
+  "lesson": "s7-l4",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb207",
   "objective": "s7",
   "front": "Co-located Teams",
-  "back": "Example: The whole project team works together in the same office space."
+  "back": "Example: The whole project team works together in the same office space.",
+  "lesson": "s7-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb208",
   "objective": "s7",
   "front": "Virtual Teams",
-  "back": "Example: Team members in three different countries collaborate entirely online."
+  "back": "Example: Team members in three different countries collaborate entirely online.",
+  "lesson": "s7-l1",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb209",
   "objective": "s7",
   "front": "Change Management Process",
-  "back": "Example: The team follows a defined process to evaluate and approve the client's requested scope change."
+  "back": "Example: The team follows a defined process to evaluate and approve the client's requested scope change.",
+  "lesson": "s7-l2",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb210",
   "objective": "s7",
   "front": "Identify Change",
-  "back": "Example: A team member flags that the client wants an added feature not in the original scope."
+  "back": "Example: A team member flags that the client wants an added feature not in the original scope.",
+  "lesson": "s7-l2",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb211",
   "objective": "s7",
   "front": "Evaluate Change",
-  "back": "Example: The PM assesses how the requested change would affect cost, schedule, and quality."
+  "back": "Example: The PM assesses how the requested change would affect cost, schedule, and quality.",
+  "lesson": "s7-l2",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb212",
   "objective": "s7",
   "front": "Decision",
-  "back": "Example: The change control board approves the change with an extended deadline."
+  "back": "Example: The change control board approves the change with an extended deadline.",
+  "lesson": "s7-l4",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb213",
   "objective": "s7",
   "front": "Communicate Change",
-  "back": "Example: The PM notifies the team and stakeholders that the schedule has shifted two weeks."
+  "back": "Example: The PM notifies the team and stakeholders that the schedule has shifted two weeks.",
+  "lesson": "s7-l2",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb214",
   "objective": "s7",
   "front": "Structured Change Management Process",
-  "back": "Example: The organization requires every change to go through a formal review and approval workflow."
+  "back": "Example: The organization requires every change to go through a formal review and approval workflow.",
+  "lesson": "s7-l2",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb215",
   "objective": "s7",
   "front": "Initiation—Prepare for change",
-  "back": "Obtain the necessary resources and documentation to organize the processes of change.\nExample: The team gathers the documentation needed to formally request a scope change."
+  "back": "Obtain the necessary resources and documentation to organize the processes of change.\nExample: The team gathers the documentation needed to formally request a scope change.",
+  "lesson": "s7-l2",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb216",
   "objective": "s7",
   "front": "Planning",
-  "back": "The integration of formal plans and change management plans into the overall change management and project management plan.\nExample: The team updates the schedule and budget to reflect the newly approved change."
+  "back": "The integration of formal plans and change management plans into the overall change management and project management plan.\nExample: The team updates the schedule and budget to reflect the newly approved change.",
+  "lesson": "s7-l2",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb217",
   "objective": "s7",
   "front": "Management",
-  "back": "The management of the implementation of the change based on the defined change management plan.\nExample: The PM oversees the rollout of the approved change according to the updated plan."
+  "back": "The ____ of the implementation of the change based on the defined change ____ plan.\nExample: The PM oversees the rollout of the approved change according to the updated plan.",
+  "raw": "The management of the implementation of the change based on the defined change management plan.\nExample: The PM oversees the rollout of the approved change according to the updated plan.",
+  "lesson": "s7-l2",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb218",
   "objective": "s7",
   "front": "Reinforcing and Sustaining the Change",
-  "back": "A thorough evaluation of the sustainability of a change. Making the change both permanent and sustainable.\nExample: Reward and incentives"
+  "back": "A thorough evaluation of the sustainability of a change. Making the change both permanent and sustainable.\nExample: Reward and incentives",
+  "lesson": "s7-l2",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb219",
   "objective": "s7",
   "front": "Contingency Plans",
-  "back": "Example: The PM checks in on a task that's at risk of slipping and prepares a fallback plan."
+  "back": "Example: The PM checks in on a task that's at risk of slipping and prepares a fallback plan.",
+  "lesson": "s7-l4",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb220",
   "objective": "s7",
   "front": "Corrective Action",
-  "back": "Example: The PM adds an extra resource to a delayed task to bring the schedule back on track."
+  "back": "A process to document quality failures that have occurred and how they will be corrected.\nExample: The PM adds an extra resource to a delayed task to bring the schedule back on track.",
+  "definitionSource": "lesson",
+  "raw": "A corrective action is a process to document quality failures that have occurred and how they will be corrected.\nExample: The PM adds an extra resource to a delayed task to bring the schedule back on track.",
+  "lesson": "s7-l2",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb221",
   "objective": "s7",
   "front": "Scope Creep",
-  "back": "Example: The client keeps requesting small extras that were never part of the approved scope."
+  "back": "Example: The client keeps requesting small extras that were never part of the approved scope.",
+  "lesson": "s7-l2",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb222",
   "objective": "s7",
   "front": "Work Performance Data",
-  "back": "Example: Raw data like “60% of tasks complete” and “$40,000 spent so far” feeds into performance reports."
+  "back": "Example: Raw data like “60% of tasks complete” and “$40,000 spent so far” feeds into performance reports.",
+  "lesson": "s7-l2",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb223",
   "objective": "s7",
   "front": "Project Controls",
-  "back": "Example: Regular status meetings and budget reviews help the PM keep the project on track."
+  "back": "The data gathering, management, and analytical processes used to predict, understand, and constructively influence the time and cost outcomes of a project or program.\nExample: Regular status meetings and budget reviews help the PM keep the project on track.",
+  "definitionSource": "lesson",
+  "raw": "Project controls are the data gathering, management, and analytical processes used to predict, understand, and constructively influence the time and cost outcomes of a project or program.\nExample: Regular status meetings and budget reviews help the PM keep the project on track.",
+  "lesson": "s7-l2",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb224",
   "objective": "s7",
   "front": "Quality Management",
-  "back": "Example: The team defines, monitors, and improves the standards the deliverable must meet."
+  "back": "Example: The team defines, monitors, and improves the standards the deliverable must meet.",
+  "lesson": "s7-l2",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb225",
   "objective": "s7",
   "front": "Quality assurance",
-  "back": "Example: The team audits its own development process to confirm it follows the company's coding standards."
+  "back": "A review of the fully defined project requirements to validate and ensure that they are feasible and suitable.\nExample: The team audits its own development process to confirm it follows the company's coding standards.",
+  "definitionSource": "lesson",
+  "raw": "Quality assurance is a review of the fully defined project requirements to validate and ensure that they are feasible and suitable.\nExample: The team audits its own development process to confirm it follows the company's coding standards.",
+  "lesson": "s7-l2",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb226",
   "objective": "s7",
   "front": "Quality audit",
-  "back": "Example: An outside reviewer checks whether the team actually followed its documented QA process."
+  "back": "Example: An outside reviewer checks whether the team actually followed its documented QA process.",
+  "lesson": "s7-l2",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb227",
   "objective": "s7",
   "front": "Quality control",
-  "back": "Example: The QA team tests the finished product for defects before it ships."
+  "back": "The set of steps taken to ensure you are meeting the standards set during quality management and assurance.\nExample: The QA team tests the finished product for defects before it ships.",
+  "definitionSource": "lesson",
+  "raw": "Quality control is the set of steps taken to ensure you are meeting the standards set during quality management and assurance.\nExample: The QA team tests the finished product for defects before it ships.",
+  "lesson": "s7-l2",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb228",
   "objective": "s7",
   "front": "Earned Value",
-  "back": "Budgeted value of the work that has actually been completed.\nFormula: EV = BAC × Actual % Complete\nExample: $100,000 × 35% actual complete = $35,000"
+  "back": "Budgeted value of the work that has actually been completed.\nFormula: EV = BAC × Actual % Complete\nExample: $100,000 × 35% actual complete = $35,000",
+  "lesson": "s7-l3",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb229",
   "objective": "s7",
   "front": "Actual Cost",
-  "back": "Actual amount spent to complete the work performed. (Given, not calculated.)\nExample: $38,000 (given)"
+  "back": "Actual amount spent to complete the work performed. (Given, not calculated.)\nExample: $38,000 (given)",
+  "lesson": "s7-l3",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb230",
   "objective": "s7",
   "front": "Planned Value",
-  "back": "Budgeted value of the work that should have been completed by a certain date.\nFormula: PV = BAC × Planned % Complete\nExample: $100,000 × 40% planned complete = $40,000"
+  "back": "Budgeted value of the work that should have been completed by a certain date.\nFormula: PV = BAC × Planned % Complete\nExample: $100,000 × 40% planned complete = $40,000",
+  "lesson": "s7-l3",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb231",
   "objective": "s7",
   "front": "Budget at Completion",
-  "back": "Total approved budget for the entire project. (Given, not calculated.)\nExample: $100,000 (given)"
+  "back": "Total approved budget for the entire project. (Given, not calculated.)\nExample: $100,000 (given)",
+  "lesson": "s7-l3",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb232",
   "objective": "s7",
   "front": "50/50 Rule",
-  "back": "Example: A task is credited 50% complete the moment it starts and the other 50% when it finishes, regardless of actual progress."
+  "back": "Example: A task is credited 50% complete the moment it starts and the other 50% when it finishes, regardless of actual progress.",
+  "lesson": "s7-l3",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb233",
   "objective": "s7",
   "front": "0/100 Rule",
-  "back": "Example: A task earns no credit until it's 100% finished, so a nearly-done task still shows 0% earned value."
+  "back": "Example: A task earns no credit until it's 100% finished, so a nearly-done task still shows 0% earned value.",
+  "lesson": "s7-l3",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb234",
   "objective": "s7",
   "front": "Cost Variance",
-  "back": "Measures whether the project is under or over budget.\nFormula: CV = EV − AC\nCV > 0 = under budget · CV < 0 = over budget · CV = 0 = on budget\nExample: $35,000 − $38,000 = −$3,000 → over budget by $3,000"
+  "back": "Measures whether the project is under or over budget.\nFormula: CV = EV − AC\nCV > 0 = under budget · CV < 0 = over budget · CV = 0 = on budget\nExample: $35,000 − $38,000 = −$3,000 → over budget by $3,000",
+  "lesson": "s7-l3",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb235",
   "objective": "s7",
   "front": "Cost Performance Index",
-  "back": "Measures cost efficiency — value earned per dollar spent.\nFormula: CPI = EV ÷ AC\nCPI > 1.0 = cost efficient · CPI < 1.0 = over budget · CPI = 1.0 = on budget\nExample: $35,000 ÷ $38,000 = 0.92 → earns $0.92 of value for every $1.00 spent"
+  "back": "Measures cost efficiency — value earned per dollar spent.\nFormula: CPI = EV ÷ AC\nCPI > 1.0 = cost efficient · CPI < 1.0 = over budget · CPI = 1.0 = on budget\nExample: $35,000 ÷ $38,000 = 0.92 → earns $0.92 of value for every $1.00 spent",
+  "lesson": "s7-l3",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb236",
   "objective": "s7",
   "front": "Schedule Variance",
-  "back": "Measures whether the project is ahead of or behind schedule.\nFormula: SV = EV − PV\nSV > 0 = ahead of schedule · SV < 0 = behind schedule · SV = 0 = on schedule\nExample: $35,000 − $40,000 = −$5,000 → behind schedule by $5,000 of planned work"
+  "back": "Measures whether the project is ahead of or behind schedule.\nFormula: SV = EV − PV\nSV > 0 = ahead of schedule · SV < 0 = behind schedule · SV = 0 = on schedule\nExample: $35,000 − $40,000 = −$5,000 → behind schedule by $5,000 of planned work",
+  "lesson": "s7-l3",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb237",
   "objective": "s7",
   "front": "Schedule Performance Index",
-  "back": "Measures schedule efficiency.\nFormula: SPI = EV ÷ PV\nSPI > 1.0 = ahead of schedule · SPI < 1.0 = behind schedule · SPI = 1.0 = on schedule\nExample: $35,000 ÷ $40,000 = 0.88 → progressing at 88% of the planned rate"
+  "back": "Measures schedule efficiency.\nFormula: SPI = EV ÷ PV\nSPI > 1.0 = ahead of schedule · SPI < 1.0 = behind schedule · SPI = 1.0 = on schedule\nExample: $35,000 ÷ $40,000 = 0.88 → progressing at 88% of the planned rate",
+  "lesson": "s7-l3",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb238",
   "objective": "s7",
   "front": "To Complete Performance Index",
-  "back": "Example: TCPI shows the cost efficiency needed on the remaining work to still hit the original $100,000 budget."
+  "back": "Example: TCPI shows the cost efficiency needed on the remaining work to still hit the original $100,000 budget.",
+  "lesson": "s7-l3",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb239",
   "objective": "s7",
   "front": "Percent Complete Index",
-  "back": "Example: The team estimates a task is 70% complete based on the work performed so far."
+  "back": "Example: The team estimates a task is 70% complete based on the work performed so far.",
+  "lesson": "s7-l3",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb240",
   "objective": "s7",
   "front": "Estimate to Complete",
-  "back": "Example: Based on current performance, the team estimates it will cost another $15,000 to finish the remaining work."
+  "back": "Example: Based on current performance, the team estimates it will cost another $15,000 to finish the remaining work.",
+  "lesson": "s7-l3",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb241",
   "objective": "s7",
   "front": "Estimate at Completion",
-  "back": "Example: Given current cost overruns, the project is now forecast to finish at $110,000 instead of the original $100,000 budget."
+  "back": "Example: Given current cost overruns, the project is now forecast to finish at $110,000 instead of the original $100,000 budget.",
+  "lesson": "s7-l3",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb242",
   "objective": "s7",
   "front": "Budget at Completion (BAC)",
-  "back": "Total approved budget for the entire project.\nFormula: Given"
+  "back": "Total approved budget for the entire project.\nFormula: Given",
+  "lesson": "s7-l3",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb243",
   "objective": "s7",
   "front": "Planned Value (PV)",
-  "back": "Budgeted value of the work that should have been completed by a certain date.\nFormula: PV = BAC × Planned % Complete"
+  "back": "Budgeted value of the work that should have been completed by a certain date.\nFormula: PV = BAC × Planned % Complete",
+  "lesson": "s7-l3",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb244",
   "objective": "s7",
   "front": "Earned Value (EV)",
-  "back": "Budgeted value of the work that has actually been completed.\nFormula: EV = BAC × Actual % Complete"
+  "back": "Budgeted value of the work that has actually been completed.\nFormula: EV = BAC × Actual % Complete",
+  "lesson": "s7-l3",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb245",
   "objective": "s7",
   "front": "Actual Cost (AC)",
-  "back": "Actual amount spent to complete the work performed.\nFormula: Given"
+  "back": "Actual amount spent to complete the work performed.\nFormula: Given",
+  "lesson": "s7-l3",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb246",
   "objective": "s7",
   "front": "Measure",
-  "back": "Good\nFormula: Bad"
+  "back": "Good\nFormula: Bad",
+  "lesson": "s7-l3",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb247",
   "objective": "s7",
   "front": "CV (Cost Variance)",
-  "back": "Positive (+)\nFormula: Negative (−)"
+  "back": "Positive (+)\nFormula: Negative (−)",
+  "lesson": "s7-l3",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb248",
   "objective": "s7",
   "front": "SV (Schedule Variance)",
-  "back": "Positive (+)\nFormula: Negative (−)"
+  "back": "Positive (+)\nFormula: Negative (−)",
+  "lesson": "s7-l3",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb249",
   "objective": "s7",
   "front": "CPI (Cost Performance Index)",
-  "back": "Greater than 1.0\nFormula: Less than 1.0"
+  "back": "Greater than 1.0\nFormula: Less than 1.0",
+  "lesson": "s7-l3",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb250",
   "objective": "s7",
   "front": "SPI (Schedule Performance Index)",
-  "back": "Greater than 1.0\nFormula: Less than 1.0"
+  "back": "Greater than 1.0\nFormula: Less than 1.0",
+  "lesson": "s7-l3",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb251",
   "objective": "s7",
   "front": "Lessons Learned",
-  "back": "Example: The team documents that vendor delays caused the biggest schedule risk, to help future projects plan better."
+  "back": "Example: The team documents that vendor delays caused the biggest schedule risk, to help future projects plan better.",
+  "lesson": "s7-l2",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb252",
   "objective": "s7",
   "front": "After Action Review",
-  "back": "Example: The team meets after the project ends to discuss what went well and what didn't."
+  "back": "Example: The team meets after the project ends to discuss what went well and what didn't.",
+  "lesson": "s7-l4",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb253",
   "objective": "s7",
   "front": "Vendor Closing Checklist",
-  "back": "Example: The PM confirms all vendor invoices are paid and contracts are formally closed."
+  "back": "Example: The PM confirms all vendor invoices are paid and contracts are formally closed.",
+  "lesson": "s7-l4",
+  "lessonSource": "inferred"
  },
  {
   "id": "c722-wb254",
   "objective": "s7",
   "front": "Checklist",
-  "back": "Example: The PM uses a checklist to confirm every deliverable, contract, and document is properly closed out."
+  "back": "Example: The PM uses a ____ to confirm every deliverable, contract, and document is properly closed out.",
+  "raw": "Example: The PM uses a checklist to confirm every deliverable, contract, and document is properly closed out.",
+  "lesson": "s7-l4",
+  "lessonSource": "inferred"
  }
 ]

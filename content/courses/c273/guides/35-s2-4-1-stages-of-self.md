@@ -1,6 +1,9 @@
 ---
 title: S2 4.1 Stages of Self
 objectives: s2
+lesson: s2-l4
+page: 4.1
+kind: page
 ---
 # S2 4.1 Stages of Self
 
@@ -24,8 +27,6 @@ How do individuals go from being newborns to being humans with their own self-id
 
 The first stage of self-development is the preparatory stage. During the preparatory stage, individuals mimic the behaviors, gestures, and sounds of people with whom they regularly interact, such as parents and caregivers. For example, a child may wave goodbye, smile, or laugh simply because they observe others doing so. At this point, children do not have the ability to imagine how others see them, nor can they take the role of another person. Their actions are a simple repetition of observed behavior.
 
-Ariel Skelley/DigitalVision via Getty Images.
-
 ## The Beginning of Socialization
 
 This stage represents the beginning of socialization: Imitation allows the individual to start engaging with the social world. Individuals lack self-awareness and perspective-taking. Individuals have not yet developed a true sense of self. Key takeaway: In the preparatory stage, children begin socialization by imitating the behaviors of others, but they do not yet understand perspectives or possess a developed sense of self.
@@ -33,8 +34,6 @@ This stage represents the beginning of socialization: Imitation allows the indiv
 ## The Play Stage
 
 The play stage follows the preparatory stage and occurs when individuals begin role-taking, meaning they practice becoming members of society by pretending to be someone else. However, at this stage, children can only take on one role at a time and do not yet understand how roles fit together within a larger social system. For example, a child may pretend to be a superhero, a princess, a teacher, or a nurse. They might also try on a parent's point of view by acting out "grown-up" behavior, like playing dress-up and acting out the mom role or talking on a toy telephone the way they see adults do. Mead referred to this stage as the play stage because they learn social roles by pretending to be others in informal, imaginative ways rather than by following structured rules.
-
-ktaylorg/E+ via Getty Images.
 
 Key takeaway: In the play stage, children move further in developing the self by engaging in role-taking, learning expected behaviors one role at a time, but they do not yet understand shared rules or how multiple roles fit together.
 
@@ -45,8 +44,6 @@ In the game stage, individuals develop a more advanced understanding of social i
 ## Generalized Other
 
 This stage is also when children develop an understanding of the generalized other, which refers to the community expectations that individuals follow social rules. Children learn that there are people "out there" who expect them to follow the norms of society, and this understanding allows them to imagine how they are viewed by one or many others. At this point, from a sociological perspective, the individual has developed a self.
-
-bonniej/E+ via Getty Images.
 
 Key takeaway: In the game stage, individuals develop a full sense of self by understanding multiple roles, shared rules, and the expectations of the broader society, allowing them to see themselves from the perspective of the generalized other.
 

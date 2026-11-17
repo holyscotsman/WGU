@@ -1,6 +1,8 @@
 ---
 title: Section 7: Summary
 objectives: s7
+lesson: s7-l0
+kind: section-summary
 ---
 # Section 7: Summary
 

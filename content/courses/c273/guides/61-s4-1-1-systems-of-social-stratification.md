@@ -1,6 +1,9 @@
 ---
 title: S4 1.1 Systems of Social Stratification
 objectives: s4
+lesson: s4-l1
+page: 1.1
+kind: page
 ---
 # S4 1.1 Systems of Social Stratification
 

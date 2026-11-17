@@ -1,6 +1,9 @@
 ---
 title: S2 3.2 Socialization Across the Lifespan
 objectives: s2
+lesson: s2-l3
+page: 3.2
+kind: page
 ---
 # S2 3.2 Socialization Across the Lifespan
 
@@ -28,9 +31,7 @@ Sociologists divide the lifespan into stages based on age-related expectations. 
 
 depend on caregivers
 
-## ADA Accommodation
-
-attend school © 2020 Western Governors University – WGU. All rights reserved.
+attend school All rights reserved.
 
 learn rules, norms, and
 

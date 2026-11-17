@@ -1,6 +1,9 @@
 ---
 title: S4 1.8 Extreme Project Management Methods
 objectives: s4
+lesson: s4-l1
+page: 1.8
+kind: page
 ---
 # S4 1.8 Extreme Project Management Methods
 

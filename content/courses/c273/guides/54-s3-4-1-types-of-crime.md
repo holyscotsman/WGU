@@ -1,6 +1,9 @@
 ---
 title: S3 4.1 Types of Crime
 objectives: s3
+lesson: s3-l4
+page: 4.1
+kind: page
 ---
 # S3 4.1 Types of Crime
 

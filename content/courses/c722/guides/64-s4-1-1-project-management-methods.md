@@ -1,6 +1,9 @@
 ---
 title: S4 1.1 Project Management Methods
 objectives: s4
+lesson: s4-l1
+page: 1.1
+kind: page
 ---
 # S4 1.1 Project Management Methods
 
@@ -32,7 +35,7 @@ initial program and then hand it over to programmers to create the computer code
 
 In the prior example, it was assumed that the process to complete the project can be clearly planned in advance. This is not always the case, since some projects require initial planning to begin executing the project but will be planned further after the team has more experience and knowledge. Consider the case of a company that wants to install a comprehensive computer system to replace their old individual systems that separately managed inventory, customer records, accounts receivable, accounts payable, general accounting, tax accounting, and human resources. These comprehensive computer systems are called enterprise resource planning (ERP) systems and became popular in the 1990s. The problem with planning this type of project is that there are too many unknown issues. To address this situation, the overall project is broken down into phases.
 
-The different aspects of an ERP (enterprise resource planning) system are shown. These include inventory, services, human resources, MRP (material requirements planning), production, purchasing, CRM (customer relationship management), sales, and financials. Akash Sain/iStock / Getty Images Plus via Getty Images.
+The different aspects of an ERP (enterprise resource planning) system are shown. These include inventory, services, human resources, MRP (material requirements planning), production, purchasing, CRM (customer relationship management), sales, and financials.
 
 Phases in this context are different from the phases of the project life cycle described earlier. In this case, each phase is a full project with a deliverable.
 

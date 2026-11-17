@@ -2,6 +2,7 @@
  {
   "id": "c720-section-1-lesson-1-assessment-q1",
   "objective": "2.6",
+  "lesson": "s1-l1",
   "q": "How does teamwork in operations benefit or add value to customers?",
   "choices": [
    "Teamwork in operations benefits the customer when coordinated decisions within an organization produce high-quality products that customers value.",
@@ -15,6 +16,7 @@
  {
   "id": "c720-section-1-lesson-1-assessment-q2",
   "objective": "2.6",
+  "lesson": "s1-l1",
   "q": "The management of inventory is important to producers of goods and producers of services, but ______________.",
   "choices": [
    "The physical attributes of both goods and services require engineering talent",
@@ -28,6 +30,7 @@
  {
   "id": "c720-section-1-lesson-1-assessment-q3",
   "objective": "2.6",
+  "lesson": "s1-l1",
   "q": "Why are team-oriented operations essential today?",
   "choices": [
    "Because management and labor are constantly at odds",
@@ -41,6 +44,7 @@
  {
   "id": "c720-section-1-lesson-1-assessment-q4",
   "objective": "2.6",
+  "lesson": "s1-l1",
   "q": "Which unique characteristic makes a business process key in any organization?",
   "choices": [
    "It is cross-functional.",
@@ -55,6 +59,7 @@
  {
   "id": "c720-section-1-lesson-1-assessment-q5",
   "objective": "2.6",
+  "lesson": "s1-l1",
   "q": "Which type of decision-making can result in more cross-functional teams?",
   "choices": [
    "Random",
@@ -69,6 +74,7 @@
  {
   "id": "c720-section-1-lesson-1-assessment-q6",
   "objective": "2.6",
+  "lesson": "s1-l1",
   "q": "Job markets have shifted between countries for manufacturing, technology, engineering, and management jobs over the past decades. What has been a driving force in the global job market?",
   "choices": [
    "Labor costs",
@@ -83,6 +89,7 @@
  {
   "id": "c720-section-1-lesson-1-assessment-q7",
   "objective": "2.6",
+  "lesson": "s1-l1",
   "q": "Many automotive manufacturers have factories in multiple countries. Vehicle designs and safety specifications are different from country to country. In which country would you expect to see stronger safety regulations for automobiles?",
   "choices": [
    "United States",
@@ -97,6 +104,7 @@
  {
   "id": "c720-section-1-lesson-1-assessment-q8",
   "objective": "2.6",
+  "lesson": "s1-l1",
   "q": "A pharmaceutical sales company needs to replace its company cars. One car company quoted a price 15% lower than its competitor. The pharmaceutical company considered total expected costs of ownership, including purchase price, fuel efficiency, ergonomic comfort, end-of-life resale value, and warranty costs, and went with the higher-priced competitor to achieve _____.",
   "choices": [
    "A better look for the sake of the company's appearance",
@@ -111,6 +119,7 @@
  {
   "id": "c720-section-1-lesson-2-assessment-q1",
   "objective": "2.6",
+  "lesson": "s1-l2",
   "q": "What is the definition of market share?",
   "choices": [
    "Market share is defined as the number of products a company offers divided by all the products in an industry.",
@@ -125,6 +134,7 @@
  {
   "id": "c720-section-1-lesson-2-assessment-q2",
   "objective": "2.6",
+  "lesson": "s1-l2",
   "q": "Jane Smith is expecting her first child and is concerned about the child's safety as they travel. Jane is shopping for a car seat. Which customer requirements will Jane prioritize, given her stated concerns?",
   "choices": [
    "Product quality as revealed in consumer safety tests",
@@ -139,6 +149,7 @@
  {
   "id": "c720-section-1-lesson-2-assessment-q3",
   "objective": "2.6",
+  "lesson": "s1-l2",
   "q": "Which step is not part of the order fulfillment process?",
   "choices": [
    "Delivering the order to satisfy customers",
@@ -153,6 +164,7 @@
  {
   "id": "c720-section-1-lesson-2-assessment-q4",
   "objective": "2.6",
+  "lesson": "s1-l2",
   "q": "When conducting a SWOT analysis, which element considers the internal characteristics of a business or project that lend an advantage within the scope of the study?",
   "choices": [
    "Weaknesses",
@@ -167,6 +179,7 @@
  {
   "id": "c720-section-1-lesson-2-assessment-q5",
   "objective": "2.6",
+  "lesson": "s1-l2",
   "q": "In general, when productivity increases, the cost to produce a product _______.",
   "choices": [
    "Stays the same",
@@ -181,6 +194,7 @@
  {
   "id": "c720-section-1-lesson-3-assessment-q1",
   "objective": "2.6",
+  "lesson": "s1-l3",
   "q": "When an online company offers Talia free shipping on orders of three or more items, this is an example of",
   "choices": [
    "Quantity discounts",
@@ -195,6 +209,7 @@
  {
   "id": "c720-section-1-lesson-3-assessment-q2",
   "objective": "2.6",
+  "lesson": "s1-l3",
   "q": "Consider the typical activities and costs of owning an automobile. Which item, which many people have in the trunk of a vehicle, is the best example of replacement parts inventory?",
   "choices": [
    "A one gallon can of gasoline",
@@ -208,6 +223,7 @@
  {
   "id": "c720-section-1-lesson-3-assessment-q3",
   "objective": "2.6",
+  "lesson": "s1-l3",
   "q": "What is an advantage of the perpetual inventory system?",
   "choices": [
    "The perpetual inventory system more accurately measures the dollar value in inventory.",
@@ -222,6 +238,7 @@
  {
   "id": "c720-section-1-lesson-3-assessment-q4",
   "objective": "2.6",
+  "lesson": "s1-l3",
   "q": "Which statement describes an advantage of the periodic inventory system?",
   "choices": [
    "The cost to implement a periodic inventory system is relatively low.",
@@ -236,6 +253,7 @@
  {
   "id": "c720-section-1-lesson-3-assessment-q5",
   "objective": "2.6",
+  "lesson": "s1-l3",
   "q": "What is true regarding the ABC classification of inventory table?",
   "choices": [
    "The most important items have the highest cost.",
@@ -250,6 +268,7 @@
  {
   "id": "c720-section-1-lesson-4-assessment-q1",
   "objective": "2.6",
+  "lesson": "s1-l4",
   "q": "The EOQ is the point at which holding costs ____.",
   "choices": [
    "equal ordering costs",
@@ -263,6 +282,7 @@
  {
   "id": "c720-section-1-lesson-4-assessment-q2",
   "objective": "2.6",
+  "lesson": "s1-l4",
   "q": "What might have caused a smartphone manufacturer to incur a stockout or run out of inventory for a new phone when they first released it?",
   "choices": [
    "Demand and lead times were less than expected.",
@@ -276,6 +296,7 @@
  {
   "id": "c720-section-1-lesson-4-assessment-q3",
   "objective": "2.6",
+  "lesson": "s1-l4",
   "q": "What type of company would most likely use the EOQ model when calculating inventory needs?",
   "choices": [
    "An airplane manufacturer",
@@ -289,6 +310,7 @@
  {
   "id": "c720-section-1-lesson-4-assessment-q4",
   "objective": "2.6",
+  "lesson": "s1-l4",
   "q": "What type of company would most likely use the EPQ model when calculating inventory needs?",
   "choices": [
    "A car manufacturer",
@@ -302,6 +324,7 @@
  {
   "id": "c720-section-1-lesson-4-assessment-q5",
   "objective": "2.6",
+  "lesson": "s1-l4",
   "q": "The process of saving money by ordering by the case versus ordering individual units is an exercise of which inventory model?",
   "choices": [
    "Economic order quantity (EOQ)",
@@ -316,6 +339,7 @@
  {
   "id": "c720-section-1-test-q1",
   "objective": "2.6",
+  "lesson": null,
   "q": "A manufacturing company is reworking its operations with a greater emphasis on social sustainability. Which action should the manufacturing company take to address this form of sustainability?",
   "choices": [
    "Prioritize practices for long-term savings",
@@ -330,6 +354,7 @@
  {
   "id": "c720-section-1-test-q2",
   "objective": "2.6",
+  "lesson": null,
   "q": "A new operations manager has been hired by a company. What is an ethical concern for the operations manager?",
   "choices": [
    "How to optimally design a product",
@@ -344,6 +369,7 @@
  {
   "id": "c720-section-1-test-q3",
   "objective": "2.6",
+  "lesson": null,
   "q": "An organization wants to update its policies and practices to place more of an emphasis on economic sustainability. What should the organization do to address this?",
   "choices": [
    "Deliver the maximum possible value to the customer",
@@ -358,6 +384,7 @@
  {
   "id": "c720-section-1-test-q4",
   "objective": "2.6",
+  "lesson": null,
   "q": "A company's new leadership team wants to update the company's practices and policies to reflect a greater level of social sustainability. What should the leadership team work on to address this issue?",
   "choices": [
    "Use standard accounting practices",
@@ -372,6 +399,7 @@
  {
   "id": "c720-section-1-test-q5",
   "objective": "2.6",
+  "lesson": null,
   "q": "An operations manager decides to change a production facility layout to better utilize space and improve productivity. What is the component of the triple bottom line that this decision addresses?",
   "choices": [
    "Product optimization",
@@ -386,6 +414,7 @@
  {
   "id": "c720-section-1-test-q6",
   "objective": "2.6",
+  "lesson": null,
   "q": "An operations manager makes a decision to replace a production machine with a model that is more energy efficient. What is the component of the triple bottom line that this decision addresses?",
   "choices": [
    "Product optimization",
@@ -400,6 +429,7 @@
  {
   "id": "c720-section-1-test-q7",
   "objective": "2.6",
+  "lesson": null,
   "q": "Which benefit is associated with SWOT analysis?",
   "choices": [
    "It helps a company understand its internal strengths and weaknesses.",
@@ -414,6 +444,7 @@
  {
   "id": "c720-section-1-test-q8",
   "objective": "2.6",
+  "lesson": null,
   "q": "Which question is among those that a company should ask when determining strengths for SWOT analysis?",
   "choices": [
    "What is the status of supply chain integration?",
@@ -428,6 +459,7 @@
  {
   "id": "c720-section-1-test-q9",
   "objective": "2.6",
+  "lesson": null,
   "q": "Which question is important for identifying weaknesses in SWOT analysis?",
   "choices": [
    "What is the best inventory accounting method?",
@@ -442,6 +474,7 @@
  {
   "id": "c720-section-1-test-q10",
   "objective": "2.6",
+  "lesson": null,
   "q": "What is one of the questions that a company should ask when determining threats for SWOT analysis?",
   "choices": [
    "Which information systems are the most out-of-date?",
@@ -456,6 +489,7 @@
  {
   "id": "c720-section-1-test-q11",
   "objective": "2.6",
+  "lesson": null,
   "q": "Which factor is one of the two internal elements of SWOT analysis?",
   "choices": [
    "Workplaces",
@@ -470,6 +504,7 @@
  {
   "id": "c720-section-1-test-q12",
   "objective": "2.6",
+  "lesson": null,
   "q": "What is a reason for conducting SWOT analysis?",
   "choices": [
    "Developing plans of action for ethics and sustainability challenges",
@@ -484,6 +519,7 @@
  {
   "id": "c720-section-1-test-q13",
   "objective": "2.6",
+  "lesson": null,
   "q": "A clothing retailer uses a perpetual inventory system to track its inventory of all its clothing products. What is an advantage of this type of inventory system?",
   "choices": [
    "An up-to-date running inventory balance",
@@ -498,6 +534,7 @@
  {
   "id": "c720-section-1-test-q14",
   "objective": "2.6",
+  "lesson": null,
   "q": "A department store upgraded its operations to include a perpetual inventory system. Which disadvantage does the store have by using this type of inventory system?",
   "choices": [
    "Demand must be forecasted with a high level of accuracy.",
@@ -512,6 +549,7 @@
  {
   "id": "c720-section-1-test-q15",
   "objective": "2.6",
+  "lesson": null,
   "q": "A small business uses a periodic inventory system to manage its inventory of products. What is an advantage of this type of inventory system?",
   "choices": [
    "A lower level of inventory can be held.",
@@ -526,6 +564,7 @@
  {
   "id": "c720-section-1-test-q16",
   "objective": "2.6",
+  "lesson": null,
   "q": "A sporting goods store relies on a periodic system to manage its inventory of sellable products. What is a disadvantage of this type of inventory system?",
   "choices": [
    "A significant initial investment of financial capital",
@@ -540,6 +579,7 @@
  {
   "id": "c720-section-1-test-q17",
   "objective": "2.6",
+  "lesson": null,
   "q": "What is a characteristic of the economic order quantity model of inventory management?",
   "choices": [
    "It assumes that an organization's manufacturing capacity for a product exceeds the demand for that product.",
@@ -554,6 +594,7 @@
  {
   "id": "c720-section-1-test-q18",
   "objective": "2.6",
+  "lesson": null,
   "q": "What is one of the assumptions of the economic order quantity model?",
   "choices": [
    "Orders can be placed incrementally.",
@@ -568,6 +609,7 @@
  {
   "id": "c720-section-1-test-q19",
   "objective": "2.6",
+  "lesson": null,
   "q": "Which inventory costs include costs associated with lost sales?",
   "choices": [
    "Carrying",

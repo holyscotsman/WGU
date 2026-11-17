@@ -1,6 +1,9 @@
 ---
 title: S7 3.3 Performance Factors
 objectives: s7
+lesson: s7-l3
+page: 3.3
+kind: page
 ---
 # S7 3.3 Performance Factors
 
@@ -19,8 +22,6 @@ Using the same measures from the website project at the end of Week 3, you can c
 - CPI = 1.06 or 106%
 
 CPI values greater than 1 or 100% mean that the project team is completing more work with less cost than expected. This is a good result. If the CPI had been less than 1, like 0.8 for example, the project team would be accomplishing less work for the money spent and is behind the budget. If the CPI is 0.8 or 80%, then the team is only 80% efficient in their use of the project money.
-
-The two indexes measure how efficiently the team is using time and money. donskarpo/iStock / Getty Images Plus via Getty Images.
 
 The Schedule Performance Index (SPI) The schedule performance index (SPI) uses the same inputs as the SV measure but combines them using a ratio that creates a measure of time efficiency.
 

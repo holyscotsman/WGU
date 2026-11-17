@@ -1,6 +1,8 @@
 ---
 title: Section 4: Introduction
 objectives: s4
+lesson: s4-l0
+kind: section-intro
 ---
 # Section 4: Introduction
 

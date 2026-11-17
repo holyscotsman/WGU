@@ -1,12 +1,17 @@
 ---
 title: S2 2 Introduction
 objectives: s2
+lesson: s2-l2
+kind: intro
 ---
 # S2 2 Introduction
 
 ## Learning Objectives
 
-Consider the following learning objectives as you move through the lesson: Define the project term triple constraint. Describe how triple constraint impacts project quality.
+Consider the following learning objectives as you move through the lesson:
+
+- Define the project term triple constraint.
+- Describe how triple constraint impacts project quality.
 
 ## Constraints
 
@@ -14,7 +19,7 @@ According to Merriam-Webster, a constraint is "something that limits or restrict
 
 A sign displays a tagline. It has engaging words like fast, cheap, and good, with a reminder of quality. Customers can pick only two options. Essentially this sign advises that fast and cheap often will not be good, cheap and good will not be fast, fast and good will not be cheap. In other words: If you want it fast, you either pay more or get lower quality; if price is the major issue, then it takes longer or the quality is lower; and if you want it good (best quality), then you pay more, or it takes longer.
 
-The triple constraints of project management, time, scope, and cost, are integral to any project. A person types on a computer with these terms floating to the right of the computer. Melpomenem/iStock / Getty Images Plus via Getty Images./Text changed The triple constraint concept is often shown as a triangle to illustrate that if you change any one side of the triangle, at least one of the other two sides is affected. It is not possible to change any one side of a triangle without affecting the other two characteristics.
+The triple constraint concept is often shown as a triangle to illustrate that if you change any one side of the triangle, at least one of the other two sides is affected. It is not possible to change any one side of a triangle without affecting the other two characteristics.
 
 Triple constraints triangle with Cost on the bottom left, Time on the bottom right, Scope at the top, and Quality in the center of the triangle. This really makes sense. Whenever you order any product or service, there are three questions you ask: Time: How long will it take to get? This is both hours of work and calendar time. You pay more for rush orders or delivery. Cost: How much will it cost? You want to know how the item fits in your budget. Can you afford it? Often this includes time and the cost of quality. Scope: What is the scope? (Or what features/functions does it have? Or how good is it?)
 

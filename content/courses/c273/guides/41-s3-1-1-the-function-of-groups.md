@@ -1,6 +1,9 @@
 ---
 title: S3 1.1 The Function of Groups
 objectives: s3
+lesson: s3-l1
+page: 1.1
+kind: page
 ---
 # S3 1.1 The Function of Groups
 
@@ -15,8 +18,6 @@ Why do sociologists study social groups?
 ## Groups and Nongroups
 
 Imagine you are part of a study group that meets every week. Members check in, share notes, divide tasks, and expect each other to show up prepared. Over time, the group develops shared routines and a sense of "us." This is the kind of social connection sociologists have in mind when they use the term group. From a sociological perspective, a group is two or more people who interact regularly and share a sense of identity or belonging. Through groups, people learn social norms, build relationships, and coordinate behavior. In other words, groups are one of the main ways society shapes individual behavior and creates predictable patterns of interaction.
-
-VioletaStoimenova/E+ via Getty Images.
 
 When is a Group not a Group? This question is not a riddle! Imagine standing in line at a grocery store during a busy evening. Other people surround you, but no one is talking, coordinating, or sharing a sense of belonging. Even though many people are present, a sociologist would not consider this a group. A nongroup is more than one person who may be in the same place at the same time, share certain characteristics, but do not necessarily share an identity, interact, or feel tied to each other in any way. Sociologists distinguish groups from nongroups because they want to separate meaningful social relationships from just a collection of people. Sociologists identify two types of nongroups based on why people are together. An aggregate is a collection of people who are in the same place at the same time but do not interact or share a sense of identity. For example, people at a grocery store form an aggregate at the same time. A category is a group of people who share a characteristic but do not necessarily interact with one another and do not need to be in the same proximity. Examples include people who wear glasses, people of the same age range, or individuals who share a similar occupation.
 

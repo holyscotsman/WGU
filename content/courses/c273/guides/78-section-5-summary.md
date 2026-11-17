@@ -1,6 +1,8 @@
 ---
 title: Section 5: Summary
 objectives: s5
+lesson: s5-l0
+kind: section-summary
 ---
 # Section 5: Summary
 

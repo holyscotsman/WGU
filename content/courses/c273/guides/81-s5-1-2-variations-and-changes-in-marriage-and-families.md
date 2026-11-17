@@ -1,6 +1,9 @@
 ---
 title: S5 1.2 Variations and Changes in Marriage and Families
 objectives: s5
+lesson: s5-l1
+page: 1.2
+kind: page
 ---
 # S5 1.2 Variations and Changes in Marriage and Families
 

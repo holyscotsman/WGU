@@ -1,8 +1,11 @@
 ---
-title: S2 2.3 Constraint- Project Cost
+title: S2 2.3 Constraint: Project Cost
 objectives: s2
+lesson: s2-l2
+page: 2.3
+kind: page
 ---
-# S2 2.3 Constraint- Project Cost
+# S2 2.3 Constraint: Project Cost
 
 ## Learning Objectives
 
@@ -19,7 +22,7 @@ facility purchases or rentals (to the extent the facility is used for the projec
 
 purchased with the intent of being available following the completion of this project, the purchase price is not chargeable to the project, but the operating costs are. The key to creating a budget is careful and complete documentation of the assumptions that come from the project-planning phase. If you gather information during planning, then creating the budget can be a mathematical process of multiplying cost by volume (hours, number of things purchased, etc.). A great tool to use for this can be lessons learned from a previous, similar project. Remember, any time there is a possible change in cost, it must be viewed regarding to any decrease in schedule or increase in scope. In other words, does the benefit balance the cost change?
 
-The benefit and cost required during a project is displayed. Gajus/iStock / Getty Images Plus via Getty Images. Your desire is to have the benefit at least equal to the cost, but ultimately it is to drive greater profits for the business. If you simplify the concept, you have basic accounting:
+Your desire is to have the benefit at least equal to the cost, but ultimately it is to drive greater profits for the business. If you simplify the concept, you have basic accounting:
 
 - Sales – Cost = Profit
 

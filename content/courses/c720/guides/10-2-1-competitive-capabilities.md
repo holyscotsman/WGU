@@ -1,6 +1,9 @@
 ---
 title: 2.1 Competitive Capabilities
 objectives: 2.6
+lesson: s1-l2
+page: 2.1
+kind: page
 ---
 # 2.1 Competitive Capabilities
 

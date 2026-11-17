@@ -1,6 +1,8 @@
 ---
 title: Section 1: Introduction
 objectives: s1
+lesson: s1-l0
+kind: section-intro
 ---
 # Section 1: Introduction
 

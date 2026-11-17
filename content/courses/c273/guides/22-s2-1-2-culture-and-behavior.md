@@ -1,6 +1,9 @@
 ---
 title: S2 1.2 Culture and Behavior
 objectives: s2
+lesson: s2-l1
+page: 1.2
+kind: page
 ---
 # S2 1.2 Culture and Behavior
 

@@ -1,0 +1,22 @@
+{
+ "c722-section-1-section-1-test-q2": {
+  "explanation": "A portfolio is the set of projects and programs a company engages in to improve its operations. A program, by contrast, is a group of related projects that support the company's goals and objectives (Lesson 1.6).",
+  "reason": "courseware explanation contradicted the answer (it described a program)"
+ },
+ "c722-section-1-section-1-test-q7": {
+  "explanation": "This is a communication plan. The table's columns (audience, method of communication, who drafts and presents, due dates) are what a communication plan records, and each project needs its own stated plan (Lesson 2.3).",
+  "reason": "thin courseware explanation"
+ },
+ "c722-section-1-lesson-1-quiz-q1": {
+  "explanation": "A project is a targeted, temporary effort with a specific start date and end date, which separates it from ongoing operations (Lessons 1.3 and 1.4).",
+  "reason": "thin courseware explanation"
+ },
+ "c722-section-4-lesson-1-quiz-q6": {
+  "explanation": "Traditional methods follow a linear, sequential path: define, plan, execute, and close, with virtually no overlap. Plan is the second phase (Lesson 1.6).",
+  "reason": "thin courseware explanation"
+ },
+ "c722-section-5-lesson-1-quiz-q2": {
+  "explanation": "Scope verification is the fourth step of the scope management process, and it falls in the closing phase of the project life cycle.",
+  "reason": "thin courseware explanation"
+ }
+}

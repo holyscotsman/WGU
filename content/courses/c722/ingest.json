@@ -1081,5 +1081,79 @@
   {
    "file": "C722 Study Guide v4.xlsx"
   }
- ]
+ ],
+ "noPulledDefinition": [
+  "Crashing",
+  "Scrum"
+ ],
+ "questionOverrides": {
+  "Section 7/Section 7- Test.pdf Q2": {
+   "stem": "Members of a project team feel completely comfortable working together and have developed trusting relationships. As a result, the project is progressing on schedule. Which stage of the group development model describes this team?",
+   "choices": [
+    "Performing",
+    "Storming",
+    "Norming"
+   ],
+   "selected": [
+    0
+   ],
+   "answerBasis": "explanation",
+   "note": "All three radios sit behind the page footer; the explanation names the performing stage."
+  },
+  "Section 5/Section 5- Test.pdf Q4": {
+   "stem": "After the project requirements and deliverables have been identified, what should the next step be?",
+   "choices": [
+    "Construct a Gantt chart to ensure tasks can be completed within the proposed schedule",
+    "Draft the project charter",
+    "Complete the scope statement",
+    "Determine the skills required to execute the project"
+   ],
+   "selected": [
+    3
+   ],
+   "note": "First choice is behind the page footer and its words were interleaved with footer text; selected dot is on the last visible choice."
+  },
+  "Section 6/Lesson 3- Quiz.pdf Q4": {
+   "stem": "What is float time, and why is it important for a project manager?",
+   "choices": [
+    "Float time is when no work is being done on a project task. Project managers often use this time to relax.",
+    "Float time is the amount of time an activity can be delayed without affecting the project timelines. Project managers often use this to determine where resources can be redirected from to assist other areas of the project.",
+    "Float time is the amount of time a customer has to change their mind on requirements without impacting the project schedule. Project managers often use this time to help the customer understand their options."
+   ],
+   "selected": [
+    1
+   ],
+   "note": "First choice is behind the page footer and was read as part of the stem; selected dot is on the second."
+  },
+  "Section 1/Section 1- Test.pdf Q7": {
+   "stem": "A table with the column headings Project Name, Audience, Task or Method of Communication, Who Drafts, Implementor or Presenter, Draft Due, Final Due, Materials Needed, Complete, and Notes is an example of which type of plan?",
+   "note": "The table image's header text was read out of order; the stem restates the headings. The marked answer is unchanged."
+  },
+  "Section 2/Section 2- Test.pdf Q2": {
+   "choices": [
+    "Defining",
+    "Planning",
+    "Executing",
+    "Closing"
+   ],
+   "selected": [
+    1
+   ],
+   "answerBasis": "explanation",
+   "note": "Dropdown item: the printout shows only the chosen value (Planning). The options are reconstructed as the four life-cycle phases; the marked answer is unchanged."
+  },
+  "Section 2/Section 2- Test.pdf Q3": {
+   "choices": [
+    "Defining",
+    "Planning",
+    "Executing",
+    "Closing"
+   ],
+   "selected": [
+    0
+   ],
+   "answerBasis": "explanation",
+   "note": "Dropdown item: the printout shows only the chosen value (Defining). The options are reconstructed as the four life-cycle phases; the marked answer is unchanged."
+  }
+ }
 }

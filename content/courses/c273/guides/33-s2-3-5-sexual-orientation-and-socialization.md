@@ -1,6 +1,9 @@
 ---
 title: S2 3.5 Sexual Orientation and Socialization
 objectives: s2
+lesson: s2-l3
+page: 3.5
+kind: page
 ---
 # S2 3.5 Sexual Orientation and Socialization
 

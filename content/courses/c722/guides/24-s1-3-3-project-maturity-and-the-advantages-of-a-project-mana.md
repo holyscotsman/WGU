@@ -1,6 +1,9 @@
 ---
 title: S1 3.3 Project Maturity and the Advantages of a Project Management Office (PMO)
 objectives: s1
+lesson: s1-l3
+page: 3.3
+kind: page
 ---
 # S1 3.3 Project Maturity and the Advantages of a Project Management Office (PMO)
 

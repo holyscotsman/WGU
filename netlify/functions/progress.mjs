@@ -18,6 +18,7 @@ export function merge(server, client) {
     questions: mergeMap(server.questions, client.questions),
     cards: mergeMap(server.cards, client.cards),
     games: mergeMap(server.games, client.games),
+    pa: { q: mergeMap(server.pa?.q, client.pa?.q), c: mergeMap(server.pa?.c, client.pa?.c) },
     exams: [...exams.values()].sort((x, y) => x.t - y.t),
   };
 }

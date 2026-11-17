@@ -1,6 +1,9 @@
 ---
 title: S3 1.2 Comparative Checklists for Project Selection
 objectives: s3
+lesson: s3-l1
+page: 1.2
+kind: page
 ---
 # S3 1.2 Comparative Checklists for Project Selection
 
@@ -23,8 +26,6 @@ Project selection models fall into two general categories: non-numeric and numer
 ## Competitive Necessity
 
 Projects evaluated under the competitive necessity model still require a project proposal, which includes justification, cost, and time estimates, and documented outcomes. However, the decision of whether to approve or disapprove the project is based on whether implementing the project will ensure the viability of the company in the competitive market. If your market is being dominated by gas stations that include convenience stores, and your company's chain of gasonly facilities is losing market share, then a project may be needed to upgrade facilities to include convenience stores to remain competitive in the market.
-
-Convenience store with a gas station. WendellandCarolyn/iStock / Getty Images Plus via Getty Images.
 
 ## Operating Necessity
 

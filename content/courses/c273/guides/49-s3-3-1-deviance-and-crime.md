@@ -1,6 +1,9 @@
 ---
 title: S3 3.1 Deviance and Crime
 objectives: s3
+lesson: s3-l3
+page: 3.1
+kind: page
 ---
 # S3 3.1 Deviance and Crime
 
@@ -16,7 +19,7 @@ What Is Deviance? Think about everyday situations where someone breaks a rule, s
 
 When and Why Is Behavior Deviant?
 
-When is behavior deviant? A behavior becomes deviant only when a group or ADA Accommodation society decides that it violates shared norms for behavior. Sociologists describe this idea as social construction, meaning behaviors are considered deviant not © 2020 Western Governors University – WGU. | Terms of Service | Privacy Policy because they are naturally wrong but because people collectively agree that they All rights reserved. Honor Code break accepted social norms.
+When is behavior deviant? A behavior becomes deviant only when a group or society decides that it violates shared norms for behavior. Sociologists describe this idea as social construction, meaning behaviors are considered deviant not | Terms of Service | Privacy Policy because they are naturally wrong but because people collectively agree that they All rights reserved. Honor Code break accepted social norms.
 
 Factors Explaining Deviant Behavior The following factors help explain why the same behavior may be acceptable in some situations but considered deviant in others. Culture: Different societies have different rules. What is normal in one culture may be unacceptable in another. Time period: Social rules change. Behaviors once criticized may later become normal (and vice versa). Context: Behavior that fits one setting may violate expectations in another, and this may change geographically. Audience: Who is present matters. People react differently depending on whether friends, authority figures, or strangers are watching. Power: Some people and institutions have more authority to decide what counts as deviant and how it is punished.
 

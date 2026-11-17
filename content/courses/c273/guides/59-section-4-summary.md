@@ -1,6 +1,8 @@
 ---
 title: Section 4: Summary
 objectives: s4
+lesson: s4-l0
+kind: section-summary
 ---
 # Section 4: Summary
 

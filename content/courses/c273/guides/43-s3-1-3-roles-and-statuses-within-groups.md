@@ -1,6 +1,9 @@
 ---
 title: S3 1.3 Roles and Statuses within Groups
 objectives: s3
+lesson: s3-l1
+page: 1.3
+kind: page
 ---
 # S3 1.3 Roles and Statuses within Groups
 

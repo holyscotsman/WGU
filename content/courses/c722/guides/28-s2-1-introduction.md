@@ -1,12 +1,18 @@
 ---
 title: S2 1 Introduction
 objectives: s2
+lesson: s2-l1
+kind: intro
 ---
 # S2 1 Introduction
 
 ## Learning Objectives
 
-Consider the following learning objectives as you move through the lesson: Identify each phase of a project. Describe the activities of each phase of a project. Explain the purpose of developing project lessons learned.
+Consider the following learning objectives as you move through the lesson:
+
+- Identify each phase of a project.
+- Describe the activities of each phase of a project.
+- Explain the purpose of developing project lessons learned.
 
 ## Overview
 

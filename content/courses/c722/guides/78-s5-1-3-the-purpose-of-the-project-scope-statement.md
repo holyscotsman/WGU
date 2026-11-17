@@ -1,6 +1,9 @@
 ---
 title: S5 1.3 The Purpose of the Project Scope Statement
 objectives: s5
+lesson: s5-l1
+page: 1.3
+kind: page
 ---
 # S5 1.3 The Purpose of the Project Scope Statement
 
@@ -18,7 +21,7 @@ In many instances, omitted items are identified during project execution. At tha
 
 A project requirement is a characteristic, function, or capability that must be present in the project's final outcome. The requirements are collected by the project team during the planning phase. Depending on the complexity of the project, the requirements can be extensive. Requirements come from the project stakeholders and will be used to create the project scope statement. The project team can glean high-level requirements from information included in the project charter. Developing an understanding of the project overview, business case (project justification), general objectives, risks, and constraints prepares the project team to meet with stakeholders to identify specific requirements. From this foundational understanding, the team then meets with project stakeholders to further define the requirements. Recall that stakeholders are individuals or organizations that are affected by the project or perceive that they will be affected by the project. That can be a wide range of individuals or organizations, so the project team needs to decide which stakeholders will provide requirements and how that information will be gathered, analyzed, and accepted or rejected. There are many tools for gathering information. Depending on the situation, surveys, interviews, focus groups, workshops, and group brainstorming techniques may be used. It is often incumbent on the project team to listen carefully and interact extensively with the stakeholders in order to develop specific and measurable requirements.
 
-A person in a business meeting is gesturing towards the easel. monkeybusinessimages/iStock / Getty Images Plus via Getty Images. Once the requirements are gathered, they are documented in the requirements traceability matrix. The matrix not only includes the requirement, but it also identifies the business need that will be satisfied and the specific stakeholder who provided the requirement. The matrix can be expanded to include the name of a project team member who will be responsible for meeting the requirement, how the required outcome will be verified, and other pertinent information.
+Once the requirements are gathered, they are documented in the requirements traceability matrix. The matrix not only includes the requirement, but it also identifies the business need that will be satisfied and the specific stakeholder who provided the requirement. The matrix can be expanded to include the name of a project team member who will be responsible for meeting the requirement, how the required outcome will be verified, and other pertinent information.
 
 ## Requirements Traceability Matrix
 
@@ -44,4 +47,4 @@ As was mentioned earlier, the project scope statement is a detailed description 
 
 In the restaurant example, the project scope statement may include the design, purchase, and installation of a lighted sign for the front of the building, but other marketing efforts may not be included. This should be noted in the project scope statement so that there is no assumption that other marketing work will be completed as part of the project team’s work. Creating the project scope statement is an iterative process between the project team and the customer. It can take several rounds of revisions to develop a document that satisfies both parties. The project scope statement will guide the team as they complete the detailed planning of the project work.
 
-Two people are shaking hands over paperwork and a miniature house. seoterra/iStock / Getty Images Plus via Getty Images. During the detailed planning, situations may be identified that require the project scope statement to be modified. However, at the conclusion of the planning phase, the project scope statement and project plan are approved and will not be changed without the agreement of both the customer and the project manager.
+During the detailed planning, situations may be identified that require the project scope statement to be modified. However, at the conclusion of the planning phase, the project scope statement and project plan are approved and will not be changed without the agreement of both the customer and the project manager.

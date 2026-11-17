@@ -1,12 +1,16 @@
 ---
 title: S7 1 Introduction
 objectives: s7
+lesson: s7-l1
+kind: intro
 ---
 # S7 1 Introduction
 
 ## Learning Objective
 
-Consider the following learning objectives as you move through the lesson: Describe the characteristics of an effective project team.
+Consider the following learning objectives as you move through the lesson:
+
+- Describe the characteristics of an effective project team.
 
 ## Overview
 

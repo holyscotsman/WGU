@@ -1,6 +1,9 @@
 ---
 title: S5 2.3 Educational Institutions
 objectives: s5
+lesson: s5-l2
+page: 2.3
+kind: page
 ---
 # S5 2.3 Educational Institutions
 

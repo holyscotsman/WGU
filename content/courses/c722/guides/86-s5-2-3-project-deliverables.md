@@ -1,6 +1,9 @@
 ---
 title: S5 2.3 Project Deliverables
 objectives: s5
+lesson: s5-l2
+page: 2.3
+kind: page
 ---
 # S5 2.3 Project Deliverables
 
@@ -11,10 +14,6 @@ Prepare a work breakdown structure given a project scenario.
 You have done your project definition and begun your project plan by defining the deliverables. The deliverables are concrete things you need to give to your customer in order for the project to be complete. In this restaurant scenario, you have defined your first project in the program to be creating your first restaurant. The deliverables are shown in the following chart.
 
 The project is setting up a new restaurant. The first activity is project management. The key deliverables or activities that come under project management are procurement, systems, and procedures, menu, front of house, kitchen, and business plan.
-
-## Image description
-
-In this example, the project is for the first restaurant. Key deliverables are shown. Each deliverable is an activity and will have tasks to be accomplished. The project is setting up a new restaurant. The main activity is project management. There are a series of activities under project management. They are procurement, systems, and procedures, menu, front of house, kitchen, and business plan.
 
 As you review these deliverables, you see the titles for the concrete items you need to do. As stated before, you have two types of deliverables: Project management deliverables—the concrete items you need to manage this project. They are usually generic to a business or methodology adopted by a project manager for use to manage the team and create sound communications. Project-specific deliverables—in this case, your project-specific deliverables are required tasks for the following:
 
@@ -30,11 +29,7 @@ In order to complete the business plan, which is a primary deliverable, you must
 
 The first deliverables you plan for are the project management deliverables, which are seen in the following chart.
 
-In the chart, the project management activity is further divided into budget, status reports, status meetings, and personnel management.
-
-## Image description
-
-The first deliverable is project management. Under project management, the planned activities are budget, status reports, status meetings, and personnel management. In the beginning, the budget for the project is created. The status reports for the team are also created. Status meetings are hosted for reporting, gathering information, and resolving issues. Personnel management looks after the tasks such as hiring, supervision and coaching, payroll, and releasing people. Under each deliverable is a list of activities. In the case of the deliverable for project management, you have activities for the following:
+In the chart, the project management activity is further divided into budget, status reports, status meetings, and personnel management. Under each deliverable is a list of activities. In the case of the deliverable for project management, you have activities for the following:
 
 - budget for creating and monitoring the project’s budget
 

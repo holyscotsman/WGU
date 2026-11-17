@@ -1,6 +1,8 @@
 ---
 title: S6 2 Summary
 objectives: s6
+lesson: s6-l2
+kind: summary
 ---
 # S6 2 Summary
 

@@ -1,6 +1,9 @@
 ---
 title: S2 2.4 The Purpose of Establishing a Project Baseline
 objectives: s2
+lesson: s2-l2
+page: 2.4
+kind: page
 ---
 # S2 2.4 The Purpose of Establishing a Project Baseline
 

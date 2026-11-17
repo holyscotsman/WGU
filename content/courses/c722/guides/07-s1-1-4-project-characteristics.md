@@ -1,6 +1,9 @@
 ---
 title: S1 1.4 Project Characteristics
 objectives: s1
+lesson: s1-l1
+page: 1.4
+kind: page
 ---
 # S1 1.4 Project Characteristics
 
@@ -12,11 +15,7 @@ Define projects, including their purpose.
 
 Virtually every product and service you use on a daily basis started as a project. The computer hardware you are using to view this course content began as a product development project, as did the software used to develop and deliver the course content. The vehicles you drive were developed in a project. In fact, it is likely that many of the parts of your car were developed in different projects, with another project to integrate them all into one vehicle. So a list of all the products that a project creates would be endless. The following are some examples of the products and services that are used on a regular basis that were created as projects:
 
-A busy city landscape including locomotive on the bridge, truck driving on the highway, people walking, an airplane taking off, and tall city buildings. panimoni/iStock / Getty Images Plus via Getty Images.
-
 the infrastructure (roads, bridges, highways, tunnels, etc.) that you use in your daily commute
-
-Computer-aided design of a sports car. alex-mit/iStock / Getty Images Plus via Getty Images.
 
 the vehicle that you drive, which was designed by engineers (the construction of the vehicle is the result of a manufacturing operation) the office building, house, library, etc., where you are sitting while you access this course
 

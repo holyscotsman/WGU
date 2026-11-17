@@ -1,6 +1,9 @@
 ---
 title: S5 1.4 Challenges of Families
 objectives: s5
+lesson: s5-l1
+page: 1.4
+kind: page
 ---
 # S5 1.4 Challenges of Families
 

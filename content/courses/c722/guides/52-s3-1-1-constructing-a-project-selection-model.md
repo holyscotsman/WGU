@@ -1,6 +1,9 @@
 ---
 title: S3 1.1 Constructing a Project Selection Model
 objectives: s3
+lesson: s3-l1
+page: 1.1
+kind: page
 ---
 # S3 1.1 Constructing a Project Selection Model
 

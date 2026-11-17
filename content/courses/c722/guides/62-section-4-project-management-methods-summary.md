@@ -1,6 +1,8 @@
 ---
 title: Section 4: Project Management Methods Summary
 objectives: s4
+lesson: s4-l0
+kind: section-summary
 ---
 # Section 4: Project Management Methods Summary
 

@@ -1,6 +1,9 @@
 ---
 title: 3.1 Inventory Management
 objectives: 2.6
+lesson: s1-l3
+page: 3.1
+kind: page
 ---
 # 3.1 Inventory Management
 

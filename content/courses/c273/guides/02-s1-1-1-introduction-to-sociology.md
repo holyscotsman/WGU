@@ -1,6 +1,9 @@
 ---
 title: S1 1.1 Introduction to Sociology
 objectives: s1
+lesson: s1-l1
+page: 1.1
+kind: page
 ---
 # S1 1.1 Introduction to Sociology
 

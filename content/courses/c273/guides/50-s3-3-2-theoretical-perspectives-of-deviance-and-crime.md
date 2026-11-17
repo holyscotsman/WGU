@@ -1,6 +1,9 @@
 ---
 title: S3 3.2 Theoretical Perspectives of Deviance and Crime
 objectives: s3
+lesson: s3-l3
+page: 3.2
+kind: page
 ---
 # S3 3.2 Theoretical Perspectives of Deviance and Crime
 

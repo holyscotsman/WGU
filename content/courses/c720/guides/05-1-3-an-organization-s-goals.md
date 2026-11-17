@@ -1,6 +1,9 @@
 ---
 title: 1.3 An Organization's Goals
 objectives: 2.6
+lesson: s1-l1
+page: 1.3
+kind: page
 ---
 # 1.3 An Organization's Goals
 

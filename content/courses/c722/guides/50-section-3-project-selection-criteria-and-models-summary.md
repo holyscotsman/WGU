@@ -1,6 +1,8 @@
 ---
 title: Section 3: Project Selection Criteria and Models Summary
 objectives: s3
+lesson: s3-l0
+kind: section-summary
 ---
 # Section 3: Project Selection Criteria and Models Summary
 

@@ -1,12 +1,20 @@
 ---
 title: S4 1 Introduction
 objectives: s4
+lesson: s4-l1
+kind: intro
 ---
 # S4 1 Introduction
 
 ## Learning Objectives
 
-Consider the following learning objectives as you move through the lesson: Contrast common project management methods. Identify the five processes for managing a project. Describe traditional project management methods. Describe agile project management methods. Describe extreme project management methods.
+Consider the following learning objectives as you move through the lesson:
+
+- Contrast common project management methods.
+- Identify the five processes for managing a project.
+- Describe traditional project management methods.
+- Describe agile project management methods.
+- Describe extreme project management methods.
 
 ## Overview
 

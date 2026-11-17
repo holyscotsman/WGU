@@ -1,6 +1,9 @@
 ---
 title: S1 2.3 The Conflict Perspective
 objectives: s1
+lesson: s1-l2
+page: 2.3
+kind: page
 ---
 # S1 2.3 The Conflict Perspective
 

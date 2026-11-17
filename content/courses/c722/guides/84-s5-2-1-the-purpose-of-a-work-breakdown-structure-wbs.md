@@ -1,6 +1,9 @@
 ---
 title: S5 2.1 The Purpose of a Work Breakdown Structure (WBS)
 objectives: s5
+lesson: s5-l2
+page: 2.1
+kind: page
 ---
 # S5 2.1 The Purpose of a Work Breakdown Structure (WBS)
 

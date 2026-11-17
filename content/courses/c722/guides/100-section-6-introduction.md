@@ -1,6 +1,8 @@
 ---
 title: Section 6: Introduction
 objectives: s6
+lesson: s6-l0
+kind: section-intro
 ---
 # Section 6: Introduction
 

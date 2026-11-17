@@ -1,8 +1,11 @@
 ---
-title: S2 1.1 The Phases of a Project Life Cycle- The Project Defining Phase
+title: S2 1.1 The Phases of a Project Life Cycle: The Project Defining Phase
 objectives: s2
+lesson: s2-l1
+page: 1.1
+kind: page
 ---
-# S2 1.1 The Phases of a Project Life Cycle- The Project Defining Phase
+# S2 1.1 The Phases of a Project Life Cycle: The Project Defining Phase
 
 ## Learning Objectives
 
@@ -12,7 +15,7 @@ Identify each phase of a project.
 
 The project life cycle is a core concept in PMBOK 7. It provides a structured way to manage a project from conception to completion. The project life cycle is not a one-way street. It is a series of phases that a project progresses through from start to finish, often revisiting and iterating on previous phases. It essentially acts as a framework for managing the project throughout its entire duration, with the key phases being defining, planning, execution, and closure. The project life cycle is integrated into the Development Approach and Life Cycle performance domain, emphasizing the importance of aligning its development approach with its life cycle phases to deliver business value throughout the project. We will also consider the models, methods, and artifacts, or the tools and tailoring used to assist with developing and moving through the phases of the project life cycle. Each project is unique in the specifics of the activities that must be completed as it moves through the project phases toward completion, but we know that overall, there are general ways to organize and group those activities. At a high level, the project life cycle can be described as having a defining phase, a more detailed planning phase, a phase when the deliverables are created, and a closing phase where the completed project is turned over to the customer and the project reaches conclusion. To gain a better understanding of how the activities vary across the project’s life cycle, the activities are grouped into phases. The four general phases are identified as defining, planning, executing, and closing.
 
-This depicts an arrow with four textboxes contain the words. from left to right. Defining. Planning. Executing. Closing. ©2023 Western Governors University – WGU. All Rights Reserved. The phases often overlap, but they help project managers conceptualize the following:
+This depicts an arrow with four textboxes contain the words. from left to right. Defining. Planning. Executing. Closing. The phases often overlap, but they help project managers conceptualize the following:
 
 - the type of work that occurs,
 - the volume of resources needed,

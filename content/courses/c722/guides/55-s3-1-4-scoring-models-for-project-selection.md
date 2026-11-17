@@ -1,6 +1,9 @@
 ---
 title: S3 1.4 Scoring Models for Project Selection
 objectives: s3
+lesson: s3-l1
+page: 1.4
+kind: page
 ---
 # S3 1.4 Scoring Models for Project Selection
 
@@ -18,8 +21,4 @@ the criteria to achieve an overall project score in the far-right column. The sc
 
 The left side of the chart lists four project proposals. The raters have scored each selection criteria from 1 to 10. In the far-right column, the scores are summed across all criteria to determine the overall project score. Below the ratings are the weighted scores for each selection criteria for each project. To calculate the project total for each project, the ratings are multiplied by the criterion weight.
 
-## Image description
-
-Each of the four project proposals (Project Delta, Project Gamma, Project Beta, and Project Alpha) is listed as a separate row on the left side of the chart. A score of 1 to 10 has been
-
-assigned to each selection criterion by the raters. The selection criteria are: Aligned with strategic objectives; ROI is greater than 15%; Increases revenue at least 4%; Meets environmental sustainability requirements; Improves customer service performance; Likelihood that time, cost, and performance goals are met; Internal resources are sufficient to meet project requirements; Creates a sustainable competitive advantage. In the far-right column, the scores are summed across all criteria to determine the overall project score. Below the ratings are the weighted scores for each project for each selection criteria. The ratings of each criterion are multiplied by the criterion weight in order to calculate the total for each project. The project priority team rates the projects just like in the scoring model approach. However, their ratings of each criterion are multiplied by the criterion weight to calculate the total for each project. In this example, Project Delta still attains the highest overall score, but the weighting of criteria results show Project Beta moving into second priority over Project Gamma. To calculate the weighted scores, each project-criterion score is multiplied by the assigned weight. Weighted Project Score = ∑(score)ÿ * weight j) where score = the score of project ÿ on criterion j weight = the weight on criterion j
+The project priority team rates the projects just like in the scoring model approach. However, their ratings of each criterion are multiplied by the criterion weight to calculate the total for each project. In this example, Project Delta still attains the highest overall score, but the weighting of criteria results show Project Beta moving into second priority over Project Gamma. To calculate the weighted scores, each project-criterion score is multiplied by the assigned weight. Weighted Project Score = ∑(score)ÿ * weight j) where score = the score of project ÿ on criterion j weight = the weight on criterion j

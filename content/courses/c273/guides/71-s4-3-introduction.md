@@ -1,6 +1,8 @@
 ---
 title: S4 3 Introduction
 objectives: s4
+lesson: s4-l3
+kind: intro
 ---
 # S4 3 Introduction
 

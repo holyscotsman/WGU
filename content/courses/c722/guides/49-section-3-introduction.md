@@ -1,6 +1,8 @@
 ---
 title: Section 3: Introduction
 objectives: s3
+lesson: s3-l0
+kind: section-intro
 ---
 # Section 3: Introduction
 

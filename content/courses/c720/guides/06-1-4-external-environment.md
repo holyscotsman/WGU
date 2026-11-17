@@ -1,6 +1,9 @@
 ---
 title: 1.4 External Environment
 objectives: 2.6
+lesson: s1-l1
+page: 1.4
+kind: page
 ---
 # 1.4 External Environment
 

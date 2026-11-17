@@ -1,6 +1,8 @@
 ---
 title: S3 2 Introduction
 objectives: s3
+lesson: s3-l2
+kind: intro
 ---
 # S3 2 Introduction
 
@@ -10,4 +12,7 @@ People spend much of their lives in groups, from families and work teams to scho
 
 ## Learning Objectives
 
-Consider the following learning objectives as you move through this lesson: Identify types of groups, types of leadership, and group phenomena. Identify types of organizations and their growth in modern society.
+Consider the following learning objectives as you move through this lesson:
+
+- Identify types of groups, types of leadership, and group phenomena.
+- Identify types of organizations and their growth in modern society.

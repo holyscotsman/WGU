@@ -1,6 +1,8 @@
 ---
 title: Section 1: Project Management Concepts Summary
 objectives: s1
+lesson: s1-l0
+kind: section-summary
 ---
 # Section 1: Project Management Concepts Summary
 

@@ -1,6 +1,9 @@
 ---
 title: S5 1.3 Sociological Perspectives on Family
 objectives: s5
+lesson: s5-l1
+page: 1.3
+kind: page
 ---
 # S5 1.3 Sociological Perspectives on Family
 

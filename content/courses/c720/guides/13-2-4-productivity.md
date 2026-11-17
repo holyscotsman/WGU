@@ -1,6 +1,9 @@
 ---
 title: 2.4 Productivity
 objectives: 2.6
+lesson: s1-l2
+page: 2.4
+kind: page
 ---
 # 2.4 Productivity
 
@@ -37,8 +40,6 @@ The next wave of productivity improvements began in the 1950s with the developme
 ## Standards
 
 Productivity measures the ability to produce goods and services (outputs) compared to the inputs or resources used in the process. Most work in the economy is done by groups of people working in organizations. As discussed earlier in this section, organizations exist to meet the needs of society that people working alone cannot. It is through these organizations that people achieve the cooperation and coordination to produce the array of services and goods consumed each day. Organizations work in the following ways: First, organizations allow individuals to specialize in work, such as production, engineering, and sales. Second, organizations support the development and implementation of technology and automation to achieve greater productivity. Third, organizations provide a mechanism for coordinating work toward a common set of goals. Examining and redesigning organizational processes and activities is a key source of productivity improvement. The following examples illustrate these points. Specialization: A good example of specialization is in life insurance. Product design for life insurance requires an estimate of life expectancy. This effort is critical to setting the terms and conditions of the policy, including the premium. Actuaries are statisticians who specialize in making this estimate. Their productivity (i.e., ability to make the estimate quickly and accurately) is greatly enhanced by specialization. Technology and Automation: With the capability to send and receive money electronically, standing in line in a cashier's office or bank is no longer necessary. Advances in technology and automation present opportunities to cut costs and reduce processing time while increasing valueadded work.
-
-Two smartphones exchanging money. PM Images/DigitalVision via Getty Images.
 
 Process Redesign—Changing the process so that the customer can communicate directly with the people doing the work increases the productivity of all participants. It can also be done by sharing feedback from customers in a video format and providing "made by" information so that the customers know who made the product. Providing customers with the employee's email or other points of contact is helpful, as well.
 

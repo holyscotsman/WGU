@@ -1,6 +1,9 @@
 ---
 title: S6 1.2 Activity Duration Estimating Example
 objectives: s6
+lesson: s6-l1
+page: 1.2
+kind: page
 ---
 # S6 1.2 Activity Duration Estimating Example
 
@@ -12,9 +15,9 @@ Construct an activity duration estimate.
 
 You will use the work breakdown structure (WBS) that you developed for the restaurant project. Six major deliverables were identified. Drilling down in the business plan, the deliverables identify six major groupings of activities. If you drill down in the operations plan, three specific activities have been identified: design procedures, create training guide, and write job descriptions.
 
-A work breakdown structure is created for setting up a new restaurant. This partial WBS provides details of the three activities required for the operations plan section of the business plan deliverable. There are six major deliverables procurement systems and procedures, menus, front of house, kitchen, and business plan. Further into the business plan, the deliverables identify six major activities groupings. Drill down to the Operations Plan, three specific activities have been identified: design procedures, create training guide, and write job descriptions Image description
+A work breakdown structure is created for setting up a new restaurant. This partial WBS provides details of the three activities required for the operations plan section of the business plan deliverable. There are six major deliverables procurement systems and procedures, menus, front of house, kitchen, and business plan. Further into the business plan, the deliverables identify six major activities groupings. Drill down to the Operations Plan, three specific activities have been identified: design procedures, create training guide, and write job descriptions
 
-A partial Work Breakdown Structure is created for the planning of the project setting up a new restaurant. At the first level, six major deliverables were identified. They are project management, procurement systems, and procedures, menus, front of the house, kitchen, and business plan. Drilling down in the business plan, the deliverables identify six major groupings of activities. They are product or service description, sales strategy, marketing and communications, operations plan, financial plan, and human resources. Drilling down the operations plan, three specific activities have been identified. They are designing procedures, creating training guides, and writing job descriptions. Focus on developing a duration estimate for the "create training guide" activity. You can assume that the training guide activity is closely related to the "design procedures" activity in that the training guide will provide written instructions explaining how each procedure is to be completed. You have completed the first step in creating good duration estimates by working at the activity level. Next, you need to engage the person who will do the work in providing the estimate. Thankfully, Carol is on the project team, and she has more than 10 years of experience opening and operating restaurants. Carol estimates that there are 20 specific procedures that will need to be documented. You should coordinate that estimate with the "design procedures" activity because the procedures will first be designed and then handed off to Carol for the creation of the training guide.
+Focus on developing a duration estimate for the "create training guide" activity. You can assume that the training guide activity is closely related to the "design procedures" activity in that the training guide will provide written instructions explaining how each procedure is to be completed. You have completed the first step in creating good duration estimates by working at the activity level. Next, you need to engage the person who will do the work in providing the estimate. Thankfully, Carol is on the project team, and she has more than 10 years of experience opening and operating restaurants. Carol estimates that there are 20 specific procedures that will need to be documented. You should coordinate that estimate with the "design procedures" activity because the procedures will first be designed and then handed off to Carol for the creation of the training guide.
 
 ## Single-Point Estimates
 

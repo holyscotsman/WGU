@@ -1,6 +1,8 @@
 ---
 title: Lesson 4 Introduction
 objectives: 2.6
+lesson: s1-l4
+kind: intro
 ---
 # Lesson 4 Introduction
 

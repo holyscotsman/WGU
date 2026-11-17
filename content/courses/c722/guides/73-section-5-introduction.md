@@ -1,6 +1,8 @@
 ---
 title: Section 5: Introduction
 objectives: s5
+lesson: s5-l0
+kind: section-intro
 ---
 # Section 5: Introduction
 

@@ -1,6 +1,9 @@
 ---
 title: 1.2 Service Providers and Goods Producers
 objectives: 2.6
+lesson: s1-l1
+page: 1.2
+kind: page
 ---
 # 1.2 Service Providers and Goods Producers
 

@@ -1,6 +1,9 @@
 ---
 title: S5 2.2 Sociological Perspectives on Religion
 objectives: s5
+lesson: s5-l2
+page: 2.2
+kind: page
 ---
 # S5 2.2 Sociological Perspectives on Religion
 

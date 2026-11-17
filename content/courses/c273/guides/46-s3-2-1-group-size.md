@@ -1,6 +1,9 @@
 ---
 title: S3 2.1 Group Size
 objectives: s3
+lesson: s3-l2
+page: 2.1
+kind: page
 ---
 # S3 2.1 Group Size
 

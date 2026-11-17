@@ -1,6 +1,8 @@
 ---
 title: Lesson 2 Summary
 objectives: 2.6
+lesson: s1-l2
+kind: summary
 ---
 # Lesson 2 Summary
 

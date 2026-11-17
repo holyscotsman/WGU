@@ -1,6 +1,8 @@
 ---
 title: S1 3 Summary
 objectives: s1
+lesson: s1-l3
+kind: summary
 ---
 # S1 3 Summary
 

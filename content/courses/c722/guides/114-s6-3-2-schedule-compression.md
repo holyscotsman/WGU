@@ -1,6 +1,9 @@
 ---
 title: S6 3.2 Schedule Compression
 objectives: s6
+lesson: s6-l3
+page: 3.2
+kind: page
 ---
 # S6 3.2 Schedule Compression
 
@@ -11,8 +14,6 @@ Describe schedule compression techniques.
 ## Schedule Compression
 
 Schedule compression is the reduction of the overall project timeline to the least possible length for the least cost to the project. Those are measured in cost to the project or change of budget, time increase or reduction, or loss of functionality, all from the triple constraints. The goal is to get the project delivered faster. Generally, this is done because the owner or sponsor of the project has a fast and hard deadline for the deliverables of the project. You can use tools like crashing to compress the schedule.
-
-The word time is being squeezed by a human hand, which refers to the schedule compression technique. bizoo_n/iStock / Getty Images Plus via Getty Images.
 
 ## Schedule Compression Techniques
 

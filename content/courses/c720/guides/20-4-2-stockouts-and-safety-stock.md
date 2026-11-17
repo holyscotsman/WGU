@@ -1,6 +1,9 @@
 ---
 title: 4.2 Stockouts and Safety Stock
 objectives: 2.6
+lesson: s1-l4
+page: 4.2
+kind: page
 ---
 # 4.2 Stockouts and Safety Stock
 

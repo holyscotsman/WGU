@@ -1,6 +1,9 @@
 ---
 title: 4.1 Inventory Management Models
 objectives: 2.6
+lesson: s1-l4
+page: 4.1
+kind: page
 ---
 # 4.1 Inventory Management Models
 
@@ -15,16 +18,6 @@ Inventory decisions involve trade-offs: Keeping more inventory may decrease the 
 ## INVENTORYCOSTS
 
 PURCHASECOST •Nominalcost. Inventory costs and their associated types. •Costincurredinbuying
-
-fromoutsidesources.
-
-## ORDERINGCOST
-
-/SETUPCOST
-
-•Occurswheneverthe
-
-stockreplenishes. •Procurementcost.
 
 •Costmayvary
 

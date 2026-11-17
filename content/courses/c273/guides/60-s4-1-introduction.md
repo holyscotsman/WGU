@@ -1,6 +1,8 @@
 ---
 title: S4 1 Introduction
 objectives: s4
+lesson: s4-l1
+kind: intro
 ---
 # S4 1 Introduction
 
@@ -10,4 +12,8 @@ When you look at the world around you, it is easy to notice differences in how p
 
 ## Learning Objectives
 
-Consider the following learning objectives as you move through the lesson: Identify systems of social stratification in different societies. Identify types, causes, and consequences of poverty and social inequality. Identify stratification and inequality between nations and global systems.
+Consider the following learning objectives as you move through the lesson:
+
+- Identify systems of social stratification in different societies.
+- Identify types, causes, and consequences of poverty and social inequality.
+- Identify stratification and inequality between nations and global systems.

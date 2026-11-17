@@ -1,6 +1,9 @@
 ---
 title: S2 1.4 The Project Closing Phase
 objectives: s2
+lesson: s2-l1
+page: 1.4
+kind: page
 ---
 # S2 1.4 The Project Closing Phase
 
@@ -10,7 +13,7 @@ Identify each phase of a project.
 
 The phases occurring in the project are explained in the flowchart. The four phases are defining, planning, executing, and closing. In the closing phase, the project outcomes are delivered to the customer or sponsor. The project closing phase is when the project outcomes are delivered to the customer or sponsor. The customer or sponsor evaluates them to determine if they are acceptable: the deliverables are ready, the budget and time requirements are met, quality is achieved, and lessons learned are documented. When the customer or sponsor accepts the project outcome(s), the project manager must ensure that all the loose ends are tied up.
 
-Two people are holding a box. KatarzynaBialasiewicz/iStock / Getty Images Plus via Getty Images. The project manager will need to do the following:
+The project manager will need to do the following:
 
 - reassign any project resources back to the company
 - document the project results and lessons learned

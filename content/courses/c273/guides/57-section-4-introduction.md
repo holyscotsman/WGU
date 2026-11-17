@@ -1,12 +1,12 @@
 ---
 title: Section 4: Introduction
 objectives: s4
+lesson: s4-l0
+kind: section-intro
 ---
 # Section 4: Introduction
 
 ## Section 4: Social Inequality
-
-An illustration of a man and a woman in business attire standing on a pile of coins. The pile under the man is greater than that under the woman. Diane Labombarbe/DigitalVision Vectors via Getty Images.
 
 ## Section 4: Introduction
 
@@ -39,7 +39,11 @@ When you look at the world around you, it is easy to notice differences in how p
 
 ## Learning Objectives
 
-Consider the following learning objectives as you move through the lesson: Identify systems of social stratification in different societies. Identify types, causes, and consequences of poverty and social inequality. Identify stratification and inequality between nations and global systems.
+Consider the following learning objectives as you move through the lesson:
+
+- Identify systems of social stratification in different societies.
+- Identify types, causes, and consequences of poverty and social inequality.
+- Identify stratification and inequality between nations and global systems.
 
 ## Initial Reflection
 

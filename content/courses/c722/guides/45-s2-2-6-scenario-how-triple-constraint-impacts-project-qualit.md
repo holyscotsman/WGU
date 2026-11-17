@@ -1,8 +1,11 @@
 ---
-title: S2 2.6 Scenario- How Triple Constraint Impacts Project Quality
+title: S2 2.6 Scenario: How Triple Constraint Impacts Project Quality
 objectives: s2
+lesson: s2-l2
+page: 2.6
+kind: page
 ---
-# S2 2.6 Scenario- How Triple Constraint Impacts Project Quality
+# S2 2.6 Scenario: How Triple Constraint Impacts Project Quality
 
 ## Learning Objectives
 

@@ -1,8 +1,11 @@
 ---
-title: S4 2.2 Social Inequality- Prejudice and Discrimination
+title: S4 2.2 Social Inequality: Prejudice and Discrimination
 objectives: s4
+lesson: s4-l2
+page: 2.2
+kind: page
 ---
-# S4 2.2 Social Inequality- Prejudice and Discrimination
+# S4 2.2 Social Inequality: Prejudice and Discrimination
 
 ## Initial Reflection
 

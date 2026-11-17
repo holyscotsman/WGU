@@ -1,6 +1,9 @@
 ---
 title: 1.1 Role of Operations
 objectives: 2.6
+lesson: s1-l1
+page: 1.1
+kind: page
 ---
 # 1.1 Role of Operations
 

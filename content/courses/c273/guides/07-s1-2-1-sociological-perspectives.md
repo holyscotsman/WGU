@@ -1,6 +1,9 @@
 ---
 title: S1 2.1 Sociological Perspectives
 objectives: s1
+lesson: s1-l2
+page: 2.1
+kind: page
 ---
 # S1 2.1 Sociological Perspectives
 

@@ -1,6 +1,9 @@
 ---
 title: S2 1.1 Introduction to Culture
 objectives: s2
+lesson: s2-l1
+page: 1.1
+kind: page
 ---
 # S2 1.1 Introduction to Culture
 

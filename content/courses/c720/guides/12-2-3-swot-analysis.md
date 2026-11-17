@@ -1,6 +1,9 @@
 ---
 title: 2.3 SWOT Analysis
 objectives: 2.6
+lesson: s1-l2
+page: 2.3
+kind: page
 ---
 # 2.3 SWOT Analysis
 

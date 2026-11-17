@@ -1,12 +1,12 @@
 ---
 title: Section 2 Introduction
 objectives: 2.2
+lesson: s2-l0
+kind: section-intro
 ---
 # Section 2 Introduction
 
 ## Quality Management
-
-Two business professionals engaged in a conversation while reviewing their notes. Nitat Termmee/Moment via Getty Images.
 
 ## Section 2: Introduction
 

@@ -1,6 +1,9 @@
 ---
 title: S1 1.8 The Objectives of Project Management
 objectives: s1
+lesson: s1-l1
+page: 1.8
+kind: page
 ---
 # S1 1.8 The Objectives of Project Management
 

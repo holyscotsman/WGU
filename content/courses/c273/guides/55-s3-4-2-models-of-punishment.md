@@ -1,6 +1,9 @@
 ---
 title: S3 4.2 Models of Punishment
 objectives: s3
+lesson: s3-l4
+page: 4.2
+kind: page
 ---
 # S3 4.2 Models of Punishment
 

@@ -1,6 +1,9 @@
 ---
 title: S4 1.6 Traditional Project Management Methods
 objectives: s4
+lesson: s4-l1
+page: 1.6
+kind: page
 ---
 # S4 1.6 Traditional Project Management Methods
 

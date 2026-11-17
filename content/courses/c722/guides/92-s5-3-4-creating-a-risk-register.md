@@ -1,6 +1,9 @@
 ---
 title: S5 3.4 Creating a Risk Register
 objectives: s5
+lesson: s5-l3
+page: 3.4
+kind: page
 ---
 # S5 3.4 Creating a Risk Register
 
@@ -132,8 +135,4 @@ Scale:
 
 Another way to represent these items would be on a chart such as the one that follows. Use the same prioritization numbers as in the spreadsheet to place the items on the chart.
 
-The alternative risk register process is in a graph where the x-axis measures the impact and the y-axis measures the likelihood. Moving clockwise, the first grid shows the low impact and high likelihood, the second grid shows the high impact and high likelihood, the third grid shows low impact with low likelihood, and forth grid shows the high impact and low likelihood. The factors that affect the graph are the kitchen staff's availability, the customers not liking the menu, late delivery of appliances, and the inability of suppliers to deliver food on time.
-
-## Image description
-
-A graph shows likelihood, depicting probability, and impact, depicting severity, in a grid with four sections, which are low impact and high likelihood. Low impact and low likelihood and high impact and high likelihood are followed by high impact and low likelihood. Risks taken from the risk register are slotted into the appropriate boxes according to severity and probability. When you look at the charts, you see all types of risks that are real possibilities, and you set a priority based on probability and severity. These are best estimates based on experience and knowledge of the project. The project manager must then monitor these items to be sure you recognize them should they occur and react as planned.
+The alternative risk register process is in a graph where the x-axis measures the impact and the y-axis measures the likelihood. Moving clockwise, the first grid shows the low impact and high likelihood, the second grid shows the high impact and high likelihood, the third grid shows low impact with low likelihood, and forth grid shows the high impact and low likelihood. The factors that affect the graph are the kitchen staff's availability, the customers not liking the menu, late delivery of appliances, and the inability of suppliers to deliver food on time. When you look at the charts, you see all types of risks that are real possibilities, and you set a priority based on probability and severity. These are best estimates based on experience and knowledge of the project. The project manager must then monitor these items to be sure you recognize them should they occur and react as planned.

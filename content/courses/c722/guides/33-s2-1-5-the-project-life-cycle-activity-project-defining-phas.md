@@ -1,22 +1,19 @@
 ---
-title: S2 1.5 The Project Life Cycle Activity- Project Defining Phase Activities
+title: S2 1.5 The Project Life Cycle Activity: Project Defining Phase Activities
 objectives: s2
+lesson: s2-l1
+page: 1.5
+kind: page
 ---
-# S2 1.5 The Project Life Cycle Activity- Project Defining Phase Activities
+# S2 1.5 The Project Life Cycle Activity: Project Defining Phase Activities
 
 ## Learning Objectives
 
 Describe the activities of each phase of a project.
 
-## Define your target. Shutterstock
-
 Remember that the project defining phase is when an idea is developed into a project proposal. To bring clarity to the idea, the project organization will need to work closely with the customer to develop a shared understanding of the intended project outcomes. The process of gathering information from the customer and stakeholders to define the high-level project outcomes is called collecting customer requirements. Understanding the customer requirements will help the project team determine which processes and activities need to occur to complete the project. For example, as you create your restaurant, you might have a great idea for the menu and you have some lively conversations with your chef. But when you start to collect the ideas, it becomes clear that the menu needs to be well defined and the market you will serve needs to be clear. A requirement of the project becomes an activity to finalize the menu and define the market to be served.
 
-Depicts the acronym SMART: Specific, Measurable, Achievable, Relevant, Time-based Source:
-
-- Shutterstock
-
-Customer requirements are then refined into measurable goals and specifications. Measurable goals may include the following:
+Depicts the acronym SMART: Specific, Measurable, Achievable, Relevant, Time-based Source: Customer requirements are then refined into measurable goals and specifications. Measurable goals may include the following:
 
 - the date that a product needs to be ready for release to the market
 - the price point that will be achieved

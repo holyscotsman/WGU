@@ -1,6 +1,9 @@
 ---
 title: S1 1.3 The Development of Sociology
 objectives: s1
+lesson: s1-l1
+page: 1.3
+kind: page
 ---
 # S1 1.3 The Development of Sociology
 

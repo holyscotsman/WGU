@@ -1,6 +1,9 @@
 ---
 title: S7 2.3 Change Management
 objectives: s7
+lesson: s7-l2
+page: 2.3
+kind: page
 ---
 # S7 2.3 Change Management
 

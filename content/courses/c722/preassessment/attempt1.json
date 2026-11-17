@@ -1,0 +1,2104 @@
+{
+ "attempt": {
+  "course": "c722",
+  "n": 1,
+  "status": "Not Passed",
+  "correct": 40,
+  "total": 70,
+  "notPlayable": {
+   "12": "drag-order item text not in PDF (answered correctly)",
+   "27": "matching prompts not in PDF (missed)"
+  }
+ },
+ "clusters": [
+  {
+   "id": "selection",
+   "title": "Selection models and financial terms",
+   "lessons": [
+    "s3-l1"
+   ],
+   "pages": [
+    "S3 Lesson 1.2",
+    "S3 Lesson 1.5",
+    "S3 Lesson 1.6",
+    "S3 Lesson 1.7",
+    "S3 Lesson 1.8"
+   ],
+   "rule": "Match each non-numeric model to its trigger, and keep the five financial terms apart.",
+   "points": [
+    "**Competitive necessity:** competitors have it, so we need it to stay viable.",
+    "**Operating necessity:** without it, operations stop (equipment failure, disaster).",
+    "**Sacred cow:** a senior leader's pick, selected **without evaluating feasibility or viability**.",
+    "**Checklist:** the same questions for every project. It covers operational and strategic issues. Weaknesses: too many questions, and **biases get embedded**.",
+    "**Weighted factor / scoring:** an actual evaluation with weights. It is not a sacred cow.",
+    "**Time value of money:** a dollar today is worth more than a dollar next year.",
+    "**Opportunity cost:** the value of the next-best option you give up.",
+    "**Payback period:** how long until cash received equals cost. It ignores the time value of money.",
+    "**NPV:** future benefits minus costs, with the future benefits discounted.",
+    "**IRR:** the discount rate at which the present value of inflows equals the original investment."
+   ],
+   "test": "Both 'time value of money' and 'payback period' contain the idea of time. Payback is a duration; TVM is about value. Q27 (matching): you swapped TVM, NPV and IRR and kept opportunity cost right.",
+   "missed": [
+    "c722-pa1-q24",
+    "c722-pa1-q26",
+    "c722-pa1-q28",
+    "c722-pa1-q27"
+   ],
+   "guide": {
+    "id": "pa1-fix-selection",
+    "title": "Fix-it: Selection models and financial terms",
+    "objectives": [
+     "s3"
+    ],
+    "lesson": "s3-l1",
+    "kind": "fixit",
+    "html": "<h1>Fix-it: Selection models and financial terms</h1>\n<p><b>Match each non-numeric model to its trigger, and keep the five financial terms apart.</b></p>\n<h2>Know this</h2><ul><li><b>Competitive necessity:</b> competitors have it, so we need it to stay viable.</li><li><b>Operating necessity:</b> without it, operations stop (equipment failure, disaster).</li><li><b>Sacred cow:</b> a senior leader&#x27;s pick, selected <b>without evaluating feasibility or viability</b>.</li><li><b>Checklist:</b> the same questions for every project. It covers operational and strategic issues. Weaknesses: too many questions, and <b>biases get embedded</b>.</li><li><b>Weighted factor / scoring:</b> an actual evaluation with weights. It is not a sacred cow.</li><li><b>Time value of money:</b> a dollar today is worth more than a dollar next year.</li><li><b>Opportunity cost:</b> the value of the next-best option you give up.</li><li><b>Payback period:</b> how long until cash received equals cost. It ignores the time value of money.</li><li><b>NPV:</b> future benefits minus costs, with the future benefits discounted.</li><li><b>IRR:</b> the discount rate at which the present value of inflows equals the original investment.</li></ul>\n<h3>Exam tip</h3><p>Both &#x27;time value of money&#x27; and &#x27;payback period&#x27; contain the idea of time. Payback is a duration; TVM is about value. Q27 (matching): you swapped TVM, NPV and IRR and kept opportunity cost right.</p>\n<h2>What you missed</h2>\n<div class='miss'><p><b>Q24.</b> An organization has a surplus of project dollars in the operating budget. The senior leader&#x27;s decision is to fund one more project with the remaining funds. Of the three projects proposed, one of the projects was selected without evaluation of feasibility…</p><p>You picked: Weighted factor<br>Correct: <b>Sacred cow</b></p><p>Sacred cow projects are suggested by senior leadership and pushed forward with little regard for viability. &#x27;Selected without evaluation of feasibility or viability&#x27; is the giveaway.</p><p><i>Why your pick was wrong:</i> Weighted factor is a scoring model: it evaluates projects against weighted criteria. The scenario says no evaluation happened, which rules out any scoring model.</p><p class='muted'>Re-read: S3 Lesson 1.2</p></div>\n<div class='miss'><p><b>Q26.</b> Each project team member generated a series of questions to evaluate three projects. A checklist was then compiled into one list based on the frequency of question content, such as personnel, materials, experience, and time. What is a disadvantage of using…</p><p>You picked: Weighted values have not been considered.<br>Correct: <b>Biases have not been eliminated.</b></p><p>The course states that with checklists there is no assurance that decision makers&#x27; biases have not been embedded in the responses. The team wrote its own questions, so its biases are baked in.</p><p><i>Why your pick was wrong:</i> Not using weights is a difference from a scoring model, not the disadvantage the course names. The course names two checklist weaknesses: too many questions, and biases.</p><p class='muted'>Re-read: S3 Lesson 1.2</p></div>\n<div class='miss'><p><b>Q28.</b> What is the time value of money?</p><p>You picked: The measure of time in which total cash received is equal to, or exceeds, total costs<br>Correct: <b>The concept that a dollar today is worth a dollar, but a dollar in a year will be worth less than a dollar</b></p><p>Time value of money: money today is worth more than the same amount in the future. Sooner is better.</p><p><i>Why your pick was wrong:</i> You picked the payback period definition. The word &#x27;time&#x27; in both terms is the trap. Payback is how long it takes to earn back the cost. Time value of money is why a future dollar is worth less.</p><p class='muted'>Re-read: S3 Lesson 1.5</p></div>\n<div class='miss'><p><b>Q27 (matching, not playable).</b> Matching question. The PDF shows only the gap labels, not the purposes, so it can&#x27;t be rebuilt as a playable question. You got gap 4 (opportunity cost) right and swapped the other three. You put NPV where TVM goes, IRR where NPV goes, and TVM where IRR goes.</p></div>\n<h2>Re-read</h2><p>S3 Lesson 1.2, S3 Lesson 1.5, S3 Lesson 1.6, S3 Lesson 1.7, S3 Lesson 1.8</p>"
+   }
+  },
+  {
+   "id": "scope",
+   "title": "Scope baseline and WBS structure",
+   "lessons": [
+    "s5-l1",
+    "s5-l2",
+    "s2-l2"
+   ],
+   "pages": [
+    "S5 Lesson 1.2",
+    "S5 Lesson 1.3",
+    "S5 Lesson 2.2",
+    "S2 Lesson 2.4"
+   ],
+   "rule": "Baseline parts, approval documents, WBS structure and WBS levels.",
+   "points": [
+    "**Scope baseline = project scope statement + WBS + WBS dictionary** (standard PM; the course doesn't list the parts).",
+    "**Charter:** authorizes the project at a high level. It is not about work packages.",
+    "**SOW:** objectives, deliverables, **acceptance criteria**, requirements, milestones.",
+    "**RTM:** requirement, business need, stakeholder who asked, and **how it will be verified**. SOW + RTM together document approvals per work package.",
+    "**WBS structure:** by deliverables (the course's restaurant example) or by **phases** (Level 1 running start to finish: started, feasibility, design and so on).",
+    "**WBS levels:** program, project, deliverables, activities, tasks. Same level means siblings under the same parent. Test it by asking whether one item is part of another."
+   ],
+   "test": "'Project started … Project completed' at Level 1 means a phase sequence, not departments.",
+   "missed": [
+    "c722-pa1-q16",
+    "c722-pa1-q17",
+    "c722-pa1-q39",
+    "c722-pa1-q41"
+   ],
+   "guide": {
+    "id": "pa1-fix-scope",
+    "title": "Fix-it: Scope baseline and WBS structure",
+    "objectives": [
+     "s5"
+    ],
+    "lesson": "s5-l1",
+    "kind": "fixit",
+    "html": "<h1>Fix-it: Scope baseline and WBS structure</h1>\n<p><b>Baseline parts, approval documents, WBS structure and WBS levels.</b></p>\n<h2>Know this</h2><ul><li><b>Scope baseline = project scope statement + WBS + WBS dictionary</b> (standard PM; the course doesn&#x27;t list the parts).</li><li><b>Charter:</b> authorizes the project at a high level. It is not about work packages.</li><li><b>SOW:</b> objectives, deliverables, <b>acceptance criteria</b>, requirements, milestones.</li><li><b>RTM:</b> requirement, business need, stakeholder who asked, and <b>how it will be verified</b>. SOW + RTM together document approvals per work package.</li><li><b>WBS structure:</b> by deliverables (the course&#x27;s restaurant example) or by <b>phases</b> (Level 1 running start to finish: started, feasibility, design and so on).</li><li><b>WBS levels:</b> program, project, deliverables, activities, tasks. Same level means siblings under the same parent. Test it by asking whether one item is part of another.</li></ul>\n<h3>Exam tip</h3><p>&#x27;Project started … Project completed&#x27; at Level 1 means a phase sequence, not departments.</p>\n<h2>What you missed</h2>\n<div class='miss'><p><b>Q16.</b> The following table shows the Level 1 work breakdown structure (WBS) for Project A.</p><p>You picked: Enumeration of functional departments<br>Correct: <b>Sequence of project phases</b></p><p>The Level 1 items run in time order from &#x27;Project started&#x27; through &#x27;Project completed&#x27;. That is a phase-based WBS: the work is organized by the sequence of project phases. (Lesson 5.2.2 shows a deliverable-based WBS. This phase-based variant is standard PM practice that the course pages don&#x27;t show.)</p><p><i>Why your pick was wrong:</i> Design, Development, Manufacturing and Distribution can look like department names. But &#x27;Project started&#x27;, &#x27;Feasibility&#x27; and &#x27;Project completed&#x27; are not departments. The start-to-finish order is the clue.</p><p class='muted'>Re-read: S5 Lesson 2.2</p></div>\n<div class='miss'><p><b>Q17.</b> For the following collapsed work breakdown structure (WBS) for Project O (0.0 Project O; 1.0 Project started; 2.0 Feasibility; 3.0 Design; 4.0 Development; 5.0 Manufacturing; 6.0 Distribution; 7.0 Project completed), the project manager must complete the…</p><p>You picked: Project charter and statement of work<br>Correct: <b>WBS dictionary and project scope statement</b></p><p>The scope baseline is three documents: the project scope statement, the WBS, and the WBS dictionary. The WBS dictionary describes each WBS element in detail. Any requested change is compared against this baseline. (Lesson 2.2.4 explains the baseline&#x27;s purpose but doesn&#x27;t list its three parts. Memorize them.)</p><p><i>Why your pick was wrong:</i> The charter and SOW come before the baseline. The charter authorizes the project, and the SOW feeds the scope statement. They are inputs, not baseline components.</p><p class='muted'>Re-read: S5 Lesson 1.3</p></div>\n<div class='miss'><p><b>Q39.</b> A project manager wants to understand and document the approvals that must be obtained for each work package in the work breakdown structure (WBS). Which tools document the approval requirements for each work package?</p><p>You picked: Project charter; Organizational breakdown structure (OBS)<br>Correct: <b>Project statement of work (SOW); Requirements traceability matrix (RTM)</b></p><p>The SOW defines each deliverable&#x27;s acceptance criteria. The RTM ties each requirement to the stakeholder who requested it and records how the outcome will be verified. Together they say who must approve what.</p><p><i>Why your pick was wrong:</i> The charter is high level: it authorizes the project, not individual work packages. The OBS shows who does the work, not who approves it.</p><p class='muted'>Re-read: S5 Lesson 1.3</p></div>\n<div class='miss'><p><b>Q41.</b> A state college is launching a library building project. A few WBS elements are shown with ID numbers and indentation removed: Library project, Facility needs, Academic plan, Stakeholder input, Building proposal, Siting, Fundraising, Potential donor list,…</p><p>You picked: Florida donors; Potential donor list<br>Correct: <b>Building proposal; Fundraising</b></p><p>Building proposal and Fundraising are both major deliverables of the library project. Potential donor list sits under Fundraising, U.S. donors under the list, and Florida donors under U.S. donors.</p><p><i>Why your pick was wrong:</i> Florida donors is a subset of U.S. donors, which is part of the potential donor list. Ask &#x27;is this a part of that?&#x27; If yes, they&#x27;re on different levels.</p><p class='muted'>Re-read: S5 Lesson 2.2</p></div>\n<h2>Re-read</h2><p>S5 Lesson 1.2, S5 Lesson 1.3, S5 Lesson 2.2, S2 Lesson 2.4</p>"
+   }
+  },
+  {
+   "id": "estimating",
+   "title": "Planning tools, budgets and estimating",
+   "lessons": [
+    "s5-l1",
+    "s5-l4",
+    "s6-l1"
+   ],
+   "pages": [
+    "S5 Lesson 1.1",
+    "S5 Lesson 4.1",
+    "S5 Lesson 4.3",
+    "S6 Lesson 1.1"
+   ],
+   "rule": "Pick the tool from what the scenario says, and follow the planning order.",
+   "points": [
+    "**Checklist:** makes sure every needed item is addressed in planning. A **check sheet** is a quality tally sheet. They are different tools with nearly the same name.",
+    "**Planning order:** WBS, then activities, then bottom-up estimates (cost, duration, sequence), then the **calendarized budget and the schedule**.",
+    "**One-point (deterministic):** one expert gives one estimate, and the work is predictable.",
+    "**Three-point (probabilistic):** use it when there is **uncertainty or disagreement**. Simple average (O+M+P)/3, or beta (O+4M+P)/6.",
+    "**Parametric:** top-down, based on **historical data** (the ratio and apportion methods), used in the defining phase.",
+    "**Schedule starting point:** the first activity of the first WBS deliverable (here, 1.1 Determine Data Format)."
+   ],
+   "test": "'Some team members believe X, others believe Y' means three-point. No historical data in the scenario means it's not parametric.",
+   "missed": [
+    "c722-pa1-q38",
+    "c722-pa1-q47",
+    "c722-pa1-q50",
+    "c722-pa1-q53"
+   ],
+   "guide": {
+    "id": "pa1-fix-estimating",
+    "title": "Fix-it: Planning tools, budgets and estimating",
+    "objectives": [
+     "s5",
+     "s6"
+    ],
+    "lesson": "s5-l1",
+    "kind": "fixit",
+    "html": "<h1>Fix-it: Planning tools, budgets and estimating</h1>\n<p><b>Pick the tool from what the scenario says, and follow the planning order.</b></p>\n<h2>Know this</h2><ul><li><b>Checklist:</b> makes sure every needed item is addressed in planning. A <b>check sheet</b> is a quality tally sheet. They are different tools with nearly the same name.</li><li><b>Planning order:</b> WBS, then activities, then bottom-up estimates (cost, duration, sequence), then the <b>calendarized budget and the schedule</b>.</li><li><b>One-point (deterministic):</b> one expert gives one estimate, and the work is predictable.</li><li><b>Three-point (probabilistic):</b> use it when there is <b>uncertainty or disagreement</b>. Simple average (O+M+P)/3, or beta (O+4M+P)/6.</li><li><b>Parametric:</b> top-down, based on <b>historical data</b> (the ratio and apportion methods), used in the defining phase.</li><li><b>Schedule starting point:</b> the first activity of the first WBS deliverable (here, 1.1 Determine Data Format).</li></ul>\n<h3>Exam tip</h3><p>&#x27;Some team members believe X, others believe Y&#x27; means three-point. No historical data in the scenario means it&#x27;s not parametric.</p>\n<h2>What you missed</h2>\n<div class='miss'><p><b>Q38.</b> Which tool could a project manager use to ensure that the project team will address the items that are important when developing and defining the project&#x27;s scope?</p><p>You picked: Checksheet<br>Correct: <b>Checklist</b></p><p>A checklist makes sure all needed items are included and addressed during planning. The course&#x27;s planning checklist covers each phase&#x27;s documents.</p><p><i>Why your pick was wrong:</i> A check sheet is a data-collection tally sheet used in quality control (counting how often something happens). A checklist confirms items were addressed. The names are close on purpose.</p><p class='muted'>Re-read: S5 Lesson 1.1</p></div>\n<div class='miss'><p><b>Q47.</b> A project manager has identified activities in a calendarized budget. What is the appropriate next planning action this project manager should take to utilize the cost, duration, and sequencing information for these activities?</p><p>You picked: Completing bottom-up estimates<br>Correct: <b>Creating project schedules</b></p><p>The calendarized budget already is the bottom-up step. Once activities have costs, durations and sequencing, the next output is the project schedule.</p><p><i>Why your pick was wrong:</i> The bottom-up estimate was already done when the activities were identified and costed. The question asks what comes next after that.</p><p class='muted'>Re-read: S5 Lesson 4.3</p></div>\n<div class='miss'><p><b>Q50.</b> A project team is gathered together to begin the planning process to create a new website for its client. Discussions have turned to website capacity. Some team members believe the bandwidth of the site needs to be higher to avoid the website freezing.…</p><p>You picked: Parametric<br>Correct: <b>Three-point</b></p><p>When there is uncertainty and disagreement, use a probabilistic method: three-point estimating takes optimistic, most likely and pessimistic values.</p><p><i>Why your pick was wrong:</i> Parametric is top-down and based on the relationship between the current project and historical data. The scenario has no historical data, only disagreement. Disagreement or uncertainty means three-point.</p><p class='muted'>Re-read: S6 Lesson 1.1</p></div>\n<div class='miss'><p><b>Q53.</b> A work breakdown structure for a software development project has seven deliverables, numbered I to VII:</p><p>You picked: Determine database structure<br>Correct: <b>Determine data format</b></p><p>The schedule is built from the WBS activities, starting with the first activity of the first deliverable. 1.1 Determine Data Format comes before everything else, because the database structure is built on the data format.</p><p><i>Why your pick was wrong:</i> Determine Database Structure (2.1) belongs to deliverable II. Deliverable I, Overall Architecture, has to happen first, and 1.1 is its first activity.</p><p class='muted'>Re-read: S6 Lesson 1.1</p></div>\n<h2>Re-read</h2><p>S5 Lesson 1.1, S5 Lesson 4.1, S5 Lesson 4.3, S6 Lesson 1.1</p>"
+   }
+  },
+  {
+   "id": "schedule",
+   "title": "Triple constraint, critical path and schedule compression",
+   "lessons": [
+    "s2-l2",
+    "s6-l3",
+    "s4-l1"
+   ],
+   "pages": [
+    "S2 Lesson 2.7",
+    "S6 Lesson 3.1",
+    "S6 Lesson 3.2",
+    "S4 Lesson 1.1"
+   ],
+   "rule": "Fix two, flex one. Find the longest path. Compress with faster, less or lower quality.",
+   "points": [
+    "The triple constraint is **scope, time, cost** only. Price, incentives and penalties are not constraints.",
+    "Scope fixed and **time** urgent means **cost** flexes (spend to go faster). Scope fixed and **cost** the priority means **time** flexes.",
+    "**Critical path = the longest complete path.** List every path start to finish, add its durations, and pick the biggest. A real path never skips a box.",
+    "**Compression:** do it faster (**crashing** adds resources, at the risk of cost or quality; **fast-tracking** overlaps tasks), do less (**scope reduction**), or lower the quality.",
+    "Determining the critical path is analysis, not compression.",
+    "**Phase gate:** a go/no-go point. If the outcome has no value (obsolete design), **terminate** and release resources."
+   ],
+   "test": "If the sponsor offers to cut a feature, the answer is scope reduction.",
+   "missed": [
+    "c722-pa1-q18",
+    "c722-pa1-q21",
+    "c722-pa1-q57",
+    "c722-pa1-q58"
+   ],
+   "guide": {
+    "id": "pa1-fix-schedule",
+    "title": "Fix-it: Triple constraint, critical path and schedule compression",
+    "objectives": [
+     "s2",
+     "s4",
+     "s6"
+    ],
+    "lesson": "s2-l2",
+    "kind": "fixit",
+    "html": "<h1>Fix-it: Triple constraint, critical path and schedule compression</h1>\n<p><b>Fix two, flex one. Find the longest path. Compress with faster, less or lower quality.</b></p>\n<h2>Know this</h2><ul><li>The triple constraint is <b>scope, time, cost</b> only. Price, incentives and penalties are not constraints.</li><li>Scope fixed and <b>time</b> urgent means <b>cost</b> flexes (spend to go faster). Scope fixed and <b>cost</b> the priority means <b>time</b> flexes.</li><li><b>Critical path = the longest complete path.</b> List every path start to finish, add its durations, and pick the biggest. A real path never skips a box.</li><li><b>Compression:</b> do it faster (<b>crashing</b> adds resources, at the risk of cost or quality; <b>fast-tracking</b> overlaps tasks), do less (<b>scope reduction</b>), or lower the quality.</li><li>Determining the critical path is analysis, not compression.</li><li><b>Phase gate:</b> a go/no-go point. If the outcome has no value (obsolete design), <b>terminate</b> and release resources.</li></ul>\n<h3>Exam tip</h3><p>If the sponsor offers to cut a feature, the answer is scope reduction.</p>\n<h2>What you missed</h2>\n<div class='miss'><p><b>Q18.</b> For the collapsed work breakdown structure (WBS) for Project O (Project started, Feasibility, Design, Development, Manufacturing, Distribution, Project completed), the project&#x27;s steering committee held a phase gate review of the Feasibility results. That…</p><p>You picked: Fast-tracking the schedule by altering predecessor to successor relationships<br>Correct: <b>Terminating the project as soon as possible and releasing the project&#x27;s resources</b></p><p>A phase gate is a go/no-go decision point where leadership can stop the project before more resources are spent. A design that will be obsolete on arrival is a no-go, so the project is terminated.</p><p><i>Why your pick was wrong:</i> Fast-tracking only gets an obsolete product out sooner. It would still be obsolete. When a gate review says the outcome has no value, stop the project; don&#x27;t speed it up.</p><p class='muted'>Re-read: S4 Lesson 1.1</p></div>\n<div class='miss'><p><b>Q21.</b> In Project A, the contract specifies that time is very important. All of the scope must be completed, or the project will fail. The project&#x27;s objective requires the project team to work as quickly as possible. Which triple constraint can be adjusted to…</p><p>You picked: Incentives<br>Correct: <b>Cost</b></p><p>Scope is fixed and time is the priority, so cost is the only side of the triangle left to flex: add resources and spend more to go faster.</p><p><i>Why your pick was wrong:</i> Incentives and price are not triple constraints. The three are scope, time and cost. Eliminate any choice that isn&#x27;t one of those three.</p><p class='muted'>Re-read: S2 Lesson 2.7</p></div>\n<div class='miss'><p><b>Q57.</b> Network diagram: 1.0 Demolition (2 days) → 2.0 Floor (2 days). 2.0 Floor leads to both 3.0 Electrical (3 days) and 4.0 Cabinets (2 days). Both 3.0 and 4.0 lead to 5.0 Paint (2 days) → 6.0 Decorate (1 day). What is the critical path of this network diagram?</p><p>You picked: 1.0 – 2.0 – 5.0 – 6.0<br>Correct: <b>1.0 – 2.0 – 3.0 – 5.0 – 6.0</b></p><p>The critical path is the longest complete path. 1-2-3-5-6 = 2+2+3+2+1 = 10 days, and 1-2-4-5-6 = 9 days.</p><p><i>Why your pick was wrong:</i> 1.0-2.0-5.0-6.0 skips the middle tasks, so it isn&#x27;t a real path: Paint can&#x27;t start until Electrical and Cabinets finish. Trace every arrow, add each path&#x27;s durations, and pick the longest.</p><p class='muted'>Re-read: S6 Lesson 3.1</p></div>\n<div class='miss'><p><b>Q58.</b> A project manager is working on a large two-year IT project. At the end of the first year, the project is two months behind schedule because the interface programming is taking longer than planned. The sponsor will not extend the deadline or the budget but…</p><p>You picked: Determining the critical path<br>Correct: <b>Scope reduction</b></p><p>Schedule compression options are do the work faster, do less work, or reduce quality. The sponsor is offering to drop an interface, which is &#x27;do less work&#x27;: scope reduction.</p><p><i>Why your pick was wrong:</i> Determining the critical path is analysis, not compression. It tells you where to compress but doesn&#x27;t shorten anything. The scenario hands you the answer: &#x27;willing to eliminate an interface&#x27;.</p><p class='muted'>Re-read: S6 Lesson 3.2</p></div>\n<h2>Re-read</h2><p>S2 Lesson 2.7, S6 Lesson 3.1, S6 Lesson 3.2, S4 Lesson 1.1</p>"
+   }
+  },
+  {
+   "id": "control",
+   "title": "Change management and earned value",
+   "lessons": [
+    "s7-l2",
+    "s7-l3"
+   ],
+   "pages": [
+    "S7 Lesson 2.4",
+    "S7 Lesson 3.3"
+   ],
+   "rule": "There are four change phases and two efficiency indexes.",
+   "points": [
+    "**Change process:** identify, evaluate, decide, communicate.",
+    "**Structured change phases:** 1) **Prepare** (gather resources and documentation, such as adjusting baselines for discovered scope), 2) **Plan**, 3) **Manage** (implement), 4) **Reinforce and sustain** (rewards and recognition that keep the change going).",
+    "A **change management system** protects the baseline: it formally identifies, evaluates, decides on and communicates changes. Don't just absorb the change.",
+    "**CV = EV − AC** (budget). **SV = EV − PV** (schedule).",
+    "**CPI = EV/AC** is cost efficiency. **SPI = EV/PV** is **time efficiency**."
+   ],
+   "test": "'Upgrading the change' is not a phase. Eliminate options that aren't on the list of four.",
+   "missed": [
+    "c722-pa1-q60",
+    "c722-pa1-q61",
+    "c722-pa1-q62",
+    "c722-pa1-q65"
+   ],
+   "guide": {
+    "id": "pa1-fix-control",
+    "title": "Fix-it: Change management and earned value",
+    "objectives": [
+     "s7"
+    ],
+    "lesson": "s7-l2",
+    "kind": "fixit",
+    "html": "<h1>Fix-it: Change management and earned value</h1>\n<p><b>There are four change phases and two efficiency indexes.</b></p>\n<h2>Know this</h2><ul><li><b>Change process:</b> identify, evaluate, decide, communicate.</li><li><b>Structured change phases:</b> 1) <b>Prepare</b> (gather resources and documentation, such as adjusting baselines for discovered scope), 2) <b>Plan</b>, 3) <b>Manage</b> (implement), 4) <b>Reinforce and sustain</b> (rewards and recognition that keep the change going).</li><li>A <b>change management system</b> protects the baseline: it formally identifies, evaluates, decides on and communicates changes. Don&#x27;t just absorb the change.</li><li><b>CV = EV − AC</b> (budget). <b>SV = EV − PV</b> (schedule).</li><li><b>CPI = EV/AC</b> is cost efficiency. <b>SPI = EV/PV</b> is <b>time efficiency</b>.</li></ul>\n<h3>Exam tip</h3><p>&#x27;Upgrading the change&#x27; is not a phase. Eliminate options that aren&#x27;t on the list of four.</p>\n<h2>What you missed</h2>\n<div class='miss'><p><b>Q60.</b> A project was authorized as an operational necessity to repair a design flaw in the date field on a computer system that constrains the year number to two digits instead of permitting the year to be indicated with four digits. During execution of the…</p><p>You picked: Upgrading the change<br>Correct: <b>Preparing for the change</b></p><p>The team has found the need for a change and must get resources and documentation in place (adjust the baselines) before managing it. That is phase 1, prepare for change.</p><p><i>Why your pick was wrong:</i> &#x27;Upgrading the change&#x27; is not a phase. The four phases are prepare, plan, manage, and reinforce and sustain. Eliminate anything outside that list first.</p><p class='muted'>Re-read: S7 Lesson 2.4</p></div>\n<div class='miss'><p><b>Q61.</b> A general contractor is managing a highway construction project that will repair a flood-damaged road. The Department of Transportation offered an incentive fee if the repairs are completed early. Therefore, the project manager has established a rewards…</p><p>You picked: Preparing for the change<br>Correct: <b>Reinforcing the change</b></p><p>Rewards and recognition that keep the new behavior going are reinforcing and sustaining the change.</p><p><i>Why your pick was wrong:</i> Preparing is about resources and documentation to organize the change. A reward program for people who keep delivering is reinforcement. The word &#x27;reward&#x27; should point you to reinforce.</p><p class='muted'>Re-read: S7 Lesson 2.4</p></div>\n<div class='miss'><p><b>Q62.</b> A general contractor is managing a construction project that will add a new conference room to an existing office building. The project was documented in a fixed-price contract that specified a completion date. The contract includes a damages clause…</p><p>You picked: Absorbing the change request in the baselines for time and cost<br>Correct: <b>Using a change management system to influence performance</b></p><p>The change management system formally identifies, evaluates, decides on and communicates changes. Running the request through it protects the baseline until a decision is made.</p><p><i>Why your pick was wrong:</i> Absorbing the change into the baselines is the opposite of maintaining them. It would also blow the fixed date and trigger the penalty.</p><p class='muted'>Re-read: S7 Lesson 2.4</p></div>\n<div class='miss'><p><b>Q65.</b> What is the purpose of the schedule performance index (SPI)?</p><p>You picked: To determine a project&#x27;s budgeted schedule<br>Correct: <b>To determine a project&#x27;s time efficiency</b></p><p>SPI = EV/PV, a ratio that measures time efficiency. Below 1 means less work done than planned for the time used.</p><p><i>Why your pick was wrong:</i> Pair them: CPI is cost efficiency and SPI is time (schedule) efficiency. Both indexes measure efficiency. &#x27;Budgeted schedule&#x27; is planned value, not an index.</p><p class='muted'>Re-read: S7 Lesson 3.3</p></div>\n<h2>Re-read</h2><p>S7 Lesson 2.4, S7 Lesson 3.3</p>"
+   }
+  },
+  {
+   "id": "org",
+   "title": "Organizational structures and the PMO",
+   "lessons": [
+    "s1-l3"
+   ],
+   "pages": [
+    "S1 Lesson 3.1",
+    "S1 Lesson 3.3"
+   ],
+   "rule": "Know one advantage, one disadvantage and the example for each structure, plus what a PMO adds.",
+   "points": [
+    "**Functional:** lines of authority are clear (advantage). It is inefficient for projects that need collaboration between departments (disadvantage). Examples are government entities: the **U.S. Department of State** and the **U.S. Department of Energy**.",
+    "**Projectized:** the PM has full authority and the project is managed holistically. SMEs report to the PM for the project's duration, then go back to their functional area. The catch is that team members lose access to a repository of functional expertise.",
+    "**Matrix:** the project is the central focus, but the person with decision-making power is not always clear.",
+    "**PMO:** aligns projects to strategy, monitors the status and availability of shared resources, and is the **central repository for policies, procedures, historical records and lessons learned**."
+   ],
+   "test": "Read 'projectized + PMO' as: the PMO gives back the knowledge access that projectized teams lose, meaning historical data from other projects.",
+   "missed": [
+    "c722-pa1-q7",
+    "c722-pa1-q8",
+    "c722-pa1-q9"
+   ],
+   "guide": {
+    "id": "pa1-fix-org",
+    "title": "Fix-it: Organizational structures and the PMO",
+    "objectives": [
+     "s1"
+    ],
+    "lesson": "s1-l3",
+    "kind": "fixit",
+    "html": "<h1>Fix-it: Organizational structures and the PMO</h1>\n<p><b>Know one advantage, one disadvantage and the example for each structure, plus what a PMO adds.</b></p>\n<h2>Know this</h2><ul><li><b>Functional:</b> lines of authority are clear (advantage). It is inefficient for projects that need collaboration between departments (disadvantage). Examples are government entities: the <b>U.S. Department of State</b> and the <b>U.S. Department of Energy</b>.</li><li><b>Projectized:</b> the PM has full authority and the project is managed holistically. SMEs report to the PM for the project&#x27;s duration, then go back to their functional area. The catch is that team members lose access to a repository of functional expertise.</li><li><b>Matrix:</b> the project is the central focus, but the person with decision-making power is not always clear.</li><li><b>PMO:</b> aligns projects to strategy, monitors the status and availability of shared resources, and is the <b>central repository for policies, procedures, historical records and lessons learned</b>.</li></ul>\n<h3>Exam tip</h3><p>Read &#x27;projectized + PMO&#x27; as: the PMO gives back the knowledge access that projectized teams lose, meaning historical data from other projects.</p>\n<h2>What you missed</h2>\n<div class='miss'><p><b>Q7.</b> Which advantage does the functional (departmentalized) organizational structure provide for a firm with multiple projects?</p><p>You picked: It is efficient for collaboration and cooperation between departments.<br>Correct: <b>Lines of authority are clear.</b></p><p>In a functional organization, lines of authority are clear cut and well defined. Everyone knows who reports to whom.</p><p><i>Why your pick was wrong:</i> This is the opposite of the truth. The course lists &#x27;inefficient for projects requiring collaboration and cooperation between departments&#x27; as a functional disadvantage. &#x27;Managed holistically&#x27; is a projectized advantage.</p><p class='muted'>Re-read: S1 Lesson 3.1</p></div>\n<div class='miss'><p><b>Q8.</b> Which two organizations are examples of organizations with the functional organizational structure?</p><p>You picked: Microsoft; Google Inc.<br>Correct: <b>The U.S. Department of State; The U.S. Department of Energy</b></p><p>The course names government entities as excellent examples of functional organizations, using the U.S. Department of State and the U.S. Department of Energy organization charts.</p><p><i>Why your pick was wrong:</i> Microsoft and Google are not the course&#x27;s examples. When you see government departments among the choices on a functional-structure question, pick them.</p><p class='muted'>Re-read: S1 Lesson 3.1</p></div>\n<div class='miss'><p><b>Q9.</b> An organization expects to use a project management office (PMO) to support multiple projects that will be implemented within a projectized organizational structure. Which implied effect is a benefit to this organization?</p><p>You picked: Project team members retain their functional responsibilities.<br>Correct: <b>Project team members gain access to historical data from other projects.</b></p><p>A PMO serves as a central repository for project policies, procedures, historical records and lessons learned. That fills the projectized structure&#x27;s gap: team members lose access to a repository of functional expertise.</p><p><i>Why your pick was wrong:</i> In a projectized structure, SMEs report to the PM for the duration of the project. They do not keep their functional responsibilities, and the PMO does not create that effect.</p><p class='muted'>Re-read: S1 Lesson 3.3</p></div>\n<h2>Re-read</h2><p>S1 Lesson 3.1, S1 Lesson 3.3</p>"
+   }
+  },
+  {
+   "id": "basics",
+   "title": "Project basics: interrelated tasks, sponsors, PRINCE2",
+   "lessons": [
+    "s1-l1",
+    "s1-l2"
+   ],
+   "pages": [
+    "S1 Lesson 1.5",
+    "S1 Lesson 1.7",
+    "S1 Lesson 2.6"
+   ],
+   "rule": "Some answers are true of every project, and some are just names to memorize.",
+   "points": [
+    "Every project carries out **interrelated (interdependent) tasks**: each task depends on or influences other tasks.",
+    "The **project sponsor** triggers and champions a strategic initiative. The sponsor is determined in the defining phase, agrees to the charter and signs it.",
+    "**PRINCE2 = PRojects IN Controlled Environments**, version 2. PMBOK comes from PMI."
+   ],
+   "test": "Operations roles (director of operations, production supervisor) run the business. They don't trigger strategic projects.",
+   "missed": [
+    "c722-pa1-q1",
+    "c722-pa1-q3",
+    "c722-pa1-q5"
+   ],
+   "guide": {
+    "id": "pa1-fix-basics",
+    "title": "Fix-it: Project basics: interrelated tasks, sponsors, PRINCE2",
+    "objectives": [
+     "s1"
+    ],
+    "lesson": "s1-l1",
+    "kind": "fixit",
+    "html": "<h1>Fix-it: Project basics: interrelated tasks, sponsors, PRINCE2</h1>\n<p><b>Some answers are true of every project, and some are just names to memorize.</b></p>\n<h2>Know this</h2><ul><li>Every project carries out <b>interrelated (interdependent) tasks</b>: each task depends on or influences other tasks.</li><li>The <b>project sponsor</b> triggers and champions a strategic initiative. The sponsor is determined in the defining phase, agrees to the charter and signs it.</li><li><b>PRINCE2 = PRojects IN Controlled Environments</b>, version 2. PMBOK comes from PMI.</li></ul>\n<h3>Exam tip</h3><p>Operations roles (director of operations, production supervisor) run the business. They don&#x27;t trigger strategic projects.</p>\n<h2>What you missed</h2>\n<div class='miss'><p><b>Q1.</b> A firm begins its strategic business initiative of developing a new business model that will allow the firm to deliver an efficient, tailored service to its customers. To accomplish this, the firm initiates a business management project. Which aspect of…</p><p>You picked: External environment<br>Correct: <b>Interdependent tasks</b></p><p>Projects carry out interrelated tasks: each task depends on or influences the completion of other tasks to produce the deliverables. That is a defining aspect of any project, including this one.</p><p><i>Why your pick was wrong:</i> The external environment can affect a project, but it is not an aspect of project management that applies because the firm started a project. The question is asking what every project has.</p><p class='muted'>Re-read: S1 Lesson 1.5</p></div>\n<div class='miss'><p><b>Q3.</b> A firm begins a strategic business initiative of developing a new business model that will allow the firm to deliver an efficient, tailored service to its customers. Which stakeholder would have triggered this strategic business initiative?</p><p>You picked: Director of operations<br>Correct: <b>Project sponsor</b></p><p>The project sponsor champions and authorizes the initiative: the charter is agreed upon by the sponsor, and the sponsor signs it when the project is approved to move forward.</p><p><i>Why your pick was wrong:</i> A director of operations runs day-to-day operations. A strategic project is triggered and backed by the sponsor, not by the operations function.</p><p class='muted'>Re-read: S1 Lesson 1.7</p></div>\n<div class='miss'><p><b>Q5.</b> What does PRINCE2 stand for?</p><p>You picked: PRoject INsights and CompEtencies<br>Correct: <b>PRojects IN a Controlled Environment</b></p><p>PRINCE2 is Projects IN Controlled Environments, version 2. It is a UK government-originated standard, alongside PMI&#x27;s PMBOK.</p><p><i>Why your pick was wrong:</i> Anchor on the word Controlled: PRINCE2 is a control-focused methodology. None of the &#x27;Insights&#x27; options exist.</p><p class='muted'>Re-read: S1 Lesson 2.6</p></div>\n<h2>Re-read</h2><p>S1 Lesson 1.5, S1 Lesson 1.7, S1 Lesson 2.6</p>"
+   }
+  },
+  {
+   "id": "process",
+   "title": "Process groups and the iterative loop",
+   "lessons": [
+    "s4-l1",
+    "s2-l1"
+   ],
+   "pages": [
+    "S4 Lesson 1.3",
+    "Section 2 Introduction"
+   ],
+   "rule": "There are five process groups, and only two of them loop.",
+   "points": [
+    "The five process groups are **initiating, planning, executing, monitoring and controlling, closing**.",
+    "Risk, quality and communication are **plans** you write during planning. They are not process groups.",
+    "**The iterative loop:** monitoring and controlling spots a problem, the team goes back to **planning**, then returns to **executing**. Planning and executing are the iterative pair."
+   ],
+   "test": "Closing happens once. Anything labelled 'Operating' is not a process group at all.",
+   "missed": [
+    "c722-pa1-q4",
+    "c722-pa1-q30"
+   ],
+   "guide": {
+    "id": "pa1-fix-process",
+    "title": "Fix-it: Process groups and the iterative loop",
+    "objectives": [
+     "s2",
+     "s4"
+    ],
+    "lesson": "s4-l1",
+    "kind": "fixit",
+    "html": "<h1>Fix-it: Process groups and the iterative loop</h1>\n<p><b>There are five process groups, and only two of them loop.</b></p>\n<h2>Know this</h2><ul><li>The five process groups are <b>initiating, planning, executing, monitoring and controlling, closing</b>.</li><li>Risk, quality and communication are <b>plans</b> you write during planning. They are not process groups.</li><li><b>The iterative loop:</b> monitoring and controlling spots a problem, the team goes back to <b>planning</b>, then returns to <b>executing</b>. Planning and executing are the iterative pair.</li></ul>\n<h3>Exam tip</h3><p>Closing happens once. Anything labelled &#x27;Operating&#x27; is not a process group at all.</p>\n<h2>What you missed</h2>\n<div class='miss'><p><b>Q4.</b> Which group is included in the five process groups?</p><p>You picked: Risk process group<br>Correct: <b>Closing process group</b></p><p>The five process groups are initiating, planning, executing, monitoring and controlling, and closing.</p><p><i>Why your pick was wrong:</i> Risk, communication and quality are areas you write plans for during planning. They are not process groups.</p><p class='muted'>Re-read: S4 Lesson 1.3</p></div>\n<div class='miss'><p><b>Q30.</b> Which two processes are considered iterative processes?</p><p>You picked: Planning; Closing<br>Correct: <b>Planning; Executing</b></p><p>The linear process is interrupted by an iterative loop: monitoring and controlling find a problem, the team returns to planning, and once the new plan is approved it returns to executing. Planning and executing are the two that repeat.</p><p><i>Why your pick was wrong:</i> Closing happens once, at the end. Only planning and executing cycle back and forth.</p><p class='muted'>Re-read: Section 2 Introduction</p></div>\n<h2>Re-read</h2><p>S4 Lesson 1.3, Section 2 Introduction</p>"
+   }
+  },
+  {
+   "id": "risk",
+   "title": "Risk response strategies",
+   "lessons": [
+    "s5-l3"
+   ],
+   "pages": [
+    "S5 Lesson 3.3"
+   ],
+   "rule": "Avoid, mitigate, transfer, accept: identify which one the action is.",
+   "points": [
+    "**Avoid:** eliminate the **cause** so the risk can't happen (stay with the familiar tool, lock the price).",
+    "**Mitigate:** take early action to **reduce probability or impact** (hire people who already have the scarce skill, split orders across suppliers).",
+    "**Transfer:** shift the loss to a third party (insurance, an outside provider who absorbs overruns).",
+    "**Accept:** low impact, so document it and do nothing extra.",
+    "**WGU key note (Q42):** a fixed-price supply contract that removes a price-fluctuation risk was scored as **avoidance**. Lesson 5.3.3 uses a fixed-price software contract as an example of **transfer**. If the contract eliminates the cause, answer avoidance. If a provider takes on the consequences, answer transfer."
+   ],
+   "test": "Read the scenario's constraints. 'Very few universities offer training' rules out paying for courses.",
+   "missed": [
+    "c722-pa1-q42",
+    "c722-pa1-q44"
+   ],
+   "guide": {
+    "id": "pa1-fix-risk",
+    "title": "Fix-it: Risk response strategies",
+    "objectives": [
+     "s5"
+    ],
+    "lesson": "s5-l3",
+    "kind": "fixit",
+    "html": "<h1>Fix-it: Risk response strategies</h1>\n<p><b>Avoid, mitigate, transfer, accept: identify which one the action is.</b></p>\n<h2>Know this</h2><ul><li><b>Avoid:</b> eliminate the <b>cause</b> so the risk can&#x27;t happen (stay with the familiar tool, lock the price).</li><li><b>Mitigate:</b> take early action to <b>reduce probability or impact</b> (hire people who already have the scarce skill, split orders across suppliers).</li><li><b>Transfer:</b> shift the loss to a third party (insurance, an outside provider who absorbs overruns).</li><li><b>Accept:</b> low impact, so document it and do nothing extra.</li><li><b>WGU key note (Q42):</b> a fixed-price supply contract that removes a price-fluctuation risk was scored as <b>avoidance</b>. Lesson 5.3.3 uses a fixed-price software contract as an example of <b>transfer</b>. If the contract eliminates the cause, answer avoidance. If a provider takes on the consequences, answer transfer.</li></ul>\n<h3>Exam tip</h3><p>Read the scenario&#x27;s constraints. &#x27;Very few universities offer training&#x27; rules out paying for courses.</p>\n<h2>What you missed</h2>\n<div class='miss'><p><b>Q42.</b> The World Fabrication Corporation is launching a project that calls for the heavy use of copper-clad bolts. The cost of these bolts fluctuates daily and it is difficult to estimate the project cost over several weekly purchases of bolts. The threat of cost…</p><p>You picked: Risk Mitigation<br>Correct: <b>Risk Avoidance</b></p><p>WGU&#x27;s key is avoidance: locking the price eliminates the cause of the risk (daily price swings), so the cost-increase event can no longer happen. Avoidance means eradicating the risk by eliminating its cause.</p><p><i>Why your pick was wrong:</i> Mitigation only reduces the impact or likelihood. Here the price risk is gone entirely. Note: Lesson 5.3.3 uses a fixed-price contract as an example of transfer. On this exam, a fixed price that removes the cause of the risk is scored as avoidance.</p><p class='muted'>Re-read: S5 Lesson 3.3</p></div>\n<div class='miss'><p><b>Q44.</b> Bantam Electronics, a leader in mobile communications, has fallen behind in technology. Competitors have introduced products using the latest technology. Resources with expertise in this technology are scarce since there are very few universities offering…</p><p>You picked: Offer to pay for engineers to attend courses<br>Correct: <b>Hire technical staff from the competition</b></p><p>Mitigation is taking early action to reduce the impact. Hiring people who already have the scarce expertise reduces the gap right away.</p><p><i>Why your pick was wrong:</i> The scenario says very few universities offer the training, so paying for courses won&#x27;t work, and won&#x27;t work fast. Use the scenario&#x27;s constraints to rule options out. Outsourcing is transfer, and discontinuing is avoidance.</p><p class='muted'>Re-read: S5 Lesson 3.3</p></div>\n<h2>Re-read</h2><p>S5 Lesson 3.3</p>"
+   }
+  }
+ ],
+ "questions": [
+  {
+   "id": "c722-pa1-q1",
+   "objective": "s1",
+   "lesson": "s1-l1",
+   "q": "A firm begins its strategic business initiative of developing a new business model that will allow the firm to deliver an efficient, tailored service to its customers. To accomplish this, the firm initiates a business management project. Which aspect of project management applies to this firm's project?",
+   "choices": [
+    "Independent operations",
+    "Interdependent tasks",
+    "Regulatory concept",
+    "External environment"
+   ],
+   "answer": 1,
+   "explanation": "Projects carry out interrelated tasks: each task depends on or influences the completion of other tasks to produce the deliverables. That is a defining aspect of any project, including this one.",
+   "explanationSource": "added",
+   "source": "Pre-Assessment attempt 1, Q1",
+   "pa": {
+    "attempt": 1,
+    "n": 1,
+    "correct": false,
+    "myAnswer": 3,
+    "cluster": "basics",
+    "trap": "The external environment can affect a project, but it is not an aspect of project management that applies because the firm started a project. The question is asking what every project has.",
+    "page": "S1 Lesson 1.5"
+   }
+  },
+  {
+   "id": "c722-pa1-q2",
+   "objective": "s1",
+   "lesson": "s1-l1",
+   "q": "A firm begins its strategic business initiative of developing a new business model to enhance its competitiveness. What can be identified as a strategic business initiative for this firm?",
+   "choices": [
+    "Timely payment of liabilities",
+    "Liaison with regulatory agencies",
+    "Improvement in product design",
+    "Environmental scanning"
+   ],
+   "answer": 2,
+   "explanation": "Improving product design directly supports the strategic goal of competitiveness. The other options are routine operations or analysis, not a strategic initiative.",
+   "explanationSource": "added",
+   "source": "Pre-Assessment attempt 1, Q2",
+   "pa": {
+    "attempt": 1,
+    "n": 2,
+    "correct": true,
+    "myAnswer": 2,
+    "cluster": null,
+    "trap": null,
+    "page": "S1 Lesson 1.5"
+   }
+  },
+  {
+   "id": "c722-pa1-q3",
+   "objective": "s1",
+   "lesson": "s1-l1",
+   "q": "A firm begins a strategic business initiative of developing a new business model that will allow the firm to deliver an efficient, tailored service to its customers. Which stakeholder would have triggered this strategic business initiative?",
+   "choices": [
+    "Director of operations",
+    "Production supervisor",
+    "Project sponsor",
+    "Financial controller"
+   ],
+   "answer": 2,
+   "explanation": "The project sponsor champions and authorizes the initiative: the charter is agreed upon by the sponsor, and the sponsor signs it when the project is approved to move forward.",
+   "explanationSource": "added",
+   "source": "Pre-Assessment attempt 1, Q3",
+   "pa": {
+    "attempt": 1,
+    "n": 3,
+    "correct": false,
+    "myAnswer": 0,
+    "cluster": "basics",
+    "trap": "A director of operations runs day-to-day operations. A strategic project is triggered and backed by the sponsor, not by the operations function.",
+    "page": "S1 Lesson 1.7"
+   }
+  },
+  {
+   "id": "c722-pa1-q4",
+   "objective": "s4",
+   "lesson": "s4-l1",
+   "q": "Which group is included in the five process groups?",
+   "choices": [
+    "Risk process group",
+    "Closing process group",
+    "Communication process group",
+    "Quality process group"
+   ],
+   "answer": 1,
+   "explanation": "The five process groups are initiating, planning, executing, monitoring and controlling, and closing.",
+   "explanationSource": "added",
+   "source": "Pre-Assessment attempt 1, Q4",
+   "pa": {
+    "attempt": 1,
+    "n": 4,
+    "correct": false,
+    "myAnswer": 0,
+    "cluster": "process",
+    "trap": "Risk, communication and quality are areas you write plans for during planning. They are not process groups.",
+    "page": "S4 Lesson 1.3"
+   }
+  },
+  {
+   "id": "c722-pa1-q5",
+   "objective": "s1",
+   "lesson": "s1-l2",
+   "q": "What does PRINCE2 stand for?",
+   "choices": [
+    "PRoject INsights for CompEtitiveness",
+    "PRojects IN a Competitive Environment",
+    "PRoject INsights and CompEtencies",
+    "PRojects IN a Controlled Environment"
+   ],
+   "answer": 3,
+   "explanation": "PRINCE2 is Projects IN Controlled Environments, version 2. It is a UK government-originated standard, alongside PMI's PMBOK.",
+   "explanationSource": "added",
+   "source": "Pre-Assessment attempt 1, Q5",
+   "pa": {
+    "attempt": 1,
+    "n": 5,
+    "correct": false,
+    "myAnswer": 2,
+    "cluster": "basics",
+    "trap": "Anchor on the word Controlled: PRINCE2 is a control-focused methodology. None of the 'Insights' options exist.",
+    "page": "S1 Lesson 2.6"
+   }
+  },
+  {
+   "id": "c722-pa1-q6",
+   "objective": "s4",
+   "lesson": "s4-l1",
+   "q": "Which PMBOK process group is described as the delivery part of project management where the main activity happens?",
+   "choices": [
+    "Planning",
+    "Executing",
+    "Controlling",
+    "Closing"
+   ],
+   "answer": 1,
+   "explanation": "Executing is where the team carries out the plan and produces the deliverables.",
+   "explanationSource": "added",
+   "source": "Pre-Assessment attempt 1, Q6",
+   "pa": {
+    "attempt": 1,
+    "n": 6,
+    "correct": true,
+    "myAnswer": 1,
+    "cluster": null,
+    "trap": null,
+    "page": "S4 Lesson 1.4"
+   }
+  },
+  {
+   "id": "c722-pa1-q7",
+   "objective": "s1",
+   "lesson": "s1-l3",
+   "q": "Which advantage does the functional (departmentalized) organizational structure provide for a firm with multiple projects?",
+   "choices": [
+    "Lines of authority are clear.",
+    "The project customer is the only focus.",
+    "It is efficient for collaboration and cooperation between departments.",
+    "Each project is managed holistically."
+   ],
+   "answer": 0,
+   "explanation": "In a functional organization, lines of authority are clear cut and well defined. Everyone knows who reports to whom.",
+   "explanationSource": "added",
+   "source": "Pre-Assessment attempt 1, Q7",
+   "pa": {
+    "attempt": 1,
+    "n": 7,
+    "correct": false,
+    "myAnswer": 2,
+    "cluster": "org",
+    "trap": "This is the opposite of the truth. The course lists 'inefficient for projects requiring collaboration and cooperation between departments' as a functional disadvantage. 'Managed holistically' is a projectized advantage.",
+    "page": "S1 Lesson 3.1"
+   }
+  },
+  {
+   "id": "c722-pa1-q8",
+   "objective": "s1",
+   "lesson": "s1-l3",
+   "q": "Which two organizations are examples of organizations with the functional organizational structure?",
+   "choices": [
+    "Microsoft",
+    "The U.S. Department of State",
+    "The U.S. National Aeronautics and Space Administration (NASA)",
+    "The U.S. Department of Energy",
+    "Google Inc."
+   ],
+   "answer": [
+    1,
+    3
+   ],
+   "explanation": "The course names government entities as excellent examples of functional organizations, using the U.S. Department of State and the U.S. Department of Energy organization charts.",
+   "explanationSource": "added",
+   "source": "Pre-Assessment attempt 1, Q8",
+   "pa": {
+    "attempt": 1,
+    "n": 8,
+    "correct": false,
+    "myAnswer": [
+     0,
+     4
+    ],
+    "cluster": "org",
+    "trap": "Microsoft and Google are not the course's examples. When you see government departments among the choices on a functional-structure question, pick them.",
+    "page": "S1 Lesson 3.1"
+   }
+  },
+  {
+   "id": "c722-pa1-q9",
+   "objective": "s1",
+   "lesson": "s1-l3",
+   "q": "An organization expects to use a project management office (PMO) to support multiple projects that will be implemented within a projectized organizational structure. Which implied effect is a benefit to this organization?",
+   "choices": [
+    "Project team members retain their functional responsibilities.",
+    "Project team members become full-time employees.",
+    "Project team members gain access to the newest technologies and skill sets.",
+    "Project team members gain access to historical data from other projects."
+   ],
+   "answer": 3,
+   "explanation": "A PMO serves as a central repository for project policies, procedures, historical records and lessons learned. That fills the projectized structure's gap: team members lose access to a repository of functional expertise.",
+   "explanationSource": "added",
+   "source": "Pre-Assessment attempt 1, Q9",
+   "pa": {
+    "attempt": 1,
+    "n": 9,
+    "correct": false,
+    "myAnswer": 0,
+    "cluster": "org",
+    "trap": "In a projectized structure, SMEs report to the PM for the duration of the project. They do not keep their functional responsibilities, and the PMO does not create that effect.",
+    "page": "S1 Lesson 3.3"
+   }
+  },
+  {
+   "id": "c722-pa1-q10",
+   "objective": "s1",
+   "lesson": "s1-l3",
+   "q": "Regardless of the organizational structure used to manage a project, an organization elects to use a project management office (PMO). Which benefit will this organization gain?",
+   "choices": [
+    "Projects will coordinate resource usage by monitoring the status of shared resources.",
+    "Projects will define the organization's corporate strategy in the project charter.",
+    "Projects will receive a 10% managerial reserve fund to cover warranty back charges.",
+    "Projects will eliminate the costs incurred from having to follow corporate procedures."
+   ],
+   "answer": 0,
+   "explanation": "A PMO monitors the status and availability of all project resources and keeps them employed to best advantage across projects.",
+   "explanationSource": "added",
+   "source": "Pre-Assessment attempt 1, Q10",
+   "pa": {
+    "attempt": 1,
+    "n": 10,
+    "correct": true,
+    "myAnswer": 0,
+    "cluster": null,
+    "trap": null,
+    "page": "S1 Lesson 3.3"
+   }
+  },
+  {
+   "id": "c722-pa1-q11",
+   "objective": "s2",
+   "lesson": "s2-l1",
+   "q": "During a certain project phase, specific blueprints are drawn and approved, materials and labor costs are estimated, prototypes are created, and work activities and tasks are identified. Also, quality expectations, measurements, and costs are defined. During which project phase do these activities occur?",
+   "choices": [
+    "Defining",
+    "Planning",
+    "Executing",
+    "Closing"
+   ],
+   "answer": 1,
+   "explanation": "Blueprints, estimates, prototypes, activities and quality measures are all planning outputs.",
+   "explanationSource": "added",
+   "source": "Pre-Assessment attempt 1, Q11",
+   "pa": {
+    "attempt": 1,
+    "n": 11,
+    "correct": true,
+    "myAnswer": 1,
+    "cluster": null,
+    "trap": null,
+    "page": "S2 Lesson 1.2"
+   }
+  },
+  {
+   "id": "c722-pa1-q13",
+   "objective": "s2",
+   "lesson": "s2-l1",
+   "q": "During which life cycle phase is the vast majority of the actual work to produce the project's deliverables completed?",
+   "choices": [
+    "Defining",
+    "Planning",
+    "Executing",
+    "Closing"
+   ],
+   "answer": 2,
+   "explanation": "Executing is where the team completes the work activities in the project plan.",
+   "explanationSource": "added",
+   "source": "Pre-Assessment attempt 1, Q13",
+   "pa": {
+    "attempt": 1,
+    "n": 13,
+    "correct": true,
+    "myAnswer": 2,
+    "cluster": null,
+    "trap": null,
+    "page": "S2 Lesson 1.3"
+   }
+  },
+  {
+   "id": "c722-pa1-q14",
+   "objective": "s5",
+   "lesson": "s5-l2",
+   "q": "What is the correct term for an intermediate outcome of project work, such as a signed contract or obtaining a construction permit?",
+   "choices": [
+    "Deadline",
+    "Procurement",
+    "Statement of work",
+    "Deliverable"
+   ],
+   "answer": 3,
+   "explanation": "Deliverables can be final outcomes or intermediate outcomes that feed the final project outcome.",
+   "explanationSource": "added",
+   "source": "Pre-Assessment attempt 1, Q14",
+   "pa": {
+    "attempt": 1,
+    "n": 14,
+    "correct": true,
+    "myAnswer": 3,
+    "cluster": null,
+    "trap": null,
+    "page": "S5 Lesson 2.1"
+   }
+  },
+  {
+   "id": "c722-pa1-q15",
+   "objective": "s5",
+   "lesson": "s5-l2",
+   "q": "Which deliverable from a work breakdown structure (WBS) is not specific enough to measure its completion at project closure?",
+   "choices": [
+    "User training",
+    "User documentation manuals",
+    "Payment processing hardware",
+    "Hardware setup"
+   ],
+   "answer": 0,
+   "explanation": "'User training' has no measurable end point as written. The others are tangible items you can verify.",
+   "explanationSource": "added",
+   "source": "Pre-Assessment attempt 1, Q15",
+   "pa": {
+    "attempt": 1,
+    "n": 15,
+    "correct": true,
+    "myAnswer": 0,
+    "cluster": null,
+    "trap": null,
+    "page": "S5 Lesson 2.3"
+   }
+  },
+  {
+   "id": "c722-pa1-q16",
+   "objective": "s5",
+   "lesson": "s5-l2",
+   "q": "The following table shows the Level 1 work breakdown structure (WBS) for Project A.\n\n0.0 Project A\n  1.0 Project started\n  2.0 Feasibility\n  3.0 Design\n  4.0 Development\n  5.0 Manufacturing\n  6.0 Distribution\n  7.0 Project completed\n\nWhich approach did the project manager use to structure the WBS?",
+   "choices": [
+    "List of deliverables",
+    "Sequence of project phases",
+    "Enumeration of functional departments",
+    "List of project stakeholders"
+   ],
+   "answer": 1,
+   "explanation": "The Level 1 items run in time order from 'Project started' through 'Project completed'. That is a phase-based WBS: the work is organized by the sequence of project phases. (Lesson 5.2.2 shows a deliverable-based WBS. This phase-based variant is standard PM practice that the course pages don't show.)",
+   "explanationSource": "added",
+   "source": "Pre-Assessment attempt 1, Q16",
+   "pa": {
+    "attempt": 1,
+    "n": 16,
+    "correct": false,
+    "myAnswer": 2,
+    "cluster": "scope",
+    "trap": "Design, Development, Manufacturing and Distribution can look like department names. But 'Project started', 'Feasibility' and 'Project completed' are not departments. The start-to-finish order is the clue.",
+    "page": "S5 Lesson 2.2"
+   }
+  },
+  {
+   "id": "c722-pa1-q17",
+   "objective": "s5",
+   "lesson": "s5-l1",
+   "q": "For the following collapsed work breakdown structure (WBS) for Project O (0.0 Project O; 1.0 Project started; 2.0 Feasibility; 3.0 Design; 4.0 Development; 5.0 Manufacturing; 6.0 Distribution; 7.0 Project completed), the project manager must complete the scope baseline. In addition to the WBS, the scope baseline will contain two additional documents. What are the other two documents that belong in the scope baseline?",
+   "choices": [
+    "Project charter and statement of work",
+    "Project contract and business case",
+    "WBS dictionary and project scope statement",
+    "Activity list and scope management plan"
+   ],
+   "answer": 2,
+   "explanation": "The scope baseline is three documents: the project scope statement, the WBS, and the WBS dictionary. The WBS dictionary describes each WBS element in detail. Any requested change is compared against this baseline. (Lesson 2.2.4 explains the baseline's purpose but doesn't list its three parts. Memorize them.)",
+   "explanationSource": "added",
+   "source": "Pre-Assessment attempt 1, Q17",
+   "pa": {
+    "attempt": 1,
+    "n": 17,
+    "correct": false,
+    "myAnswer": 0,
+    "cluster": "scope",
+    "trap": "The charter and SOW come before the baseline. The charter authorizes the project, and the SOW feeds the scope statement. They are inputs, not baseline components.",
+    "page": "S5 Lesson 1.3"
+   }
+  },
+  {
+   "id": "c722-pa1-q18",
+   "objective": "s4",
+   "lesson": "s4-l1",
+   "q": "For the collapsed work breakdown structure (WBS) for Project O (Project started, Feasibility, Design, Development, Manufacturing, Distribution, Project completed), the project's steering committee held a phase gate review of the Feasibility results. That review determined that the project's proposed design would be obsolete before it would reach the marketplace. Which action should the project manager initiate?",
+   "choices": [
+    "Crashing the project's schedule by asking for more resources",
+    "Fast-tracking the schedule by altering predecessor to successor relationships",
+    "Terminating the project as soon as possible and releasing the project's resources",
+    "Looking for ways to make the design less costly"
+   ],
+   "answer": 2,
+   "explanation": "A phase gate is a go/no-go decision point where leadership can stop the project before more resources are spent. A design that will be obsolete on arrival is a no-go, so the project is terminated.",
+   "explanationSource": "added",
+   "source": "Pre-Assessment attempt 1, Q18",
+   "pa": {
+    "attempt": 1,
+    "n": 18,
+    "correct": false,
+    "myAnswer": 1,
+    "cluster": "schedule",
+    "trap": "Fast-tracking only gets an obsolete product out sooner. It would still be obsolete. When a gate review says the outcome has no value, stop the project; don't speed it up.",
+    "page": "S4 Lesson 1.1"
+   }
+  },
+  {
+   "id": "c722-pa1-q19",
+   "objective": "s2",
+   "lesson": "s2-l2",
+   "q": "A project is an operational necessity to repair a design flaw in the date field that constrains the year number to two digits, instead of permitting the year to be indicated with four digits. If the project is not completed before December 31, 1999, many legacy programs are expected to fail or produce unpredictable outcomes. The marketing department wants to upgrade its existing computer equipment and have the costs included in the budget for this project. The project team implemented the marketing department's request without completing the formal change control procedures. What has happened to the scope baseline in this scenario?",
+   "choices": [
+    "Scope updates have caused an unaffordable scope variance.",
+    "Scope creep has caused a scope variance.",
+    "Scope upgrade has caused a scope variance.",
+    "Scope risks have caused a smaller scope variance."
+   ],
+   "answer": 1,
+   "explanation": "Adding work without formal change control is scope creep, and it creates a variance from the scope baseline.",
+   "explanationSource": "added",
+   "source": "Pre-Assessment attempt 1, Q19",
+   "pa": {
+    "attempt": 1,
+    "n": 19,
+    "correct": true,
+    "myAnswer": 1,
+    "cluster": null,
+    "trap": null,
+    "page": "S2 Lesson 2.1"
+   }
+  },
+  {
+   "id": "c722-pa1-q20",
+   "objective": "s2",
+   "lesson": "s2-l2",
+   "q": "A general contractor is managing a highway construction project that will repair a flood-damaged road. The project was documented in a cost-plus-incentive fee contract that specified a completion date of June 30. The Department of Transportation has offered an incentive for early completion of the repairs. Which triple-constraint baseline remains unchanged by the effects of the incentive?",
+   "choices": [
+    "Scope",
+    "Time",
+    "Cost",
+    "Price"
+   ],
+   "answer": 0,
+   "explanation": "The incentive pushes on time and cost. The road repair itself (scope) stays the same.",
+   "explanationSource": "added",
+   "source": "Pre-Assessment attempt 1, Q20",
+   "pa": {
+    "attempt": 1,
+    "n": 20,
+    "correct": true,
+    "myAnswer": 0,
+    "cluster": null,
+    "trap": null,
+    "page": "S2 Lesson 2.5"
+   }
+  },
+  {
+   "id": "c722-pa1-q21",
+   "objective": "s2",
+   "lesson": "s2-l2",
+   "q": "In Project A, the contract specifies that time is very important. All of the scope must be completed, or the project will fail. The project's objective requires the project team to work as quickly as possible. Which triple constraint can be adjusted to permit the project team to work as quickly as possible?",
+   "choices": [
+    "Time",
+    "Cost",
+    "Price",
+    "Incentives"
+   ],
+   "answer": 1,
+   "explanation": "Scope is fixed and time is the priority, so cost is the only side of the triangle left to flex: add resources and spend more to go faster.",
+   "explanationSource": "added",
+   "source": "Pre-Assessment attempt 1, Q21",
+   "pa": {
+    "attempt": 1,
+    "n": 21,
+    "correct": false,
+    "myAnswer": 3,
+    "cluster": "schedule",
+    "trap": "Incentives and price are not triple constraints. The three are scope, time and cost. Eliminate any choice that isn't one of those three.",
+    "page": "S2 Lesson 2.7"
+   }
+  },
+  {
+   "id": "c722-pa1-q22",
+   "objective": "s2",
+   "lesson": "s2-l2",
+   "q": "In Project B, all of the scope must be completed, or the project will fail. The work is important but not urgent. Which triple constraint can be adjusted if the project's objective requires the project team to work at the lowest possible cost?",
+   "choices": [
+    "Time",
+    "Cost",
+    "Incentives",
+    "Penalties"
+   ],
+   "answer": 0,
+   "explanation": "Scope is fixed and cost is the priority, so time flexes.",
+   "explanationSource": "added",
+   "source": "Pre-Assessment attempt 1, Q22",
+   "pa": {
+    "attempt": 1,
+    "n": 22,
+    "correct": true,
+    "myAnswer": 0,
+    "cluster": null,
+    "trap": null,
+    "page": "S2 Lesson 2.7"
+   }
+  },
+  {
+   "id": "c722-pa1-q23",
+   "objective": "s3",
+   "lesson": "s3-l1",
+   "q": "A project manager is discussing the latest financial reports of a project to construct a grocery store and is approximately 90% into the planning phase. The project manager has been told by a project team member that other grocery stores in the area have an automated teller machine (ATM) for visitors. An ATM has not been discussed or incorporated into the planning of this project nor have any been incorporated into prior grocery store services. The leader calls for the immediate addition of an ATM into all prior grocery stores. Which non-numeric model is this leader using?",
+   "choices": [
+    "Operating necessity",
+    "Competitive necessity",
+    "Sacred cow",
+    "Checklists"
+   ],
+   "answer": 1,
+   "explanation": "Adding the ATM because competitors have one is competitive necessity: the project keeps the company viable in its market.",
+   "explanationSource": "added",
+   "source": "Pre-Assessment attempt 1, Q23",
+   "pa": {
+    "attempt": 1,
+    "n": 23,
+    "correct": true,
+    "myAnswer": 1,
+    "cluster": null,
+    "trap": null,
+    "page": "S3 Lesson 1.2"
+   }
+  },
+  {
+   "id": "c722-pa1-q24",
+   "objective": "s3",
+   "lesson": "s3-l1",
+   "q": "An organization has a surplus of project dollars in the operating budget. The senior leader's decision is to fund one more project with the remaining funds. Of the three projects proposed, one of the projects was selected without evaluation of feasibility or viability. Which non-numeric model is this leader using?",
+   "choices": [
+    "Operating necessity",
+    "Competitive necessity",
+    "Sacred cow",
+    "Weighted factor"
+   ],
+   "answer": 2,
+   "explanation": "Sacred cow projects are suggested by senior leadership and pushed forward with little regard for viability. 'Selected without evaluation of feasibility or viability' is the giveaway.",
+   "explanationSource": "added",
+   "source": "Pre-Assessment attempt 1, Q24",
+   "pa": {
+    "attempt": 1,
+    "n": 24,
+    "correct": false,
+    "myAnswer": 3,
+    "cluster": "selection",
+    "trap": "Weighted factor is a scoring model: it evaluates projects against weighted criteria. The scenario says no evaluation happened, which rules out any scoring model.",
+    "page": "S3 Lesson 1.2"
+   }
+  },
+  {
+   "id": "c722-pa1-q25",
+   "objective": "s3",
+   "lesson": "s3-l1",
+   "q": "Each project team member generated a series of questions to evaluate three projects. The checklist was compiled into one list based on frequency of question content, such as personnel, materials, experience, and time. The more frequent the question content, the more likely the questions would be asked first. Which two benefits result from this checklist approach?",
+   "choices": [
+    "Operational impact has been built in.",
+    "Strategic impact has been integrated.",
+    "Biases have been reduced.",
+    "Priorities of senior leadership are met."
+   ],
+   "answer": [
+    0,
+    1
+   ],
+   "explanation": "Checklist questions can cut across organizational boundaries and cover both operational and strategic issues.",
+   "explanationSource": "added",
+   "source": "Pre-Assessment attempt 1, Q25",
+   "pa": {
+    "attempt": 1,
+    "n": 25,
+    "correct": true,
+    "myAnswer": [
+     0,
+     1
+    ],
+    "cluster": null,
+    "trap": null,
+    "page": "S3 Lesson 1.2"
+   }
+  },
+  {
+   "id": "c722-pa1-q26",
+   "objective": "s3",
+   "lesson": "s3-l1",
+   "q": "Each project team member generated a series of questions to evaluate three projects. A checklist was then compiled into one list based on the frequency of question content, such as personnel, materials, experience, and time. What is a disadvantage of using this checklist approach?",
+   "choices": [
+    "Scoring models have not been integrated.",
+    "Biases have not been eliminated.",
+    "Numerical values have not been itemized.",
+    "Weighted values have not been considered."
+   ],
+   "answer": 1,
+   "explanation": "The course states that with checklists there is no assurance that decision makers' biases have not been embedded in the responses. The team wrote its own questions, so its biases are baked in.",
+   "explanationSource": "added",
+   "source": "Pre-Assessment attempt 1, Q26",
+   "pa": {
+    "attempt": 1,
+    "n": 26,
+    "correct": false,
+    "myAnswer": 3,
+    "cluster": "selection",
+    "trap": "Not using weights is a difference from a scoring model, not the disadvantage the course names. The course names two checklist weaknesses: too many questions, and biases.",
+    "page": "S3 Lesson 1.2"
+   }
+  },
+  {
+   "id": "c722-pa1-q28",
+   "objective": "s3",
+   "lesson": "s3-l1",
+   "q": "What is the time value of money?",
+   "choices": [
+    "The value of what you are giving up when you select one of two projects",
+    "The concept that a dollar today is worth a dollar, but a dollar in a year will be worth less than a dollar",
+    "The discount amount when present value of cash intake equals the original investment",
+    "The measure of time in which total cash received is equal to, or exceeds, total costs"
+   ],
+   "answer": 1,
+   "explanation": "Time value of money: money today is worth more than the same amount in the future. Sooner is better.",
+   "explanationSource": "added",
+   "source": "Pre-Assessment attempt 1, Q28",
+   "pa": {
+    "attempt": 1,
+    "n": 28,
+    "correct": false,
+    "myAnswer": 3,
+    "cluster": "selection",
+    "trap": "You picked the payback period definition. The word 'time' in both terms is the trap. Payback is how long it takes to earn back the cost. Time value of money is why a future dollar is worth less.",
+    "page": "S3 Lesson 1.5"
+   }
+  },
+  {
+   "id": "c722-pa1-q29",
+   "objective": "s3",
+   "lesson": "s3-l1",
+   "q": "What is internal rate of return?",
+   "choices": [
+    "The value of what you are giving up when you select one of two projects",
+    "The concept that a dollar today is worth a dollar, but a dollar in a year will be worth less than a dollar",
+    "The discount amount when present value of cash intake equals the original investment",
+    "The measure of time in which total cash received is equal to, or exceeds, total costs"
+   ],
+   "answer": 2,
+   "explanation": "IRR is the rate that makes the cost of the project equal to its future cash flows.",
+   "explanationSource": "added",
+   "source": "Pre-Assessment attempt 1, Q29",
+   "pa": {
+    "attempt": 1,
+    "n": 29,
+    "correct": true,
+    "myAnswer": 2,
+    "cluster": null,
+    "trap": null,
+    "page": "S3 Lesson 1.7"
+   }
+  },
+  {
+   "id": "c722-pa1-q30",
+   "objective": "s2",
+   "lesson": "s2-l1",
+   "q": "Which two processes are considered iterative processes?",
+   "choices": [
+    "Initiating",
+    "Planning",
+    "Operating",
+    "Executing",
+    "Closing"
+   ],
+   "answer": [
+    1,
+    3
+   ],
+   "explanation": "The linear process is interrupted by an iterative loop: monitoring and controlling find a problem, the team returns to planning, and once the new plan is approved it returns to executing. Planning and executing are the two that repeat.",
+   "explanationSource": "added",
+   "source": "Pre-Assessment attempt 1, Q30",
+   "pa": {
+    "attempt": 1,
+    "n": 30,
+    "correct": false,
+    "myAnswer": [
+     1,
+     4
+    ],
+    "cluster": "process",
+    "trap": "Closing happens once, at the end. Only planning and executing cycle back and forth.",
+    "page": "Section 2 Introduction"
+   }
+  },
+  {
+   "id": "c722-pa1-q31",
+   "objective": "s4",
+   "lesson": "s4-l1",
+   "q": "Which activity is accomplished as part of the planning process of a project?",
+   "choices": [
+    "Finalizing the project budget",
+    "Reviewing the lessons learned in the project",
+    "Documenting any requested changes to scope",
+    "Reconciling the vendor accounts"
+   ],
+   "answer": 0,
+   "explanation": "Finalizing the budget is a planning activity. Lessons learned and vendor reconciliation are closing activities.",
+   "explanationSource": "added",
+   "source": "Pre-Assessment attempt 1, Q31",
+   "pa": {
+    "attempt": 1,
+    "n": 31,
+    "correct": true,
+    "myAnswer": 0,
+    "cluster": null,
+    "trap": null,
+    "page": "S4 Lesson 1.3"
+   }
+  },
+  {
+   "id": "c722-pa1-q32",
+   "objective": "s4",
+   "lesson": "s4-l1",
+   "q": "Which activity is accomplished as part of the planning process of a project?",
+   "choices": [
+    "Training and coaching team members",
+    "Documenting any requested changes to scope",
+    "Finalizing the project schedule",
+    "Returning excess materials and supplies"
+   ],
+   "answer": 2,
+   "explanation": "Finalizing the schedule is listed among the planning activities.",
+   "explanationSource": "added",
+   "source": "Pre-Assessment attempt 1, Q32",
+   "pa": {
+    "attempt": 1,
+    "n": 32,
+    "correct": true,
+    "myAnswer": 2,
+    "cluster": null,
+    "trap": null,
+    "page": "S4 Lesson 1.3"
+   }
+  },
+  {
+   "id": "c722-pa1-q33",
+   "objective": "s4",
+   "lesson": "s4-l1",
+   "q": "Which activity is accomplished during the closing process of a project?",
+   "choices": [
+    "Reconciling the vendor accounts",
+    "Assigning project team members to new projects",
+    "Verifying that the deliverables meet the required scope",
+    "Coaching team members"
+   ],
+   "answer": 0,
+   "explanation": "Closing completes procurement and settles vendor accounts.",
+   "explanationSource": "added",
+   "source": "Pre-Assessment attempt 1, Q33",
+   "pa": {
+    "attempt": 1,
+    "n": 33,
+    "correct": true,
+    "myAnswer": 0,
+    "cluster": null,
+    "trap": null,
+    "page": "S4 Lesson 1.5"
+   }
+  },
+  {
+   "id": "c722-pa1-q34",
+   "objective": "s4",
+   "lesson": "s4-l1",
+   "q": "Which activity is performed during the creating part of the initiating process?",
+   "choices": [
+    "Completing the project documentation",
+    "Recognizing and rewarding performance",
+    "Assessing project quality",
+    "Drafting the project charter"
+   ],
+   "answer": 3,
+   "explanation": "Initiating ends with the project charter being issued and signed.",
+   "explanationSource": "added",
+   "source": "Pre-Assessment attempt 1, Q34",
+   "pa": {
+    "attempt": 1,
+    "n": 34,
+    "correct": true,
+    "myAnswer": 3,
+    "cluster": null,
+    "trap": null,
+    "page": "S4 Lesson 1.3"
+   }
+  },
+  {
+   "id": "c722-pa1-q35",
+   "objective": "s4",
+   "lesson": "s4-l1",
+   "q": "Which activity is accomplished as part of the executing process of a project?",
+   "choices": [
+    "Receiving sign-off from the customer",
+    "Creating the work breakdown structure",
+    "Creating the network diagram",
+    "Implementing the project plan"
+   ],
+   "answer": 3,
+   "explanation": "Executing implements the plan. WBS and network diagram are planning; sign-off is closing.",
+   "explanationSource": "added",
+   "source": "Pre-Assessment attempt 1, Q35",
+   "pa": {
+    "attempt": 1,
+    "n": 35,
+    "correct": true,
+    "myAnswer": 3,
+    "cluster": null,
+    "trap": null,
+    "page": "S4 Lesson 1.4"
+   }
+  },
+  {
+   "id": "c722-pa1-q36",
+   "objective": "s4",
+   "lesson": "s4-l1",
+   "q": "Which process involves determining who the project's stakeholders are?",
+   "choices": [
+    "The planning process",
+    "The closing process",
+    "The initiating process",
+    "The monitoring and controlling process"
+   ],
+   "answer": 2,
+   "explanation": "Identifying stakeholders is an initiating activity.",
+   "explanationSource": "added",
+   "source": "Pre-Assessment attempt 1, Q36",
+   "pa": {
+    "attempt": 1,
+    "n": 36,
+    "correct": true,
+    "myAnswer": 2,
+    "cluster": null,
+    "trap": null,
+    "page": "S4 Lesson 1.3"
+   }
+  },
+  {
+   "id": "c722-pa1-q37",
+   "objective": "s5",
+   "lesson": "s5-l1",
+   "q": "The project management information system (PMIS) has produced a resource histogram. It shows daily resource usage, with some days spiking to 15 to 18 units and other days at 2 to 6 units. What information does this resource histogram display that can help during the planning phase of the project?",
+   "choices": [
+    "Opportunities to work overtime to recover lead times",
+    "Opportunities to compress durations for non-effort-driven tasks",
+    "Opportunities to increase slack allowances",
+    "Opportunities to level resource usage patterns"
+   ],
+   "answer": 3,
+   "explanation": "Peaks and valleys on a resource histogram show where you can level resource usage.",
+   "explanationSource": "added",
+   "source": "Pre-Assessment attempt 1, Q37",
+   "pa": {
+    "attempt": 1,
+    "n": 37,
+    "correct": true,
+    "myAnswer": 3,
+    "cluster": null,
+    "trap": null,
+    "page": "S5 Lesson 1.5"
+   }
+  },
+  {
+   "id": "c722-pa1-q38",
+   "objective": "s5",
+   "lesson": "s5-l1",
+   "q": "Which tool could a project manager use to ensure that the project team will address the items that are important when developing and defining the project's scope?",
+   "choices": [
+    "Checklist",
+    "Checksheet",
+    "Fishbone diagram",
+    "Network diagram"
+   ],
+   "answer": 0,
+   "explanation": "A checklist makes sure all needed items are included and addressed during planning. The course's planning checklist covers each phase's documents.",
+   "explanationSource": "added",
+   "source": "Pre-Assessment attempt 1, Q38",
+   "pa": {
+    "attempt": 1,
+    "n": 38,
+    "correct": false,
+    "myAnswer": 1,
+    "cluster": "estimating",
+    "trap": "A check sheet is a data-collection tally sheet used in quality control (counting how often something happens). A checklist confirms items were addressed. The names are close on purpose.",
+    "page": "S5 Lesson 1.1"
+   }
+  },
+  {
+   "id": "c722-pa1-q39",
+   "objective": "s5",
+   "lesson": "s5-l1",
+   "q": "A project manager wants to understand and document the approvals that must be obtained for each work package in the work breakdown structure (WBS). Which tools document the approval requirements for each work package?",
+   "choices": [
+    "Project charter",
+    "Project statement of work (SOW)",
+    "Request for proposal (RFP)",
+    "Resource breakdown structure (RBS)",
+    "Requirements traceability matrix (RTM)",
+    "Organizational breakdown structure (OBS)"
+   ],
+   "answer": [
+    1,
+    4
+   ],
+   "explanation": "The SOW defines each deliverable's acceptance criteria. The RTM ties each requirement to the stakeholder who requested it and records how the outcome will be verified. Together they say who must approve what.",
+   "explanationSource": "added",
+   "source": "Pre-Assessment attempt 1, Q39",
+   "pa": {
+    "attempt": 1,
+    "n": 39,
+    "correct": false,
+    "myAnswer": [
+     0,
+     5
+    ],
+    "cluster": "scope",
+    "trap": "The charter is high level: it authorizes the project, not individual work packages. The OBS shows who does the work, not who approves it.",
+    "page": "S5 Lesson 1.3"
+   }
+  },
+  {
+   "id": "c722-pa1-q40",
+   "objective": "s5",
+   "lesson": "s5-l2",
+   "q": "The general manager of a hotel has asked for a project to put in new landscaping around the building. The project manager has constructed a high-level work breakdown structure (WBS): 1.0 Landscaping; 1.1 Plans; 1.2 Site preparation; 1.3 Sprinklers; 1.4 Sidewalks and curbing; 1.5 Planting. Which activity would it be logical to add to the approved high-level WBS to provide more detail on the work to be accomplished?",
+   "choices": [
+    "2.0 Building façade and foyer",
+    "1.6 Online reservation system",
+    "1.5.1 Lay sod",
+    "1.1.1 Plant trees and bushes"
+   ],
+   "answer": 2,
+   "explanation": "'Lay sod' decomposes Planting (1.5), so 1.5.1 is correct. Planting trees does not belong under Plans (1.1).",
+   "explanationSource": "added",
+   "source": "Pre-Assessment attempt 1, Q40",
+   "pa": {
+    "attempt": 1,
+    "n": 40,
+    "correct": true,
+    "myAnswer": 2,
+    "cluster": null,
+    "trap": null,
+    "page": "S5 Lesson 2.2"
+   }
+  },
+  {
+   "id": "c722-pa1-q41",
+   "objective": "s5",
+   "lesson": "s5-l2",
+   "q": "A state college is launching a library building project. A few WBS elements are shown with ID numbers and indentation removed: Library project, Facility needs, Academic plan, Stakeholder input, Building proposal, Siting, Fundraising, Potential donor list, U.S. donors, Florida donors. Which two WBS elements of this project are on the same level as each other?",
+   "choices": [
+    "Florida donors",
+    "Building proposal",
+    "Potential donor list",
+    "Facility needs",
+    "Fundraising"
+   ],
+   "answer": [
+    1,
+    4
+   ],
+   "explanation": "Building proposal and Fundraising are both major deliverables of the library project. Potential donor list sits under Fundraising, U.S. donors under the list, and Florida donors under U.S. donors.",
+   "explanationSource": "added",
+   "source": "Pre-Assessment attempt 1, Q41",
+   "pa": {
+    "attempt": 1,
+    "n": 41,
+    "correct": false,
+    "myAnswer": [
+     0,
+     2
+    ],
+    "cluster": "scope",
+    "trap": "Florida donors is a subset of U.S. donors, which is part of the potential donor list. Ask 'is this a part of that?' If yes, they're on different levels.",
+    "page": "S5 Lesson 2.2"
+   }
+  },
+  {
+   "id": "c722-pa1-q42",
+   "objective": "s5",
+   "lesson": "s5-l3",
+   "q": "The World Fabrication Corporation is launching a project that calls for the heavy use of copper-clad bolts. The cost of these bolts fluctuates daily and it is difficult to estimate the project cost over several weekly purchases of bolts. The threat of cost increases is highly probable with a potentially significant budget impact. The company has decided to contract with the supplier to buy the bolts at a fixed price for the expected duration of the project. What risk response strategy is World Fabrication Corporation using?",
+   "choices": [
+    "Risk Mitigation",
+    "Risk Acceptance",
+    "Risk Transference",
+    "Risk Avoidance"
+   ],
+   "answer": 3,
+   "explanation": "WGU's key is avoidance: locking the price eliminates the cause of the risk (daily price swings), so the cost-increase event can no longer happen. Avoidance means eradicating the risk by eliminating its cause.",
+   "explanationSource": "added",
+   "source": "Pre-Assessment attempt 1, Q42",
+   "pa": {
+    "attempt": 1,
+    "n": 42,
+    "correct": false,
+    "myAnswer": 0,
+    "cluster": "risk",
+    "trap": "Mitigation only reduces the impact or likelihood. Here the price risk is gone entirely. Note: Lesson 5.3.3 uses a fixed-price contract as an example of transfer. On this exam, a fixed price that removes the cause of the risk is scored as avoidance.",
+    "page": "S5 Lesson 3.3"
+   }
+  },
+  {
+   "id": "c722-pa1-q43",
+   "objective": "s5",
+   "lesson": "s5-l3",
+   "q": "Consolidated Systems, Inc. is initiating a project to develop a new Inventory system with a specific system launch date and fixed budget. The company had planned to use a software development tool it has used for past projects but is now considering instead using new state-of-art software that has the potential to speed development. The available staff is familiar with the old software development tool. What can the company do to avoid the risk of project delays?",
+   "choices": [
+    "Outsource the software development to a consultancy",
+    "Conduct weekly project status meetings",
+    "Continue using the old software tool",
+    "Train the staff in new software"
+   ],
+   "answer": 2,
+   "explanation": "Avoidance removes the cause of the risk. Staying with the familiar tool removes the learning-curve risk.",
+   "explanationSource": "added",
+   "source": "Pre-Assessment attempt 1, Q43",
+   "pa": {
+    "attempt": 1,
+    "n": 43,
+    "correct": true,
+    "myAnswer": 2,
+    "cluster": null,
+    "trap": null,
+    "page": "S5 Lesson 3.3"
+   }
+  },
+  {
+   "id": "c722-pa1-q44",
+   "objective": "s5",
+   "lesson": "s5-l3",
+   "q": "Bantam Electronics, a leader in mobile communications, has fallen behind in technology. Competitors have introduced products using the latest technology. Resources with expertise in this technology are scarce since there are very few universities offering training in the technology. Bantam's market share has fallen from 70% to under 50%. What can Bantam do to mitigate the risk of losing further ground in technology?",
+   "choices": [
+    "Outsource technical development",
+    "Discontinue advanced technology products",
+    "Hire technical staff from the competition",
+    "Offer to pay for engineers to attend courses"
+   ],
+   "answer": 2,
+   "explanation": "Mitigation is taking early action to reduce the impact. Hiring people who already have the scarce expertise reduces the gap right away.",
+   "explanationSource": "added",
+   "source": "Pre-Assessment attempt 1, Q44",
+   "pa": {
+    "attempt": 1,
+    "n": 44,
+    "correct": false,
+    "myAnswer": 3,
+    "cluster": "risk",
+    "trap": "The scenario says very few universities offer the training, so paying for courses won't work, and won't work fast. Use the scenario's constraints to rule options out. Outsourcing is transfer, and discontinuing is avoidance.",
+    "page": "S5 Lesson 3.3"
+   }
+  },
+  {
+   "id": "c722-pa1-q45",
+   "objective": "s5",
+   "lesson": "s5-l3",
+   "q": "What are the three categories of risk in the project risk register?",
+   "choices": [
+    "External, technical, or organizational",
+    "Internal, material, or personnel",
+    "Portfolio, program, or project",
+    "Certain, uncertain, or probable",
+    "Internal, identifiable, or iterative"
+   ],
+   "answer": 0,
+   "explanation": "The risk register categorizes risks as external, technical or organizational.",
+   "explanationSource": "added",
+   "source": "Pre-Assessment attempt 1, Q45",
+   "pa": {
+    "attempt": 1,
+    "n": 45,
+    "correct": true,
+    "myAnswer": 0,
+    "cluster": null,
+    "trap": null,
+    "page": "S5 Lesson 3.4"
+   }
+  },
+  {
+   "id": "c722-pa1-q46",
+   "objective": "s5",
+   "lesson": "s5-l4",
+   "q": "A project manager is creating a list of anticipated project tasks while building a calendarized budget. What is the key component of this budget called?",
+   "choices": [
+    "Contingency reserves",
+    "Management reserves",
+    "Budget estimates",
+    "Activity estimates"
+   ],
+   "answer": 3,
+   "explanation": "A calendarized budget is built bottom-up from the specific work activities and their estimates.",
+   "explanationSource": "added",
+   "source": "Pre-Assessment attempt 1, Q46",
+   "pa": {
+    "attempt": 1,
+    "n": 46,
+    "correct": true,
+    "myAnswer": 3,
+    "cluster": null,
+    "trap": null,
+    "page": "S5 Lesson 4.3"
+   }
+  },
+  {
+   "id": "c722-pa1-q47",
+   "objective": "s5",
+   "lesson": "s5-l4",
+   "q": "A project manager has identified activities in a calendarized budget. What is the appropriate next planning action this project manager should take to utilize the cost, duration, and sequencing information for these activities?",
+   "choices": [
+    "Estimating dates of spending",
+    "Completing top-down estimates",
+    "Completing bottom-up estimates",
+    "Creating project schedules"
+   ],
+   "answer": 3,
+   "explanation": "The calendarized budget already is the bottom-up step. Once activities have costs, durations and sequencing, the next output is the project schedule.",
+   "explanationSource": "added",
+   "source": "Pre-Assessment attempt 1, Q47",
+   "pa": {
+    "attempt": 1,
+    "n": 47,
+    "correct": false,
+    "myAnswer": 2,
+    "cluster": "estimating",
+    "trap": "The bottom-up estimate was already done when the activities were identified and costed. The question asks what comes next after that.",
+    "page": "S5 Lesson 4.3"
+   }
+  },
+  {
+   "id": "c722-pa1-q48",
+   "objective": "s5",
+   "lesson": "s5-l4",
+   "q": "Which output is needed prior to using the bottom-up estimating technique?",
+   "choices": [
+    "Quality management plan",
+    "Teaming agreement",
+    "Work breakdown structure",
+    "Stakeholder matrix"
+   ],
+   "answer": 2,
+   "explanation": "Bottom-up estimating needs the WBS activities to estimate.",
+   "explanationSource": "added",
+   "source": "Pre-Assessment attempt 1, Q48",
+   "pa": {
+    "attempt": 1,
+    "n": 48,
+    "correct": true,
+    "myAnswer": 2,
+    "cluster": null,
+    "trap": null,
+    "page": "S5 Lesson 4.1"
+   }
+  },
+  {
+   "id": "c722-pa1-q49",
+   "objective": "s6",
+   "lesson": "s6-l1",
+   "q": "A project team is gathered together to begin the planning process for a large office building. It is discussing estimates of each activity in the schedule. For all of the plumbing-related work, the team will use the information obtained from the plumber-in-residence in its organization. What estimating technique will be used?",
+   "choices": [
+    "Parametric",
+    "Top-down",
+    "One-point",
+    "Three-point"
+   ],
+   "answer": 2,
+   "explanation": "One expert giving a single estimate is the deterministic, one-point method.",
+   "explanationSource": "added",
+   "source": "Pre-Assessment attempt 1, Q49",
+   "pa": {
+    "attempt": 1,
+    "n": 49,
+    "correct": true,
+    "myAnswer": 2,
+    "cluster": null,
+    "trap": null,
+    "page": "S6 Lesson 1.1"
+   }
+  },
+  {
+   "id": "c722-pa1-q50",
+   "objective": "s6",
+   "lesson": "s6-l1",
+   "q": "A project team is gathered together to begin the planning process to create a new website for its client. Discussions have turned to website capacity. Some team members believe the bandwidth of the site needs to be higher to avoid the website freezing. Others believe the bandwidth is too high as it is right now. A finite capacity needs to be determined to define the estimated time to complete this task. What estimating technique will be used?",
+   "choices": [
+    "Parametric",
+    "Top-down",
+    "One-point",
+    "Three-point"
+   ],
+   "answer": 3,
+   "explanation": "When there is uncertainty and disagreement, use a probabilistic method: three-point estimating takes optimistic, most likely and pessimistic values.",
+   "explanationSource": "added",
+   "source": "Pre-Assessment attempt 1, Q50",
+   "pa": {
+    "attempt": 1,
+    "n": 50,
+    "correct": false,
+    "myAnswer": 0,
+    "cluster": "estimating",
+    "trap": "Parametric is top-down and based on the relationship between the current project and historical data. The scenario has no historical data, only disagreement. Disagreement or uncertainty means three-point.",
+    "page": "S6 Lesson 1.1"
+   }
+  },
+  {
+   "id": "c722-pa1-q51",
+   "objective": "s6",
+   "lesson": "s6-l1",
+   "q": "The project team is determining the duration for upgrading the software on the app used on its mobile devices. An experienced technician took 15 minutes to complete the task. Two other new technicians will be assisting. They have performed a few upgrades on mobile devices, desktop computers, and laptop computers, which took one technician approximately 25 minutes and the other 20 minutes to upgrade. Using three-point estimating, how many minutes will it take for each upgrade performed?",
+   "choices": [
+    "15",
+    "20",
+    "25",
+    "40"
+   ],
+   "answer": 1,
+   "explanation": "(15 + 25 + 20) / 3 = 20 minutes.",
+   "explanationSource": "added",
+   "source": "Pre-Assessment attempt 1, Q51",
+   "pa": {
+    "attempt": 1,
+    "n": 51,
+    "correct": true,
+    "myAnswer": 1,
+    "cluster": null,
+    "trap": null,
+    "page": "S6 Lesson 1.2"
+   }
+  },
+  {
+   "id": "c722-pa1-q52",
+   "objective": "s6",
+   "lesson": "s6-l1",
+   "q": "The project team is determining the duration for upgrading the software on the app used on its mobile devices. An experienced technician took 10 minutes to complete the task. Two other new technicians will be assisting and have little experience in software upgrades on mobile devices or desktop and laptop computers. One technician took approximately 28 minutes, while the other technician took 31 minutes to complete the task. Using three-point estimation, how many minutes will it take for each upgrade performed?",
+   "choices": [
+    "15",
+    "23",
+    "30",
+    "35"
+   ],
+   "answer": 1,
+   "explanation": "(10 + 28 + 31) / 3 = 23 minutes.",
+   "explanationSource": "added",
+   "source": "Pre-Assessment attempt 1, Q52",
+   "pa": {
+    "attempt": 1,
+    "n": 52,
+    "correct": true,
+    "myAnswer": 1,
+    "cluster": null,
+    "trap": null,
+    "page": "S6 Lesson 1.2"
+   }
+  },
+  {
+   "id": "c722-pa1-q53",
+   "objective": "s6",
+   "lesson": "s6-l1",
+   "q": "A work breakdown structure for a software development project has seven deliverables, numbered I to VII:\n\nI Determine Overall Architecture: 1.1 Determine Data Format; 1.2 Determine Database Inputs/Outputs; 1.3 Determine Report Writing Inputs/Outputs; 1.4 Determine GUI Inputs/Outputs\nII Develop Database: 2.1 Determine Database Structure; 2.2 Develop SW Leveraging Existing IP; 2.3 Test to Specification\nIII Report Writing Capability: 3.1 to 3.4\nIV Develop GUI: 4.1 to 4.5\nV Develop User Manual: 5.1, 5.2\nVI SW and Transfer Data: 6.1 Install SW on all Computers; 6.2 Develop Transfer Methodology; 6.3 Transfer Data; 6.4 Confirm Data Migration\nVII Training: 7.1 Develop Training Manual; 7.2 Conduct Training\n\nWhich component is the starting point for developing the project schedule?",
+   "choices": [
+    "Test to specification",
+    "Develop training documents",
+    "Determine database structure",
+    "Determine data format",
+    "Transfer data"
+   ],
+   "answer": 3,
+   "explanation": "The schedule is built from the WBS activities, starting with the first activity of the first deliverable. 1.1 Determine Data Format comes before everything else, because the database structure is built on the data format.",
+   "explanationSource": "added",
+   "source": "Pre-Assessment attempt 1, Q53",
+   "pa": {
+    "attempt": 1,
+    "n": 53,
+    "correct": false,
+    "myAnswer": 2,
+    "cluster": "estimating",
+    "trap": "Determine Database Structure (2.1) belongs to deliverable II. Deliverable I, Overall Architecture, has to happen first, and 1.1 is its first activity.",
+    "page": "S6 Lesson 1.1"
+   }
+  },
+  {
+   "id": "c722-pa1-q54",
+   "objective": "s6",
+   "lesson": "s6-l2",
+   "q": "A company specializes in high quality home improvements and remodels. The project for a living room consists of six primary tasks. As soon as the demolition is completed, the floor installation and electrical work can begin. The cabinet installers and painters may begin their work after the floor is installed. Finally, the interior decorators can finish up the project after the paint has dried. Which network diagram correctly represents this living room remodeling project?",
+   "choices": [
+    "Demolition → Floor → Electrical → Cabinets → Paint → Decorate (one straight line)",
+    "Demolition → Floor and Electrical; Floor → Cabinets and Paint; Paint → Decorate",
+    "Demolition → Floor and Electrical; Electrical → Cabinets and Paint; Paint → Decorate",
+    "Demolition → Floor; Floor → Electrical and Cabinets; both → Paint; Paint → Decorate"
+   ],
+   "answer": 1,
+   "explanation": "Floor and electrical both follow demolition. Cabinets and paint both follow the floor, and decorating follows paint.",
+   "explanationSource": "added",
+   "source": "Pre-Assessment attempt 1, Q54",
+   "pa": {
+    "attempt": 1,
+    "n": 54,
+    "correct": true,
+    "myAnswer": 1,
+    "cluster": null,
+    "trap": null,
+    "page": "S6 Lesson 2.2"
+   }
+  },
+  {
+   "id": "c722-pa1-q55",
+   "objective": "s6",
+   "lesson": "s6-l2",
+   "q": "Same living room project (Demolition 2 days, Floor 2, Electrical 3, Cabinets 2, Paint 2, Decorate 1; demolition starts Monday 3/14). Which Gantt chart correctly represents this project?",
+   "choices": [
+    "Floor and Electrical start Wed 3/16; Cabinets and Paint start Fri 3/18; Decorate starts Tue 3/22",
+    "Floor Wed 3/16; Electrical and Cabinets Fri 3/18; Paint Wed 3/23; Decorate Fri 3/25",
+    "Floor and Electrical Wed 3/16; Cabinets and Paint Mon 3/21; Decorate Wed 3/23",
+    "Fully sequential: Floor Wed 3/16, Electrical Fri 3/18, Cabinets Wed 3/23, Paint Fri 3/25, Decorate Tue 3/29"
+   ],
+   "answer": 0,
+   "explanation": "Cabinets and paint wait only for the floor (done Thursday), so they start Friday 3/18. Paint ends Monday, so decorating starts Tuesday 3/22.",
+   "explanationSource": "added",
+   "source": "Pre-Assessment attempt 1, Q55",
+   "pa": {
+    "attempt": 1,
+    "n": 55,
+    "correct": true,
+    "myAnswer": 0,
+    "cluster": null,
+    "trap": null,
+    "page": "S6 Lesson 2.4"
+   }
+  },
+  {
+   "id": "c722-pa1-q56",
+   "objective": "s6",
+   "lesson": "s6-l3",
+   "q": "Network diagram: 1.0 Demolition (2 days) leads to 2.0 Floor (2 days) and 3.0 Electrical (3 days). 3.0 Electrical leads to 4.0 Cabinets (2 days) and 5.0 Paint (2 days). 5.0 Paint leads to 6.0 Decorate (1 day). What is the critical path of this network diagram?",
+   "choices": [
+    "1.0 – 2.0 – 3.0 – 4.0 – 5.0 – 6.0",
+    "1.0 – 2.0 – 5.0 – 6.0",
+    "1.0 – 3.0 – 5.0 – 6.0",
+    "1.0 – 2.0 – 3.0 – 5.0 – 6.0"
+   ],
+   "answer": 2,
+   "explanation": "1-3-5-6 = 2+3+2+1 = 8 days, the longest path. 1-3-4 = 7 days and 1-2 = 4 days.",
+   "explanationSource": "added",
+   "source": "Pre-Assessment attempt 1, Q56",
+   "pa": {
+    "attempt": 1,
+    "n": 56,
+    "correct": true,
+    "myAnswer": 2,
+    "cluster": null,
+    "trap": null,
+    "page": "S6 Lesson 3.1"
+   }
+  },
+  {
+   "id": "c722-pa1-q57",
+   "objective": "s6",
+   "lesson": "s6-l3",
+   "q": "Network diagram: 1.0 Demolition (2 days) → 2.0 Floor (2 days). 2.0 Floor leads to both 3.0 Electrical (3 days) and 4.0 Cabinets (2 days). Both 3.0 and 4.0 lead to 5.0 Paint (2 days) → 6.0 Decorate (1 day). What is the critical path of this network diagram?",
+   "choices": [
+    "1.0 – 2.0 – 3.0 – 4.0 – 5.0 – 6.0",
+    "1.0 – 2.0 – 5.0 – 6.0",
+    "1.0 – 3.0 – 5.0 – 6.0",
+    "1.0 – 2.0 – 3.0 – 5.0 – 6.0"
+   ],
+   "answer": 3,
+   "explanation": "The critical path is the longest complete path. 1-2-3-5-6 = 2+2+3+2+1 = 10 days, and 1-2-4-5-6 = 9 days.",
+   "explanationSource": "added",
+   "source": "Pre-Assessment attempt 1, Q57",
+   "pa": {
+    "attempt": 1,
+    "n": 57,
+    "correct": false,
+    "myAnswer": 1,
+    "cluster": "schedule",
+    "trap": "1.0-2.0-5.0-6.0 skips the middle tasks, so it isn't a real path: Paint can't start until Electrical and Cabinets finish. Trace every arrow, add each path's durations, and pick the longest.",
+    "page": "S6 Lesson 3.1"
+   }
+  },
+  {
+   "id": "c722-pa1-q58",
+   "objective": "s6",
+   "lesson": "s6-l3",
+   "q": "A project manager is working on a large two-year IT project. At the end of the first year, the project is two months behind schedule because the interface programming is taking longer than planned. The sponsor will not extend the deadline or the budget but is willing to eliminate an interface. Which schedule compression technique can the project manager use?",
+   "choices": [
+    "Determining the critical path",
+    "Resource leveling",
+    "Scope reduction",
+    "Fast-tracking"
+   ],
+   "answer": 2,
+   "explanation": "Schedule compression options are do the work faster, do less work, or reduce quality. The sponsor is offering to drop an interface, which is 'do less work': scope reduction.",
+   "explanationSource": "added",
+   "source": "Pre-Assessment attempt 1, Q58",
+   "pa": {
+    "attempt": 1,
+    "n": 58,
+    "correct": false,
+    "myAnswer": 0,
+    "cluster": "schedule",
+    "trap": "Determining the critical path is analysis, not compression. It tells you where to compress but doesn't shorten anything. The scenario hands you the answer: 'willing to eliminate an interface'.",
+    "page": "S6 Lesson 3.2"
+   }
+  },
+  {
+   "id": "c722-pa1-q59",
+   "objective": "s6",
+   "lesson": "s6-l3",
+   "q": "A project manager is working on a large two-year IT project. At the end of the first year, the project is two months behind schedule because the interface programming is taking longer than planned. The sponsor will not extend the deadline or reduce the scope. The project manager decides to crash the schedule to meet the project deadline. What is the risk of this decision?",
+   "choices": [
+    "Reduction in rework",
+    "Use of fewer resources",
+    "Reduced quality of deliverables",
+    "Less overtime"
+   ],
+   "answer": 2,
+   "explanation": "Doing the work faster with more resources often increases costs or reduces quality.",
+   "explanationSource": "added",
+   "source": "Pre-Assessment attempt 1, Q59",
+   "pa": {
+    "attempt": 1,
+    "n": 59,
+    "correct": true,
+    "myAnswer": 2,
+    "cluster": null,
+    "trap": null,
+    "page": "S6 Lesson 3.2"
+   }
+  },
+  {
+   "id": "c722-pa1-q60",
+   "objective": "s7",
+   "lesson": "s7-l2",
+   "q": "A project was authorized as an operational necessity to repair a design flaw in the date field on a computer system that constrains the year number to two digits instead of permitting the year to be indicated with four digits. During execution of the activity concerned with identifying the affected software, five relevant software modules were discovered that had not been included in the scope baseline. The project team must adjust the baselines to include the omitted scope. Which change management phase does this scenario describe?",
+   "choices": [
+    "Preparing for the change",
+    "Managing the change",
+    "Reinforcing the change",
+    "Upgrading the change"
+   ],
+   "answer": 0,
+   "explanation": "The team has found the need for a change and must get resources and documentation in place (adjust the baselines) before managing it. That is phase 1, prepare for change.",
+   "explanationSource": "added",
+   "source": "Pre-Assessment attempt 1, Q60",
+   "pa": {
+    "attempt": 1,
+    "n": 60,
+    "correct": false,
+    "myAnswer": 3,
+    "cluster": "control",
+    "trap": "'Upgrading the change' is not a phase. The four phases are prepare, plan, manage, and reinforce and sustain. Eliminate anything outside that list first.",
+    "page": "S7 Lesson 2.4"
+   }
+  },
+  {
+   "id": "c722-pa1-q61",
+   "objective": "s7",
+   "lesson": "s7-l2",
+   "q": "A general contractor is managing a highway construction project that will repair a flood-damaged road. The Department of Transportation offered an incentive fee if the repairs are completed early. Therefore, the project manager has established a rewards and recognition program and has communicated this program to the project team members. The project's recognition program will reward project team members who add value by accelerating the project while maintaining its ability to deliver the completed scope correctly. Which change management phase does this scenario describe?",
+   "choices": [
+    "Preparing for the change",
+    "Managing the change",
+    "Reinforcing the change",
+    "Upgrading the change"
+   ],
+   "answer": 2,
+   "explanation": "Rewards and recognition that keep the new behavior going are reinforcing and sustaining the change.",
+   "explanationSource": "added",
+   "source": "Pre-Assessment attempt 1, Q61",
+   "pa": {
+    "attempt": 1,
+    "n": 61,
+    "correct": false,
+    "myAnswer": 0,
+    "cluster": "control",
+    "trap": "Preparing is about resources and documentation to organize the change. A reward program for people who keep delivering is reinforcement. The word 'reward' should point you to reinforce.",
+    "page": "S7 Lesson 2.4"
+   }
+  },
+  {
+   "id": "c722-pa1-q62",
+   "objective": "s7",
+   "lesson": "s7-l2",
+   "q": "A general contractor is managing a construction project that will add a new conference room to an existing office building. The project was documented in a fixed-price contract that specified a completion date. The contract includes a damages clause imposing a late completion penalty if the conference room is not ready for use by the due date. One month into the implementation, the customer wants to modify the room's lighting equipment. The requested change will delay the project's critical path by three months. Which process should be used to maintain the existing baseline?",
+   "choices": [
+    "Using a change management system to influence performance",
+    "Absorbing the change request in the baselines for time and cost",
+    "Focusing on the original scope",
+    "Using the risk management system to process change requests"
+   ],
+   "answer": 0,
+   "explanation": "The change management system formally identifies, evaluates, decides on and communicates changes. Running the request through it protects the baseline until a decision is made.",
+   "explanationSource": "added",
+   "source": "Pre-Assessment attempt 1, Q62",
+   "pa": {
+    "attempt": 1,
+    "n": 62,
+    "correct": false,
+    "myAnswer": 1,
+    "cluster": "control",
+    "trap": "Absorbing the change into the baselines is the opposite of maintaining them. It would also blow the fixed date and trigger the penalty.",
+    "page": "S7 Lesson 2.4"
+   }
+  },
+  {
+   "id": "c722-pa1-q63",
+   "objective": "s7",
+   "lesson": "s7-l2",
+   "q": "A general contractor from Germany is managing a construction project in Norway that will add a new conference room to an existing office building. The project needs to collect requirements from the client prior to developing plans to build the new conference room. Which two actions would prove useful to plan the project's quality?",
+   "choices": [
+    "Defining traceable and verifiable requirements that can be validated at project closure",
+    "Establishing metrics that describe what to measure and how to measure it",
+    "Using inventory to protect against defects during project implementation",
+    "Changing the work plan to account for the project experiencing common variation",
+    "Using slogans and numerical quotas to exhort resources to work harder"
+   ],
+   "answer": [
+    0,
+    1
+   ],
+   "explanation": "Quality planning defines verifiable requirements and the metrics to measure them.",
+   "explanationSource": "added",
+   "source": "Pre-Assessment attempt 1, Q63",
+   "pa": {
+    "attempt": 1,
+    "n": 63,
+    "correct": true,
+    "myAnswer": [
+     0,
+     1
+    ],
+    "cluster": null,
+    "trap": null,
+    "page": "S7 Lesson 2.5"
+   }
+  },
+  {
+   "id": "c722-pa1-q64",
+   "objective": "s7",
+   "lesson": "s7-l3",
+   "q": "What is the purpose of the cost performance index (CPI)?",
+   "choices": [
+    "To measure a project's labor costs",
+    "To measure a project's cost effectiveness",
+    "To measure a project's cost efficiency",
+    "To measure a project's actual costs"
+   ],
+   "answer": 2,
+   "explanation": "CPI = EV/AC is a measure of cost efficiency.",
+   "explanationSource": "added",
+   "source": "Pre-Assessment attempt 1, Q64",
+   "pa": {
+    "attempt": 1,
+    "n": 64,
+    "correct": true,
+    "myAnswer": 2,
+    "cluster": null,
+    "trap": null,
+    "page": "S7 Lesson 3.3"
+   }
+  },
+  {
+   "id": "c722-pa1-q65",
+   "objective": "s7",
+   "lesson": "s7-l3",
+   "q": "What is the purpose of the schedule performance index (SPI)?",
+   "choices": [
+    "To determine a project's budgeted schedule",
+    "To determine the ratio between planned value and actual cost",
+    "To determine a project's time efficiency",
+    "To determine the ratio between cost variance and schedule variance"
+   ],
+   "answer": 2,
+   "explanation": "SPI = EV/PV, a ratio that measures time efficiency. Below 1 means less work done than planned for the time used.",
+   "explanationSource": "added",
+   "source": "Pre-Assessment attempt 1, Q65",
+   "pa": {
+    "attempt": 1,
+    "n": 65,
+    "correct": false,
+    "myAnswer": 0,
+    "cluster": "control",
+    "trap": "Pair them: CPI is cost efficiency and SPI is time (schedule) efficiency. Both indexes measure efficiency. 'Budgeted schedule' is planned value, not an index.",
+    "page": "S7 Lesson 3.3"
+   }
+  },
+  {
+   "id": "c722-pa1-q66",
+   "objective": "s7",
+   "lesson": "s7-l3",
+   "q": "What is the purpose of cost variance (CV) analysis?",
+   "choices": [
+    "To determine if a project is meeting efficiency expectations",
+    "To determine if a project is meeting schedule expectations",
+    "To determine if a project is meeting budget expectations",
+    "To determine if a project is meeting price and time expectations"
+   ],
+   "answer": 2,
+   "explanation": "CV = EV - AC shows whether the project is on budget.",
+   "explanationSource": "added",
+   "source": "Pre-Assessment attempt 1, Q66",
+   "pa": {
+    "attempt": 1,
+    "n": 66,
+    "correct": true,
+    "myAnswer": 2,
+    "cluster": null,
+    "trap": null,
+    "page": "S7 Lesson 3.2"
+   }
+  },
+  {
+   "id": "c722-pa1-q67",
+   "objective": "s7",
+   "lesson": "s7-l4",
+   "q": "What is the name for the closing task where all project activities are reviewed to determine what went right and what went wrong?",
+   "choices": [
+    "Closeout review",
+    "Lessons learned review",
+    "Client deliverables review",
+    "Project manager review"
+   ],
+   "answer": 1,
+   "explanation": "The lessons learned review captures what went well and what could be improved.",
+   "explanationSource": "added",
+   "source": "Pre-Assessment attempt 1, Q67",
+   "pa": {
+    "attempt": 1,
+    "n": 67,
+    "correct": true,
+    "myAnswer": 1,
+    "cluster": null,
+    "trap": null,
+    "page": "S7 Lesson 4.2"
+   }
+  },
+  {
+   "id": "c722-pa1-q68",
+   "objective": "s7",
+   "lesson": "s7-l4",
+   "q": "What is another name for the lessons learned review that is often used by the military and other uniformed services?",
+   "choices": [
+    "Rules of engagement",
+    "Activity report",
+    "Protocol assessment",
+    "After action report"
+   ],
+   "answer": 3,
+   "explanation": "The military calls it an after action report.",
+   "explanationSource": "added",
+   "source": "Pre-Assessment attempt 1, Q68",
+   "pa": {
+    "attempt": 1,
+    "n": 68,
+    "correct": true,
+    "myAnswer": 3,
+    "cluster": null,
+    "trap": null,
+    "page": "S7 Lesson 4.2"
+   }
+  },
+  {
+   "id": "c722-pa1-q69",
+   "objective": "s7",
+   "lesson": "s7-l4",
+   "q": "The customer of a project validates that scope has been completed for the second of three segments of the project. Which closure practice does this describe?",
+   "choices": [
+    "Iteration completion",
+    "Phase completion",
+    "Deliverable completion",
+    "Stage completion"
+   ],
+   "answer": 3,
+   "explanation": "Closing one segment of a multi-segment project is stage completion.",
+   "explanationSource": "added",
+   "source": "Pre-Assessment attempt 1, Q69",
+   "pa": {
+    "attempt": 1,
+    "n": 69,
+    "correct": true,
+    "myAnswer": 3,
+    "cluster": null,
+    "trap": null,
+    "page": "S7 Lesson 4.1"
+   }
+  },
+  {
+   "id": "c722-pa1-q70",
+   "objective": "s7",
+   "lesson": "s7-l4",
+   "q": "The customer of a project validates that the project scope has been completed, all invoices have been paid, and the expected benefits have been realized. Which closure practice does this describe?",
+   "choices": [
+    "Iteration completion",
+    "Phase completion",
+    "Deliverable completion",
+    "Stage completion"
+   ],
+   "answer": 2,
+   "explanation": "Full scope accepted, invoices paid and benefits realized is deliverable completion.",
+   "explanationSource": "added",
+   "source": "Pre-Assessment attempt 1, Q70",
+   "pa": {
+    "attempt": 1,
+    "n": 70,
+    "correct": true,
+    "myAnswer": 2,
+    "cluster": null,
+    "trap": null,
+    "page": "S7 Lesson 4.1"
+   }
+  }
+ ]
+}

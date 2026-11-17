@@ -1,6 +1,9 @@
 ---
 title: S5 2.2 The Levels of a Work Breakdown Structure
 objectives: s5
+lesson: s5-l2
+page: 2.2
+kind: page
 ---
 # S5 2.2 The Levels of a Work Breakdown Structure
 
@@ -32,11 +35,7 @@ You have decided to organize your restaurant business plan as a program with a s
 
 A restaurant planning chart is given. The first step is to open a restaurant, which comes under a restaurant program. In the next phase of the plan, the first restaurant comes under project 1, the second restaurant under project 2, followed by franchising and food truck This chart shows that you have clearly heard the stakeholders (in addition to yourself) and you understand their needs. It also will show potential investors that you have a clear understanding of the future. The restaurant team has limited resources and needs to learn before expanding beyond the first restaurant location. The team recommendation is to do one project at a time and focus on opening the first restaurant. In this project, which is the first project of the program, you will do all the business planning for the first restaurant as a building block and a learning tool for the following projects of a second restaurant, franchising, and a food truck. The deliverables for this project are shown in the following chart.
 
-In this example, the project is for the first restaurant. Key deliverables are shown. Each deliverable is an activity and will have tasks to be accomplished. The project is setting up a new restaurant. The main activity is project management. There are a series of activities under project management. They are procurement, systems, and procedures, menu, front of house, kitchen, and business plan.
-
-## Image description
-
-The project is setting up a new restaurant. The first activity is project management. The key deliverables or activities that come under project management are procurement, systems, and procedures, menu, front of house, kitchen, and business plan. In this example, the project is for the first restaurant. Key deliverables are shown here. Each one of these is an activity and will have tasks to be accomplished. You can also see a crossover of activities and deliverables and how everything will eventually integrate. When planning the menu, tasks from the menu will impact procurement, systems, and procedures. The same is true for the front of the house and kitchen. All of what is done in these activities will feed into the business or project plan that is to be created. In the WBS, you want to account for all activities and tasks and, ultimately, all resources the project requires. The WBS is key to being able to create an accurate estimate of a budget, schedule, and resource plan including project organization structures.
+In this example, the project is for the first restaurant. Key deliverables are shown. Each deliverable is an activity and will have tasks to be accomplished. The project is setting up a new restaurant. The main activity is project management. There are a series of activities under project management. They are procurement, systems, and procedures, menu, front of house, kitchen, and business plan. In this example, the project is for the first restaurant. Key deliverables are shown here. Each one of these is an activity and will have tasks to be accomplished. You can also see a crossover of activities and deliverables and how everything will eventually integrate. When planning the menu, tasks from the menu will impact procurement, systems, and procedures. The same is true for the front of the house and kitchen. All of what is done in these activities will feed into the business or project plan that is to be created. In the WBS, you want to account for all activities and tasks and, ultimately, all resources the project requires. The WBS is key to being able to create an accurate estimate of a budget, schedule, and resource plan including project organization structures.
 
 ## Formats of a Work Breakdown Structure
 

@@ -1,6 +1,8 @@
 ---
 title: S1 2 Introduction
 objectives: s1
+lesson: s1-l2
+kind: intro
 ---
 # S1 2 Introduction
 
@@ -10,4 +12,7 @@ Why do some people see society as mostly stable and working as it should, while 
 
 ## Learning Objectives
 
-Consider the following learning objectives as you move through the lesson: Identify the functionalist, conflict, and symbolic interactionist perspectives. Define applied sociology and real-life applications of sociology.
+Consider the following learning objectives as you move through the lesson:
+
+- Identify the functionalist, conflict, and symbolic interactionist perspectives.
+- Define applied sociology and real-life applications of sociology.

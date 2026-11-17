@@ -1,6 +1,9 @@
 ---
 title: S2 2.5 A Project's Triple Constraint
 objectives: s2
+lesson: s2-l2
+page: 2.5
+kind: page
 ---
 # S2 2.5 A Project's Triple Constraint
 
@@ -13,8 +16,6 @@ Define the project term triple constraint.
 An example of how triple constraint impacts a real-world project may help explain the concept. But before looking at an example of the project triple constraint, you will review some of the concepts of the triple constraint with a short video clip. The video shows how you can prioritize dimensions of the triple constraint to achieve a specific outcome. Keep these in mind for the following sections.
 
 Watch "The Triple Constraint" (3:47) from LinkedIn Learning.
-
-Contemporary wooden single-family house on river surrounded by oak forest. Sergey Makarov/iStock / Getty Images Plus via Getty Images.
 
 You have worked hard and saved some money. You also have a very good credit rating. You decide that you would like to build a second home that you can use for vacations and weekend getaways. You have decided on a location. There are a number of decisions that you need to make, including the following:
 

@@ -1,6 +1,9 @@
 ---
 title: S2 3.3 Foundations of Gender and Socialization
 objectives: s2
+lesson: s2-l3
+page: 3.3
+kind: page
 ---
 # S2 3.3 Foundations of Gender and Socialization
 

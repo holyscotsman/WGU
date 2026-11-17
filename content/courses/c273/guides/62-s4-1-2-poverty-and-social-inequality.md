@@ -1,6 +1,9 @@
 ---
 title: S4 1.2 Poverty and Social Inequality
 objectives: s4
+lesson: s4-l1
+page: 1.2
+kind: page
 ---
 # S4 1.2 Poverty and Social Inequality
 

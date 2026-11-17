@@ -1,6 +1,9 @@
 ---
 title: S4 1.3 Global Stratification
 objectives: s4
+lesson: s4-l1
+page: 1.3
+kind: page
 ---
 # S4 1.3 Global Stratification
 

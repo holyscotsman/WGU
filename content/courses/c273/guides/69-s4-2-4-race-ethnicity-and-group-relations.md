@@ -1,6 +1,9 @@
 ---
 title: S4 2.4 Race, Ethnicity, and Group Relations
 objectives: s4
+lesson: s4-l2
+page: 2.4
+kind: page
 ---
 # S4 2.4 Race, Ethnicity, and Group Relations
 

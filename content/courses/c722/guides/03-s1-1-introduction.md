@@ -1,12 +1,18 @@
 ---
 title: S1 1 Introduction
 objectives: s1
+lesson: s1-l1
+kind: intro
 ---
 # S1 1 Introduction
 
 ## Learning Objectives
 
-Consider the following learning objectives as you move through the lesson: Define projects, including their purpose. Describe the role projects play in achieving strategic initiatives. Define project management.
+Consider the following learning objectives as you move through the lesson:
+
+- Define projects, including their purpose.
+- Describe the role projects play in achieving strategic initiatives.
+- Define project management.
 
 ## Lesson 1: Project Characteristics
 

@@ -1,6 +1,9 @@
 ---
 title: S1 3.3 Ethical Considerations in Research
 objectives: s1
+lesson: s1-l3
+page: 3.3
+kind: page
 ---
 # S1 3.3 Ethical Considerations in Research
 

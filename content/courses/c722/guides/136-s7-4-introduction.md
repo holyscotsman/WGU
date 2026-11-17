@@ -1,12 +1,17 @@
 ---
 title: S7 4 Introduction
 objectives: s7
+lesson: s7-l4
+kind: intro
 ---
 # S7 4 Introduction
 
 ## Learning Objectives
 
-Consider the following learning objectives as you move through the lesson: Describe how to close a project. Describe the steps in performing a lessons learned review, as part of project closeout.
+Consider the following learning objectives as you move through the lesson:
+
+- Describe how to close a project.
+- Describe the steps in performing a lessons learned review, as part of project closeout.
 
 ## Overview
 

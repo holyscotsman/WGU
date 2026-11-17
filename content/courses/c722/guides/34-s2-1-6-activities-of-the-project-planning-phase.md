@@ -1,14 +1,15 @@
 ---
 title: S2 1.6 Activities of the Project Planning Phase
 objectives: s2
+lesson: s2-l1
+page: 1.6
+kind: page
 ---
 # S2 1.6 Activities of the Project Planning Phase
 
 ## Learning Objectives
 
 Describe the activities of each phase of a project.
-
-A pen is on a piece of paper showing a detailed plan. ngkaki/iStock / Getty Images Plus via Getty Images.
 
 When the parameters of the project proposal have been clearly developed and the project charter has been approved, the project organization will develop a detailed plan that identifies the activities that will need to occur to complete the project. At this point, the project team begins to form, as key individuals are brought on board. The planning process often requires these additional resources because expert knowledge is required to identify activities, estimate costs, and estimate activity completion times.
 

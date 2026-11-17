@@ -1,6 +1,9 @@
 ---
 title: S1 2.5 Applied and Clinical Sociology
 objectives: s1
+lesson: s1-l2
+page: 2.5
+kind: page
 ---
 # S1 2.5 Applied and Clinical Sociology
 

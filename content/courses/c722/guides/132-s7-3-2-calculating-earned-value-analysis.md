@@ -1,6 +1,9 @@
 ---
 title: S7 3.2 Calculating Earned Value Analysis
 objectives: s7
+lesson: s7-l3
+page: 3.2
+kind: page
 ---
 # S7 3.2 Calculating Earned Value Analysis
 
@@ -24,7 +27,7 @@ Schedule variance (SV) compares differences between the EV and the PV to determi
 
 The interpretation of these two variance measures is straightforward. A negative value for SV or CV indicates that the project is behind in that measure of variance. A positive value indicates that the project is ahead in that measure of variance. Obviously, in the unlikely case that CV or SV result in a value of zero, then there is no variance, and you are right on track.
 
-Two fish bowls. A larger one with a smaller fish and a smaller bowl with a much larger fish. RomoloTavani/iStock / Getty Images Plus via Getty Images. Using the measures you calculated for the website project EVM analysis at the end of Week 3, you will calculate the CV and SV. Recall that the currently known values are as follows:
+Using the measures you calculated for the website project EVM analysis at the end of Week 3, you will calculate the CV and SV. Recall that the currently known values are as follows:
 
 - EV = $42,500
 

@@ -1,6 +1,9 @@
 ---
 title: S4 2.3 Racism and Social Inequality
 objectives: s4
+lesson: s4-l2
+page: 2.3
+kind: page
 ---
 # S4 2.3 Racism and Social Inequality
 
@@ -21,8 +24,6 @@ Racism is a belief system used to justify inequalities against individuals by ma
 Individual racism is often shaped by bias, which can operate either consciously or unconsciously. Explicit bias is a conscious belief or attitude about a group of people. Individuals knowingly judge or treat others differently based on characteristics such as race, gender, religion, or age. For example, a person openly expressing prejudice toward a racial group or intentionally treating someone differently because of their identity. Implicit bias refers to unconscious attitudes or stereotypes about groups of people that influence decisions and behavior without a person realizing it. For example, a teacher may call on boys more
 
 often in class, or a doctor may assume that a woman is exaggerating her pain.
-
-## ADA Accommodation
 
 Key Characteristics of Implicit Bias following points summarize key characteristics bias and help| you identifyof how it ©The 2020 Western Governors University – WGU. of implicit | Privacy Policy Terms Service All rights reserved. Honor Code operates and why it matters: Everyone has implicit biases, including individuals who aim to be fair and impartial. Implicit biases differ from explicit biases; implicit biases operate unconsciously, while explicit biases are conscious and stated. Implicit and explicit biases can influence and reinforce each other. Implicit biases are often directed toward out-groups, but they can also apply to in-groups. Implicit biases can shape behavior, even when a person is not aware of them. Implicit biases can change over time, meaning learned associations can be unlearned and replaced with new ones through intentional effort. Implicit bias can be unlearned and reduced through self-reflection and increased awareness, which support the development of new associations.
 

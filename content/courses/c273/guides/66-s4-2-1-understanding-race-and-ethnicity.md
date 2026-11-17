@@ -1,6 +1,9 @@
 ---
 title: S4 2.1 Understanding Race and Ethnicity
 objectives: s4
+lesson: s4-l2
+page: 2.1
+kind: page
 ---
 # S4 2.1 Understanding Race and Ethnicity
 

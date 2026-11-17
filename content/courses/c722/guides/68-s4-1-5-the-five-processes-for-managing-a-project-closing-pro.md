@@ -1,8 +1,11 @@
 ---
-title: S4 1.5 The Five Processes for Managing a Project- Closing Process
+title: S4 1.5 The Five Processes for Managing a Project: Closing Process
 objectives: s4
+lesson: s4-l1
+page: 1.5
+kind: page
 ---
-# S4 1.5 The Five Processes for Managing a Project- Closing Process
+# S4 1.5 The Five Processes for Managing a Project: Closing Process
 
 ## Learning Objectives
 

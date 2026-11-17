@@ -1,6 +1,9 @@
 ---
 title: S2 1.7 Activities of the Project Executing Phase
 objectives: s2
+lesson: s2-l1
+page: 1.7
+kind: page
 ---
 # S2 1.7 Activities of the Project Executing Phase
 

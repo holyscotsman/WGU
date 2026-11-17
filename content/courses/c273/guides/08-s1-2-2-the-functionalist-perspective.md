@@ -1,6 +1,9 @@
 ---
 title: S1 2.2 The Functionalist Perspective
 objectives: s1
+lesson: s1-l2
+page: 2.2
+kind: page
 ---
 # S1 2.2 The Functionalist Perspective
 

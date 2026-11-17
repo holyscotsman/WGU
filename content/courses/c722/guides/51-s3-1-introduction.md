@@ -1,12 +1,19 @@
 ---
 title: S3 1 Introduction
 objectives: s3
+lesson: s3-l1
+kind: intro
 ---
 # S3 1 Introduction
 
 ## Learning Objectives
 
-Consider the following learning objectives as you move through the lesson: Explain the various criteria used when constructing a project selection model. Explain how comparative checklists are used for project selection. Explain how a scoring model is used for project selection. Describe how financial concepts are used for project selection.
+Consider the following learning objectives as you move through the lesson:
+
+- Explain the various criteria used when constructing a project selection model.
+- Explain how comparative checklists are used for project selection.
+- Explain how a scoring model is used for project selection.
+- Describe how financial concepts are used for project selection.
 
 Watch "Selection and Prioritization" (3:10).
 

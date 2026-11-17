@@ -1,6 +1,8 @@
 ---
 title: S5 3 Introduction
 objectives: s5
+lesson: s5-l3
+kind: intro
 ---
 # S5 3 Introduction
 

@@ -1,12 +1,19 @@
 ---
 title: S6 2 Introduction
 objectives: s6
+lesson: s6-l2
+kind: intro
 ---
 # S6 2 Introduction
 
 ## Learning Objectives
 
-Consider the following learning objectives as you move through the lesson: Describe the components of an activity network including their sequencing. Construct a project network diagram. Describe task relationships and dependencies in network diagrams. Describe how a Gantt chart is used in project scheduling.
+Consider the following learning objectives as you move through the lesson:
+
+- Describe the components of an activity network including their sequencing.
+- Construct a project network diagram.
+- Describe task relationships and dependencies in network diagrams.
+- Describe how a Gantt chart is used in project scheduling.
 
 Once you move through your requirement planning and gain a clear understanding of deliverables, create a work breakdown structure (WBS). Take the activities and tasks identified during the WBS process and expand them as your knowledge increases through your planning process. Details that can be added include the following:
 

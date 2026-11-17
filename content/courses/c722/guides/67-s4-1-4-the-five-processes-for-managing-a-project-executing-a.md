@@ -1,8 +1,11 @@
 ---
-title: S4 1.4 The Five Processes for Managing a Project- Executing and Monitoring and Controlling Processes
+title: S4 1.4 The Five Processes for Managing a Project: Executing and Monitoring and Controlling Processes
 objectives: s4
+lesson: s4-l1
+page: 1.4
+kind: page
 ---
-# S4 1.4 The Five Processes for Managing a Project- Executing and Monitoring and Controlling Processes
+# S4 1.4 The Five Processes for Managing a Project: Executing and Monitoring and Controlling Processes
 
 ## Learning Objectives
 
@@ -17,15 +20,11 @@ The executing processes are what the project team does to create the project out
 - communicating with stakeholders
 - managing stakeholders
 
-## ADA Accommodation
-
 implementing the project plan
 
 ©documenting 2020 Western change Governors University – WGU. All requests rights reserved.
 
-## Privacy Policy | Terms of Service |
-
-## Honor Code
+| Honor Code
 
 assessing team member performance recognizing and rewarding performance
 
@@ -33,13 +32,11 @@ assessing team member performance recognizing and rewarding performance
 
 Monitoring and controlling did not appear as a specific phase of the project life cycle. Instead, monitoring and controlling is positioned as an iterative activity that occurs while the project work is being executed. Monitoring can be separated from controlling (although they work hand in hand). Monitoring involves assessing whether the project plan is being implemented as it was designed and whether the resulting outcomes and deliverables are as expected. Controlling is the action to get the project team back on track with the plan or making adjustments to the plan to achieve the desired outcomes and deliverables. As you can see, you would not have controlling unless during monitoring you detected some change that needed to occur. However, if your monitoring did not detect any issues that need to be addressed, then there would be no need to make any changes; no controlling needs to occur.
 
-ADA Accommodation © 2020 Western Governors University – WGU. All rights reserved.
+rights reserved.
 
-## Privacy Policy | Terms of Service |
+| Honor Code
 
-## Honor Code
-
-A radiator thermostat is used for controlling temperature. bubutu-/iStock / Getty Images Plus via Getty Images. Project management processes that occur during monitoring and controlling are as follows:
+Project management processes that occur during monitoring and controlling are as follows:
 
 - keeping the project activities in sync (integration control)
 - verifying that the deliverables meet the required scope
@@ -52,18 +49,11 @@ A radiator thermostat is used for controlling temperature. bubutu-/iStock / Gett
 - monitoring project risks
 - monitoring vendor/provider performance
 - determining when replanning is needed
-- © 2020 Western Governors University – WGU. All
 
 rights reserved.
 
-## ADA Accommodation
+| Honor Code
 
-## Privacy Policy | Terms of Service |
+rights reserved.
 
-## Honor Code
-
-ADA Accommodation © 2020 Western Governors University – WGU. All rights reserved.
-
-## Privacy Policy | Terms of Service |
-
-## Honor Code
+| Honor Code

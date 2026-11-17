@@ -1,6 +1,9 @@
 ---
 title: S3 1.7 Internal Rate of Return
 objectives: s3
+lesson: s3-l1
+page: 1.7
+kind: page
 ---
 # S3 1.7 Internal Rate of Return
 

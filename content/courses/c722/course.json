@@ -18,7 +18,7 @@
   },
   {
    "id": "s3",
-   "title": "Section 3: Project Selection Criteria and Models"
+   "title": "Section 3: Project Selection Criteria and Methods"
   },
   {
    "id": "s4",
@@ -30,11 +30,12 @@
   },
   {
    "id": "s6",
-   "title": "Section 6: Project Scheduling"
+   "title": "Section 6: Project Time Management"
   },
   {
    "id": "s7",
-   "title": "Section 7: Executing, Monitoring, Controlling, and Closing Project Work"
+   "title": "Section 7: Executing, Monitoring, and Controlling Project Work"
   }
- ]
+ ],
+ "lessonGuides": true
 }

@@ -1,12 +1,12 @@
 ---
 title: Section 1 Introduction
 objectives: 2.6
+lesson: s1-l0
+kind: section-intro
 ---
 # Section 1 Introduction
 
 ## Operational Strategies
-
-A light bulb surrounded by marketing terms and graphics. andresr/E+ via Getty Images.
 
 ## Section 1: Introduction
 

@@ -1,8 +1,11 @@
 ---
-title: S2 2.1 Constraint- Project Scope
+title: S2 2.1 Constraint: Project Scope
 objectives: s2
+lesson: s2-l2
+page: 2.1
+kind: page
 ---
-# S2 2.1 Constraint- Project Scope
+# S2 2.1 Constraint: Project Scope
 
 ## Learning Objectives
 

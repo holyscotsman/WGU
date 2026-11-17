@@ -1,6 +1,9 @@
 ---
 title: S2 2.1 Social Norms and Values
 objectives: s2
+lesson: s2-l2
+page: 2.1
+kind: page
 ---
 # S2 2.1 Social Norms and Values
 

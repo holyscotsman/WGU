@@ -1,6 +1,9 @@
 ---
 title: S5 3.4 Environment and Health
 objectives: s5
+lesson: s5-l3
+page: 3.4
+kind: page
 ---
 # S5 3.4 Environment and Health
 

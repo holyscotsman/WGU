@@ -1,6 +1,9 @@
 ---
 title: S1 1.3 Operations and Projects
 objectives: s1
+lesson: s1-l1
+page: 1.3
+kind: page
 ---
 # S1 1.3 Operations and Projects
 
@@ -10,11 +13,7 @@ Define projects, including their purpose.
 
 What Is an Operation? As you have seen, all organizations engage in two types of activities: operations and projects. This is true of all organizations, whether public or private sector, profit or not-for-profit. Both of these activities are necessary for the success of any organization. While defining the differences between operations and projects may seem like splitting hairs, there are definite and important differences. Operations are the ongoing, daily activities of an organization that produce revenue and expense. They continue over an indefinite period of time, creating business transactions and delivering products and services that generate revenue. They are the activities that typically are thought of as what the organization "does." Operations are, simply put, the ongoing, day-to-day activities that a company, a not-for-profit, or a government entity engages in. There is not a specifically defined start date, there is no specifically defined end date, and there is no unique product, service, or result as an output from the operation.
 
-Luxury and fashionable brand new interior of clothing store. fiphoto/iStock / Getty Images Plus via Getty Images.
-
 Take the retail industry. A retail store opens its door on a daily basis. They have merchandise that is on display and sold to customers. This is an operation. They engage in the same activities on a daily basis with no specified end date. (You could argue that the day the store opened for business was a specified start date, but that could be argued for any operation. The key is that when the operation began, there was no specified end date, and activities are generally the same on a day-to-day basis.)
-
-Workers on a production line in an industrial clutch factory. Monty Rakusen/DigitalVision via Getty Images.
 
 Now take a look at manufacturing. From the time an assembly line begins producing a product, they have begun an operation. The same product is produced day after day until such time that there is no longer a sufficient market for the product. Since this day is unknown and unspecified at the start of production, this is an operation.
 

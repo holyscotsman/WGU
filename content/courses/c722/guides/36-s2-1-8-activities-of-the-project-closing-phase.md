@@ -1,6 +1,9 @@
 ---
 title: S2 1.8 Activities of the Project Closing Phase
 objectives: s2
+lesson: s2-l1
+page: 1.8
+kind: page
 ---
 # S2 1.8 Activities of the Project Closing Phase
 
@@ -23,5 +26,3 @@ Return excess materials. Manage disposition of leased equipment. Process all cre
 ## Complete the Administrative Closeout
 
 Since the project work is complete, all documentation must be updated, and any remaining assets must be transferred back to the sponsoring organization. Complete team member performance reports. Archive all records. Gather and document lessons learned. Return all assets to the sponsoring organization. Release team members to new assignments. When all of these steps are completed, the project is officially over. It is time to move on to defining, planning, and executing the next project.
-
-Group of ecstatic business partners looking at camera with raised arms. nd3000/iStock / Getty Images Plus via Getty Images.

@@ -1,6 +1,8 @@
 ---
 title: Section 2: Culture and Socialization
 objectives: s2
+lesson: s2-l0
+kind: section-intro
 ---
 # Section 2: Culture and Socialization
 
@@ -26,15 +28,9 @@ Everyday life is shaped by patterned ways of thinking, acting, and interacting w
 
 guide social behavior and how these expectations and rules are shaped as we interact. This section
 
-## ADA Accommodation
-
 also focuses on how individuals learn expectations from family, peers, schools, media, and other social settings across the lifespan.
 
-© 2020 Western Governors University – WGU.
-
-## Privacy Policy | Terms of Service |
-
-This section covers one competency in four lessons. All rights reserved.
+| This section covers one competency in four lessons. All rights reserved.
 
 ## Honor Code
 

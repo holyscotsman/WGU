@@ -1,6 +1,9 @@
 ---
 title: S3 2.2 Formal Organizations in Modern Society
 objectives: s3
+lesson: s3-l2
+page: 2.2
+kind: page
 ---
 # S3 2.2 Formal Organizations in Modern Society
 

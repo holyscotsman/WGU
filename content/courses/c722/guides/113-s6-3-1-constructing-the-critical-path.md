@@ -1,6 +1,9 @@
 ---
 title: S6 3.1 Constructing the Critical Path
 objectives: s6
+lesson: s6-l3
+page: 3.1
+kind: page
 ---
 # S6 3.1 Constructing the Critical Path
 
@@ -266,7 +269,7 @@ The critical path is the longest path through the network. In other words, this 
 
 As has been discussed, the only way to have a project end sooner is to reduce the critical path. If you discover that you cannot start the project until September 1 because the funding will not be available, you need to reduce the critical path so you can be ready for the restaurant to open on October 1. How do you optimize the schedule so you can do that? The only way is to reduce the critical path. You have a critical path that waits for design, approval, purchasing, painting, and then flooring so you can set up furnishings and set the tables. By expert inspection of the tasks, begin to try to reduce the critical path by doing some or all of the following steps: 1. Inspect the tasks to identify if the tasks can be made shorter or if the estimate is too long. Have the experts review all of the estimates. 2. Review resources and see if you can add or improve the resources to be used. For painting, what is your longest task? Can you reduce those dates by adding labor with more painters doing the work? How does this impact quality? Can you add a more experienced painter and see if that can save time? 3. Review all the task dependencies to see if you can start work on a dependent task sooner. Can you start laying the floor while the painting is being done in a different area of the dining room? Can you paint the back of the room first and begin laying the floor while you paint the entryway? 4. Eliminate tasks that may not be required. Can you open without hanging pictures? Can you hang them at a later time?
 
-An open laptop is displaying different illustrated images of bar graphs, line graphs and spreadsheet data for analysis. juststock/iStock / Getty Images Plus via Getty Images. 5. Use project management techniques like crashing and fast tracking as well as communications as tasks are done to monitor progress and to identify contingency plans in case there are issues.
+5. Use project management techniques like crashing and fast tracking as well as communications as tasks are done to monitor progress and to identify contingency plans in case there are issues.
 
 ## Constructing Crashing for Project Critical Path Activities
 

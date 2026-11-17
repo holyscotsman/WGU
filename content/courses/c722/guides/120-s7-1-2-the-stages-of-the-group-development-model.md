@@ -1,6 +1,9 @@
 ---
 title: S7 1.2 The Stages of the Group Development Model
 objectives: s7
+lesson: s7-l1
+page: 1.2
+kind: page
 ---
 # S7 1.2 The Stages of the Group Development Model
 

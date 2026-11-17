@@ -1,6 +1,9 @@
 ---
 title: 2.2 Key Business Processes
 objectives: 2.6
+lesson: s1-l2
+page: 2.2
+kind: page
 ---
 # 2.2 Key Business Processes
 
