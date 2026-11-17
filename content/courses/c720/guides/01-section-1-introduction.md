@@ -10,18 +10,56 @@ kind: section-intro
 
 ## Section 1: Introduction
 
-Operations management is the multidisciplinary science that organizations use to acquire inputs (such as people, capital, material, or energy) and transform them into outputs (products or services) that ultimately provide value to the end customer. In this section, you will explore the elements of this transformation process, guided by the organization's strategy for producing goods and delivering
+Operations management is the multidisciplinary science that organizations use to acquire inputs (such as people, capital, material, or energy) and transform them into outputs (products or services) that ultimately provide value to the end customer. In this section, you will explore the elements of this transformation process, guided by the organization's strategy for producing goods and delivering services. Inputs can be raw materials or labor applied in any stage of the chain of processes that leads to value creation. Throughout the entire chain of events, the operational strategy must be applied to guide processes and create value for the customer. The customer's expectations are then transformed into the customer experience.
 
-services. Inputs can be raw materials or labor applied in any stage of the chain of processes that leads to value creation. Throughout the entire chain of events, the operational strategy must be applied to guide processes and create value for the customer. The customer's expectations are then transformed into the customer experience. Operations management is also a professional decision-making discipline that considers the many factors that affect operations. Decisions that need to be made can include which products to produce, how large a facility to build, and how many people to hire on the first shift. Supply chain management broadens the playing field to include supply (vendors and suppliers), operations (as described previously), logistics (transportation), and the integration of information and technology among the supply and operations elements with downstream customers and end-user customers. For manufacturing companies, wholesale and retail organizations, and food service providers, inventory represents a significant investment in working capital and a substantial cost to store and manage. When firms hold large amounts of inventory, they increase the costs associated with holding inventory, involving nearly every aspect of the big picture, in addition to working capital, storage, and inventory management. Conversely, when firms hold small amounts of inventory, they must make frequent orders and accept the risk of being unable to satisfy customer demand. Making small and frequent orders tends to increase transaction, transportation, and equipment set-up costs. This is a fundamental trade-off in managing inventory. Multiple elements that impact this trade-off are discussed, as well as different systems for controlling and monitoring independent demand inventory. These systems help companies determine how much inventory should be ordered to minimize costs and when to order inventory so that the desired level of customer service can be provided. Successful operations and supply chain managers understand that determining how much inventory to order and when to order is key to managing inventory. This section will explore the concepts and strategies organizations use to develop and leverage competitive advantages involved with strategy development and related operational goals. The role of operations fundamentals and inventory management within operations systems will be discussed. This section covers one competency in four lessons: Lesson 1 explains fundamental operations concepts. Lesson 2 describes how SWOT (strengths, weaknesses, opportunities, and threats) analysis can help to assess an organization's productivity. Lesson 3 describes the benefits and difficulties of perpetual or periodic inventory systems. Lesson 4 describes inventory management models.
+Operations management is also a professional decision-making discipline that considers the many factors that affect operations. Decisions that need to be made can include which products to produce, how large a facility to build, and how many people to hire on the first shift. Supply chain management broadens the playing field to include supply (vendors and suppliers), operations (as described previously), logistics (transportation), and the integration of information and technology among the supply and operations elements with downstream customers and end-user customers.
+
+For manufacturing companies, wholesale and retail organizations, and food service providers, inventory represents a significant investment in working capital and a substantial cost to store and manage. When firms hold large amounts of inventory, they increase the costs associated with holding inventory, involving nearly every aspect of the big picture, in addition to working capital, storage, and inventory management. Conversely, when firms hold small amounts of inventory, they must make frequent orders and accept the risk of being unable to satisfy customer demand. Making small and frequent orders tends to increase transaction, transportation, and equipment set-up costs. This is a fundamental trade-off in managing inventory.
+
+Multiple elements that impact this trade-off are discussed, as well as different systems for controlling and monitoring independent demand inventory. These systems help companies determine how much inventory should be ordered to minimize costs and when to order inventory so that the desired level of customer service can be provided. Successful operations and supply chain managers understand that determining how much inventory to order and when to order is key to managing inventory.
+
+This section will explore the concepts and strategies organizations use to develop and leverage competitive advantages involved with strategy development and related operational goals. The role of operations fundamentals and inventory management within operations systems will be discussed.
+
+This section covers one competency in four lessons:
+
+Lesson 1 explains fundamental operations concepts.
+
+Lesson 2 describes how SWOT (strengths, weaknesses, opportunities, and threats) analysis can help to assess an organization's productivity.
+
+Lesson 3 describes the benefits and difficulties of perpetual or periodic inventory systems.
+
+Lesson 4 describes inventory management models.
 
 ## Build Employability Skills and Competence
 
-Operations managers are responsible for managing processes within various business functions in organizations to provide services and goods that customers value. They are involved in the strategic decisions that support meeting customer demand for those services and products and creating efficient processes that operate in ethical and sustainable environments. You will learn about these skills in this section: 1. Assist in the implementation of supply chain processes that integrate strategy, technology, and people to enable process improvements. 2. Identify areas for improved efficiency. 3. Analyze inventory requirements to determine maximum and minimum values. In this section, you can demonstrate these skills by passing a final assessment that measures whether you have mastered this competency: The learner explains how a business achieves organizational goals and competitive advantage through operations management and inventory management.
+Operations managers are responsible for managing processes within various business functions in organizations to provide services and goods that customers value. They are involved in the strategic decisions that support meeting customer demand for those services and products and creating efficient processes that operate in ethical and sustainable environments.
+
+You will learn about these skills in this section:
+
+1. Assist in the implementation of supply chain processes that integrate strategy, technology, and people to enable process improvements.
+
+2. Identify areas for improved efficiency.
+
+3. Analyze inventory requirements to determine maximum and minimum values.
+
+In this section, you can demonstrate these skills by passing a final assessment that measures whether you have mastered this competency:
+
+The learner explains how a business achieves organizational goals and competitive advantage through operations management and inventory management.
 
 ## Prepare for the Assessment
 
-To prepare for the competency objective assessment, ask yourself these questions: Given a problematic ethical situation, can I identify ethical and socially responsible practices that sustain the business? Can I identify how a SWOT (strengths, weaknesses, opportunities, and threats) analysis is used to determine the overall productivity of an organization? Given a description of an inventory system, can I identify the advantages and disadvantages of perpetual or periodic inventory systems? Given a description of an inventory management method, can I identify the appropriate inventory management model?
+To prepare for the competency objective assessment, ask yourself these questions:
+
+Given a problematic ethical situation, can I identify ethical and socially responsible practices that sustain the business?
+
+Can I identify how a SWOT (strengths, weaknesses, opportunities, and threats) analysis is used to determine the overall productivity of an organization?
+
+Given a description of an inventory system, can I identify the advantages and disadvantages of perpetual or periodic inventory systems?
+
+Given a description of an inventory management method, can I identify the appropriate inventory management model?
 
 ## Move Ahead if Ready
 
-Are you ready to demonstrate your competency and skills? If you answered "yes" to all the Prepare for the Assessment questions, consider starting this section by taking the Operational Strategies section assessment. If you do well and are confident, take the pre-assessment. Use your results, or results from a prior pre-assessment attempt, to help gauge your readiness to take the objective assessment. If you plan to move ahead, discuss it with your instructor.
+Are you ready to demonstrate your competency and skills?
+
+If you answered "yes" to all the Prepare for the Assessment questions, consider starting this section by taking the Operational Strategies section assessment. If you do well and are confident, take the pre-assessment. Use your results, or results from a prior pre-assessment attempt, to help gauge your readiness to take the objective assessment. If you plan to move ahead, discuss it with your instructor.

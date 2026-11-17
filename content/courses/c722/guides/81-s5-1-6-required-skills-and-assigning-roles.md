@@ -13,13 +13,27 @@ Describe common tools used to assign project team roles.
 
 ## Project Manager and Team Project Skills
 
-The skills required by the project team are sometimes referred to as knowledge, skills, and abilities (KSAs). If the team does not have the necessary KSAs, the project will likely not be successful. First, the project requirements and deliverables must be identified. From this, the skills required to execute the project, fulfill the requirements, and meet the deliverables can be determined. The first set of skills and abilities, and possibly the most important, are a particular set of project manager skills. These are the skills needed to effectively deal with people on a daily basis. Sometimes known as leadership skills, people skills, or soft skills, these are especially critical for the project manager in functional and matrix organizations. Although economists have typically focused on cognitive skills, such as intelligence, literacy, and mathematical abilities in analyzing employment trends, recently they have started to look at noncognitive "soft" skills like self-esteem, motivation, and sympathy. Although economists have developed a lot of evidence showing the impact of cognitive skills on labor market outcomes, wages, occupation, and employment, they did not really know the importance of these socioemotional skills. New evidence shows that these soft skills are both as important as cognitive skills in determining labor market outcomes and are affecting human behavior in general.
+The skills required by the project team are sometimes referred to as knowledge, skills, and abilities (KSAs). If the team does not have the necessary KSAs, the project will likely not be successful. First, the project requirements and deliverables must be identified. From this, the skills required to execute the project, fulfill the requirements, and meet the deliverables can be determined.
+
+The first set of skills and abilities, and possibly the most important, are a particular set of project manager skills. These are the skills needed to effectively deal with people on a daily basis. Sometimes known as leadership skills, people skills, or soft skills, these are especially critical for the project manager in functional and matrix organizations.
+
+Although economists have typically focused on cognitive skills, such as intelligence, literacy, and mathematical abilities in analyzing employment trends, recently they have started to look at noncognitive "soft" skills like self-esteem, motivation, and sympathy. Although economists have developed a lot of evidence showing the impact of cognitive skills on labor market outcomes, wages, occupation, and employment, they did not really know the importance of these socioemotional skills.
+
+New evidence shows that these soft skills are both as important as cognitive skills in determining labor market outcomes and are affecting human behavior in general.
 
 ## Key Noncognitive Skills for a Project Manager
 
 ## Leadership
 
-Ask 100 people what leadership is, and you will likely get 101, or more, definitions. Here are just a few: "A leader is one who knows the way, goes the way, and shows the way." —John C. Maxwell "Leadership is the art of influencing human behavior through ability to directly influence people and direct them toward a specific goal." —Gen. Omar N. Bradley, Chief of Staff "[Leadership is] the process of influencing people by providing purpose, direction, and motivation while operating to accomplish the mission and improve the organization.” —Field Manual (FM) 6-22, Army Leadership The common thread in these definitions would seem to be that a leader influences the actions and behaviors of others. Notice that these definitions do not make mention of any management position or title.
+Ask 100 people what leadership is, and you will likely get 101, or more, definitions. Here are just a few:
+
+"A leader is one who knows the way, goes the way, and shows the way." —John C. Maxwell
+
+"Leadership is the art of influencing human behavior through ability to directly influence people and direct them toward a specific goal." —Gen. Omar N. Bradley, Chief of Staff
+
+"[Leadership is] the process of influencing people by providing purpose, direction, and motivation while operating to accomplish the mission and improve the organization.” —Field Manual (FM) 6-22, Army Leadership
+
+The common thread in these definitions would seem to be that a leader influences the actions and behaviors of others. Notice that these definitions do not make mention of any management position or title.
 
 ## Teamwork
 
@@ -39,7 +53,15 @@ In brief: Do not lose your temper. People tend to lose respect for others who do
 
 ## Flexibility and Creativity
 
-Projects are unique undertakings, so they have unique challenges. As you have seen, things change during the course of the project life cycle, and knowledge grows beyond what you knew when you planned the project. Therefore, you must remain flexible. Recall the example of building a vacation and retirement home in an earlier lesson. What happened in that scenario? Things changed. You had to be flexible to address these changes. You needed some creativity to overcome some of the issues involved. A unique undertaking indicates that some creativity will be required to accomplish the necessary tasks.
+Projects are unique undertakings, so they have unique challenges. As you have seen, things change during the course of the project life cycle, and knowledge grows beyond what you knew when you planned the project. Therefore, you must remain flexible. Recall the example of building a vacation and retirement home in an earlier lesson. What happened in that scenario?
+
+Things changed.
+
+You had to be flexible to address these changes.
+
+You needed some creativity to overcome some of the issues involved.
+
+A unique undertaking indicates that some creativity will be required to accomplish the necessary tasks.
 
 ## Professionalism
 

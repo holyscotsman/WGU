@@ -29,24 +29,26 @@ The interpretation of these two variance measures is straightforward. A negative
 
 Using the measures you calculated for the website project EVM analysis at the end of Week 3, you will calculate the CV and SV. Recall that the currently known values are as follows:
 
-- EV = $42,500
+## EV = $42,500 PV = $60,000 BAC = $100,000
 
-## PV = $60,000
+You will also need the AC for the end of Week 3, so you will assume that the actual costs billed for 1.1 "Design" = $18,000, 1.2 "Programming" = $15,000, and 1.3 "Documentation" = $7,000 for a current actual cost at the end of Week 3 of $40,000 (AC = $40,000). Normally, the accounting department or someone responsible for the paying of expenses for the project will have access to this information. If project management software is being used to manage the project, cost reports can be used to determine the AC of the project.
 
-## BAC = $100,000
+The cost variance (CV) would be calculated as follows:
 
-You will also need the AC for the end of Week 3, so you will assume that the actual costs billed for 1.1 "Design" = $18,000, 1.2 "Programming" = $15,000, and 1.3 "Documentation" = $7,000 for a current actual cost at the end of Week 3 of $40,000 (AC = $40,000). Normally, the accounting department or someone responsible for the paying of expenses for the project will have access to this information. If project management software is being used to manage the project, cost reports can be used to determine the AC of the project. The cost variance (CV) would be calculated as follows:
+## CV = EV – AC
 
-- CV = EV – AC
-- CV = $42,500 − $40,000
-- CV = $2,500
+## CV = $42,500 − $40,000
+
+## CV = $2,500
 
 The positive $2,500 result for CV means that the project is $2,500 under budget at the end of Week 3; that is a good thing. Remember that positive values for CV mean that the project is performing better than expected with respect to the baseline budget.
 
 The schedule variance (SV) would be calculated as follows:
 
-- SV = EV − PV
-- SV = $42,500 − $60,000
-- SV = –$17,500
+## SV = EV − PV
+
+## SV = $42,500 − $60,000
+
+## SV = –$17,500
 
 The negative $17,500 result for SV means that the project is behind its baseline schedule; that is a bad thing. It may seem odd that time would be expressed in dollars, but to keep all the activities comparable, the EVA converts all measures of work to dollars.

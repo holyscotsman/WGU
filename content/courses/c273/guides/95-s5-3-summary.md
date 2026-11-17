@@ -8,4 +8,34 @@ kind: summary
 
 ## Lesson 3: Summary
 
-Health, illness, medicine, and healthcare are socially defined concepts shaped by cultural norms, institutions, and power structures. Health outcomes vary by social stratification, including social class, age, gender, race, and ethnicity. Lifestyle behaviors such as substance use, diet, exercise, and sexual practices significantly influence patterns of morbidity and mortality. Healthcare institutions shape mental illness and disability through diagnosis, medicalization, policy, and access to accommodations. Functional perspective, conflict perspective, and symbolic interactionism offer distinct explanations for health, illness, and the organization of medicine. Functionalist: Health is essential to social stability, and illness is a temporary, sanctioned form of deviance regulated through the sick role and medical authority. Conflict: Healthcare reflects power inequalities as capitalism commodifies health and creates disparities based on class, race, gender, and other forms of stratification. Symbolic interactionist: Health and illness are socially constructed through labeling, medicalization, stigma, and everyday interactions that shape how conditions are defined and treated. Environmental conditions such as pollution, climate change, and resource exploitation directly affect population health outcomes. Functionalist, conflict, and symbolic interactionist perspectives provide different explanations for environmental problems and inequality. Functionalist: Environmental problems are unintended consequences of industrial society, and they become dysfunctional when they threaten social stability and survival. Conflict: Environmental degradation results from power inequalities, as corporations and political elites prioritize profit over environmental protection, disproportionately harming vulnerable populations. Symbolic interactionist: Environmental problems are shaped by social meanings, cultural values, and everyday behaviors that influence how people perceive, respond to, and define environmental risks. The U.S. healthcare system is a mixed public-private structure composed of Medicare, Medicaid, employer-based insurance, and private plans. Healthcare systems vary globally in funding, organization, and access, shaping differences in coverage and health equity. Life expectancy and infant mortality differ significantly between high- and low-income nations,
+Health, illness, medicine, and healthcare are socially defined concepts shaped by cultural norms, institutions, and power structures.
+
+Health outcomes vary by social stratification, including social class, age, gender, race, and ethnicity.
+
+Lifestyle behaviors such as substance use, diet, exercise, and sexual practices significantly influence patterns of morbidity and mortality.
+
+Healthcare institutions shape mental illness and disability through diagnosis, medicalization, policy, and access to accommodations.
+
+Functional perspective, conflict perspective, and symbolic interactionism offer distinct explanations for health, illness, and the organization of medicine.
+
+Functionalist: Health is essential to social stability, and illness is a temporary, sanctioned form of deviance regulated through the sick role and medical authority.
+
+Conflict: Healthcare reflects power inequalities as capitalism commodifies health and creates disparities based on class, race, gender, and other forms of stratification.
+
+Symbolic interactionist: Health and illness are socially constructed through labeling, medicalization, stigma, and everyday interactions that shape how conditions are defined and treated.
+
+Environmental conditions such as pollution, climate change, and resource exploitation directly affect population health outcomes.
+
+Functionalist, conflict, and symbolic interactionist perspectives provide different explanations for environmental problems and inequality.
+
+Functionalist: Environmental problems are unintended consequences of industrial society, and they become dysfunctional when they threaten social stability and survival.
+
+Conflict: Environmental degradation results from power inequalities, as corporations and political elites prioritize profit over environmental protection, disproportionately harming vulnerable populations.
+
+Symbolic interactionist: Environmental problems are shaped by social meanings, cultural values, and everyday behaviors that influence how people perceive, respond to, and define environmental risks.
+
+The U.S. healthcare system is a mixed public-private structure composed of Medicare, Medicaid, employer-based insurance, and private plans.
+
+Healthcare systems vary globally in funding, organization, and access, shaping differences in coverage and health equity.
+
+Life expectancy and infant mortality differ significantly between high- and low-income nations,

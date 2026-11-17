@@ -12,4 +12,8 @@ Conformity and deviance describe how individuals respond to social norms within 
 
 ## Key Points
 
-Groups and social norms: Social groups and organizations establish and enforce norms that guide individual behavior. Group dynamics: Interactions within groups influence whether individuals conform to or deviate from social expectations. Deviance and social patterns: Sociologists study explanations of deviance and analyze patterns of crime across social groups to understand differences in behavior.
+Groups and social norms: Social groups and organizations establish and enforce norms that guide individual behavior.
+
+Group dynamics: Interactions within groups influence whether individuals conform to or deviate from social expectations.
+
+Deviance and social patterns: Sociologists study explanations of deviance and analyze patterns of crime across social groups to understand differences in behavior.

@@ -12,4 +12,8 @@ Social inequality is shaped by systems that organize individuals into hierarchie
 
 ## Key Points
 
-Stratification systems and inequality: Societies organize people into hierarchical systems that affect access to resources, opportunities, and social mobility. Race and ethnicity in society: Race and ethnicity shape social experiences by influencing identity, group membership, and patterns of inequality. Sex, gender, and sexuality in society: Social expectations related to sex, gender, and sexuality influence roles, access to opportunities, and experiences of inequality.
+Stratification systems and inequality: Societies organize people into hierarchical systems that affect access to resources, opportunities, and social mobility.
+
+Race and ethnicity in society: Race and ethnicity shape social experiences by influencing identity, group membership, and patterns of inequality.
+
+Sex, gender, and sexuality in society: Social expectations related to sex, gender, and sexuality influence roles, access to opportunities, and experiences of inequality.

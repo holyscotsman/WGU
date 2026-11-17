@@ -11,7 +11,11 @@ kind: page
 
 Describe project change management processes.
 
-"Manage Change Requirements" Watch the video below. Watch "Manage Change Requirements" (2:20).
+"Manage Change Requirements"
+
+Watch the video below.
+
+Watch " Manage Change Requirements " (2:20).
 
 ## Reference
 

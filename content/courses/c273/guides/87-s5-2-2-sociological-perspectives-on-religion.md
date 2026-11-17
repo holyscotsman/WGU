@@ -11,9 +11,7 @@ kind: page
 
 How do each of the sociological perspectives view the social institution of religion?
 
-## Submit and Compare
-
-## Reset
+## Submit and Compare Reset
 
 ## Functionalist Perspective on Religion
 
@@ -21,9 +19,13 @@ The functionalist perspective views religion as an important social institution 
 
 ## Functions
 
-From a functionalist view, religion promotes social cohesion by uniting people through shared beliefs, rituals, and traditions. Émile Durkheim explained that religion promotes social cohesion, or the bonds that unite members of a society. Religion separates the sacred (things treated as special or meaningful) from the profane (ordinary aspects of daily life). This distinction strengthens unity because members share common beliefs about what is sacred. During religious ceremonies, people may experience collective effervescence, an emotional connection that reinforces belonging and commitment to the group. Religion also promotes social control by encouraging conformity to social norms and respect for authority. In addition, religion offers health benefits and comfort during times of crisis, illness, death, or disaster. It offers answers to questions about life and suffering and reinforces a shared collective conscience, or common moral understanding within society. These benefits support social stability and community
+From a functionalist view, religion promotes social cohesion by uniting people through shared beliefs, rituals, and traditions. Émile Durkheim explained that religion promotes social cohesion, or the bonds that unite members of a society. Religion separates the sacred (things treated as special or meaningful) from the profane (ordinary aspects of daily life). This distinction strengthens unity because members share common beliefs about what is sacred.
 
-life. Key takeaway: From a functionalist perspective, religion promotes social stability by reinforcing shared values, strengthening social cohesion, and providing moral guidance, while also having the potential to create division or resist social change.
+During religious ceremonies, people may experience collective effervescence, an emotional connection that reinforces belonging and commitment to the group. Religion also promotes social control by encouraging conformity to social norms and respect for authority.
+
+In addition, religion offers health benefits and comfort during times of crisis, illness, death, or disaster. It offers answers to questions about life and suffering and reinforces a shared collective conscience, or common moral understanding within society. These benefits support social stability and community life.
+
+Key takeaway: From a functionalist perspective, religion promotes social stability by reinforcing shared values, strengthening social cohesion, and providing moral guidance, while also having the potential to create division or resist social change.
 
 ## Conflict Theory Perspective on Religion
 
@@ -31,11 +33,15 @@ The conflict perspective views religion as a social institution connected to pow
 
 ## Karl Marx
 
-Conflict theory is rooted in the work of Karl Marx. Marx argued that religion can act as an opiate of the masses, meaning it provides comfort to people who are suffering but may also discourage them from challenging social inequalities. By promising rewards in an afterlife or encouraging acceptance of hardship, religion may reduce social unrest. While people rely on religion to reassure them that things will be okay even in difficult times, if they are not simultaneously working to change the structural issues that create the hard times, the dominant groups will continue to benefit. From this perspective, religion reflects the interests of those in power. Religious teachings may support authority, justify social hierarchies, or reinforce obedience.
+Conflict theory is rooted in the work of Karl Marx. Marx argued that religion can act as an opiate of the masses, meaning it provides comfort to people who are suffering but may also discourage them from challenging social inequalities. By promising rewards in an afterlife or encouraging acceptance of hardship, religion may reduce social unrest. While people rely on religion to reassure them that things will be okay even in difficult times, if they are not simultaneously working to change the structural issues that create the hard times, the dominant groups will continue to benefit.
+
+From this perspective, religion reflects the interests of those in power. Religious teachings may support authority, justify social hierarchies, or reinforce obedience.
 
 ## Social Inequalities
 
-Conflict theorists study how religion can contribute to social inequalities based on class, gender, and race. In some societies, religious beliefs have been used to justify unequal treatment or limit opportunities for certain groups. Religion may also influence access to resources, leadership positions, and political power. However, conflict theorists also recognize that religion can inspire social change. Religious movements have challenged injustice and supported civil rights efforts. From this perspective, religion is both a tool of control and a potential force for reform.
+Conflict theorists study how religion can contribute to social inequalities based on class, gender, and race. In some societies, religious beliefs have been used to justify unequal treatment or limit opportunities for certain groups. Religion may also influence access to resources, leadership positions, and political power.
+
+However, conflict theorists also recognize that religion can inspire social change. Religious movements have challenged injustice and supported civil rights efforts. From this perspective, religion is both a tool of control and a potential force for reform.
 
 Key takeaway: From a conflict perspective, religion is connected to power and inequality, sometimes reinforcing dominant interests and social hierarchies but also serving as a potential force for resistance and social change.
 
@@ -55,7 +61,19 @@ This visual presents a grid of nine black icons representing various religious a
 
 Key takeaway: From a symbolic interactionist perspective, religion is created and sustained through everyday interactions, shared symbols, rituals, and stories that give individuals a sense of identity and belonging.
 
-Religion and Social Change: Protestantism and Capitalism While some perspectives focus on stability or inequality, other sociologists examine how religion contributes to social change. Max Weber disagreed with Karl Marx’s view that religion mainly maintains the status quo, arguing instead that certain religious beliefs can drive social and economic change. He focused on the relationship between Protestantism and capitalism, particularly in his work The Protestant Ethic and the Spirit of Capitalism, where he identified a connection between Protestant beliefs and the rise of capitalist economies. Weber explained that Protestant values—such as hard work, discipline, rationality, practicality, sacrifice, simplicity, and asceticism—encouraged individuals to earn money while avoiding unnecessary personal consumption. Because wealth was not spent on personal use, it was more likely to be saved and reinvested, which supported economic growth and the expansion of capitalism. Weber contrasted this with Catholic teachings, which he argued emphasized maintaining social order and accepting existing conditions. He also noted that traditional religions in regions such as China and India encouraged stability and tradition rather than wealth accumulation. Weber’s argument was controversial and continues to be debated, but the idea of the Protestant work ethic remains widely recognized today.
+## Religion and Social Change: Protestantism
+
+and Capitalism
+
+While some perspectives focus on stability or inequality, other sociologists examine how religion contributes to social change.
+
+Max Weber disagreed with Karl Marx’s view that religion mainly maintains the status quo, arguing instead that certain religious beliefs can drive social and economic change. He focused on the relationship between Protestantism and capitalism, particularly in his work The Protestant Ethic and the Spirit of Capitalism, where he identified a connection between Protestant beliefs and the rise of capitalist economies.
+
+Weber explained that Protestant values—such as hard work, discipline, rationality, practicality, sacrifice, simplicity, and asceticism—encouraged individuals to earn money while avoiding unnecessary personal consumption. Because wealth was not spent on personal use, it was more likely to be saved and reinvested, which supported economic growth and the expansion of capitalism.
+
+Weber contrasted this with Catholic teachings, which he argued emphasized maintaining social order and accepting existing conditions. He also noted that traditional religions in regions such as China and India encouraged stability and tradition rather than wealth accumulation.
+
+Weber’s argument was controversial and continues to be debated, but the idea of the Protestant work ethic remains widely recognized today.
 
 ## Summary: Sociological Perspectives on
 
@@ -63,57 +81,21 @@ Religion and Social Change: Protestantism and Capitalism While some perspectives
 
 The three major sociological perspectives examine religion from different angles. As you review the table below, focus on how each perspective answers a different question: Does religion promote stability, reinforce inequality, or shape meaning in everyday life?
 
-## Perspective
+## Perspective Primary Focus View of Key Concepts Main
 
-## Primary Focus
+## Religion Concern
 
-## Functionalist
+Functionalist Stability and Religion Social cohesion, How religion social order promotes unity sacred versus maintains and moral profane, stability (and guidance collective possible effervescence, dysfunctions) collective conscience, social control
 
-Stability and social order
+Conflict Power and Religion reflects Power How religion inequality and may inequality, contributes to reinforce opiate of the or challenges dominant group masses inequality interests
 
-View of Religion
+## Symbolic Everyday Religion is Sacred How
 
-## Key Concepts
+Interactionist interactions created and meaning, individuals and meaning maintained symbols, rituals, create and through shared identity, social interpret symbols and construction religious rituals meaning and symbols with religion
 
-## Main
+## Guided Practice
 
-## Concern
-
-Religion promotes unity and moral
-
-Social cohesion, sacred versus profane,
-
-How religion maintains stability (and
-
-guidance
-
-collective effervescence, collective conscience, social control
-
-possible dysfunctions)
-
-## Conflict
-
-Power and inequality
-
-Religion reflects and may reinforce dominant group interests
-
-Power inequality, opiate of the masses
-
-How religion contributes to or challenges inequality
-
-## Symbolic
-
-## Interactionist
-
-Everyday interactions and meaning
-
-Religion is created and maintained through shared symbols and rituals
-
-Sacred meaning, symbols, rituals, identity, social construction
-
-How individuals create and interpret religious meaning and symbols with religion
-
-Guided Practice 1.0/1.0 point (ungraded)
+1.0/1.0 point (ungraded)
 
 What is a primary function of religion from a functionalist perspective?
 
@@ -133,15 +115,21 @@ Functionalists argue that religion helps maintain social order by strengthening 
 
 ## Submit
 
-Correct (1/1 point)
+## Correct (1/1 point)
 
-Guided Practice 1.0/1.0 point (ungraded)
+## Guided Practice
+
+1.0/1.0 point (ungraded)
 
 Why do conflict theorists argue that religion can serve as an opiate of the masses?
 
 ## Strengthening social bonds through shared emotional experiences
 
-Providing comfort that discourages challenges to social inequality Separating sacred beliefs from everyday social activities Reinforcing group identity through shared rituals and traditions
+Providing comfort that discourages challenges to social inequality
+
+## Separating sacred beliefs from everyday social activities
+
+## Reinforcing group identity through shared rituals and traditions
 
 ## Answer
 
@@ -149,9 +137,11 @@ Correct: Conflict theorists argue that religion can justify existing inequalitie
 
 ## Submit
 
-Correct (1/1 point)
+## Correct (1/1 point)
 
-Guided Practice 1.0/1.0 point (ungraded)
+## Guided Practice
+
+1.0/1.0 point (ungraded)
 
 How does the symbolic interactionist perspective explain the importance of religious symbols such as a cross or crescent?
 
@@ -169,6 +159,14 @@ Correct: Symbolic interactionists focus on how individuals construct meaning thr
 
 ## Submit
 
-Correct (1/1 point)
+## Correct (1/1 point)
 
-Key Terms social cohesion: the bonds that unite members of a society through shared values, beliefs, and practices collective conscience: a shared set of moral beliefs and attitudes that operate as a unifying force within society sacred versus profane: a distinction identified by Émile Durkheim in which the sacred refers to things set apart as special or holy, while the profane refers to ordinary, everyday aspects of life collective effervescence: the intense shared emotional energy people experience during religious
+## Key
+
+social cohesion: the bonds that unite members of a society through shared values, beliefs, and practices
+
+collective conscience: a shared set of moral beliefs and attitudes that operate as a unifying force within society
+
+sacred versus profane: a distinction identified by Émile Durkheim in which the sacred refers to things set apart as special or holy, while the profane refers to ordinary, everyday aspects of life
+
+collective effervescence: the intense shared emotional energy people experience during religious

@@ -11,15 +11,27 @@ kind: page
 
 How do sociologists explain the social institution of healthcare from each sociological perspective?
 
-## Submit and Compare
+## Submit and Compare Reset
 
-## Reset
+Functionalist Perspective on Health and
 
-Functionalist Perspective on Health and Medicine From the functionalist perspective, the health of a community is vital to a society's ability to function.
+## Medicine
+
+From the functionalist perspective, the health of a community is vital to a society's ability to function.
 
 ## Parsons's Sick Role
 
-Talcott Parsons (1951) was the first to discuss this in terms of the sick role: expectations that define appropriate behavior for the sick and for those who take care of them. According to Parsons, the sick person has a specific role with two rights and two responsibilities, which are interrelated to each other. A sick person is exempted from normal social role responsibilities, not blamed for their condition, obligated to try and get well, and obligated to seek professional medical help.
+Talcott Parsons (1951) was the first to discuss this in terms of the sick role: expectations that define appropriate behavior for the sick and for those who take care of them. According to Parsons, the sick person has a specific role with two rights and two responsibilities, which are interrelated to each other.
+
+## A sick person is
+
+exempted from normal social role responsibilities,
+
+not blamed for their condition,
+
+obligated to try and get well, and
+
+obligated to seek professional medical help.
 
 Parsons argues that since the sick are unable to fulfill their normal societal roles, their sickness weakens society. Therefore, it is sometimes necessary for various forms of social control to bring the behavior of a sick person back in line with normal expectations. In this model of health, doctors serve as gatekeepers, deciding who is healthy and who is sick, a relationship in which the doctor has all the power.
 
@@ -27,17 +39,33 @@ This visual presents a hierarchical diagram of the functionalist perspective wit
 
 Key takeaway: From a functionalist perspective, health supports social stability, while sickness is a temporary and socially regulated form of deviance managed through the sick role, which grants rights but also requires responsibilities under medical authority.
 
-Conflict Perspective on Health and Medicine From the conflict perspective, issues with the healthcare system, as with most other social problems, are rooted in a capitalist society. Capitalism and the pursuit of profit lead to the commodification of health: the changing of something not generally thought of as a commodity into something that can be bought and sold in a marketplace.
+Conflict Perspective on Health and
 
-Power and money: People with money and power control how the healthcare system operates, often ensuring access for themselves and people in their social class, while limiting access for subordinate groups, which creates health and healthcare disparities. Health disparities: Health disparities are shaped not only by class inequality but also by racism, sexism, ageism, and heterosexism. When health is treated as a commodity, the poor are more likely to experience illness due to the inability to afford resources that support healthy living and working conditions. Key takeaway: From a conflict perspective, healthcare inequalities stem from capitalism, where health becomes a commodity controlled by those with power and wealth, resulting in disparities shaped by class, racism, sexism, ageism, and heterosexism.
+## Medicine
+
+From the conflict perspective, issues with the healthcare system, as with most other social problems, are rooted in a capitalist society. Capitalism and the pursuit of profit lead to the commodification of health: the changing of something not generally thought of as a commodity into something that can be bought and sold in a marketplace.
+
+Power and money: People with money and power control how the healthcare system operates, often ensuring access for themselves and people in their social class, while limiting access for subordinate groups, which creates health and healthcare disparities.
+
+Health disparities: Health disparities are shaped not only by class inequality but also by racism, sexism, ageism, and heterosexism. When health is treated as a commodity, the poor are more likely to experience illness due to the inability to afford resources that support healthy living and working conditions.
+
+Key takeaway: From a conflict perspective, healthcare inequalities stem from capitalism, where health becomes a commodity controlled by those with power and wealth, resulting in disparities shaped by class, racism, sexism, ageism, and heterosexism.
 
 ## Symbolic Interactionist Perspective on
 
 ## Health and Medicine
 
-Symbolic Interactionists focus on the specific meanings and causes people attribute to illness. Recall from a previous lesson about the labeling theory, the term medicalization of deviance refers to the process that changes a negatively labeled behavior that is typically punished into "sick" behavior that is treated. The following are two examples of medicalization of deviance:
+Symbolic Interactionists focus on the specific meanings and causes people
 
-- Alcoholism
+attribute to illness. Recall from a previous lesson about the labeling theory, the
+
+term medicalization of deviance refers to the process that changes a negatively
+
+labeled behavior that is typically punished into "sick" behavior that is treated. The
+
+following are two examples of medicalization of deviance:
+
+## Alcoholism
 
 In the 19th century, heavy drinking was viewed as a moral failure. People who drank excessively were labeled irresponsible or having low self-control. Over time, as we learned more about addiction, alcoholism became defined as a disease rather than a personal choice. This shift represents medicalization. Blame decreased, treatment increased, and medical professionals gained authority over defining and managing alcohol dependence.
 
@@ -51,7 +79,9 @@ Medicalization also shapes stigma, a negative label. Even when a condition is de
 
 ## Demedicalization
 
-A related process is demedicalization, in which "sick" behavior is normalized again. For example, homosexuality was once classified as a mental disorder by the American Psychiatric Association. This reflects medicalization, as same-sex attraction was defined as a medical problem. In 1973, homosexuality was removed from the Diagnostic and Statistical Manual of Mental Disorders (DSM). This change represents demedicalization, the process by which a condition is no longer defined as an illness and is removed from former institutional intervention. This shift altered social attitudes and reduced institutional labeling. Key takeaway: From a symbolic interactionist perspective, illness is socially constructed through labeling processes such as medicalization and demedicalization, and these definitions shape stigma, identity, and social control.
+A related process is demedicalization, in which "sick" behavior is normalized again. For example, homosexuality was once classified as a mental disorder by the American Psychiatric Association. This reflects medicalization, as same-sex attraction was defined as a medical problem. In 1973, homosexuality was removed from the Diagnostic and Statistical Manual of Mental Disorders (DSM). This change represents demedicalization, the process by which a condition is no longer defined as an illness and is removed from former institutional intervention. This shift altered social attitudes and reduced institutional labeling.
+
+Key takeaway: From a symbolic interactionist perspective, illness is socially constructed through labeling processes such as medicalization and demedicalization, and these definitions shape stigma, identity, and social control.
 
 ## Summary: Comparison of Sociological
 
@@ -59,47 +89,17 @@ A related process is demedicalization, in which "sick" behavior is normalized ag
 
 Three sociological perspectives offer different ways to understand health, illness, and medicine, as summarized in the comparison table below.
 
-## Perspective
+## Perspective Primary Focus How it Views Health Key Concepts
 
-## Primary Focus
+Functionalism Stability and Health is necessary for Sick role, rights and social order society to function. responsibilities of the Illness disrupts normal ill, social control, roles and must be doctors as managed. gatekeepers
 
-## How it Views Health
+Conflict Power and Health and healthcare Commodification of Theory inequality reflect and perpetuate health; class inequality; economic and social racism, sexism, inequalities. Access to ageism; power care depends on imbalance access to power and resources.
 
-## Key Concepts
+Symbolic Everyday Health and illness are Medicalization, Interactionism interactions and socially constructed demedicalization, meaning through shared stigma, labeling meanings and labels.
 
-## Functionalism
+## Guided Practice
 
-Stability and social order
-
-Health is necessary for society to function. Illness disrupts normal roles and must be
-
-Sick role, rights and responsibilities of the ill, social control, doctors as
-
-managed.
-
-gatekeepers
-
-## Conflict
-
-## Theory
-
-Power and inequality
-
-Health and healthcare reflect and perpetuate economic and social inequalities. Access to care depends on access to power and resources.
-
-Commodification of health; class inequality; racism, sexism, ageism; power imbalance
-
-## Symbolic
-
-## Interactionism
-
-Everyday interactions and meaning
-
-Health and illness are socially constructed through shared meanings and labels.
-
-Medicalization, demedicalization, stigma, labeling
-
-Guided Practice 1.0/1.0 point (ungraded)
+1.0/1.0 point (ungraded)
 
 What is one responsibility of a person who is ill, according to Talcott Parsons's concept of the sick role?
 
@@ -117,11 +117,21 @@ Correct: The sick role includes the expectation that an ill individual will seek
 
 ## Submit
 
-Correct (1/1 point)
+## Correct (1/1 point)
 
-Guided Practice 1.0/1.0 point (ungraded)
+## Guided Practice
 
-How does the conflict perspective explain inequalities in access to healthcare? Capitalism turns health into a commodity controlled by those with power and wealth. Healthcare resources are distributed based primarily on individual lifestyle choices. Medical professionals objectively determine who is sick and who is healthy. Illness is a temporary form of deviance that requires social regulation.
+1.0/1.0 point (ungraded)
+
+How does the conflict perspective explain inequalities in access to healthcare?
+
+Capitalism turns health into a commodity controlled by those with power and wealth.
+
+Healthcare resources are distributed based primarily on individual lifestyle choices.
+
+Medical professionals objectively determine who is sick and who is healthy.
+
+Illness is a temporary form of deviance that requires social regulation.
 
 ## Answer
 
@@ -129,15 +139,21 @@ Correct: Conflict theory emphasizes how economic systems shape healthcare, allow
 
 ## Submit
 
-Correct (1/1 point)
+## Correct (1/1 point)
 
-Guided Practice 1.0/1.0 point (ungraded)
+## Guided Practice
+
+1.0/1.0 point (ungraded)
 
 What does the concept of medicalization illustrate from a symbolic interactionist perspective?
 
 ## The process by which illness weakens society's stability
 
-The way natural life processes become defined and treated as medical conditions The role of capitalism in shaping healthcare access The obligation of sick individuals to return to normal roles quickly
+The way natural life processes become defined and treated as medical conditions
+
+## The role of capitalism in shaping healthcare access
+
+The obligation of sick individuals to return to normal roles quickly
 
 ## Answer
 
@@ -145,6 +161,8 @@ Correct: Medicalization describes the social process through which everyday beha
 
 ## Submit
 
-Correct (1/1 point)
+## Correct (1/1 point)
 
-Key Terms sick role: the pattern of expectations that defines appropriate behavior for the sick and for those who take care of them medicalization of deviance: the process that changes "bad" behavior that is punished into "sick" behavior that is treated stigmatization of illness: medical conditions that are discriminated against and whose sufferers are looked down upon or even shunned by society
+## Key
+
+sick role: the pattern of expectations that defines appropriate behavior for the sick and for those who take care of them medicalization of deviance: the process that changes "bad" behavior that is punished into "sick" behavior that is treated stigmatization of illness: medical conditions that are discriminated against and whose sufferers are looked down upon or even shunned by society

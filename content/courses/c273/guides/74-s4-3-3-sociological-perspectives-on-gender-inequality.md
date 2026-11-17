@@ -11,11 +11,13 @@ kind: page
 
 How do different sociological perspectives (functionalist, conflict, and symbolic interactionist) shape your understanding of why gender inequality continues to exist in society today?
 
-## Submit and Compare
+## Submit and Compare Reset
 
-## Reset
+## Functionalist Perspective on Gender Roles
 
-Functionalist Perspective on Gender Roles and Gender Inequality The functionalist perspective views the family as the most integral component of society. Assumptions about gender roles within heterosexual marriage assume a prominent place in this perspective.
+and Gender Inequality
+
+The functionalist perspective views the family as the most integral component of society. Assumptions about gender roles within heterosexual marriage assume a prominent place in this perspective.
 
 ## Gender Roles
 
@@ -27,19 +29,25 @@ When changes occurred in the social and economic climate of the United States du
 
 ## Conflict Perspective on Gender Inequality
 
-The conflict perspective views gender differences as a form of inequality. Society is a struggle for dominance among social groups (e.g., women versus men) that compete for scarce resources. Historically, from the conflict perspective, men are the dominant group, and women are the subordinate group, and inequality persists because dominant groups shape rules and opportunities in their favor. For this reason, women are often viewed as a minority group, although they make up half of the population. For example, consider the Women's Suffrage Movement or the debate over women's right to choose their reproductive futures. From the conflict perspective, it is difficult for women to achieve equality, as men, the dominant group, create the rules for success and opportunity in society.
+The conflict perspective views gender differences as a form of inequality. Society is a struggle for dominance among social groups (e.g., women versus men) that compete for scarce resources. Historically, from the conflict perspective, men are the dominant group, and women are the subordinate group, and inequality persists because dominant groups shape rules and opportunities in their favor. For this reason, women are often viewed as a minority group, although they make up half of the population.
+
+For example, consider the Women's Suffrage Movement or the debate over women's right to choose their reproductive futures. From the conflict perspective, it is difficult for women to achieve equality, as men, the dominant group, create the rules for success and opportunity in society.
 
 ## Feminist Theory, Intersectionality, and Intersectional
 
 ## Feminism
 
-Feminist theory examines inequalities in gender-related issues. It uses the conflict perspective to examine the maintenance of gender roles and inequalities. Intersectionality and intersectional feminism are key concepts within feminist theory. Intersectional feminism is the idea that gender inequality is shaped by overlapping systems of oppression like race, class, sexuality, and disability. Intersectionality and intersectional feminism acknowledge that gender inequality is shaped by intersecting systems of power and disadvantage, called a "matrix of domination" by Patricia Hill Collins (1990). This is a way to understand how race, class, sexuality, and ability/disability are forms of oppression that reinforce one another, rather than acting separately. These forces work together and shape the specific ways in which individuals encounter discrimination in their daily lives. For example, a Black woman who is disabled may face discrimination not only because she is a woman but also because of racism, ableism, and the interaction of the two.
+Feminist theory examines inequalities in gender-related issues. It uses the conflict perspective to examine the maintenance of gender roles and inequalities. Intersectionality and intersectional feminism are key concepts within feminist theory. Intersectional feminism is the idea that gender inequality is shaped by overlapping systems of oppression like race, class, sexuality, and disability.
+
+Intersectionality and intersectional feminism acknowledge that gender inequality is shaped by intersecting systems of power and disadvantage, called a "matrix of domination" by Patricia Hill Collins (1990). This is a way to understand how race, class, sexuality, and ability/disability are forms of oppression that reinforce one another, rather than acting separately. These forces work together and shape the specific ways in which individuals encounter discrimination in their daily lives. For example, a Black woman who is disabled may face discrimination not only because she is a woman but also because of racism, ableism, and the interaction of the two.
 
 ## Symbolic Interactionist Perspective on
 
 ## Gender Inequality
 
-The symbolic interactionist perspective is particularly interested in gender socialization. For instance, how does a man paying for dinner reflect gender roles? When people perform tasks or possess characteristics based on the gender role assigned to them (e.g., men are providers), they are said to be doing gender. This notion is based on the work of West and Zimmerman (1987). Whether we are expressing our masculinity or femininity, West and Zimmerman argue, we are always "doing gender." Thus, gender is something people do or perform, not something they are. For example, men and women have different standards of dress in society. Women may wear jewelry or makeup, whereas men will not. Or in Japan, girls more often play Otedama (bean bag juggling) while boys more often play Beigoma (spinning top).
+The symbolic interactionist perspective is particularly interested in gender socialization. For instance, how does a man paying for dinner reflect gender roles?
+
+When people perform tasks or possess characteristics based on the gender role assigned to them (e.g., men are providers), they are said to be doing gender. This notion is based on the work of West and Zimmerman (1987). Whether we are expressing our masculinity or femininity, West and Zimmerman argue, we are always "doing gender." Thus, gender is something people do or perform, not something they are. For example, men and women have different standards of dress in society. Women may wear jewelry or makeup, whereas men will not. Or in Japan, girls more often play Otedama (bean bag juggling) while boys more often play Beigoma (spinning top).
 
 ## Summary: Sociological Approaches to
 
@@ -47,41 +55,19 @@ The symbolic interactionist perspective is particularly interested in gender soc
 
 Each theoretical perspective offers unique insights into gender stratification. The following is a summary comparison of each perspective.
 
-## Sociological
+## Sociological Focus How It Explains Gender Inequality
 
 ## Perspective
 
-## Focus
+Functionalist Social order and Views gender roles as part of an organized Perspective stability system that helps maintain social stability
 
-## How It Explains Gender Inequality
+Conflict Economic power Sees gender inequality as the result of Perspective and class struggle power struggles between groups
 
-## Functionalist
+## Symbolic Everyday Understands gender as something people
 
-## Perspective
+Interactionist interactions and actively create and perform in everyday life Perspective meanings Guided Practice
 
-Social order and stability
-
-Views gender roles as part of an organized system that helps maintain social stability
-
-## Conflict
-
-## Perspective
-
-Economic power and class struggle
-
-Sees gender inequality as the result of power struggles between groups
-
-## Symbolic
-
-## Interactionist
-
-## Perspective
-
-Everyday interactions and meanings
-
-Understands gender as something people actively create and perform in everyday life
-
-Guided Practice 1.0/1.0 point (ungraded)
+1.0/1.0 point (ungraded)
 
 Which sociological perspective views traditional gender roles as contributing to social stability and order?
 
@@ -99,9 +85,11 @@ Correct: The functionalist perspective argues that traditional gender roles deve
 
 ## Submit
 
-Correct (1/1 point)
+## Correct (1/1 point)
 
-Guided Practice 1.0/1.0 point (ungraded)
+## Guided Practice
+
+1.0/1.0 point (ungraded)
 
 Which perspective explains gender inequality as the result of power struggles between dominant and subordinate groups?
 
@@ -119,9 +107,11 @@ Correct: The conflict perspective views gender inequality as a system where domi
 
 ## Submit
 
-Correct (1/1 point)
+## Correct (1/1 point)
 
-Guided Practice 1.0/1.0 point (ungraded)
+## Guided Practice
+
+1.0/1.0 point (ungraded)
 
 Which perspective emphasizes that gender is something people "do" through everyday interactions and social performance?
 
@@ -141,7 +131,7 @@ The symbolic interactionist perspective argues that gender is socially construct
 
 ## Submit
 
-Correct (1/1 point)
+## Correct (1/1 point)
 
 ## Attributions
 

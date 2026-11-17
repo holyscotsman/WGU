@@ -12,4 +12,8 @@ Culture refers to the shared beliefs, values, norms, and practices that shape ho
 
 ## Key Points
 
-Culture and its components: Culture includes shared beliefs, values, norms, symbols, and language that guide behavior and shape social expectations. Processes of culture: Culture is learned and shared through interaction, allowing individuals to participate in society. Socialization and the self: Socialization is the process through which individuals develop identity and learn social roles through interaction with others.
+Culture and its components: Culture includes shared beliefs, values, norms, symbols, and language that guide behavior and shape social expectations.
+
+Processes of culture: Culture is learned and shared through interaction, allowing individuals to participate in society.
+
+Socialization and the self: Socialization is the process through which individuals develop identity and learn social roles through interaction with others.

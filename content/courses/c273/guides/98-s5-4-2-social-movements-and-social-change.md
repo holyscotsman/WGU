@@ -11,110 +11,72 @@ kind: page
 
 How do organized groups work toward a common social goal to create a social change?
 
-## Submit and Compare
-
-## Reset
+## Submit and Compare Reset
 
 ## Social Movements
 
 Social movements are purposeful, organized groups that work toward a common social goal to promote or resist social change.
 
-"Social Movements" Watch "Social Movements" (2:40) by a WGU instructor for an introduction to the different types of movements.
+"Social Movements"
+
+Watch "Social Movements" (2:40) by a WGU instructor for an introduction to the different types of movements.
 
 ## Click to sign in and play video
 
-Transcript (download file)
+## Transcript (download file)
 
 ## Summary: Social Movements
 
 Review a summary of the types and examples of social movements.
 
-## Type of Movement
+## Type of Movement Description Examples
 
-## Description
+Alternative Movement Focuses on self- Transcendental meditation; improvement and limited, macrobiotic diet trends specific changes to individual behavior or beliefs
 
-## Examples
+Reform Movement Seeks to change a specific Dreamers movement; part of the social system Human Rights Campaign rather than the entire structure
 
-## Alternative Movement
+Religious (Redemptive) Aims to bring about inner Redemptive movements:
 
-Focuses on selfimprovement and limited, specific changes to individual behavior or beliefs
+- Movement change or spiritual growth Heaven's Gate; Branch
 
-Transcendental meditation; macrobiotic diet trends
-
-## Reform Movement
-
-Seeks to change a specific part of the social system rather than the entire structure
-
-Dreamers movement; Human Rights Campaign
-
-Religious (Redemptive)
-
-## Movement
-
-## Aims to bring about inner
-
-Redemptive movements:
-
-change or spiritual growth
-
-## Heaven's Gate; Branch
-
-in individuals; three types of
-
-## Davidians
-
-religious movements:
+in individuals; three types of Davidians religious movements:
 
 - Endogenous: the
-- endogenous (internal):
+- endogenous (internal): Protestant Reform
 - religious movements that
-- develop within an
+- develop within an Exogenous: Temperance
 - existing religious tradition
-
-## Protestant Reform
-
-exogenous (external):
-
+- movement that helped lead
+- exogenous (external): to alcohol prohibition
 - religious movements that
 - originate outside existing
+- religious traditions Generative: Unification
 
-to alcohol prohibition
+generative (new) Church
 
-Exogenous: Temperance movement that helped lead
+Resistance Movement Works to prevent or reverse Ku Klux Klan; pro-life changes to the social movements structure
 
-religious traditions
-
-## Generative: Unification
-
-generative (new)
-
-## Church
-
-## Resistance Movement
-
-Works to prevent or reverse changes to the social structure
-
-Ku Klux Klan; pro-life movements
-
-## Revolutionary Movement
-
-Attempts to completely transform every aspect of society
-
-The Weather Underground; 1960s counterculture movement; Texas Secede!; American Revolution
+Revolutionary Movement Attempts to completely The Weather Underground; transform every aspect of 1960s counterculture society movement; Texas Secede!; American Revolution
 
 ## Theories of Social Movements
 
 Why do people join social movements? Scholars have different theories for the reasons people join a social movement.
 
-Select each title for a description of the theory and an example.
+## Select each title for a description of the theory and an
+
+example.
 
 ## Collapse all
 
-Value-Added Theory (Structural Strain Theory)
+## Value-Added Theory (Structural Strain Theory)
 
 ## Value-Added Theory (Structural Strain
 
-Theory) Description: This theory explains collective behavior as the result of specific conditions—such as structural strain, shared beliefs, and triggering events—that build upon one another to produce social movements. Example: The 2014 Ferguson protests followed longstanding community frustration (strain), a shared belief about racial injustice, and the precipitating event of Michael Brown’s shooting.
+## Theory)
+
+Description: This theory explains collective behavior as the result of specific conditions—such as structural strain, shared beliefs, and triggering events—that build upon one another to produce social movements.
+
+Example: The 2014 Ferguson protests followed longstanding community frustration (strain), a shared belief about racial injustice, and the precipitating event of Michael Brown’s shooting.
 
 ## Sociological Perspective Alignment: Functionalist Perspective
 
@@ -122,7 +84,9 @@ Theory) Description: This theory explains collective behavior as the result of s
 
 ## Declining Privilege Theory
 
-Description: This theory argues that social movements arise when groups perceive that their social, economic, or political status is threatened or declining. Example: Some White supremacist groups expanded after the Civil Rights Movement because they perceived racial equality as a loss of traditional privilege.
+Description: This theory argues that social movements arise when groups perceive that their social, economic, or political status is threatened or declining.
+
+Example: Some White supremacist groups expanded after the Civil Rights Movement because they perceived racial equality as a loss of traditional privilege.
 
 ## Sociological Perspective Alignment: Conflict Perspective
 
@@ -130,13 +94,21 @@ Description: This theory argues that social movements arise when groups perceive
 
 ## Resource Mobilization Theory
 
-Description: This theory argues that social movements succeed when they effectively gather and organize resources such as money, leadership, time, mediums of communication, and public support. Example: The Civil Rights Movement relied on churches, national organizations like the NAACP, funding networks, and leaders such as Martin Luther King Jr. to coordinate boycotts and marches.
+Description: This theory argues that social movements succeed when they effectively gather and organize resources such as money, leadership, time, mediums of communication, and public support.
+
+Example: The Civil Rights Movement relied on churches, national organizations like the NAACP, funding networks, and leaders such as Martin Luther King Jr. to coordinate boycotts and marches.
 
 ## Sociological Perspective Alignment: Symbolic Interactionist
 
-Frame Analysis (Framing Theory)
+## Frame Analysis (Framing Theory)
 
-Frame Analysis (Framing Theory) Description: Frame analysis/Framing Theory is a concept linked to the symbolic interactionist perspective. It focuses on how social movements shape meaning. It states that for people to become involved with a movement, they must first feel there is a problem and then feel that the problem is meaningful, which places it under the symbolic interactionist perspective. This process involves presenting, or “framing,” the issue in a way that influences how people interpret social reality. However, governments or other powerful groups may respond with their own framing, such as labeling participants in a movement as “rioters” instead of “protestors,” which can reduce public support and limit the movement’s impact. Example: The “Black Lives Matter” movement frames police violence as a systemic injustice and calls for policy reform and accountability.
+## Frame Analysis (Framing Theory)
+
+Description: Frame analysis/Framing Theory is a concept linked to the symbolic interactionist perspective. It focuses on how social movements shape meaning. It states that for people to become involved with a movement, they must first feel there is a problem and then feel that the problem is meaningful, which places it under the symbolic interactionist perspective. This process involves presenting, or “framing,” the issue in a way that influences how people interpret social reality.
+
+However, governments or other powerful groups may respond with their own framing, such as labeling participants in a movement as “rioters” instead of “protestors,” which can reduce public support and limit the movement’s impact.
+
+Example: The “Black Lives Matter” movement frames police violence as a systemic injustice and calls for policy reform and accountability.
 
 ## Sociological Perspective Alignment: Symbolic Interactionist
 
@@ -144,7 +116,9 @@ Frame Analysis (Framing Theory) Description: Frame analysis/Framing Theory is a 
 
 ## Political Opportunity Theory
 
-Description: This theory suggests that social movements are more likely to emerge and succeed when political conditions—such as government openness, instability, or divisions among elites— create opportunities for change. Example: The legalization of same-sex marriage accelerated after shifts in Supreme Court composition and growing political support created favorable legal opportunities.
+Description: This theory suggests that social movements are more likely to emerge and succeed when political conditions—such as government openness, instability, or divisions among elites— create opportunities for change.
+
+Example: The legalization of same-sex marriage accelerated after shifts in Supreme Court composition and growing political support created favorable legal opportunities.
 
 ## Sociological Perspective Alignment: Conflict Perspective
 
@@ -152,7 +126,9 @@ Description: This theory suggests that social movements are more likely to emerg
 
 ## New Social Movement Theory
 
-Description: This theory focuses on postindustrial movements that center on cultural and social issues, specifically newer topics that are emerging in a changing society, rather than purely economic concerns. Example: The transgender rights movement centers on identity recognition, cultural acceptance, and legal protections rather than economic redistribution alone.
+Description: This theory focuses on postindustrial movements that center on cultural and social issues, specifically newer topics that are emerging in a changing society, rather than purely economic concerns.
+
+Example: The transgender rights movement centers on identity recognition, cultural acceptance, and legal protections rather than economic redistribution alone.
 
 ## Sociological Perspective Alignment: Symbolic Interactionist
 
@@ -160,7 +136,9 @@ Description: This theory focuses on postindustrial movements that center on cult
 
 ## Relative Deprivation Theory
 
-Description: This theory argues that social movements arise when groups perceive they are deprived of the same social, political, and economic statuses as other groups. Example: Women teachers using their unions to demand equal pay as men teachers.
+Description: This theory argues that social movements arise when groups perceive they are deprived of the same social, political, and economic statuses as other groups.
+
+Example: Women teachers using their unions to demand equal pay as men teachers.
 
 ## Sociological Perspective Alignment: Conflict Perspective
 
@@ -168,114 +146,65 @@ Description: This theory argues that social movements arise when groups perceive
 
 The following table summarizes the major social movement theories by linking each one to its corresponding sociological perspective and summarizing how each explains why and how social movements emerge.
 
-## Theory
-
-## Sociological
+## Theory Sociological Description
 
 ## Perspective
 
 ## Alignment
 
-## Description
+Value-Added Functionalist Explains collective behavior as the result of Theory (Structural Perspective conditions such as structural strain, shared Strain Theory) beliefs, and triggering events that build upon one another to produce social movements.
 
-## Value-Added
+## Declining Conflict Argues that social movements arise when
 
-## Theory (Structural
+Privilege Theory Perspective groups perceive that their social, economic, or political status is threatened or declining.
 
-Strain Theory)
+## Political Conflict Suggests social movements are more likely
 
-## Functionalist
+## Opportunity Perspective to emerge and succeed when political
 
-## Perspective
+Theory conditions create opportunities for change, such as government openness or divisions among elites.
 
-Explains collective behavior as the result of conditions such as structural strain, shared beliefs, and triggering events that build
+## Relative Conflict Argues that social movements arise when
 
-upon one another to produce social movements.
+Deprivation Perspective groups perceive they are deprived of the Theory same social, political, and economic opportunities as others.
 
-## Declining
+## Resource Symbolic Suggests social movements succeed when
 
-## Privilege Theory
+## Mobilization Interactionist they effectively gather and organize
 
-## Conflict
+Theory Perspective resources such as money, leadership, communication, and public support.
 
-## Perspective
+Frame Analysis Symbolic Focuses on how social movements shape (Framing Theory) Interactionist meaning and frame issues so people see Perspective problems as important and worthy of action, while opposing groups may frame them differently.
 
-Argues that social movements arise when groups perceive that their social, economic, or political status is threatened or declining.
+## New Social Symbolic Focuses on postindustrial movements
 
-## Political
-
-## Opportunity
-
-## Theory
-
-## Conflict
-
-## Perspective
-
-Suggests social movements are more likely to emerge and succeed when political conditions create opportunities for change, such as government openness or divisions among elites.
-
-## Relative
-
-## Deprivation
-
-## Theory
-
-## Conflict
-
-## Perspective
-
-Argues that social movements arise when groups perceive they are deprived of the same social, political, and economic opportunities as others.
-
-## Resource
-
-## Mobilization
-
-## Theory
-
-## Symbolic
-
-## Interactionist
-
-## Perspective
-
-Suggests social movements succeed when they effectively gather and organize resources such as money, leadership, communication, and public support.
-
-Frame Analysis (Framing Theory)
-
-## Symbolic
-
-## Interactionist
-
-## Perspective
-
-Focuses on how social movements shape meaning and frame issues so people see problems as important and worthy of action, while opposing groups may frame them differently.
-
-## New Social
-
-## Movement Theory
-
-## Symbolic
-
-## Interactionist
-
-## Perspective
-
-Focuses on postindustrial movements centered on identity, culture, and social issues rather than primarily economic concerns.
+Movement Theory Interactionist centered on identity, culture, and social Perspective issues rather than primarily economic concerns.
 
 ## Factors Responsible for Social Change
 
 In addition to collective behavior and social movements, other factors are responsible for social change, including the following:
 
-- technological innovations
-- change in social institutions
+technological innovations
 
-environmental events population trends Review the following infographic with an explanation and an example of how these factors influence social change.
+change in social institutions environmental events
+
+population trends
+
+Review the following infographic with an explanation and an example of how these factors influence social change.
 
 This visual outlines four key factors that drive social change: technological innovations, changes in social institutions, environmental events, and population trends. Each factor is paired with a short explanation and a real world example, such as the impact of the internet, industrialization, natural disasters, and aging populations. Icons accompany each section to reinforce the concepts and support understanding of how different forces shape society over time.
 
-Guided Practice 1.0/1.0 point (ungraded)
+## Guided Practice
 
-What does resource mobilization theory emphasize about social movements? They depend on coordinated funding and leadership. They focus on identity and cultural recognition. They arise from perceived loss of social status. They emerge during periods of political instability.
+1.0/1.0 point (ungraded) What does resource mobilization theory emphasize about social movements?
+
+They depend on coordinated funding and leadership.
+
+They focus on identity and cultural recognition.
+
+They arise from perceived loss of social status.
+
+They emerge during periods of political instability.
 
 ## Answer
 
@@ -283,9 +212,11 @@ Correct: This theory stresses that movements succeed when they organize practica
 
 ## Submit
 
-Correct (1/1 point)
+## Correct (1/1 point)
 
-Guided Practice 1.0/1.0 point (ungraded)
+## Guided Practice
+
+1.0/1.0 point (ungraded)
 
 Which factor can produce social change outside of organized movements?
 
@@ -303,9 +234,11 @@ Correct: Technological innovation can drive social change by reshaping communica
 
 ## Submit
 
-Correct (1/1 point)
+## Correct (1/1 point)
 
-Guided Practice 1.0/1.0 point (ungraded)
+## Guided Practice
+
+1.0/1.0 point (ungraded)
 
 Which type of social movement seeks to transform major social institutions on a macro or society level?
 
@@ -323,8 +256,36 @@ Correct: Revolutionary movements aim to fundamentally transform society and its 
 
 ## Submit
 
-Correct (1/1 point)
+## Correct (1/1 point)
 
-Key Terms alternative movements: movements that seek limited change in specific individuals' behavior reform movements: movements that aim to change specific parts of society without replacing the entire system religious (redemptive) movements: movements that seek to bring about major personal transformation, often related to spiritual or religious change endogenous religious movements: religious movements that originate outside existing religious traditions exogenous religious movements: religious movements that originate outside existing religious traditions and seek to change society at large generative religious movements: religious movements that create new belief systems and practices resistance movements: movements that aim to completely change or replace existing social systems value-added (structural strain) theory: a theory that explains social movements as the result of conditions such as social strain, shared beliefs, and opportunities that build over time and lead to collective action declining privilege theory: a theory that explains social movements as a response to the loss of social, economic, or political status by a group resource mobilization theory: a theory that focuses on how social movements use resources such as money, leadership, and organization to achieve their goals frame analysis (framing theory): a theory that examines how social movements present issues in ways that shape understanding and motivate participation political opportunity theory: a theory that explains social movements based on the availability of political opportunities that make change more likely new social movement theory: a theory that focuses on movements centered on identity, culture, and quality of life rather than economic concerns relative deprivation theory: a theory that examines how one group's feelings of deprivation to others causes social movements
+## Key
+
+alternative movements: movements that seek limited change in specific individuals' behavior
+
+reform movements: movements that aim to change specific parts of society without replacing the entire system
+
+religious (redemptive) movements: movements that seek to bring about major personal transformation, often related to spiritual or religious change
+
+endogenous religious movements: religious movements that originate outside existing religious traditions
+
+exogenous religious movements: religious movements that originate outside existing religious traditions and seek to change society at large
+
+generative religious movements: religious movements that create new belief systems and practices
+
+resistance movements: movements that aim to completely change or replace existing social systems
+
+value-added (structural strain) theory: a theory that explains social movements as the result of conditions such as social strain, shared beliefs, and opportunities that build over time and lead to collective action
+
+declining privilege theory: a theory that explains social movements as a response to the loss of social, economic, or political status by a group
+
+resource mobilization theory: a theory that focuses on how social movements use resources such as money, leadership, and organization to achieve their goals
+
+frame analysis (framing theory): a theory that examines how social movements present issues in ways that shape understanding and motivate participation
+
+political opportunity theory: a theory that explains social movements based on the availability of political opportunities that make change more likely
+
+new social movement theory: a theory that focuses on movements centered on identity, culture, and quality of life rather than economic concerns
+
+relative deprivation theory: a theory that examines how one group's feelings of deprivation to others causes social movements
 
 ## Attributions

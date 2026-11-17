@@ -9,26 +9,39 @@ kind: page
 
 ## Initial Reflection
 
-Have you ever noticed that people follow unwritten rules in everyday life without thinking about them? Where do those shared expectations come from, and how do they shape behavior within different groups?
+Have you ever noticed that people follow unwritten rules in everyday life without
 
-## Submit and Compare
+thinking about them? Where do those shared expectations come from, and how
 
-## Reset
+do they shape behavior within different groups?
+
+## Submit and Compare Reset
 
 ## Defining Culture
 
 Shared expectations and patterns of behavior are components of culture. Culture is when the following are shared in a society:
 
-- beliefs (ideas people accept as true)
-- values (what a society sees as right or wrong)
+beliefs (ideas people accept as true)
 
-norms (the visible and invisible rules of conduct through which societies are structured) language (a structured system of symbols that enables a society to communicate) symbols (anything, such as a gesture, object, or image, that carries shared meaning among members of a society) patterns of behavior (practices of a group) Culture is shared by members of society and passed from one generation to the next. For example, in U.S culture, as stated above, the question "How are you?" is often used as a friendly greeting, not a request for a full update, unless, of course, you are communicating with your friends.
+values (what a society sees as right or wrong)
+
+norms (the visible and invisible rules of conduct through which societies are structured)
+
+language (a structured system of symbols that enables a society to communicate)
+
+symbols (anything, such as a gesture, object, or image, that carries shared meaning among members of a society)
+
+patterns of behavior (practices of a group)
+
+Culture is shared by members of society and passed from one generation to the next. For example, in U.S culture, as stated above, the question "How are you?" is often used as a friendly greeting, not a request for a full update, unless, of course, you are communicating with your friends.
 
 Key takeaway: Culture consists of shared beliefs, values, and patterns of behavior that people learn through social interaction and often follow unconsciously.
 
 ## Culture as a Process
 
-Culture is not just something people have; it is something people do. Because it is created and maintained over time, sociologists view culture as a process. Over time, these shared expectations shape what feels "normal" in a society. For example, children learn language, food traditions, and holiday practices from their parents. As they grow and interact with peers, they may adapt or change these traditions. Over time, these shifts can lead to broader societal changes, with some traditions fading and new ones emerging.
+Culture is not just something people have; it is something people do. Because it is created and maintained over time, sociologists view culture as a process. Over time, these shared expectations shape what feels "normal" in a society.
+
+For example, children learn language, food traditions, and holiday practices from their parents. As they grow and interact with peers, they may adapt or change these traditions. Over time, these shifts can lead to broader societal changes, with some traditions fading and new ones emerging.
 
 " Family Preparing Food in the Kitchen " by August de Richelieu, Pexels License Agreement /None
 
@@ -40,7 +53,11 @@ Culture does not exist only at the level of an entire society; it also develops 
 
 ## Subcultures—A Smaller Cultural Group
 
-Within a larger society, groups can develop their own cultural patterns, including shared language, behaviors, and ideas about what is normal or acceptable. One form is called subcultures, which are smaller groups that share distinctive attitudes and behaviors while still being part of the dominant culture (the most widely shared values, beliefs, and behaviors considered "normal" in a society). Subcultures can form around hobbies or interests, such as gamers, surfers, or knitters. Subcultures can also develop around occupations, such as nurses or teachers, because people in those roles often share common experiences, expectations, and ways of communicating. For example, WGU students are a subculture of online learners. You share similar experiences and expectations, such as participating in student communities, understanding WGU's many acronyms, being granted a WGU degree, and forming a network of WGU alumni who understand your learning journey.
+Within a larger society, groups can develop their own cultural patterns, including shared language, behaviors, and ideas about what is normal or acceptable. One form is called subcultures, which are smaller groups that share distinctive attitudes and behaviors while still being part of the dominant culture (the most widely shared values, beliefs, and behaviors considered "normal" in a society).
+
+Subcultures can form around hobbies or interests, such as gamers, surfers, or knitters. Subcultures can also develop around occupations, such as nurses or teachers, because people in those roles often share common experiences, expectations, and ways of communicating.
+
+For example, WGU students are a subculture of online learners. You share similar experiences and expectations, such as participating in student communities, understanding WGU's many acronyms, being granted a WGU degree, and forming a network of WGU alumni who understand your learning journey.
 
 ## Countercultures
 
@@ -50,13 +67,17 @@ This diagram illustrates the relationship between society, groups, subcultures, 
 
 Key takeaway: Culture develops within groups, as shared experiences and interactions create common expectations, and these group-based cultures can take the form of subcultures that exist within the dominant culture or countercultures that challenge dominant cultural values. Understanding culture and groups is important because group membership can shape how people think, behave, and interpret the world. Being part of a group can influence everything from communication styles and clothing choices to beliefs about what is right, normal, or appropriate.
 
-Guided Practice 1.0/1.0 point (ungraded)
+## Guided Practice
 
-Which situation illustrates culture as a shared expectation for behavior?
+1.0/1.0 point (ungraded) Which situation illustrates culture as a shared expectation for behavior?
 
 ## People cutting in line at the grocery store
 
-People waiting in line at the grocery store, greeting the cashier, and paying for their items People refusing to pay the listed price for their groceries and demanding discounts People ignoring the cashier's greeting and staring at them blankly
+People waiting in line at the grocery store, greeting the cashier, and paying for their items
+
+People refusing to pay the listed price for their groceries and demanding discounts
+
+People ignoring the cashier's greeting and staring at them blankly
 
 ## Answer
 
@@ -64,9 +85,11 @@ Correct: This reflects shared rules and expectations and social norms being foll
 
 ## Submit
 
-Correct (1/1 point)
+## Correct (1/1 point)
 
-Guided Practice 1.0/1.0 point (ungraded)
+## Guided Practice
+
+1.0/1.0 point (ungraded)
 
 Which situation is an example of culture as a process?
 
@@ -84,9 +107,11 @@ Correct: This shows culture being created and reinforced over time through share
 
 ## Submit
 
-Correct (1/1 point)
+## Correct (1/1 point)
 
-Guided Practice 1.0/1.0 point (ungraded)
+## Guided Practice
+
+1.0/1.0 point (ungraded)
 
 What is an example of a subculture?
 
@@ -94,7 +119,9 @@ What is an example of a subculture?
 
 ## Laws that apply equally to everyone in a society
 
-Nurses who share specialized language, norms, and expectations related to their occupation A group of people in a society sharing the same national holidays
+Nurses who share specialized language, norms, and expectations related to their occupation
+
+A group of people in a society sharing the same national holidays
 
 ## Answer
 
@@ -102,9 +129,29 @@ Correct: This reflects a subculture formed around shared occupational experience
 
 ## Submit
 
-Correct (1/1 point)
+## Correct (1/1 point)
 
-Key Terms culture: the shared beliefs, ideals, artistic expression, and patterns of behavior that people learn through social interaction and use to make sense of everyday life beliefs: ideas that members of a society accept as true values: standards that a society views as important or desirable norms: the visible and invisible rules of conduct through which societies are structured symbols: anything that carries shared meaning among members of a society (e.g., gesture, object, or image) patterns of behavior: practices of a group group: people who share common experiences, identities, or activities and interact with one another, often developing shared expectations subculture: a smaller cultural group within a large society that has distinctive values, norms, or behaviors while still being part of the dominant culture dominant culture: the most widely shared values, beliefs, and behaviors that are considered normative or standard within a society counterculture: a group whose values and norms differ from and challenge those of the dominant culture
+## Key
+
+culture: the shared beliefs, ideals, artistic expression, and patterns of behavior that people learn through social interaction and use to make sense of everyday life
+
+beliefs: ideas that members of a society accept as true
+
+values: standards that a society views as important or desirable
+
+norms: the visible and invisible rules of conduct through which societies are structured
+
+symbols: anything that carries shared meaning among members of a society (e.g., gesture, object, or image)
+
+patterns of behavior: practices of a group
+
+group: people who share common experiences, identities, or activities and interact with one another, often developing shared expectations
+
+subculture: a smaller cultural group within a large society that has distinctive values, norms, or behaviors while still being part of the dominant culture
+
+dominant culture: the most widely shared values, beliefs, and behaviors that are considered normative or standard within a society
+
+counterculture: a group whose values and norms differ from and challenge those of the dominant culture
 
 ## Attributions
 

@@ -11,9 +11,7 @@ kind: page
 
 What are the different types of crimes?
 
-## Submit and Compare
-
-## Reset
+## Submit and Compare Reset
 
 ## Types of Crime
 
@@ -21,92 +19,57 @@ Imagine watching the evening news and hearing several crime stories back-to-back
 
 ## Violent, Nonviolent, and Victimless Crime
 
-In modern U.S. society, crimes are classified as one of two types based on their severity. Violent crimes (also known as "crimes against a person") directly threaten people's physical safety and are based on the use of force or the threat of force. Assault, rape, murder, and armed robbery fall under this category. Nonviolent crimes do not directly threaten people's physical safety. They can involve the destruction or theft of property but do not use force or the threat of force. Because of this, they are also sometimes called "property crimes." Larceny, car theft, and vandalism are all types of nonviolent crimes. A third type of crime is a victimless crime (or public order crime). Crimes are called victimless when the person who commits the crime (perpetrator) is not explicitly harming another person. For example, a crime like drinking a beer when someone is 20 years old does not result in injury to
+In modern U.S. society, crimes are classified as one of two types based on their severity.
 
-anyone other than the individual who engages in it, although it is illegal. Key takeaway: Crimes differ in severity and social impact and are commonly classified as violent, nonviolent (property), or victimless crimes based on the type of harm involved and how society responds to them.
+Violent crimes (also known as "crimes against a person") directly threaten people's physical safety and are based on the use of force or the threat of force. Assault, rape, murder, and armed robbery fall under this category.
+
+Nonviolent crimes do not directly threaten people's physical safety. They can involve the destruction or theft of property but do not use force or the threat of force. Because of this, they are also sometimes called "property crimes." Larceny, car theft, and vandalism are all types of nonviolent crimes.
+
+A third type of crime is a victimless crime (or public order crime). Crimes are called victimless when the person who commits the crime (perpetrator) is not explicitly harming another person. For example, a crime like drinking a beer when someone is 20 years old does not result in injury to anyone other than the individual who engages in it, although it is illegal.
+
+Key takeaway: Crimes differ in severity and social impact and are commonly classified as violent, nonviolent (property), or victimless crimes based on the type of harm involved and how society responds to them.
 
 ## Categories of Crime
 
 Sociologists group crimes into categories to better understand these differences and identify broader patterns. Crimes are classified based on the type of harm involved and how the crime is carried out. The categories include the following:
 
-- violent crimes
-- property crimes
-- victimless crime
-- white-collar crime
-- hate crime
-- organized crime
+violent crimes
+
+property crimes
+
+victimless crime
+
+white-collar crime
+
+hate crime
+
+organized crime
 
 ## Categories of Crime: Summary
 
 The following table summarizes the major types of crime sociologists use to classify criminal behavior. It highlights how the types of crime differ in form and social impact.
 
-## Types of Crimes
-
-## Violent Crime
-
-## Definition
-
-Involves the use of force or the threat of force against a person
-
-## Examples
-
-homicide assault
-
-## Why It Matters
+## Types of Crimes Definition Examples Why It Matters
 
 ## Sociologically
 
-Directly threatens personal safety and receives intense public attention
+Violent Crime Involves the use of Directly threatens force or the threat homicide personal safety and of force against a assault receives intense person public attention robbery
 
-robbery sexual violence
+sexual violence
 
-## Property Crime
-
-Involves stealing, damaging, or destroying property without force
-
-burglary theft
-
-More common than violent crime and can cause financial loss and emotional
-
-against a person
-
-vandalism
-
-stress
+Property Crime Involves stealing, More common than damaging, or burglary violent crime and destroying property theft can cause financial without force loss and emotional against a person vandalism stress
 
 motor vehicle theft
 
-## Victimless Crime
+Victimless Crime Illegal acts with no No physical victim clearly identifiable illegal drug use from the act, aside victim who reports gambling (where from the direct harm illegal) perpetrator, but they may still affect public public health or drunkenness social order
 
-Illegal acts with no clearly identifiable victim who reports direct harm
+## White-Collar Crimes committed Can harm large
 
-illegal drug use gambling (where illegal) public drunkenness
+Crime in professional or fraud numbers of people high-status embezzlement financially, despite occupations for lacking physical financial gain identity theft violence
 
-## White-Collar
+Hate Crime Can be violent or Creates fear nonviolent criminal bias-motivated beyond the acts motivated by assault immediate victim by bias against race, vandalism targeting entire gender, gender targeting identity social groups identity, religion, disability, sexual orientation, or ethnicity
 
-## Crime
-
-## Hate Crime
-
-## Organized Crime
-
-Crimes committed in professional or high-status occupations for financial gain
-
-Can be violent or nonviolent criminal acts motivated by bias against race, gender, gender identity, religion, disability, sexual orientation, or ethnicity Criminal activity carried out by structured groups over time for profit
-
-fraud embezzlement identity theft
-
-bias-motivated assault vandalism targeting identity
-
-trafficking smuggling illegal gambling operations
-
-No physical victim from the act, aside from the perpetrator, but they may still affect public health or social order
-
-Can harm large numbers of people financially, despite lacking physical violence
-
-Creates fear beyond the immediate victim by targeting entire social groups
-
-Relies on coordination and ongoing operations rather than individual action
+Organized Crime Criminal activity Relies on carried out by trafficking coordination and structured groups smuggling ongoing operations over time for profit rather than illegal gambling individual action operations
 
 ## Trends and Patterns of Crime Across Social
 
@@ -116,15 +79,45 @@ Who commits the crimes, and who is a victim of crimes? The following is a summar
 
 ## Crime and Women
 
-Female criminals are quite different from male criminals in the following respects: Women commit fewer crimes than men in all categories of crime. The gap between male and female rates of perpetration grows as the crime becomes more serious: women commit far fewer violent crimes. Women committing violent offenses are less likely than men who are violent to self-identify as career criminals: people who make their living from crime. Female criminals are far more likely than men to live with dependent children. Female perpetrators are more likely than men to have been victims of abuse or neglect as children. Women are more likely than men to be sex workers. Women offenders are more likely than male offenders to have also been victims of crime themselves.
+Female criminals are quite different from male criminals in the following respects:
 
-Why Do Women and Men Commit Different Types and Levels of Crime? Sociologists have suggested several reasons why women and men commit different types and levels of crime, and these factors often work together. One reason is that women may have fewer opportunities to commit certain crimes. Women are more likely to spend time caring for children and are often employed in lower-level positions where they have less authority or access to resources. Because of this, they may simply not encounter the same chances to commit some types of crime. Another reason relates to gender roles. Society often expects women to be more passive, while men are more often encouraged to be assertive or aggressive. These expectations can influence behavior, making women less likely to commit violent crimes and men more likely to engage in them.
+Women commit fewer crimes than men in all categories of crime.
+
+The gap between male and female rates of perpetration grows as the crime becomes more serious: women commit far fewer violent crimes.
+
+Women committing violent offenses are less likely than men who are violent to self-identify as career criminals: people who make their living from crime.
+
+Female criminals are far more likely than men to live with dependent children.
+
+Female perpetrators are more likely than men to have been victims of abuse or neglect as children.
+
+Women are more likely than men to be sex workers.
+
+Women offenders are more likely than male offenders to have also been victims of crime themselves.
+
+## Why Do Women and Men Commit Different Types and Levels
+
+of Crime?
+
+Sociologists have suggested several reasons why women and men commit different types and levels of crime, and these factors often work together.
+
+One reason is that women may have fewer opportunities to commit certain crimes. Women are more likely to spend time caring for children and are often employed in lower-level positions where they have less authority or access to resources. Because of this, they may simply not encounter the same chances to commit some types of crime.
+
+Another reason relates to gender roles. Society often expects women to be more passive, while men are more often encouraged to be assertive or aggressive. These expectations can influence behavior, making women less likely to commit violent crimes and men more likely to engage in them.
 
 ## Victims and Gender
 
-There is a gap between genders in relation to victims of violent crime. Men are the victims of more violent crimes overall. Women are more often the victims of intimate partner violence (IPV). Women are killed by their partners at twice the rate of men. Black women historically experience intimate partner violence at higher rates than White women.
+There is a gap between genders in relation to victims of violent crime.
 
-Guided Practice 1.0/1.0 point (ungraded)
+Men are the victims of more violent crimes overall.
+
+Women are more often the victims of intimate partner violence (IPV). Women are killed by their partners at twice the rate of men.
+
+Black women historically experience intimate partner violence at higher rates than White women.
+
+## Guided Practice
+
+1.0/1.0 point (ungraded)
 
 Which type of crime involves the use of force or the threat of force against a person?
 
@@ -142,11 +135,11 @@ Correct: Violent crime involves the use of force or the threat of force against 
 
 ## Submit
 
-Correct (1/1 point)
+## Correct (1/1 point)
 
-Guided Practice 1.0/1.0 point (ungraded)
+## Guided Practice
 
-Which crime category includes acts such as fraud, embezzlement, and identity theft committed for financial gain?
+1.0/1.0 point (ungraded) Which crime category includes acts such as fraud, embezzlement, and identity theft committed for financial gain?
 
 ## Property crime
 
@@ -162,9 +155,11 @@ Correct: White-collar crime includes financial crimes such as fraud, embezzlemen
 
 ## Submit
 
-Correct (1/1 point)
+## Correct (1/1 point)
 
-Guided Practice 1.0/1.0 point (ungraded)
+## Guided Practice
+
+1.0/1.0 point (ungraded)
 
 Which type of crime is described as an illegal act with no clearly identifiable victim who reports direct harm?
 
@@ -182,9 +177,11 @@ Correct: Victimless crime involves illegal acts where no specific individual rep
 
 ## Submit
 
-Correct (1/1 point)
+## Correct (1/1 point)
 
-Guided Practice 1.0/1.0 point (ungraded)
+## Guided Practice
+
+1.0/1.0 point (ungraded)
 
 Which group commits a higher number of violent crimes, such as homicide and assault, according to sociological research?
 
@@ -202,9 +199,29 @@ Correct: Research consistently shows that men commit more violent crimes, such a
 
 ## Submit
 
-Correct (1/1 point)
+## Correct (1/1 point)
 
-Key Terms crime: an action that violates a formal law and is punishable by the state violent crime: crime that involves the use of force or the threat of force against a person, such as homicide, assault, robbery, or sexual violence property crime: crime that involves stealing, damaging, or destroying property without using force against a person, such as burglary, theft, vandalism, or motor vehicle theft victimless crime: illegal acts that have no clearly identifiable victim who reports direct harm, such as illegal drug use, gambling where illegal, or prostitution where illegal white-collar crime: crimes committed in professional or high-status occupations for financial gain, such as fraud, embezzlement, or identity theft hate crime: a violent or nonviolent criminal act motivated by bias against a person's perceived identity, such as race, religion, gender, or sexual orientation organized crime: criminal activity carried out by structured groups over time for profit, such as trafficking, smuggling, or illegal gambling operations victimization: the experience of being harmed by a criminal act violent victimization: the experience of harm or threat of harm through violent crime, such as assault or robbery intimate partner violence (IPV): violence committed by a current or former romantic or intimate partner
+## Key
+
+crime: an action that violates a formal law and is punishable by the state
+
+violent crime: crime that involves the use of force or the threat of force against a person, such as homicide, assault, robbery, or sexual violence
+
+property crime: crime that involves stealing, damaging, or destroying property without using force against a person, such as burglary, theft, vandalism, or motor vehicle theft
+
+victimless crime: illegal acts that have no clearly identifiable victim who reports direct harm, such as illegal drug use, gambling where illegal, or prostitution where illegal
+
+white-collar crime: crimes committed in professional or high-status occupations for financial gain, such as fraud, embezzlement, or identity theft
+
+hate crime: a violent or nonviolent criminal act motivated by bias against a person's perceived identity, such as race, religion, gender, or sexual orientation
+
+organized crime: criminal activity carried out by structured groups over time for profit, such as trafficking, smuggling, or illegal gambling operations
+
+victimization: the experience of being harmed by a criminal act
+
+violent victimization: the experience of harm or threat of harm through violent crime, such as assault or robbery
+
+intimate partner violence (IPV): violence committed by a current or former romantic or intimate partner
 
 ## Attributions
 

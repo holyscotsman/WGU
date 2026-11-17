@@ -21,6 +21,4 @@ Project managers gather information for the lessons learned from their own exper
 
 ## When Lessons Learned Should Be Applied
 
-The library of lessons learned from prior projects should be a primary source for use in the defining and planning phases of a project. Imagine how valuable it would be to have information from a prior failed project to prevent the same mistakes from occurring again, or to know that
-
-certain types of procurement contracts are more effective than others when buying certain raw materials. The value of lessons learned cannot be overstated. This requires that the closing project manager gathers the information and the future project managers use the information.
+The library of lessons learned from prior projects should be a primary source for use in the defining and planning phases of a project. Imagine how valuable it would be to have information from a prior failed project to prevent the same mistakes from occurring again, or to know that certain types of procurement contracts are more effective than others when buying certain raw materials. The value of lessons learned cannot be overstated. This requires that the closing project manager gathers the information and the future project managers use the information.

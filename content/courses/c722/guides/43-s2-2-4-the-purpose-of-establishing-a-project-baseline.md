@@ -13,13 +13,17 @@ Define the project term triple constraint.
 
 ## Project Baseline
 
-There is an old saying: "If you do not know where you are going, how will you know when you get there?" That is basically what a project baseline tells you. It establishes the expected scope, the expected cost, and the expected schedule. If you know the baseline, you can tell when you deviate from it. As an example, imagine you are redoing the outside of your house to increase its curb appeal. Initially, you choose redwood siding, but then you change to another material. Because redwood was your baseline, your costs were predicated on that choice. You know the cost differential between redwood and your new selection. From this you can now calculate your new project cost. The following video demonstrates how to generate a project baseline using MS Project.
+There is an old saying: "If you do not know where you are going, how will you know when you get there?" That is basically what a project baseline tells you. It establishes the expected scope, the expected cost, and the expected schedule. If you know the baseline, you can tell when you deviate from it.
+
+As an example, imagine you are redoing the outside of your house to increase its curb appeal. Initially, you choose redwood siding, but then you change to another material. Because redwood was your baseline, your costs were predicated on that choice. You know the cost differential between redwood and your new selection. From this you can now calculate your new project cost.
+
+The following video demonstrates how to generate a project baseline using MS Project.
 
 Watch "How to set a BASELINE in your MS Project Schedule" (20:02).
 
 ## VideoLink is in the Public Domain
 
-Transcript (new tab)
+## Transcript (new tab)
 
 The baseline determines what is included in the scope, functional requirements, business needs, and stakeholders. It is important to have the scope baseline well defined. Any requests for changes to the project scope will be compared with the baseline. Once a project is completed, any variances from the initial cost estimates, schedule, or project deliverables will be compared with the baseline requirements and approved changes.
 

@@ -9,53 +9,35 @@ kind: page
 
 ## Initial Reflection
 
-Two students graduate from high school in the same state. One attends a wellfunded suburban school with advanced placement courses and college counseling. The other attends an underfunded school with limited academic resources. Both are part of the same educational system. How can one institution produce such different outcomes?
+Two students graduate from high school in the same state. One attends a well-
 
-## Submit and Compare
+funded suburban school with advanced placement courses and college
 
-## Reset
+counseling. The other attends an underfunded school with limited academic
+
+resources. Both are part of the same educational system.
+
+How can one institution produce such different outcomes?
+
+## Submit and Compare Reset
 
 ## Education Around the World
 
-Education exists in societies around the world, but it is organized differently depending on cultural values and social priorities. Educational systems vary in structure, access, funding, and expectations, reflecting what each society considers important for economic development and citizenship. The following table provides a comparison of the educational systems in four countries. Focus on how they differ based on the society's economic conditions, political structures, and cultural values.
+Education exists in societies around the world, but it is organized differently depending on cultural values and social priorities. Educational systems vary in structure, access, funding, and expectations, reflecting what each society considers important for economic development and citizenship.
 
-## Country/
+The following table provides a comparison of the educational systems in four countries. Focus on how they differ based on the society's economic conditions, political structures, and cultural values.
 
-## Context
+## Country/ Key Features of the Education What It Reflects about
 
-Nigeria (selected regions)
+## Context System Society
 
-## Key Features of the Education
+Nigeria Underfunded secondary schools Economic constraints shape (selected and limited resources access to education and regions) influence levels of educational attainment.
 
-## System
+Cuba Universal access to schooling with Education is used as a tool of a strong emphasis on communist political socialization and ideology reinforcement of state values.
 
-## What It Reflects about
+Japan Emphasis on group work, Cultural value is placed on collective responsibility, and group harmony over shared accountability individualism.
 
-## Society
-
-Underfunded secondary schools and limited resources
-
-Economic constraints shape access to education and influence levels of educational
-
-attainment.
-
-## Cuba
-
-Universal access to schooling with a strong emphasis on communist ideology
-
-Education is used as a tool of political socialization and reinforcement of state values.
-
-## Japan
-
-Emphasis on group work, collective responsibility, and shared accountability
-
-Cultural value is placed on group harmony over individualism.
-
-## United States
-
-Decentralized system with local control and varied funding
-
-Political emphasis is on local governance and resulting variation in educational resources.
+United States Decentralized system with local Political emphasis is on local control and varied funding governance and resulting variation in educational resources.
 
 Key takeaway: Educational systems around the world vary in structure and access, but each reflects the cultural values, economic priorities, and social goals of the society in which it operates.
 
@@ -65,11 +47,21 @@ Education in the United States is a decentralized organization that influences w
 
 ## Compulsory and Higher Education
 
-Public education typically follows a K–12 structure, including elementary school, middle school, and high school. School attendance is compulsory until a specified age, reflecting the expectation that formal schooling prepares individuals for participation in civic and economic life. In addition to traditional public schools, families may choose private schools, charter schools, or homeschooling. Higher education includes community colleges, four-year colleges and universities, and graduate institutions. Community colleges often provide vocational training and transfer pathways to four-year institutions. Colleges and universities grant degrees that function as credentials for employment and professional advancement.
+Public education typically follows a K–12 structure, including elementary school, middle school, and high school. School attendance is compulsory until a specified age, reflecting the expectation that formal schooling prepares individuals for participation in civic and economic life. In addition to traditional public schools, families may choose private schools, charter schools, or homeschooling.
+
+Higher education includes community colleges, four-year colleges and universities, and graduate institutions. Community colleges often provide vocational training and transfer pathways to four-year institutions. Colleges and universities grant degrees that function as credentials for employment and professional advancement.
 
 ## Functionalist Perspective on Education
 
-The functionalist perspective views education as an institution that contributes to the stability and functioning of society. Like the family or religion, education helps maintain social order by transmitting knowledge, reinforcing shared values, and preparing individuals for participation in the workforce. Recall that functionalists distinguish between the manifest functions and latent functions of education. Manifest functions are the intended consequences of education. Latent functions are unintended or less openly acknowledged consequences of education. From a functionalist perspective, these manifest and latent functions contribute to social stability by preparing individuals to fulfill adult roles within society. The following graphic presents examples of manifest and latent functions of education from the functionalist perspective.
+The functionalist perspective views education as an institution that contributes to the stability and functioning of society. Like the family or religion, education helps maintain social order by transmitting knowledge, reinforcing shared values, and preparing individuals for participation in the workforce. Recall that functionalists distinguish between the manifest functions and latent functions of education.
+
+Manifest functions are the intended consequences of education.
+
+Latent functions are unintended or less openly acknowledged consequences of education.
+
+From a functionalist perspective, these manifest and latent functions contribute to social stability by preparing individuals to fulfill adult roles within society.
+
+The following graphic presents examples of manifest and latent functions of education from the functionalist perspective.
 
 This visual is divided into two columns comparing manifest and latent functions of education from the functionalist perspective. The left column focuses on intended outcomes such as knowledge transmission, social integration, and social placement. The right column highlights unintended outcomes including childcare, peer networks, and hidden curriculum. Each section includes brief bullet points and supporting icons to illustrate how education serves both planned and unplanned roles in society.
 
@@ -79,7 +71,11 @@ The conflict perspective takes a different approach from the functionalist persp
 
 ## Credential Society
 
-One way inequality appears in education is through credentialism. Credentialism refers to the growing emphasis on showing that a person has a certain skill, has attained a certain level of education, or has met certain job qualifications. In today’s labor market, many jobs require formal educational credentials. As more individuals earn degrees, additional credentials become necessary to remain competitive. This creates what scholars describe as a credential society, where access to opportunity depends heavily on formal education. However, access to these credentials is not equal. In fact, higher levels of educational attainment have consistently been shown to be a safeguard from unemployment and higher wages. During the Great Recession in 2007, people without a high school diploma were affected most significantly (Ritzer 2019). Data from the U.S. Bureau of Labor Statistics shows that in 2024, those without a high school diploma were more than three times more likely to experience unemployment than those with a bachelor's degree. Overall, higher educational attainment has shown a strong correlation with higher income and lower unemployment.
+One way inequality appears in education is through credentialism. Credentialism refers to the growing emphasis on showing that a person has a certain skill, has attained a certain level of education, or has met certain job qualifications. In today’s labor market, many jobs require formal educational credentials. As more individuals earn degrees, additional credentials become necessary to remain competitive. This creates what scholars describe as a credential society, where access to opportunity depends heavily on formal education.
+
+However, access to these credentials is not equal. In fact, higher levels of educational attainment have consistently been shown to be a safeguard from unemployment and higher wages. During the Great Recession in 2007, people without a high school diploma were affected most significantly (Ritzer 2019).
+
+Data from the U.S. Bureau of Labor Statistics shows that in 2024, those without a high school diploma were more than three times more likely to experience unemployment than those with a bachelor's degree. Overall, higher educational attainment has shown a strong correlation with higher income and lower unemployment.
 
 This visual presents a combined bar and line chart comparing median weekly earnings and unemployment rates by educational attainment in 2024. Bars represent earnings, while a line shows unemployment rates. The chart demonstrates that individuals with higher levels of education tend to earn more and experience lower unemployment, while those with less education earn less and face higher unemployment rates.
 
@@ -89,31 +85,41 @@ This visual presents a combined bar and line chart comparing median weekly earni
 
 Conflict theorists argue that schools reflect and reinforce social stratification, meaning structured inequality based on class, race, and access to resources. Examples include the following:
 
-- Student Debt
+## Student Debt
 
-Higher education often requires significant financial investment. Many students rely on loans to pay tuition. Students from lower-income families may graduate with greater debt burdens, which can limit future career and financial choices and create financial strain.
+Higher education often requires significant financial investment.
+
+Many students rely on loans to pay tuition.
+
+Students from lower-income families may graduate with greater debt burdens, which can limit future career and financial choices and create financial strain.
 
 ## Cultural Capital
 
-Symbols, ideas, tastes, and preferences that can be mindfully employed and converted into
+Symbols, ideas, tastes, and preferences that can be mindfully employed and converted into resources, much like economic capital can be invested and grow over time, so can cultural capital.
 
-resources, much like economic capital can be invested and grow over time, so can cultural capital. The hidden curriculum refers to the informal lessons students learn about discipline, authority, competition, time management, and social expectations. These non-academic lessons are not written in textbooks but are reinforced through classroom routines and school rules. Parents can pass knowledge of the hidden curriculum, along with linguistic and cultural competencies, to their children to use as resources throughout their education, often resulting in higher-paying jobs. Parents without this knowledge cannot transmit it to their children, contributing to inequality.
+The hidden curriculum refers to the informal lessons students learn about discipline, authority, competition, time management, and social expectations. These non-academic lessons are not written in textbooks but are reinforced through classroom routines and school rules. Parents can pass knowledge of the hidden curriculum, along with linguistic and cultural competencies, to their children to use as resources throughout their education, often resulting in higher-paying jobs. Parents without this knowledge cannot transmit it to their children, contributing to inequality.
 
 ## Racial and Economic Stratification
 
-Schools in lower-income neighborhoods often have fewer resources. Standardized testing may reflect cultural assumptions that advantage certain groups. Minorities can face bias in testing, leading to educational stratification.
+Schools in lower-income neighborhoods often have fewer resources.
+
+Standardized testing may reflect cultural assumptions that advantage certain groups.
+
+Minorities can face bias in testing, leading to educational stratification.
 
 ## Social Class Identity
 
-Students from working-class backgrounds may experience different assumptions about college or career pathways compared to students from wealthier families. For example, wealthier families may instill in their children the expectation that they should go to college and typically have the experiential knowledge and financial ability to assist them to that end, whereas working-class parents are less likely to be able to provide those two things. Note: The hidden curriculum (unwritten lessons on norms, values, and behaviors) is analyzed by both the functionalist and conflict perspectives, but with opposing views. Conflict theory views it as a tool that perpetuates inequality, enforcing obedience to maintain the status quo and elite dominance. Functionalism sees it as a necessary socialization that fosters social cohesion, stability, and preparation for future societal roles.
+Students from working-class backgrounds may experience different assumptions about college or career pathways compared to students from wealthier families. For example, wealthier families may instill in their children the expectation that they should go to college and typically have the experiential knowledge and financial ability to assist them to that end, whereas working-class parents are less likely to be able to provide those two things.
+
+Note: The hidden curriculum (unwritten lessons on norms, values, and behaviors) is analyzed by both the functionalist and conflict perspectives, but with opposing views. Conflict theory views it as a tool that perpetuates inequality, enforcing obedience to maintain the status quo and elite dominance. Functionalism sees it as a necessary socialization that fosters social cohesion, stability, and preparation for future societal roles.
 
 ## Symbolic Interactionist Perspective on
 
 ## Education
 
-While the conflict perspective focuses on how social institutions perpetuate inequality between society's large groups, the symbolic interactionist perspective focuses on everyday interactions within schools. One key concept in this approach is labeling. Recall that labeling theory is rooted in the symbolic interactionist perspective. It argues that the labels assigned to individuals can influence how others treat them and how they see themselves. In educational settings, when students receive labels such as "gifted," "average," or "low achiever," those labels can shape classroom interactions and expectations. Teachers' staff and other students
+While the conflict perspective focuses on how social institutions perpetuate inequality between society's large groups, the symbolic interactionist perspective focuses on everyday interactions within schools. One key concept in this approach is labeling.
 
-may interact with or treat students differently depending on these labels. For example, if a "gifted" child shouts to answer a question in class without raising their hand, a teacher may interpret the action as them being excited and eager to share. If an on-level student engaged in the same behavior, a teacher may interpret the behavior as the student not being able to follow rules and may even reprimand them.
+Recall that labeling theory is rooted in the symbolic interactionist perspective. It argues that the labels assigned to individuals can influence how others treat them and how they see themselves. In educational settings, when students receive labels such as "gifted," "average," or "low achiever," those labels can shape classroom interactions and expectations. Teachers' staff and other students may interact with or treat students differently depending on these labels. For example, if a "gifted" child shouts to answer a question in class without raising their hand, a teacher may interpret the action as them being excited and eager to share. If an on-level student engaged in the same behavior, a teacher may interpret the behavior as the student not being able to follow rules and may even reprimand them.
 
 ## Summary: Comparison of Sociological
 
@@ -121,69 +127,35 @@ may interact with or treat students differently depending on these labels. For e
 
 Review the following table to compare the three sociological perspectives on education.
 
-## Perspective
+## Perspective Primary View of Key Concepts Main
 
-## Primary
+## Focus Education Question
 
-## Focus
+Functionalist Stability and Education How does social order promotes social manifest education cohesion and functions maintain prepares people latent stability and for adult roles. functions prepare society? social integration
 
-View of Education
+hidden curriculum
 
-## Functionalist
-
-Stability and social order
-
-Education promotes social cohesion and prepares people for adult roles.
-
-## Key Concepts
-
-manifest functions latent functions
-
-## Main
-
-## Question
-
-How does education maintain stability and prepare society?
-
-social integration hidden curriculum
-
-## Conflict
-
-Power and inequality
-
-Education reflects and reproduces social inequality.
-
-credentialism cultural capital student debt
-
-How does education reinforce inequality and limit opportunity?
+Conflict Power and Education How does inequality reflects and credentialism education reproduces social cultural reinforce inequality. capital inequality and limit student debt opportunity?
 
 stratification
 
-## Symbolic
+## Symbolic Everyday Education How do daily
 
-## Interactions
+Interactions interactions shapes identity labeling interactions and meaning through labeling theory influence and classroom self-fulfilling student interactions. prophecy identity and achievement?
 
-Everyday interactions and meaning
+## Guided Practice
 
-Education shapes identity through labeling and classroom
-
-labeling theory self-fulfilling
-
-How do daily interactions influence student
-
-interactions.
-
-prophecy
-
-identity and achievement?
-
-Guided Practice 1.0/1.0 point (ungraded)
+1.0/1.0 point (ungraded)
 
 Which example illustrates the latent function of education from a functionalist perspective?
 
 ## Transmitting shared cultural values and civic responsibilities
 
-Teaching mathematics and science skills needed for future employment Providing supervision for children during working hours Sorting students into career pathways through grading and testing
+Teaching mathematics and science skills needed for future employment
+
+## Providing supervision for children during working hours
+
+Sorting students into career pathways through grading and testing
 
 ## Answer
 
@@ -191,11 +163,19 @@ Correct: This is a latent function because it is an unintended but beneficial co
 
 ## Submit
 
-Correct (1/1 point)
+## Correct (1/1 point)
 
-Guided Practice 1.0/1.0 point (ungraded)
+## Guided Practice
 
-How does the conflict perspective explain the relationship between education and social inequality? Education promotes equal opportunity by rewarding individual effort alone. Education primarily strengthens social integration across diverse groups. Education eliminates class differences by providing the same curriculum to all students. Education reinforces existing social stratification through unequal access to resources and credentials.
+1.0/1.0 point (ungraded) How does the conflict perspective explain the relationship between education and social inequality?
+
+Education promotes equal opportunity by rewarding individual effort alone.
+
+Education primarily strengthens social integration across diverse groups.
+
+Education eliminates class differences by providing the same curriculum to all students.
+
+Education reinforces existing social stratification through unequal access to resources and credentials.
 
 ## Answer
 
@@ -203,13 +183,21 @@ Correct: Conflict theorists argue that education systems reproduce inequality be
 
 ## Submit
 
-Correct (1/1 point)
+## Correct (1/1 point)
 
-Guided Practice 1.0/1.0 point (ungraded)
+## Guided Practice
 
-How does labeling theory explain differences in student outcomes within schools? Graduation ceremonies create a shared sense of national identity among students. Labels assigned to students influence how teachers interact with them and how students see themselves.
+1.0/1.0 point (ungraded)
 
-School funding determines how students define their academic abilities. Standardized testing ensures students are treated equally in classrooms.
+How does labeling theory explain differences in student outcomes within schools?
+
+Graduation ceremonies create a shared sense of national identity among students.
+
+Labels assigned to students influence how teachers interact with them and how students see themselves.
+
+School funding determines how students define their academic abilities.
+
+Standardized testing ensures students are treated equally in classrooms.
 
 ## Answer
 
@@ -217,9 +205,19 @@ Correct: Labeling theory proposes that being labeled as gifted, average, or trou
 
 ## Submit
 
-Correct (1/1 point)
+## Correct (1/1 point)
 
-Key Terms decentralized organization: a system in which authority and decision-making power are distributed to local or regional units rather than controlled by a single central authority cultural capital: cultural knowledge that serves (metaphorically) as currency to help one navigate a culture credentialism: also called a credential society; the emphasis on certificates or degrees to show that a person has a certain skill, has attained a certain level of education, or has met certain job qualifications hidden curriculum: the type of nonacademic knowledge that people learn through informal learning and cultural transmission social placement: the use of education to improve one's social standing
+## Key
+
+decentralized organization: a system in which authority and decision-making power are distributed to local or regional units rather than controlled by a single central authority
+
+cultural capital: cultural knowledge that serves (metaphorically) as currency to help one navigate a culture
+
+credentialism: also called a credential society; the emphasis on certificates or degrees to show that a person has a certain skill, has attained a certain level of education, or has met certain job qualifications
+
+hidden curriculum: the type of nonacademic knowledge that people learn through informal learning and cultural transmission
+
+social placement: the use of education to improve one's social standing
 
 ## Attribution
 

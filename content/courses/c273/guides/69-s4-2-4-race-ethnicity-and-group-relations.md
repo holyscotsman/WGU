@@ -9,11 +9,11 @@ kind: page
 
 ## Initial Reflection
 
-Who are the minority racial groups in the United States, and how do they relate to each other in society?
+Who are the minority racial groups in the United States, and how do they relate to
 
-## Submit and Compare
+each other in society?
 
-## Reset
+## Submit and Compare Reset
 
 ## Race and Ethnicity in the United States
 
@@ -21,57 +21,41 @@ Understanding racism also requires understanding how race and ethnicity are defi
 
 ## Racial Data on the U.S. Census
 
-The U.S. Census Bureau collects racial data in accordance with guidelines provided by the U.S. Office of Management and Budget (OMB 2016). The data is based on self-identification and generally reflects a social definition of race recognized in this country that includes racial categories and national origin or sociocultural groups. People may choose to report more than one race to indicate their racial mixture, such as American Indian and White. The following table summarizes the race, the census definition of the race, and the percentage of the total population by racial group.
+The U.S. Census Bureau collects racial data in accordance with guidelines provided by the U.S. Office of Management and Budget (OMB 2016). The data is based on self-identification and generally reflects a social definition of race recognized in this country that includes racial categories and national origin or sociocultural groups. People may choose to report more than one race to indicate their racial mixture, such as American Indian and White.
+
+The following table summarizes the race, the census definition of the race, and the percentage of the total population by racial group.
 
 ## Table: U.S. Census Bureau Racial Data
 
-## Race
+## Race United States Census Definition Percentage (%)
 
-## United States Census Definition
+White A person having origins in any of the original 76.3% peoples of Europe, the Middle East, or North Africa
 
-Percentage (%)
+## Black or A person having origins in any of the Black 13.4%
 
-## White
-
-A person having origins in any of the original peoples of Europe, the Middle East, or North Africa
-
-76.3%
-
-Black or African American
-
-A person having origins in any of the Black racial groups of Africa
-
-13.4%
+## African racial groups of Africa
 
 ## American
 
-Indian or Alaska Native
+## American A person having origins in any of the original 1.3%
 
-A person having origins in any of the original peoples of North and South America (including Central America) who maintains tribal affiliation or community attachment
+## Indian or peoples of North and South America (including
 
-1.3%
+Alaska Native Central America) who maintains tribal affiliation or community attachment
 
-## Asian
+Asian A person having origins in any of the original 5.9% peoples of the Far East, Southeast Asia, or the Indian subcontinent (e.g., Cambodia, China, India, Japan, Korea, Malaysia, Pakistan, the Philippines, Thailand, or Vietnam)
 
-A person having origins in any of the original peoples of the Far East, Southeast Asia, or the Indian subcontinent (e.g., Cambodia, China, India, Japan, Korea, Malaysia, Pakistan, the Philippines, Thailand, or Vietnam)
+## Native A person having origins in any of the original 0.2%
 
-5.9%
+## Hawaiian or peoples of Hawaii, Guam, Samoa, or other
 
-## Native
+## Other Pacific Pacific Islands
 
-Hawaiian or Other Pacific Islander
+## Islander
 
-A person having origins in any of the original peoples of Hawaii, Guam, Samoa, or other Pacific Islands
+## Two or More A person who identifies with more than one 2.8%
 
-0.2%
-
-## Two or More
-
-## Races
-
-A person who identifies with more than one racial group
-
-2.8%
+## Races racial group
 
 ## Hispanic/Latino Origin on the U.S. Census
 
@@ -79,21 +63,17 @@ The U.S. census measures race and Hispanic or Latino origin separately. This mea
 
 ## Table: U.S. Census Bureau Hispanic or Latino Origin Data
 
-## Hispanic Origin
+## Hispanic Origin Percentage (%)
 
-Percentage (%)
+## Hispanic or Latino 18.5%
 
-## Hispanic or Latino
-
-18.5%
-
-## Not Hispanic or Latino
-
-81.5%
+## Not Hispanic or Latino 81.5%
 
 ## Patterns of Group Relations
 
-As immigration and global connections grow, societies include people from many racial and ethnic backgrounds. When groups with different backgrounds live in the same society, they do not always have the same power, resources, or opportunities. These differences can lead to social inequality. In societies with multiple racial and ethnic groups, interactions among groups often follow four common patterns: assimilation, pluralism, segregation, and genocide.
+As immigration and global connections grow, societies include people from many racial and ethnic backgrounds. When groups with different backgrounds live in the same society, they do not always have the same power, resources, or opportunities. These differences can lead to social inequality.
+
+In societies with multiple racial and ethnic groups, interactions among groups often follow four common patterns: assimilation, pluralism, segregation, and genocide.
 
 Click the following patterns to learn more.
 
@@ -121,15 +101,35 @@ Segregation is the separation (physically or socially) of different racial and e
 
 ## Genocide
 
-One of the most extreme outcomes from racial and ethnic inequality is genocide. Genocide, the deliberate annihilation of a targeted (usually subordinate) group, is the most toxic intergroup relationship. Historically, genocide has included both the intent to exterminate a group and the function of exterminating a group, intentional or not. Genocide includes several other modes for eliminating racial and ethnic groups that go beyond killing. For example, sterilization, raping of women to produce children with less of the genetics, stealing and raising young children in other cultures, banning cultural practices of groups, etc. There are several examples from world history, including the Holocaust (Jews were targeted by Nazis) and the Rwandan genocide (The Hutus killed and targeted people from the Tutsi ethnic group).
+One of the most extreme outcomes from racial and ethnic inequality is genocide. Genocide, the deliberate annihilation of a targeted (usually subordinate) group, is the most toxic intergroup relationship. Historically, genocide has included both the intent to exterminate a group and the function of exterminating a group, intentional or not.
+
+Genocide includes several other modes for eliminating racial and ethnic groups that go beyond killing. For example, sterilization, raping of women to produce children with less of the genetics, stealing and raising young children in other cultures, banning cultural practices of groups, etc.
+
+There are several examples from world history, including the Holocaust (Jews were targeted by Nazis) and the Rwandan genocide (The Hutus killed and targeted people from the Tutsi ethnic group).
 
 ## Minority Integration in the United States
 
-Different racial and ethnic groups in the United States have experienced different opportunities for integration because of historical events, racism, and unequal access to resources. Examples include the following: Colonization and displacement of Native Americans: European settlement led to the loss of land, forced relocation, and the destruction of many Native communities and cultures. Slavery and segregation affecting African Americans: Enslavement and later Jim Crow laws created long-lasting barriers to education, housing, jobs, and political participation. Discrimination toward immigrant groups: At different points in U.S. history, immigrants from Europe, Asia, Latin America, and the Caribbean faced prejudice and limits on jobs, housing, and citizenship.
+Different racial and ethnic groups in the United States have experienced different opportunities for integration because of historical events, racism, and unequal access to resources. Examples include the following:
 
-Guided Practice 1.0/1.0 point (ungraded)
+Colonization and displacement of Native Americans: European settlement led to the loss of land, forced relocation, and the destruction of many Native communities and cultures.
 
-Why is it important to understand how race and ethnicity are defined when studying racism in society? Because definitions influence how populations and inequalities are measured Because racial categories are identical across all countries Because census data only measures economic differences between groups Because racial categories determine biological differences between groups
+Slavery and segregation affecting African Americans: Enslavement and later Jim Crow laws created long-lasting barriers to education, housing, jobs, and political participation.
+
+Discrimination toward immigrant groups: At different points in U.S. history, immigrants from Europe, Asia, Latin America, and the Caribbean faced prejudice and limits on jobs, housing, and citizenship.
+
+## Guided Practice
+
+1.0/1.0 point (ungraded)
+
+Why is it important to understand how race and ethnicity are defined when studying racism in society?
+
+Because definitions influence how populations and inequalities are measured
+
+## Because racial categories are identical across all countries
+
+Because census data only measures economic differences between groups
+
+Because racial categories determine biological differences between groups
 
 ## Answer
 
@@ -137,13 +137,21 @@ Correct: How race and ethnicity are defined affects how populations are counted 
 
 ## Submit
 
-Correct (1/1 point)
+## Correct (1/1 point)
 
-Guided Practice 1.0/1.0 point (ungraded)
+## Guided Practice
 
-Which situation best represents assimilation in a society with multiple cultural
+1.0/1.0 point (ungraded)
 
-groups? A minority group adopts the language and customs of the dominant culture. Laws require different racial groups to live in separate neighborhoods. Cultural groups maintain distinct traditions while sharing equal power in society. One group attempts to eliminate another group through violence.
+Which situation best represents assimilation in a society with multiple cultural groups?
+
+A minority group adopts the language and customs of the dominant culture.
+
+Laws require different racial groups to live in separate neighborhoods.
+
+Cultural groups maintain distinct traditions while sharing equal power in society.
+
+One group attempts to eliminate another group through violence.
 
 ## Answer
 
@@ -151,9 +159,11 @@ Correct: Assimilation occurs when individuals or groups adopt the cultural pract
 
 ## Submit
 
-Correct (1/1 point)
+## Correct (1/1 point)
 
-Guided Practice 1.0/1.0 point (ungraded)
+## Guided Practice
+
+1.0/1.0 point (ungraded)
 
 Which pattern of group relations involves the physical or social separation of racial or ethnic groups?
 
@@ -171,9 +181,17 @@ Correct: Segregation refers to the physical or social separation of racial or et
 
 ## Submit
 
-Correct (1/1 point)
+## Correct (1/1 point)
 
-Key Terms pluralism: a society in which multiple racial and ethnic groups flourish assimilation: the process by which ethnic groups gradually give up their distinctive culture and traditions to adopt the patterns of the dominant culture segregation: the physical and social separation of different racial or ethnic groups genocide: the deliberate annihilation of a targeted (usually subordinate) group
+## Key
+
+pluralism: a society in which multiple racial and ethnic groups flourish
+
+assimilation: the process by which ethnic groups gradually give up their distinctive culture and traditions to adopt the patterns of the dominant culture
+
+segregation: the physical and social separation of different racial or ethnic groups
+
+genocide: the deliberate annihilation of a targeted (usually subordinate) group
 
 ## Attributions
 

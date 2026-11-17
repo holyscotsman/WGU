@@ -10,4 +10,6 @@ The foundational concepts in operations are defined as the processes through whi
 
 ## Learning Objective
 
-Consider the following learning objective as you move through the lesson: Describe the challenges of ethical and social responsibilities for sustainability related to operations and the environment.
+Consider the following learning objective as you move through the lesson:
+
+Describe the challenges of ethical and social responsibilities for sustainability related to operations and the environment.

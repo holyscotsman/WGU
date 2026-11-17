@@ -17,159 +17,37 @@ As you have seen, serial activities must be completed in order, one at a time. C
 
 ## Preparing Data in a Spreadsheet
 
-One of the first steps you take in building a network diagram is to take the activities and tasks from the work breakdown structure (WBS) and build a chart showing them with some additional information developed along the planning cycle: Identify the tasks’ sequence in the process (which step occurs when), and assign node numbers to give each task and activity a unique identifier. Fill in time information—both in elapsed or calendar time—with start and finish estimates and estimated work hours or days. Identify resources. Provide predecessor or successor information on sequencing requirements as tasks may relate to each other. There will be tasks that are not related and therefore can have unrelated numbering. Move this list into a simple spreadsheet to begin to express it to your team and stakeholders. The team will modify and review this list as it develops during the planning process. The restaurant example shown here is a good example of the picture you are beginning to prepare.
+One of the first steps you take in building a network diagram is to take the activities and tasks from the work breakdown structure (WBS) and build a chart showing them with some additional information developed along the planning cycle:
+
+Identify the tasks’ sequence in the process (which step occurs when), and assign node numbers to give each task and activity a unique identifier.
+
+Fill in time information—both in elapsed or calendar time—with start and finish estimates and estimated work hours or days.
+
+Identify resources.
+
+Provide predecessor or successor information on sequencing requirements as tasks may relate to each other. There will be tasks that are not related and therefore can have unrelated numbering.
+
+Move this list into a simple spreadsheet to begin to express it to your team and stakeholders. The team will modify and review this list as it develops during the planning process.
+
+The restaurant example shown here is a good example of the picture you are beginning to prepare.
 
 ## Front of House 3.0
 
 ## Activites, Tasks, and Sequencing
 
-## Activity
-
-## Tasks
-
-## Dining
-
-## Design
-
-## Room
-
-## Design
-
-Approval and Setup Purchase
-
-## Nodes/Sequence Resource
-
-## Days
-
-## Start
-
-## End
-
-## Immediate
+## Activity Tasks Nodes/Sequence Resource Days Start End Immediate
 
 ## Predecessors
 
-3.1
+## Dining Design 3.1 Architect 8 1-Aug 15-Aug 0
 
-## Architect
+## Room
 
-8
+Design Approval 3.2 Owner 1 15-Aug 15-Aug 3.1 and Setup Purchase 3.3 Manager 5 16-Aug 20-Aug 3.2 furnishings Purchase 3.4 Manager 1 17-Aug 17-Aug 3.2 paint Painting 3.5 Painter 10 18-Aug 22-Aug 3.4 Purchase 3.6 Manager 2 16-Aug 17-Aug 3.2 flooring
 
-1-Aug
+Lay floor 3.7 Flooring 5 18-Aug 26-Aug 3.6 3.5 Arrange 3.8 Manager 3 28-Aug 2-Sep furniture 3.7 3.5 Hang 3.9 Designer 4 28-Aug 1-Sep 3.7 curtains 3.5 and pictures
 
-15-Aug 0
-
-3.2
-
-## Owner
-
-1
-
-15-Aug
-
-15-Aug 3.1
-
-3.3
-
-## Manager
-
-5
-
-16-Aug
-
-20-Aug 3.2
-
-Purchase paint
-
-3.4
-
-## Manager
-
-1
-
-17-Aug
-
-17-Aug 3.2
-
-## Painting
-
-3.5
-
-## Painter
-
-10
-
-18-Aug
-
-22-Aug 3.4
-
-Purchase flooring
-
-3.6
-
-## Manager
-
-2
-
-16-Aug
-
-17-Aug 3.2
-
-Lay floor
-
-3.7
-
-## Flooring
-
-5
-
-18-Aug
-
-Arrange furniture
-
-3.8
-
-## Manager
-
-3
-
-28-Aug
-
-26-Aug 3.6 3.5 2-Sep 3.7 3.5
-
-Hang curtains and pictures
-
-3.9
-
-## Designer
-
-4
-
-28-Aug
-
-1-Sep
-
-3.7 3.5
-
-Unpack 3.10 tableware
-
-## Designer
-
-2
-
-1-Sep
-
-1-Sep
-
-3.7 3.5
-
-## Set tables 3.11
-
-Wait staff 2 2-Sep 4-Sep A network diagram of a restaurant's activities
-
-3.10
-
-furnishings
+Unpack 3.10 Designer 2 1-Sep 1-Sep 3.7 tableware 3.5 Set tables 3.11 Wait staff 2 2-Sep 4-Sep 3.10 A network diagram of a restaurant's activities
 
 ## Drawing Diagrams with the Text Box Feature
 

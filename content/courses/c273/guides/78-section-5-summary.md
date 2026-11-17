@@ -12,4 +12,8 @@ This section examined the role of major social institutions in shaping individua
 
 ## Key Points
 
-Social institutions: Marriage and family, religion, education, and healthcare are key social institutions that influence social structure, individual opportunities, and access to resources. Influence on society: Each institution plays a distinct role in society, shaping values, beliefs, learning, well-being, and social relationships in different ways. Social change: Social change reflects shifts in these institutions over time, which can impact communities, social expectations, and patterns of behavior.
+Social institutions: Marriage and family, religion, education, and healthcare are key social institutions that influence social structure, individual opportunities, and access to resources.
+
+Influence on society: Each institution plays a distinct role in society, shaping values, beliefs, learning, well-being, and social relationships in different ways.
+
+Social change: Social change reflects shifts in these institutions over time, which can impact communities, social expectations, and patterns of behavior.
